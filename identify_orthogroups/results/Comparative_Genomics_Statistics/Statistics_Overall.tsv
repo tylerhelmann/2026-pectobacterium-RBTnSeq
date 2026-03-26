@@ -1,0 +1,184 @@
+Number of species	136
+Number of genes	575443
+Number of genes in orthogroups	571964
+Number of unassigned genes	3479
+Percentage of genes in orthogroups	99.4
+Percentage of unassigned genes	0.6
+Number of orthogroups	9246
+Number of species-specific orthogroups	32
+Number of genes in species-specific orthogroups	75
+Percentage of genes in species-specific orthogroups	0.0
+Mean orthogroup size	61.9
+Median orthogroup size	29.0
+G50 (assigned genes)	135
+G50 (all genes)	135
+O50 (assigned genes)	2042
+O50 (all genes)	2055
+Number of orthogroups with all species present	1352
+Number of single-copy orthogroups	1241
+Date	2026-03-18
+Orthogroups file	Orthogroups.tsv
+Unassigned genes file	Orthogroups_UnassignedGenes.tsv
+Per-species statistics	Statistics_PerSpecies.tsv
+Overall statistics	Statistics_Overall.tsv
+Orthogroups shared between species	Orthogroups_SpeciesOverlaps.tsv
+
+Average number of genes per-species in orthogroup	Number of orthogroups	Percentage of orthogroups	Number of genes	Percentage of genes
+<1	7649	82.7	345972	60.5
+'1	1584	17.1	221355	38.7
+'2	9	0.1	2885	0.5
+'3	4	0.0	1752	0.3
+'4	0	0.0	0	0.0
+'5	0	0.0	0	0.0
+'6	0	0.0	0	0.0
+'7	0	0.0	0	0.0
+'8	0	0.0	0	0.0
+'9	0	0.0	0	0.0
+'10	0	0.0	0	0.0
+11-15	0	0.0	0	0.0
+16-20	0	0.0	0	0.0
+21-50	0	0.0	0	0.0
+51-100	0	0.0	0	0.0
+101-150	0	0.0	0	0.0
+151-200	0	0.0	0	0.0
+201-500	0	0.0	0	0.0
+501-1000	0	0.0	0	0.0
+'1001+	0	0.0	0	0.0
+
+Number of species in orthogroup	Number of orthogroups
+1	32
+2	898
+3	884
+4	436
+5	331
+6	261
+7	194
+8	139
+9	165
+10	91
+11	95
+12	101
+13	55
+14	76
+15	73
+16	55
+17	57
+18	106
+19	96
+20	104
+21	63
+22	73
+23	57
+24	43
+25	52
+26	51
+27	38
+28	37
+29	57
+30	32
+31	31
+32	31
+33	24
+34	31
+35	34
+36	30
+37	17
+38	29
+39	17
+40	20
+41	15
+42	20
+43	12
+44	19
+45	22
+46	24
+47	18
+48	17
+49	17
+50	20
+51	16
+52	12
+53	13
+54	11
+55	11
+56	17
+57	28
+58	10
+59	11
+60	11
+61	9
+62	12
+63	7
+64	16
+65	12
+66	12
+67	6
+68	11
+69	9
+70	13
+71	15
+72	15
+73	24
+74	30
+75	14
+76	14
+77	8
+78	13
+79	18
+80	18
+81	13
+82	11
+83	9
+84	16
+85	15
+86	7
+87	10
+88	13
+89	6
+90	11
+91	10
+92	17
+93	12
+94	6
+95	13
+96	6
+97	7
+98	10
+99	22
+100	13
+101	16
+102	11
+103	17
+104	16
+105	19
+106	25
+107	15
+108	20
+109	37
+110	25
+111	14
+112	38
+113	18
+114	16
+115	12
+116	14
+117	16
+118	7
+119	4
+120	11
+121	20
+122	12
+123	16
+124	25
+125	35
+126	37
+127	37
+128	51
+129	67
+130	72
+131	98
+132	163
+133	208
+134	231
+135	628
+136	1352
