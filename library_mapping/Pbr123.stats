@@ -1,0 +1,37 @@
+Reading mapping files:
+Pbr123_data/3_Pbr123_L2_10478564_HHVCFAFX7_R1-mapped.txt
+Pbr123_data/4_Pbr123_L2_10479506_HJHYJAFX7_R1-mapped.txt
+Pbr123_data/4_Pbr123_L2_10480960_HJMCWAFX7_R1-mapped.txt
+Pbr123_data/6_Pbr123_L2_10483883_HYCJNAFX7_R1-mapped.txt
+Pbr123_data/7_Pbr123_L2_10487625_HCG7YAFXC_R1-mapped.txt
+Pbr123_data/3_Pbr123_L2_10478564_HHVCFAFX7_R1-mapped.txt has 15,042,245 mappings, 712,143 barcodes, 222,100 non-unique barcodes
+Pbr123_data/4_Pbr123_L2_10479506_HJHYJAFX7_R1-mapped.txt has 4,295,454 mappings, 561,489 barcodes, 295,572 non-unique barcodes
+  Shared with first file: 42.7 % of non-singleton barcodes
+Pbr123_data/4_Pbr123_L2_10480960_HJMCWAFX7_R1-mapped.txt has 14,801,010 mappings, 827,605 barcodes, 442,595 non-unique barcodes
+  Shared with first file: 35.6 % of non-singleton barcodes
+Pbr123_data/6_Pbr123_L2_10483883_HYCJNAFX7_R1-mapped.txt has 19,426,764 mappings, 931,265 barcodes, 475,480 non-unique barcodes
+  Shared with first file: 33.9 % of non-singleton barcodes
+Pbr123_data/7_Pbr123_L2_10487625_HCG7YAFXC_R1-mapped.txt has 18,041,373 mappings, 899,748 barcodes, 496,047 non-unique barcodes
+  Shared with first file: 33.1 % of non-singleton barcodes
+Read 71314371 mapped reads for 2375193 distinct barcodes
+(Skipped 292475 reads with qBeg > 3)
+471218 barcodes seen 10 or more times, map 393280 (minFrac 0.75 minRatio 8)
+FewGood	4486	0.0095
+LoRatio	19859	0.0421
+NoCons	53128	0.1127
+PastEnd	465	0.0010
+Usable	393280	0.8346
+Masked 5092 off-by-1 barcodes (86178 reads) leaving 388212 barcodes
+Reads for those barcodes: 54398583 of 71314371 (76.3%)
+Chao2 estimate of #barcodes present (may be inflated for sequencing error): 9114269
+388212 insertions in genome are at 158485 different locations
+Found 230484 insertions (95066 distinct locations) in central 10-90% of genes
+Found central insertions for 3816 of 4139 protein-coding genes
+Hit rate in (crude) likely essentials: 0.32 other 0.92
+Wrote proteins of 300nt or more with no good insertions to Pbr123_data/Pbr123.pool.unhit
+Wrote 26 genes with surprising insertions in central 10-90% to Pbr123_data/Pbr123.pool.surprise
+Wrote read and strain counts for hit genes to Pbr123_data/Pbr123.pool.hit
+Strains per hit protein: median 45 mean 59.8
+Gene and transposon on same strand: 48.8%
+Reads per hit protein: median 5876 mean 8337.1 bias (ratio) 1.42
+Reads per million for hit proteins: median 82.40 mean 116.91

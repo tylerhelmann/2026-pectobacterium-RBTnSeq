@@ -1,0 +1,31 @@
+Reading mapping files:
+Par6119_data/1_Par6119_L5a_10482917_HLHFJAFX7_R1-mapped.txt
+Par6119_data/2_Par6119_L5b_10482917_HLHFJAFX7_R1-mapped.txt
+Par6119_data/5_Par6119_L5_10483883_HYCJNAFX7_R1-mapped.txt
+Par6119_data/1_Par6119_L5a_10482917_HLHFJAFX7_R1-mapped.txt has 6,869,091 mappings, 506,190 barcodes, 379,390 non-unique barcodes
+Par6119_data/2_Par6119_L5b_10482917_HLHFJAFX7_R1-mapped.txt has 8,144,502 mappings, 528,934 barcodes, 390,072 non-unique barcodes
+  Shared with first file: 85.2 % of non-singleton barcodes
+Par6119_data/5_Par6119_L5_10483883_HYCJNAFX7_R1-mapped.txt has 12,078,343 mappings, 627,633 barcodes, 398,928 non-unique barcodes
+  Shared with first file: 83.8 % of non-singleton barcodes
+Read 26937812 mapped reads for 908173 distinct barcodes
+(Skipped 154124 reads with qBeg > 3)
+372992 barcodes seen 10 or more times, map 360577 (minFrac 0.75 minRatio 8)
+FewGood	2417	0.0065
+LoRatio	3272	0.0088
+NoCons	6715	0.0180
+PastEnd	11	0.0000
+Usable	360577	0.9667
+Masked 1431 off-by-1 barcodes (19756 reads) leaving 359157 barcodes
+Reads for those barcodes: 24858985 of 26937812 (92.3%)
+Chao2 estimate of #barcodes present (may be inflated for sequencing error): 3051692
+359157 insertions in genome are at 166111 different locations
+Found 223192 insertions (108603 distinct locations) in central 10-90% of genes
+Found central insertions for 3898 of 4256 protein-coding genes
+Hit rate in (crude) likely essentials: 0.30 other 0.91
+Wrote proteins of 300nt or more with no good insertions to Par6119_data/Par6119.pool.unhit
+Wrote 25 genes with surprising insertions in central 10-90% to Par6119_data/Par6119.pool.surprise
+Wrote read and strain counts for hit genes to Par6119_data/Par6119.pool.hit
+Strains per hit protein: median 26 mean 56.1
+Gene and transposon on same strand: 50.1%
+Reads per hit protein: median 1924 mean 3881.2 bias (ratio) 2.02
+Reads per million for hit proteins: median 71.41 mean 144.08

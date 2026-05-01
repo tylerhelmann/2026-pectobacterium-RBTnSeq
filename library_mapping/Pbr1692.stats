@@ -1,0 +1,31 @@
+Reading mapping files:
+Pbr1692_data/2_Pbr1692_10478564_HHVCFAFX7_R1-mapped.txt
+Pbr1692_data/4_Pbr1692_10477694_HHFNCAFX7_R1-mapped.txt
+Pbr1692_data/6_Pbr1692_10480960_HJMCWAFX7_R1-mapped.txt
+Pbr1692_data/2_Pbr1692_10478564_HHVCFAFX7_R1-mapped.txt has 18,118,904 mappings, 679,363 barcodes, 226,549 non-unique barcodes
+Pbr1692_data/4_Pbr1692_10477694_HHFNCAFX7_R1-mapped.txt has 17,634,080 mappings, 524,506 barcodes, 217,746 non-unique barcodes
+  Shared with first file: 79.5 % of non-singleton barcodes
+Pbr1692_data/6_Pbr1692_10480960_HJMCWAFX7_R1-mapped.txt has 14,265,333 mappings, 549,338 barcodes, 228,388 non-unique barcodes
+  Shared with first file: 77.4 % of non-singleton barcodes
+Read 49865675 mapped reads for 1243095 distinct barcodes
+(Skipped 152642 reads with qBeg > 3)
+207743 barcodes seen 10 or more times, map 194044 (minFrac 0.75 minRatio 8)
+FewGood	2457	0.0118
+LoRatio	3080	0.0148
+NoCons	8111	0.0390
+PastEnd	51	0.0002
+Usable	194044	0.9341
+Masked 9337 off-by-1 barcodes (192034 reads) leaving 185037 barcodes
+Reads for those barcodes: 44048401 of 49865675 (88.3%)
+Chao2 estimate of #barcodes present (may be inflated for sequencing error): 5226326
+185037 insertions in genome are at 107114 different locations
+Found 110011 insertions (64087 distinct locations) in central 10-90% of genes
+Found central insertions for 3789 of 4174 protein-coding genes
+Hit rate in (crude) likely essentials: 0.37 other 0.90
+Wrote proteins of 300nt or more with no good insertions to Pbr1692_data/Pbr1692.pool.unhit
+Wrote 32 genes with surprising insertions in central 10-90% to Pbr1692_data/Pbr1692.pool.surprise
+Wrote read and strain counts for hit genes to Pbr1692_data/Pbr1692.pool.hit
+Strains per hit protein: median 21 mean 28.9
+Gene and transposon on same strand: 48.4%
+Reads per hit protein: median 4178 mean 6843.0 bias (ratio) 1.64
+Reads per million for hit proteins: median 83.79 mean 137.23

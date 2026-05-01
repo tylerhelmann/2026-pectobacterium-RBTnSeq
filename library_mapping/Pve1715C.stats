@@ -1,0 +1,40 @@
+Reading mapping files:
+Pve1715C_data/1_Pve1715C_10478564_HHVCFAFX7_R1-mapped.txt
+Pve1715C_data/4_Pve1715C_10482917_HLHFJAFX7_R1-mapped.txt
+Pve1715C_data/6_Pve1715C_10477694_HHFNCAFX7_R1-mapped.txt
+Pve1715C_data/6_Pve1715C_10479506_HJHYJAFX7_R1-mapped.txt
+Pve1715C_data/6_Pve1715C_10487625_HCG7YAFXC_R1-mapped.txt
+Pve1715C_data/7_Pve1715C_10483883_HYCJNAFX7_R1-mapped.txt
+Pve1715C_data/1_Pve1715C_10478564_HHVCFAFX7_R1-mapped.txt has 17,846,777 mappings, 904,185 barcodes, 384,643 non-unique barcodes
+Pve1715C_data/4_Pve1715C_10482917_HLHFJAFX7_R1-mapped.txt has 8,942,223 mappings, 727,010 barcodes, 526,037 non-unique barcodes
+  Shared with first file: 57.1 % of non-singleton barcodes
+Pve1715C_data/6_Pve1715C_10477694_HHFNCAFX7_R1-mapped.txt has 16,325,988 mappings, 805,117 barcodes, 462,390 non-unique barcodes
+  Shared with first file: 59.4 % of non-singleton barcodes
+Pve1715C_data/6_Pve1715C_10479506_HJHYJAFX7_R1-mapped.txt has 3,094,755 mappings, 418,300 barcodes, 224,090 non-unique barcodes
+  Shared with first file: 64.1 % of non-singleton barcodes
+Pve1715C_data/6_Pve1715C_10487625_HCG7YAFXC_R1-mapped.txt has 15,093,243 mappings, 946,181 barcodes, 599,291 non-unique barcodes
+  Shared with first file: 54.4 % of non-singleton barcodes
+Pve1715C_data/7_Pve1715C_10483883_HYCJNAFX7_R1-mapped.txt has 16,048,119 mappings, 990,191 barcodes, 602,056 non-unique barcodes
+  Shared with first file: 54.3 % of non-singleton barcodes
+Read 77087241 mapped reads for 2469238 distinct barcodes
+(Skipped 263864 reads with qBeg > 3)
+641124 barcodes seen 10 or more times, map 518024 (minFrac 0.75 minRatio 8)
+FewGood	10439	0.0163
+LoRatio	29836	0.0465
+NoCons	82148	0.1281
+PastEnd	677	0.0011
+Usable	518024	0.8080
+Masked 6759 off-by-1 barcodes (126162 reads) leaving 511350 barcodes
+Reads for those barcodes: 54517884 of 77087241 (70.7%)
+Chao2 estimate of #barcodes present (may be inflated for sequencing error): 11022639
+511350 insertions in genome are at 192535 different locations
+Found 302867 insertions (115520 distinct locations) in central 10-90% of genes
+Found central insertions for 4363 of 4690 protein-coding genes
+Hit rate in (crude) likely essentials: 0.35 other 0.92
+Wrote proteins of 300nt or more with no good insertions to Pve1715C_data/Pve1715C.pool.unhit
+Wrote 31 genes with surprising insertions in central 10-90% to Pve1715C_data/Pve1715C.pool.surprise
+Wrote read and strain counts for hit genes to Pve1715C_data/Pve1715C.pool.hit
+Strains per hit protein: median 51 mean 69.4
+Gene and transposon on same strand: 49.9%
+Reads per hit protein: median 4881 mean 7366.5 bias (ratio) 1.51
+Reads per million for hit proteins: median 63.32 mean 95.56
