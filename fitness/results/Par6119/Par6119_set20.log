@@ -1,0 +1,6 @@
+Pool inputs/Par6119.pool entries 359.2K saw 9450.2K lines ignored 8818.6K lines from 29 files
+  Indexes 29 Success 29 LowCount 0 LowFraction 0 Total Reads (millions): 103.161 
+  Median Fraction (LowCount Excluded) 0.847 Median for Success 0.847
+  Success TCH1025:TCH1053
+  Wrote 29 successful samples to results/Par6119/Par6119_set20.poolcount
+  Wrote results/Par6119/Par6119_set20.colsum

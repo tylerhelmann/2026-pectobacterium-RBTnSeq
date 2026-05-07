@@ -1,0 +1,7 @@
+Pool inputs/PcWPP14.pool entries 286.1K saw 6821.8K lines ignored 10215.4K lines from 29 files
+  Indexes 29 Success 28 LowCount 1 LowFraction 0 Total Reads (millions): 111.193 
+  Median Fraction (LowCount Excluded) 0.762 Median for Success 0.762
+  Success TCH871:TCH897 TCH899
+  LowCount (median 668) TCH898
+  Wrote 28 successful samples to results/PcWPP14/PcWPP14_set18.poolcount
+  Wrote results/PcWPP14/PcWPP14_set18.colsum

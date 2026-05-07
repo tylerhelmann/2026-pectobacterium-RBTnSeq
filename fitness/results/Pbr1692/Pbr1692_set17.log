@@ -1,0 +1,6 @@
+Pool inputs/Pbr1692.pool entries 185.1K saw 4790.0K lines ignored 6196.3K lines from 29 files
+  Indexes 29 Success 29 LowCount 0 LowFraction 0 Total Reads (millions): 90.391 
+  Median Fraction (LowCount Excluded) 0.831 Median for Success 0.831
+  Success TCH781:TCH809
+  Wrote 29 successful samples to results/Pbr1692/Pbr1692_set17.poolcount
+  Wrote results/Pbr1692/Pbr1692_set17.colsum

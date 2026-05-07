@@ -1,0 +1,33 @@
+Read 4287 genes, 45 exps, and data for 388677 barcodes
+Central Reads per t0set, in millions:
+11/21/2024 Pbr123_set18   4/2/2025 Pbr123_set19 
+                    2.6                     2.0 
+Time0 reads per gene: mean 580.6 median 394.2 ratio 1.47
+Genes with enough Time0 reads:  3580 
+Using  147317  of  230469  genic strains
+Using  3580  of  3880  genes with data
+For cor12, using  3152 genes
+status
+high_mad12         OK      Time0 
+         1         40          4 
+high_mad12 : set19TCH987 
+Presence of used genic strains in individual Time0 samples:
+   0%   25%   50%   75%  100% 
+0.921 0.943 0.954 0.963 0.978 
+Presence of used genic strains in successful experimental samples:
+   0%   25%   50%   75%  100% 
+0.701 0.881 0.911 0.921 0.931 
+Presence of non-genic strains with enough t0 reads in individual Time0 samples:
+   0%   25%   50%   75%  100% 
+0.925 0.944 0.955 0.964 0.979 
+Presence of non-genic strains with enough t0 reads in successful experimental samples:
+   0%   25%   50%   75%  100% 
+0.718 0.893 0.922 0.936 0.943 
+Replicate count comparison for 11/21/2024 Pbr123_set18 
+ set18TCH839 vs. set18TCH840 
+Median sum for used strains (vertical line): 10 
+Average noise over sum = 8 : 12 is 0.6382809 
+Replicate count comparison for 4/2/2025 Pbr123_set19 
+ set19TCH976 vs. set19TCH977 
+Median sum for used strains (vertical line): 7 
+Average noise over sum = 8 : 12 is 0.5347207 
