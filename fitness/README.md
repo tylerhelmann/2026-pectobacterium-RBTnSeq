@@ -38,6 +38,9 @@ Required for each library:
 
 (Note: feba/ directory needs to be copied into fitness/ working directory for Snakefile to find)
 
+(Note: no strainusage files used here, so comment out that requirement:
+strainusage=expand("results/{{lib}}/strainusage.{ext}", ext = ["barcodes", "genes", "genes12"]))
+
 ~~~
 # Snakemake dry run
 snakemake --cores all -n
@@ -53,4 +56,28 @@ Intermediate (per-set) results: [results/](results/)
 
 Processed (per-strain) results: [html/](html)
 
-[Pass QC summary?]
+- Fitness values for passQC samples: html/{Strain}/fit\_logratios_good.tab
+- Summary of experimental QC metrics: html/{Strain}/fit_quality.tab
+
+#### Save strainusage files for future use
+
+See: <https://bitbucket.org/berkeleylab/feba/src/master/bin/SaveStrainUsage.pl>
+
+Usage: SaveStrainUsage.pl [ -org organism ] [ -fit html/organism ] [ -out g/organism ]
+
+~~~bash
+for strain in $(ls html/); do
+../feba/bin/SaveStrainUsage.pl -org ${strain} \
+-fit html/${strain} -out html/${strain}
+done
+~~~
+
+~~~
+Wrote strain usage to html/Par6119/strainusage.*
+Wrote strain usage to html/Pat1043/strainusage.*
+Wrote strain usage to html/Pbr123/strainusage.*
+Wrote strain usage to html/Pbr1692/strainusage.*
+Wrote strain usage to html/PcWPP14/strainusage.*
+Wrote strain usage to html/Ppa1722A/strainusage.*
+Wrote strain usage to html/Pve1715C/strainusage.*
+~~~
