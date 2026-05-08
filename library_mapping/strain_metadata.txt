@@ -1,0 +1,8 @@
+Strain	Abbreviation	Accession	Link
+P. aroidearum 61-19	Par6119	
+P. atrosepticum SCRI1043	Pat1043	GCF_000011605.1	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/011/605/GCF_000011605.1_ASM1160v1/GCF_000011605.1_ASM1160v1_genomic.gbff.gz
+P. brasiliense 123-1	Pbr123	
+P. brasiliense 1692	Pbr1692	GCF_009873295.1	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/873/295/GCF_009873295.1_ASM987329v1/GCF_009873295.1_ASM987329v1_genomic.gbff.gz
+P. carotovorum WPP14	PcWPP14	GCF_013488025.1	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/488/025/GCF_013488025.1_ASM1348802v1/GCF_013488025.1_ASM1348802v1_genomic.gbff.gz
+P. versatile NY1715C	Pve1715C		
+P. parmentieri NY1722A	Ppa1722A
