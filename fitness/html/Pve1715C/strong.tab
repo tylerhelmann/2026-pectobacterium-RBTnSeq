@@ -1,0 +1,1559 @@
+locusId	sysName	desc	name	short	lrn	t
+GNGAKM_00575	GNGAKM_00575	transcriptional regulator LrhA	set17TCH835	M9+mannose	-2.28369201152237	-5.32756365874965
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set19TCH1012	Tuber-Atlantic	-2.37846820205723	-7.12162585709149
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set19TCH1010	Tuber-Atlantic	-2.43809225063147	-6.0744256314241
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set17TCH823	M9+fructose	-2.32514056770721	-12.2740686296481
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set21TCH1144	Tuber-Atlantic	-2.79760497769754	-17.7172960054638
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set19TCH1013	Tuber-Atlantic	-2.51790986715435	-8.6772897805653
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set19TCH1011	Tuber-Atlantic	-2.78151499911916	-10.1229389845739
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set17TCH824	M9+cellobiose	-2.32882411548498	-12.3336319796719
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set17TCH828	M9+galactose	-2.47157675681168	-14.6120856176527
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set17TCH819	M9+polygalacturonate	-3.11055621127142	-11.7570757778194
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set19TCH1014	Tuber-Atlantic	-2.08344086028808	-7.38597069849897
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set21TCH1141	Tuber-Atlantic	-2.80590656116846	-17.8663361289272
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set21TCH1143	Tuber-Atlantic	-2.27917730370446	-14.3903699820942
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set17TCH825	M9+cellobiose	-2.47876013132153	-12.5807228506344
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set21TCH1146	Tuber-Atlantic	-2.76257082478724	-16.4886288824382
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set21TCH1145	Tuber-Atlantic	-2.79340676106361	-16.8670138899901
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set17TCH821	M9+fructose	-2.23729608627951	-12.3461389824732
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set17TCH831	M9+xylose	-2.48157704104949	-12.2895179906466
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set17TCH827	M9+galactose	-2.37389531563693	-13.1347011269475
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set17TCH820	M9+polygalacturonate	-3.13313229909731	-12.5680313246229
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set17TCH830	M9+xylose	-2.40645926821583	-13.2080530216697
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set17TCH829	M9+galactose	-2.4099323118072	-13.3340928908099
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set17TCH826	M9+cellobiose	-2.24590718916269	-12.1889398617552
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set17TCH818	M9+polygalacturonate	-2.9840806519889	-13.0500532847966
+GNGAKM_00680	GNGAKM_00680	amidophosphoribosyltransferase	set17TCH832	M9+xylose	-2.02440874406797	-12.0124448903441
+GNGAKM_00710	GNGAKM_00710	tRNA pseudouridine(38-40) synthase TruA	set19TCH1006	LB at 36C	-2.13935556204851	-6.45096171723233
+GNGAKM_00710	GNGAKM_00710	tRNA pseudouridine(38-40) synthase TruA	set19TCH1008	LB at 36C	-3.0397693146144	-5.73300641891815
+GNGAKM_00720	GNGAKM_00720	4-phosphoerythronate dehydrogenase PdxB	set17TCH824	M9+cellobiose	-2.42430765667595	-8.13687822706945
+GNGAKM_00720	GNGAKM_00720	4-phosphoerythronate dehydrogenase PdxB	set17TCH819	M9+polygalacturonate	-3.38990694324301	-7.07206368935651
+GNGAKM_00720	GNGAKM_00720	4-phosphoerythronate dehydrogenase PdxB	set17TCH823	M9+fructose	-2.44151680772855	-7.65669007213593
+GNGAKM_00720	GNGAKM_00720	4-phosphoerythronate dehydrogenase PdxB	set17TCH828	M9+galactose	-2.39010110032926	-9.85702463937656
+GNGAKM_00720	GNGAKM_00720	4-phosphoerythronate dehydrogenase PdxB	set17TCH818	M9+polygalacturonate	-3.63969046187275	-5.50017118424116
+GNGAKM_00720	GNGAKM_00720	4-phosphoerythronate dehydrogenase PdxB	set17TCH826	M9+cellobiose	-2.00707521416265	-7.45960429295145
+GNGAKM_00720	GNGAKM_00720	4-phosphoerythronate dehydrogenase PdxB	set17TCH829	M9+galactose	-2.39528270604178	-8.49820918943916
+GNGAKM_00720	GNGAKM_00720	4-phosphoerythronate dehydrogenase PdxB	set17TCH836	M9+glycerol	-2.66959413062121	-7.83025590421933
+GNGAKM_00720	GNGAKM_00720	4-phosphoerythronate dehydrogenase PdxB	set17TCH825	M9+cellobiose	-2.54082365271833	-7.84554231515633
+GNGAKM_00720	GNGAKM_00720	4-phosphoerythronate dehydrogenase PdxB	set17TCH822	M9+fructose	-2.27803612393625	-7.73793103259821
+GNGAKM_00720	GNGAKM_00720	4-phosphoerythronate dehydrogenase PdxB	set17TCH821	M9+fructose	-2.89697450070242	-7.81940436462431
+GNGAKM_00720	GNGAKM_00720	4-phosphoerythronate dehydrogenase PdxB	set17TCH838	M9+glycerol	-2.50780729227542	-7.35571472522471
+GNGAKM_00720	GNGAKM_00720	4-phosphoerythronate dehydrogenase PdxB	set17TCH820	M9+polygalacturonate	-3.45920574124804	-6.12497147827954
+GNGAKM_00765	GNGAKM_00765	chorismate synthase	set21TCH1143	Tuber-Atlantic	-2.52756007195275	-5.21330839139986
+GNGAKM_00765	GNGAKM_00765	chorismate synthase	set21TCH1145	Tuber-Atlantic	-2.35768946518142	-6.46786001694818
+GNGAKM_00765	GNGAKM_00765	chorismate synthase	set21TCH1146	Tuber-Atlantic	-2.30657047153331	-5.04025691077813
+GNGAKM_00765	GNGAKM_00765	chorismate synthase	set21TCH1141	Tuber-Atlantic	-2.23425260135401	-5.78125524614542
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set17TCH824	M9+cellobiose	-2.86086971918543	-8.03293218543809
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set19TCH1012	Tuber-Atlantic	-2.12133791798395	-5.19004636900134
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set17TCH826	M9+cellobiose	-2.97987521808463	-8.00993265378023
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set17TCH823	M9+fructose	-2.5002871275248	-7.9122663748187
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set17TCH829	M9+galactose	-2.75226891719296	-8.03340576371081
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set17TCH836	M9+glycerol	-2.68267796006538	-8.10728940480637
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1145	Tuber-Atlantic	-2.33515310324674	-9.09607871114883
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set17TCH830	M9+xylose	-3.22388536182622	-8.02152491581785
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set17TCH828	M9+galactose	-3.24582755641932	-9.47401964861205
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set17TCH818	M9+polygalacturonate	-3.53880737127595	-7.98893900923126
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set17TCH825	M9+cellobiose	-3.18529451724724	-7.44857316671284
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set17TCH831	M9+xylose	-3.11490483807898	-7.28397216274685
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1146	Tuber-Atlantic	-2.41303863069984	-10.118004849112
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1141	Tuber-Atlantic	-2.11870167836504	-9.50459113796991
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set17TCH819	M9+polygalacturonate	-3.22638393659109	-7.54465770291606
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set19TCH1011	Tuber-Atlantic	-2.4485288943542	-6.5247470294527
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set17TCH820	M9+polygalacturonate	-3.48290253775543	-6.15592550650358
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set17TCH821	M9+fructose	-3.07102365635186	-7.85495621961672
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set17TCH822	M9+fructose	-2.81964347191539	-7.9171745029545
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set17TCH827	M9+galactose	-2.47283676636541	-7.71174878052961
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set17TCH838	M9+glycerol	-2.21970239279134	-7.02434388884534
+GNGAKM_01250	GNGAKM_01250	5-(carboxyamino)imidazole ribonucleotide synthase	set17TCH832	M9+xylose	-2.72978863916827	-7.50455065901402
+GNGAKM_01340	GNGAKM_01340	galactokinase	set17TCH818	M9+polygalacturonate	-3.30202453396626	-8.35000858772168
+GNGAKM_01340	GNGAKM_01340	galactokinase	set17TCH828	M9+galactose	-3.44184603191035	-10.2738586063102
+GNGAKM_01340	GNGAKM_01340	galactokinase	set17TCH827	M9+galactose	-3.22630871299359	-8.39462935009354
+GNGAKM_01340	GNGAKM_01340	galactokinase	set17TCH819	M9+polygalacturonate	-3.27226720755128	-8.02437870592609
+GNGAKM_01340	GNGAKM_01340	galactokinase	set17TCH820	M9+polygalacturonate	-3.3827975073546	-6.02762999878792
+GNGAKM_01340	GNGAKM_01340	galactokinase	set17TCH829	M9+galactose	-3.39795117953331	-7.77354655939957
+GNGAKM_01345	GNGAKM_01345	galactose-1-phosphate uridylyltransferase	set17TCH827	M9+galactose	-2.98210519597937	-7.16713143492131
+GNGAKM_01345	GNGAKM_01345	galactose-1-phosphate uridylyltransferase	set17TCH818	M9+polygalacturonate	-3.3545328354207	-5.9134941469399
+GNGAKM_01345	GNGAKM_01345	galactose-1-phosphate uridylyltransferase	set17TCH819	M9+polygalacturonate	-3.39947221484105	-5.12066422500224
+GNGAKM_01345	GNGAKM_01345	galactose-1-phosphate uridylyltransferase	set17TCH829	M9+galactose	-3.17874975315525	-7.14548880486484
+GNGAKM_01345	GNGAKM_01345	galactose-1-phosphate uridylyltransferase	set17TCH820	M9+polygalacturonate	-3.27835472176929	-5.7792045598934
+GNGAKM_01345	GNGAKM_01345	galactose-1-phosphate uridylyltransferase	set17TCH828	M9+galactose	-3.22154598665696	-8.40566413096765
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set17TCH819	M9+polygalacturonate	-3.39418217813373	-10.9338573776113
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set19TCH1013	Tuber-Atlantic	-2.4214653327873	-6.77984861479728
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set17TCH824	M9+cellobiose	-3.02238433527875	-13.2982153643939
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set17TCH828	M9+galactose	-3.01222906431351	-15.8237335680476
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set21TCH1146	Tuber-Atlantic	-3.37768727761831	-17.1519332142902
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set17TCH827	M9+galactose	-2.96557539102956	-13.8826245187816
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set21TCH1145	Tuber-Atlantic	-3.28429308421872	-20.667417890777
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set21TCH1141	Tuber-Atlantic	-2.93813043683585	-18.4054934662317
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set17TCH823	M9+fructose	-2.67503701018899	-12.3810301300509
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set17TCH831	M9+xylose	-2.62728491934281	-13.055470823611
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set17TCH820	M9+polygalacturonate	-3.39995091467584	-9.932226540065
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set17TCH830	M9+xylose	-2.96968593845084	-13.5001617733855
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set17TCH829	M9+galactose	-2.75977257063524	-13.3984981821084
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set17TCH818	M9+polygalacturonate	-3.47823496757992	-10.5977354016204
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set21TCH1144	Tuber-Atlantic	-2.92363003824826	-16.3839474665158
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set19TCH1011	Tuber-Atlantic	-2.68584697137886	-8.85585929307669
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set19TCH1014	Tuber-Atlantic	-2.37156490940156	-5.91786003282047
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set17TCH826	M9+cellobiose	-2.87965253311917	-14.1147451853148
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set17TCH825	M9+cellobiose	-3.09703620626997	-13.0324414678941
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set17TCH821	M9+fructose	-2.700235782534	-12.6405012647761
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set19TCH1012	Tuber-Atlantic	-2.47081263323866	-7.56990228462765
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set17TCH822	M9+fructose	-2.80781478375625	-12.8425589230019
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set17TCH832	M9+xylose	-2.53148959958836	-13.0052131695476
+GNGAKM_01855	GNGAKM_01855	phosphoribosylformylglycinamidine synthase	set21TCH1143	Tuber-Atlantic	-2.77924324509825	-16.8239662619332
+GNGAKM_01895	GNGAKM_01895	Putative hemagglutinin/hemolysin-related protein	set19TCH1014	Tuber-Atlantic	2.25026279524159	15.7246384930847
+GNGAKM_01895	GNGAKM_01895	Putative hemagglutinin/hemolysin-related protein	set19TCH1010	Tuber-Atlantic	2.13937907541665	14.0800793605855
+GNGAKM_01900	GNGAKM_01900	channel protein TolC	set19TCH1013	Tuber-Atlantic	2.10090506824237	6.57197514841413
+GNGAKM_01905	GNGAKM_01905	type I secretion system permease/ATPase	set19TCH1014	Tuber-Atlantic	2.21030831980447	10.916350831905
+GNGAKM_01905	GNGAKM_01905	type I secretion system permease/ATPase	set19TCH1010	Tuber-Atlantic	3.02970199520523	8.22013317269584
+GNGAKM_01980	GNGAKM_01980	RNA polymerase sigma factor RpoE	set17TCH826	M9+cellobiose	-2.4727353768073	-7.49329384209724
+GNGAKM_01980	GNGAKM_01980	RNA polymerase sigma factor RpoE	set17TCH816	M9+glucose	-2.45738825975828	-7.56830923847301
+GNGAKM_01980	GNGAKM_01980	RNA polymerase sigma factor RpoE	set17TCH825	M9+cellobiose	-2.24248972146555	-7.59339585772359
+GNGAKM_01980	GNGAKM_01980	RNA polymerase sigma factor RpoE	set17TCH815	M9+glucose	-2.39374018863898	-7.5978548917211
+GNGAKM_01980	GNGAKM_01980	RNA polymerase sigma factor RpoE	set17TCH817	M9+glucose	-2.13202268608627	-7.61315474204222
+GNGAKM_01980	GNGAKM_01980	RNA polymerase sigma factor RpoE	set17TCH824	M9+cellobiose	-2.54472114346796	-7.44658281679755
+GNGAKM_01985	GNGAKM_01985	L-aspartate oxidase	set17TCH820	M9+polygalacturonate	-2.0316874118072	-13.5071661312436
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH829	M9+galactose	-2.97258424427781	-9.34980872823849
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH828	M9+galactose	-3.24535645720935	-10.8422145860688
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH818	M9+polygalacturonate	-3.35567515053057	-7.67280369147499
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH823	M9+fructose	-3.09761276484962	-8.4792526603686
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH815	M9+glucose	-2.86455373746634	-9.82732529895694
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH831	M9+xylose	-2.83207177563321	-9.19269173978796
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH825	M9+cellobiose	-3.23490493579898	-8.41128555560396
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH827	M9+galactose	-2.94925693037156	-9.27643623304785
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH817	M9+glucose	-2.71870571990484	-9.98890395195651
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH836	M9+glycerol	-2.91243505871155	-9.16061867204865
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH824	M9+cellobiose	-3.11363802878144	-8.72436472852325
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH816	M9+glucose	-2.60550306496204	-9.05106184916573
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH819	M9+polygalacturonate	-3.10863606445334	-8.50942729793194
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH832	M9+xylose	-2.55850943563289	-9.85639218154142
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH838	M9+glycerol	-2.40280301457473	-9.09090741300927
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH821	M9+fructose	-3.12246909254142	-8.33746592656186
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH830	M9+xylose	-2.6442991091163	-9.29706268049632
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH822	M9+fructose	-2.9544020932805	-8.97671182578443
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH826	M9+cellobiose	-3.18819317718484	-7.81349707535047
+GNGAKM_02385	GNGAKM_02385	bifunctional chorismate mutase/prephenate dehydratase	set17TCH820	M9+polygalacturonate	-3.1236936515003	-8.12211790220872
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH829	M9+galactose	-2.72655241923047	-17.4563456865463
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH826	M9+cellobiose	-2.43502450729027	-15.2028826326266
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH828	M9+galactose	-2.61725567953721	-18.4114429830353
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH816	M9+glucose	-2.27299413634432	-15.5364487485452
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH824	M9+cellobiose	-2.43940553246667	-16.3410381035762
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH821	M9+fructose	-3.05372754804795	-17.1799065329424
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH830	M9+xylose	-3.09556674331585	-16.8456667099596
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH835	M9+mannose	-2.16708744869154	-14.5369983979883
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH834	M9+mannose	-2.53085074779011	-16.5868773574686
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH838	M9+glycerol	-2.71973030581356	-16.4310583746548
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH825	M9+cellobiose	-2.48564360536642	-16.1199336176813
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH818	M9+polygalacturonate	-3.45222385371574	-14.5063291597522
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH836	M9+glycerol	-2.56636427040518	-16.745190309212
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH822	M9+fructose	-3.06004960322569	-17.2154736604418
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH827	M9+galactose	-2.54702729543422	-16.8824786644257
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH823	M9+fructose	-2.82536269803302	-16.2746741055247
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH817	M9+glucose	-2.02141167830563	-14.7735047524253
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH820	M9+polygalacturonate	-3.39883249522781	-13.8998465012525
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH831	M9+xylose	-2.98503296422146	-15.7600494487735
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH832	M9+xylose	-2.93015461010246	-17.6220537019426
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH819	M9+polygalacturonate	-3.29361680809368	-14.0761296078327
+GNGAKM_02390	GNGAKM_02390	bifunctional chorismate mutase/prephenate dehydrogenase	set17TCH815	M9+glucose	-2.36197606253909	-16.9745567492652
+GNGAKM_02880	GNGAKM_02880	hypothetical protein	set21TCH1145	Tuber-Atlantic	-2.66785204189989	-8.39674332206796
+GNGAKM_02880	GNGAKM_02880	hypothetical protein	set21TCH1146	Tuber-Atlantic	-2.47890497212532	-5.82754534440683
+GNGAKM_03160	GNGAKM_03160	glutamate-5-semialdehyde dehydrogenase	set17TCH830	M9+xylose	-2.16268681652463	-6.21719891486516
+GNGAKM_03160	GNGAKM_03160	glutamate-5-semialdehyde dehydrogenase	set17TCH819	M9+polygalacturonate	-2.5155215592015	-7.37318581454625
+GNGAKM_03160	GNGAKM_03160	glutamate-5-semialdehyde dehydrogenase	set17TCH820	M9+polygalacturonate	-2.20662086812044	-5.46379582554488
+GNGAKM_03160	GNGAKM_03160	glutamate-5-semialdehyde dehydrogenase	set17TCH836	M9+glycerol	-2.24883784430176	-7.22694157043135
+GNGAKM_03160	GNGAKM_03160	glutamate-5-semialdehyde dehydrogenase	set17TCH817	M9+glucose	-2.15735617027309	-6.96936032924908
+GNGAKM_03160	GNGAKM_03160	glutamate-5-semialdehyde dehydrogenase	set17TCH825	M9+cellobiose	-2.41919635513121	-7.30600039469361
+GNGAKM_03160	GNGAKM_03160	glutamate-5-semialdehyde dehydrogenase	set17TCH835	M9+mannose	-2.10897005224653	-6.81492197988264
+GNGAKM_03160	GNGAKM_03160	glutamate-5-semialdehyde dehydrogenase	set17TCH832	M9+xylose	-2.15388433504001	-6.90001158687389
+GNGAKM_03160	GNGAKM_03160	glutamate-5-semialdehyde dehydrogenase	set17TCH818	M9+polygalacturonate	-2.27245649198989	-6.55342840391871
+GNGAKM_03160	GNGAKM_03160	glutamate-5-semialdehyde dehydrogenase	set17TCH829	M9+galactose	-2.44946556475422	-7.81814813030889
+GNGAKM_03160	GNGAKM_03160	glutamate-5-semialdehyde dehydrogenase	set17TCH831	M9+xylose	-2.09219209264942	-6.3747010739192
+GNGAKM_03160	GNGAKM_03160	glutamate-5-semialdehyde dehydrogenase	set17TCH826	M9+cellobiose	-2.30755293360655	-7.09296789432013
+GNGAKM_03160	GNGAKM_03160	glutamate-5-semialdehyde dehydrogenase	set17TCH822	M9+fructose	-2.20713075389198	-6.14014006141626
+GNGAKM_03160	GNGAKM_03160	glutamate-5-semialdehyde dehydrogenase	set17TCH821	M9+fructose	-2.50027612612072	-7.18789502837772
+GNGAKM_03165	GNGAKM_03165	Glutamate 5-kinase	set17TCH824	M9+cellobiose	-3.03588059286415	-5.27899729898489
+GNGAKM_03165	GNGAKM_03165	Glutamate 5-kinase	set17TCH836	M9+glycerol	-2.84469375255029	-5.5296809166642
+GNGAKM_03165	GNGAKM_03165	Glutamate 5-kinase	set17TCH837	M9+glycerol	-2.49285326121514	-5.6671642241534
+GNGAKM_03165	GNGAKM_03165	Glutamate 5-kinase	set17TCH829	M9+galactose	-2.49865098876816	-5.49408115267468
+GNGAKM_03165	GNGAKM_03165	Glutamate 5-kinase	set17TCH812	LB	-2.27987674730445	-5.01303620397254
+GNGAKM_03165	GNGAKM_03165	Glutamate 5-kinase	set17TCH828	M9+galactose	-3.34101952066158	-6.4944677679424
+GNGAKM_03165	GNGAKM_03165	Glutamate 5-kinase	set17TCH832	M9+xylose	-2.79104256204803	-5.1513377281834
+GNGAKM_03165	GNGAKM_03165	Glutamate 5-kinase	set17TCH823	M9+fructose	-2.97860315492887	-5.49751229806117
+GNGAKM_03165	GNGAKM_03165	Glutamate 5-kinase	set17TCH826	M9+cellobiose	-2.91340558075463	-5.66324695864326
+GNGAKM_03165	GNGAKM_03165	Glutamate 5-kinase	set17TCH821	M9+fructose	-2.92878491633839	-5.40556437312002
+GNGAKM_03165	GNGAKM_03165	Glutamate 5-kinase	set17TCH816	M9+glucose	-3.03188039282853	-5.27204147693013
+GNGAKM_03165	GNGAKM_03165	Glutamate 5-kinase	set17TCH822	M9+fructose	-2.9561371252186	-5.45604746767031
+GNGAKM_03165	GNGAKM_03165	Glutamate 5-kinase	set17TCH815	M9+glucose	-2.43492663775571	-5.86867161658324
+GNGAKM_03165	GNGAKM_03165	Glutamate 5-kinase	set17TCH835	M9+mannose	-2.26879567057955	-5.46826197935455
+GNGAKM_03165	GNGAKM_03165	Glutamate 5-kinase	set17TCH838	M9+glycerol	-2.60912625467101	-5.9314951252138
+GNGAKM_03260	GNGAKM_03260	Membrane protein	set21TCH1146	Tuber-Atlantic	-2.31572281811189	-13.1504483615448
+GNGAKM_03260	GNGAKM_03260	Membrane protein	set21TCH1144	Tuber-Atlantic	-2.34887605286227	-12.9348751343089
+GNGAKM_03260	GNGAKM_03260	Membrane protein	set21TCH1145	Tuber-Atlantic	-2.60982257364937	-16.018600175482
+GNGAKM_03260	GNGAKM_03260	Membrane protein	set21TCH1143	Tuber-Atlantic	-2.37602185295878	-12.9974535998571
+GNGAKM_03260	GNGAKM_03260	Membrane protein	set19TCH1011	Tuber-Atlantic	-2.12636659399851	-7.07169686580123
+GNGAKM_03535	GNGAKM_03535	RNA polymerase sigma factor RpoS	set21TCH1143	Tuber-Atlantic	2.75267411800467	13.6985241539231
+GNGAKM_03535	GNGAKM_03535	RNA polymerase sigma factor RpoS	set17TCH812	LB	2.58391923788444	15.8144644584353
+GNGAKM_03535	GNGAKM_03535	RNA polymerase sigma factor RpoS	set17TCH814	LB	2.65013504415334	16.5865603962297
+GNGAKM_03535	GNGAKM_03535	RNA polymerase sigma factor RpoS	set17TCH813	LB	2.56787191559272	15.8214919760895
+GNGAKM_03590	GNGAKM_03590	adenylyl-sulfate kinase	set17TCH820	M9+polygalacturonate	-3.27089183310619	-6.47074725350449
+GNGAKM_03590	GNGAKM_03590	adenylyl-sulfate kinase	set17TCH824	M9+cellobiose	-2.38242150021723	-7.15149609423491
+GNGAKM_03590	GNGAKM_03590	adenylyl-sulfate kinase	set17TCH838	M9+glycerol	-2.34989004704274	-7.16674041864513
+GNGAKM_03590	GNGAKM_03590	adenylyl-sulfate kinase	set17TCH826	M9+cellobiose	-2.12799100132801	-6.77722842905588
+GNGAKM_03590	GNGAKM_03590	adenylyl-sulfate kinase	set17TCH836	M9+glycerol	-2.81740505499781	-6.97809683615186
+GNGAKM_03590	GNGAKM_03590	adenylyl-sulfate kinase	set17TCH823	M9+fructose	-2.52953250131173	-7.06131590440966
+GNGAKM_03590	GNGAKM_03590	adenylyl-sulfate kinase	set17TCH837	M9+glycerol	-2.27429927526736	-7.0418625566495
+GNGAKM_03590	GNGAKM_03590	adenylyl-sulfate kinase	set17TCH818	M9+polygalacturonate	-3.26147690651299	-7.05902217636452
+GNGAKM_03590	GNGAKM_03590	adenylyl-sulfate kinase	set17TCH822	M9+fructose	-2.38678383656972	-7.04589647162579
+GNGAKM_03590	GNGAKM_03590	adenylyl-sulfate kinase	set17TCH825	M9+cellobiose	-2.3430104902724	-7.25461157232555
+GNGAKM_03590	GNGAKM_03590	adenylyl-sulfate kinase	set17TCH827	M9+galactose	-2.10574735323625	-7.04666484529342
+GNGAKM_03590	GNGAKM_03590	adenylyl-sulfate kinase	set17TCH819	M9+polygalacturonate	-2.95522120300685	-7.10658401807807
+GNGAKM_03590	GNGAKM_03590	adenylyl-sulfate kinase	set17TCH821	M9+fructose	-2.06753696382326	-6.83892090988546
+GNGAKM_03590	GNGAKM_03590	adenylyl-sulfate kinase	set17TCH828	M9+galactose	-2.00256044448908	-7.69233808719318
+GNGAKM_03595	GNGAKM_03595	sulfate adenylyltransferase subunit CysN	set17TCH820	M9+polygalacturonate	-2.73613208584264	-9.0129605643831
+GNGAKM_03595	GNGAKM_03595	sulfate adenylyltransferase subunit CysN	set17TCH828	M9+galactose	-2.05350241415463	-10.0514136229964
+GNGAKM_03595	GNGAKM_03595	sulfate adenylyltransferase subunit CysN	set17TCH819	M9+polygalacturonate	-3.26735149409007	-9.15506743790741
+GNGAKM_03595	GNGAKM_03595	sulfate adenylyltransferase subunit CysN	set17TCH818	M9+polygalacturonate	-3.37886586334206	-9.24914104367164
+GNGAKM_03600	GNGAKM_03600	sulfate adenylyltransferase subunit CysD	set17TCH818	M9+polygalacturonate	-2.79198787228367	-8.07595452376367
+GNGAKM_03600	GNGAKM_03600	sulfate adenylyltransferase subunit CysD	set17TCH820	M9+polygalacturonate	-2.80778935869912	-7.61261170420838
+GNGAKM_03600	GNGAKM_03600	sulfate adenylyltransferase subunit CysD	set17TCH819	M9+polygalacturonate	-2.25833325037271	-8.3144321713929
+GNGAKM_03625	GNGAKM_03625	phosphoadenylyl-sulfate reductase	set17TCH824	M9+cellobiose	-3.04269560618829	-5.99434574236416
+GNGAKM_03625	GNGAKM_03625	phosphoadenylyl-sulfate reductase	set17TCH838	M9+glycerol	-2.34407507951807	-6.07627827908618
+GNGAKM_03625	GNGAKM_03625	phosphoadenylyl-sulfate reductase	set17TCH828	M9+galactose	-2.58179214937008	-7.42224059210403
+GNGAKM_03625	GNGAKM_03625	phosphoadenylyl-sulfate reductase	set17TCH823	M9+fructose	-2.36607754772134	-6.27846817335539
+GNGAKM_03625	GNGAKM_03625	phosphoadenylyl-sulfate reductase	set17TCH825	M9+cellobiose	-2.95459378648712	-6.10102246748482
+GNGAKM_03625	GNGAKM_03625	phosphoadenylyl-sulfate reductase	set17TCH827	M9+galactose	-2.83729101191549	-6.57009131410903
+GNGAKM_03625	GNGAKM_03625	phosphoadenylyl-sulfate reductase	set17TCH830	M9+xylose	-2.13975457416245	-6.36222140760738
+GNGAKM_03625	GNGAKM_03625	phosphoadenylyl-sulfate reductase	set17TCH821	M9+fructose	-2.5871623039444	-6.70640554532064
+GNGAKM_03625	GNGAKM_03625	phosphoadenylyl-sulfate reductase	set17TCH822	M9+fructose	-2.64531582112247	-6.32246765607687
+GNGAKM_03625	GNGAKM_03625	phosphoadenylyl-sulfate reductase	set17TCH836	M9+glycerol	-2.84694870723286	-6.36858014630602
+GNGAKM_03625	GNGAKM_03625	phosphoadenylyl-sulfate reductase	set17TCH820	M9+polygalacturonate	-2.84058451493354	-5.5961712562659
+GNGAKM_03625	GNGAKM_03625	phosphoadenylyl-sulfate reductase	set17TCH818	M9+polygalacturonate	-2.94243917981716	-5.79683282607371
+GNGAKM_03625	GNGAKM_03625	phosphoadenylyl-sulfate reductase	set17TCH826	M9+cellobiose	-2.88101380141796	-6.20464355444999
+GNGAKM_03625	GNGAKM_03625	phosphoadenylyl-sulfate reductase	set17TCH837	M9+glycerol	-2.33220779930965	-6.18859363071956
+GNGAKM_03625	GNGAKM_03625	phosphoadenylyl-sulfate reductase	set17TCH819	M9+polygalacturonate	-3.07995784239069	-5.75356598054079
+GNGAKM_03625	GNGAKM_03625	phosphoadenylyl-sulfate reductase	set17TCH829	M9+galactose	-3.12522683677959	-5.83813147117981
+GNGAKM_03630	GNGAKM_03630	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set17TCH825	M9+cellobiose	-2.82526724642063	-11.8284149563768
+GNGAKM_03630	GNGAKM_03630	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set17TCH832	M9+xylose	-2.002819584115	-10.5185455816284
+GNGAKM_03630	GNGAKM_03630	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set17TCH838	M9+glycerol	-2.61139856844378	-11.9013984625578
+GNGAKM_03630	GNGAKM_03630	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set17TCH822	M9+fructose	-2.67654471648504	-12.1983007721129
+GNGAKM_03630	GNGAKM_03630	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set17TCH826	M9+cellobiose	-2.63441246251637	-12.2042695379996
+GNGAKM_03630	GNGAKM_03630	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set17TCH819	M9+polygalacturonate	-3.22912050065465	-10.8295717275449
+GNGAKM_03630	GNGAKM_03630	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set17TCH823	M9+fructose	-2.65773231568684	-11.4534500908753
+GNGAKM_03630	GNGAKM_03630	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set17TCH830	M9+xylose	-2.36255245783108	-11.8191188624843
+GNGAKM_03630	GNGAKM_03630	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set17TCH818	M9+polygalacturonate	-3.20712347190578	-11.0686977133816
+GNGAKM_03630	GNGAKM_03630	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set17TCH827	M9+galactose	-2.59738480901691	-12.679848001713
+GNGAKM_03630	GNGAKM_03630	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set17TCH828	M9+galactose	-3.14240133175379	-14.6339824680013
+GNGAKM_03630	GNGAKM_03630	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set17TCH831	M9+xylose	-2.18250329669745	-10.9604123632232
+GNGAKM_03630	GNGAKM_03630	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set17TCH824	M9+cellobiose	-2.79304178711469	-12.5094055654207
+GNGAKM_03630	GNGAKM_03630	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set17TCH820	M9+polygalacturonate	-3.46551145205237	-9.3625580347704
+GNGAKM_03630	GNGAKM_03630	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set17TCH829	M9+galactose	-2.77278581604843	-12.7074359095912
+GNGAKM_03630	GNGAKM_03630	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set17TCH836	M9+glycerol	-2.7426196548143	-11.8192705673413
+GNGAKM_03630	GNGAKM_03630	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set17TCH821	M9+fructose	-2.86648608102971	-12.3530707255513
+GNGAKM_03630	GNGAKM_03630	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set17TCH837	M9+glycerol	-2.42954580427044	-11.4297965036518
+GNGAKM_03635	GNGAKM_03635	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set17TCH828	M9+galactose	-2.3113504147512	-7.29619266619262
+GNGAKM_03635	GNGAKM_03635	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set17TCH825	M9+cellobiose	-2.48292205865512	-5.71596872568845
+GNGAKM_03635	GNGAKM_03635	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set17TCH822	M9+fructose	-2.34181872204935	-5.87904710593709
+GNGAKM_03635	GNGAKM_03635	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set17TCH824	M9+cellobiose	-2.04206594489858	-6.01369294928811
+GNGAKM_03635	GNGAKM_03635	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set17TCH836	M9+glycerol	-2.22783378009309	-5.73283828769003
+GNGAKM_03635	GNGAKM_03635	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set17TCH827	M9+galactose	-2.57410755655782	-5.51567585083255
+GNGAKM_03635	GNGAKM_03635	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set17TCH829	M9+galactose	-2.26674142595582	-6.09900428820581
+GNGAKM_03635	GNGAKM_03635	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set17TCH831	M9+xylose	-2.03220599102486	-5.68693543950861
+GNGAKM_03635	GNGAKM_03635	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set17TCH826	M9+cellobiose	-2.29356295430096	-5.90197780334157
+GNGAKM_03635	GNGAKM_03635	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set17TCH838	M9+glycerol	-2.34282613013247	-5.39345197843884
+GNGAKM_03635	GNGAKM_03635	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set17TCH819	M9+polygalacturonate	-2.54264604228362	-5.22598220525753
+GNGAKM_03840	GNGAKM_03840	inorganic triphosphatase	set17TCH818	M9+polygalacturonate	-2.03308834396644	-11.5607610608733
+GNGAKM_04185	GNGAKM_04185	diaminopimelate decarboxylase	set17TCH833	M9+mannose	-2.40534860681418	-6.05659799818632
+GNGAKM_04185	GNGAKM_04185	diaminopimelate decarboxylase	set17TCH824	M9+cellobiose	-2.9217296425964	-6.27416919136673
+GNGAKM_04185	GNGAKM_04185	diaminopimelate decarboxylase	set17TCH815	M9+glucose	-2.56669838043578	-5.72379107193558
+GNGAKM_04185	GNGAKM_04185	diaminopimelate decarboxylase	set17TCH817	M9+glucose	-3.26930112946654	-5.73493518980529
+GNGAKM_04185	GNGAKM_04185	diaminopimelate decarboxylase	set17TCH828	M9+galactose	-3.36635555785172	-6.61595179319019
+GNGAKM_04185	GNGAKM_04185	diaminopimelate decarboxylase	set17TCH832	M9+xylose	-2.47367826457337	-6.06416376220531
+GNGAKM_04185	GNGAKM_04185	diaminopimelate decarboxylase	set17TCH838	M9+glycerol	-2.67554520534945	-5.51014270872731
+GNGAKM_04185	GNGAKM_04185	diaminopimelate decarboxylase	set17TCH834	M9+mannose	-2.37921960001763	-5.10917440693146
+GNGAKM_04185	GNGAKM_04185	diaminopimelate decarboxylase	set17TCH830	M9+xylose	-3.16748762835137	-5.17570558040422
+GNGAKM_04185	GNGAKM_04185	diaminopimelate decarboxylase	set17TCH822	M9+fructose	-3.1884011238186	-5.59302220263376
+GNGAKM_04185	GNGAKM_04185	diaminopimelate decarboxylase	set17TCH826	M9+cellobiose	-3.32988163749427	-5.44105897020817
+GNGAKM_04185	GNGAKM_04185	diaminopimelate decarboxylase	set17TCH836	M9+glycerol	-2.56534494074762	-6.28888245089605
+GNGAKM_04185	GNGAKM_04185	diaminopimelate decarboxylase	set17TCH831	M9+xylose	-2.54057522994507	-6.05056780849459
+GNGAKM_04185	GNGAKM_04185	diaminopimelate decarboxylase	set17TCH827	M9+galactose	-3.09134795387069	-5.7622894477025
+GNGAKM_04185	GNGAKM_04185	diaminopimelate decarboxylase	set17TCH835	M9+mannose	-2.19128100544215	-5.5175819893328
+GNGAKM_04185	GNGAKM_04185	diaminopimelate decarboxylase	set17TCH821	M9+fructose	-2.83552068029398	-6.089042680203
+GNGAKM_04185	GNGAKM_04185	diaminopimelate decarboxylase	set17TCH829	M9+galactose	-3.22358639600826	-5.26737151217194
+GNGAKM_04185	GNGAKM_04185	diaminopimelate decarboxylase	set17TCH816	M9+glucose	-2.75239802672744	-5.9105437580206
+GNGAKM_04530	GNGAKM_04530	D-threonate 4-phosphate dehydrogenase	set17TCH818	M9+polygalacturonate	-3.14019849799001	-8.14272129351659
+GNGAKM_04530	GNGAKM_04530	D-threonate 4-phosphate dehydrogenase	set17TCH819	M9+polygalacturonate	-2.66943660304949	-8.08064749764507
+GNGAKM_04530	GNGAKM_04530	D-threonate 4-phosphate dehydrogenase	set17TCH820	M9+polygalacturonate	-2.67425504050016	-7.79334407549138
+GNGAKM_04530	GNGAKM_04530	D-threonate 4-phosphate dehydrogenase	set21TCH1143	Tuber-Atlantic	-3.48422322354606	-6.65281333392899
+GNGAKM_04530	GNGAKM_04530	D-threonate 4-phosphate dehydrogenase	set21TCH1146	Tuber-Atlantic	-3.0266384323693	-7.74215787586853
+GNGAKM_04530	GNGAKM_04530	D-threonate 4-phosphate dehydrogenase	set21TCH1141	Tuber-Atlantic	-3.56531706744494	-7.90676396269488
+GNGAKM_04530	GNGAKM_04530	D-threonate 4-phosphate dehydrogenase	set21TCH1145	Tuber-Atlantic	-3.98687748081081	-9.88163736497907
+GNGAKM_04745	GNGAKM_04745	carboxylating nicotinate-nucleotide diphosphorylase	set17TCH818	M9+polygalacturonate	-2.41079542326297	-9.96357675950848
+GNGAKM_04745	GNGAKM_04745	carboxylating nicotinate-nucleotide diphosphorylase	set17TCH819	M9+polygalacturonate	-2.15589052758199	-9.28511294164207
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH831	M9+xylose	-2.97318606222501	-11.7055193993796
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH833	M9+mannose	-2.19403998860947	-11.1777388430655
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH815	M9+glucose	-2.87512568177362	-12.125059170868
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set21TCH1146	Tuber-Atlantic	-2.22933252934563	-12.2493261878921
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH838	M9+glycerol	-3.01296016568751	-11.5099899609674
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH829	M9+galactose	-3.24475283949173	-12.1290892070895
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH836	M9+glycerol	-2.92217450543373	-10.9232712038062
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH837	M9+glycerol	-2.40921036870677	-11.3211937902757
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH823	M9+fructose	-3.08688929928625	-11.5389854129283
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH832	M9+xylose	-2.70220738706015	-11.5684730745054
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH820	M9+polygalacturonate	-3.25910796093829	-10.4640967430967
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH824	M9+cellobiose	-3.14768398356623	-12.1498108989019
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH822	M9+fructose	-3.02575315767488	-10.779278448981
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH825	M9+cellobiose	-3.40291538420161	-11.1107427623035
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH835	M9+mannose	-2.42786093598346	-11.4088352387687
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH830	M9+xylose	-2.85264434749086	-11.7444130710908
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH819	M9+polygalacturonate	-3.45639224857543	-10.0696871217198
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH816	M9+glucose	-2.93751073540994	-11.9920517119802
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH818	M9+polygalacturonate	-3.45677319229093	-10.2895183507546
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH817	M9+glucose	-2.73392691988414	-12.709533809143
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH828	M9+galactose	-3.50644191034041	-14.3146481839117
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH834	M9+mannose	-2.30892837457309	-10.9067839559037
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH827	M9+galactose	-3.08869148739425	-12.389092221304
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH826	M9+cellobiose	-3.59915037756815	-10.2500406200451
+GNGAKM_04915	GNGAKM_04915	2-isopropylmalate synthase	set17TCH821	M9+fructose	-3.48629236117708	-10.9985928850322
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH826	M9+cellobiose	-2.75848526829643	-9.59573167987139
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH824	M9+cellobiose	-2.7295053318603	-9.25520879986497
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH828	M9+galactose	-2.81089222485044	-12.4917637376395
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH838	M9+glycerol	-2.67127694568414	-8.68121815405585
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH820	M9+polygalacturonate	-2.81047084417954	-8.84991272009177
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH818	M9+polygalacturonate	-2.61438077316958	-9.99916133407749
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH833	M9+mannose	-2.0899069882555	-8.1349416300543
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set21TCH1145	Tuber-Atlantic	-2.24772017171757	-11.3099318597672
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH829	M9+galactose	-2.88433097705159	-9.37360930724204
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH836	M9+glycerol	-2.84625080050507	-8.49706918696794
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH835	M9+mannose	-2.0791584055012	-7.9521087934352
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH815	M9+glucose	-2.8314035243384	-9.96898764256164
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH832	M9+xylose	-2.59986240538479	-8.8156154640503
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH834	M9+mannose	-2.23568652078212	-8.39247017968699
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH822	M9+fructose	-2.86748615868782	-8.72182735278793
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set21TCH1146	Tuber-Atlantic	-2.54731390948873	-11.4368642230176
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH816	M9+glucose	-3.03093286894487	-8.87205158582374
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH827	M9+galactose	-2.87532352176657	-9.05412780294811
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH837	M9+glycerol	-2.18432960145248	-7.86851209041605
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set21TCH1143	Tuber-Atlantic	-2.02269728929632	-9.96278336257258
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH821	M9+fructose	-2.97952401184911	-9.06260486946023
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH817	M9+glucose	-2.52783190325418	-9.75476116172259
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH831	M9+xylose	-2.84176358328008	-8.79841150971268
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH825	M9+cellobiose	-2.87795237408218	-9.62705827261463
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH823	M9+fructose	-2.6834255608374	-9.21833675546263
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH830	M9+xylose	-2.72600693696706	-9.24334643974299
+GNGAKM_04920	GNGAKM_04920	3-isopropylmalate dehydrogenase	set17TCH819	M9+polygalacturonate	-3.16492835107637	-6.9594743164275
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH832	M9+xylose	-2.42189468872548	-7.07216622879184
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set21TCH1144	Tuber-Atlantic	-2.15227141074332	-10.1468917272499
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH827	M9+galactose	-3.01681407623723	-7.83527832389018
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set19TCH1011	Tuber-Atlantic	-2.23351712765761	-5.32684864504424
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH833	M9+mannose	-2.18370532572717	-7.28170538093148
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set21TCH1141	Tuber-Atlantic	-2.29496205087031	-10.8860670730416
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH824	M9+cellobiose	-2.69405173607574	-6.80090261092255
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH829	M9+galactose	-2.91591411148534	-5.83854113323624
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH821	M9+fructose	-2.60451431999805	-7.28815757260398
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH817	M9+glucose	-2.67054819535194	-7.30100017099673
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set21TCH1145	Tuber-Atlantic	-3.32176559342993	-14.3835732762898
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH815	M9+glucose	-2.75806409650332	-7.16325212131928
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH828	M9+galactose	-3.19723252246702	-7.82771972733314
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH826	M9+cellobiose	-2.51614090422849	-7.49269987075664
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH834	M9+mannose	-2.26104453242872	-6.85932200143076
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH822	M9+fructose	-2.85457572741542	-6.76091437741165
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set21TCH1146	Tuber-Atlantic	-3.20527604594614	-11.3562491273662
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH820	M9+polygalacturonate	-2.63052197625897	-6.44025375760203
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH816	M9+glucose	-2.54591339215536	-7.72352755290062
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH835	M9+mannose	-2.1131609366983	-7.14210667709746
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH831	M9+xylose	-2.58998743744884	-7.24750730309139
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH836	M9+glycerol	-2.38767435824761	-7.37252850692377
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH825	M9+cellobiose	-3.21280852834642	-5.71985092284184
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH823	M9+fructose	-2.71756108679671	-5.9675820679332
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH830	M9+xylose	-3.00384259692725	-7.35424708354584
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH818	M9+polygalacturonate	-2.90754437138391	-6.64228745520769
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH837	M9+glycerol	-2.02789579806934	-7.43385503668748
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH819	M9+polygalacturonate	-2.98967212307575	-6.56511967195431
+GNGAKM_04925	GNGAKM_04925	3-isopropylmalate dehydratase large subunit	set17TCH838	M9+glycerol	-2.49372143069485	-6.81757424322458
+GNGAKM_04930	GNGAKM_04930	3-isopropylmalate dehydratase small subunit	set21TCH1144	Tuber-Atlantic	-2.32029108099932	-6.55642715169307
+GNGAKM_04930	GNGAKM_04930	3-isopropylmalate dehydratase small subunit	set17TCH832	M9+xylose	-2.445401713232	-5.6026090115526
+GNGAKM_04930	GNGAKM_04930	3-isopropylmalate dehydratase small subunit	set21TCH1141	Tuber-Atlantic	-3.01659677109476	-8.49729551339659
+GNGAKM_04930	GNGAKM_04930	3-isopropylmalate dehydratase small subunit	set17TCH833	M9+mannose	-2.11846186910393	-5.00614500196819
+GNGAKM_04930	GNGAKM_04930	3-isopropylmalate dehydratase small subunit	set21TCH1145	Tuber-Atlantic	-3.43275548976278	-9.88677893545791
+GNGAKM_04930	GNGAKM_04930	3-isopropylmalate dehydratase small subunit	set17TCH828	M9+galactose	-3.58306667693607	-5.36113743089449
+GNGAKM_04930	GNGAKM_04930	3-isopropylmalate dehydratase small subunit	set17TCH815	M9+glucose	-2.8657806125332	-5.31633752787781
+GNGAKM_04930	GNGAKM_04930	3-isopropylmalate dehydratase small subunit	set17TCH821	M9+fructose	-3.23475636256383	-5.26620714668525
+GNGAKM_04930	GNGAKM_04930	3-isopropylmalate dehydratase small subunit	set21TCH1143	Tuber-Atlantic	-2.18460167171264	-7.14167155016973
+GNGAKM_04930	GNGAKM_04930	3-isopropylmalate dehydratase small subunit	set17TCH827	M9+galactose	-3.15983223594269	-5.14423011755324
+GNGAKM_05065	GNGAKM_05065	bis(5'-nucleosyl)-tetraphosphatase (symmetrical) ApaH	set17TCH837	M9+glycerol	-2.56392951208556	-8.18903407960607
+GNGAKM_05065	GNGAKM_05065	bis(5'-nucleosyl)-tetraphosphatase (symmetrical) ApaH	set17TCH838	M9+glycerol	-2.15653737811449	-7.6633414320116
+GNGAKM_05065	GNGAKM_05065	bis(5'-nucleosyl)-tetraphosphatase (symmetrical) ApaH	set17TCH836	M9+glycerol	-2.05205137299681	-7.89653645739655
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH835	M9+mannose	-2.04522286702659	-6.60540621326031
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set21TCH1145	Tuber-Atlantic	-3.08102690902981	-12.1381690383421
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set21TCH1144	Tuber-Atlantic	-2.06364466021164	-9.96104290648074
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH827	M9+galactose	-2.46129579373903	-6.87073650984714
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH832	M9+xylose	-2.2759009246811	-6.62835468407967
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH829	M9+galactose	-2.44929729333294	-7.13335585521671
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH824	M9+cellobiose	-2.31748460402592	-7.13474698648185
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH815	M9+glucose	-2.43597100571898	-7.09454425319594
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH822	M9+fructose	-2.39085816395921	-6.82126901796231
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH821	M9+fructose	-2.41544551609456	-7.17315468857138
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set21TCH1141	Tuber-Atlantic	-2.08528601101913	-9.42595933032054
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH817	M9+glucose	-2.37891955710361	-7.56701876950834
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH838	M9+glycerol	-2.08443364031528	-6.83084072921045
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH836	M9+glycerol	-2.30962203830606	-6.72656436404616
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH831	M9+xylose	-2.27782701120037	-6.49878401571457
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH819	M9+polygalacturonate	-2.37012411752667	-6.14286310718174
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH823	M9+fructose	-2.36050976503012	-6.73468312320688
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH816	M9+glucose	-2.21317410728938	-7.73563197231588
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH834	M9+mannose	-2.07282113109031	-6.48908084522533
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set21TCH1146	Tuber-Atlantic	-2.63135271264868	-8.45228800985391
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH820	M9+polygalacturonate	-2.39842206911302	-5.67068691902299
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH826	M9+cellobiose	-2.67376331625979	-5.06240902793969
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH825	M9+cellobiose	-2.5358609122675	-6.38895602874974
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set21TCH1143	Tuber-Atlantic	-2.09067237148899	-8.54104196021049
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH828	M9+galactose	-2.54917379328813	-8.80466526972852
+GNGAKM_05115	GNGAKM_05115	carbamoyl-phosphate synthase large subunit	set17TCH830	M9+xylose	-2.54538903549786	-5.80555949506939
+GNGAKM_05220	GNGAKM_05220	threonine synthase	set21TCH1144	Tuber-Atlantic	-2.16391054261752	-5.7773611621505
+GNGAKM_05220	GNGAKM_05220	threonine synthase	set21TCH1141	Tuber-Atlantic	-2.34378322050985	-6.85307851127746
+GNGAKM_05220	GNGAKM_05220	threonine synthase	set21TCH1145	Tuber-Atlantic	-3.57408108319988	-7.1608129971875
+GNGAKM_05220	GNGAKM_05220	threonine synthase	set17TCH828	M9+galactose	-2.26897430368031	-5.97859912154851
+GNGAKM_05220	GNGAKM_05220	threonine synthase	set21TCH1146	Tuber-Atlantic	-2.52526592567422	-6.56545197221415
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH838	M9+glycerol	-2.40214422014188	-8.80155173714536
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH829	M9+galactose	-2.86140110551779	-8.89875954426155
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH823	M9+fructose	-2.59095191290429	-9.06382591938451
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH836	M9+glycerol	-2.48071717545357	-9.28099649483699
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH821	M9+fructose	-2.847878234139	-9.00912410813863
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH826	M9+cellobiose	-2.83692995809368	-8.66605426233456
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH817	M9+glucose	-2.03409214365125	-9.07484528044873
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH820	M9+polygalacturonate	-3.06246131247918	-5.4651140681651
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH834	M9+mannose	-2.13968792272822	-8.59886740832692
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH822	M9+fructose	-2.8157191752643	-7.54950907228113
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH827	M9+galactose	-2.36479835453983	-8.57020623355665
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH818	M9+polygalacturonate	-3.06574483732893	-7.29161804820617
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH825	M9+cellobiose	-2.8790893917059	-8.46118384699813
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH831	M9+xylose	-2.64988852070751	-8.52042261060313
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH815	M9+glucose	-2.05544925523066	-9.06968031827186
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH828	M9+galactose	-3.03505511068028	-10.7478284856885
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH816	M9+glucose	-2.17325239865355	-9.00081266904781
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH830	M9+xylose	-3.00679912665676	-7.39460700154337
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH824	M9+cellobiose	-2.9700626224368	-8.1654723209271
+GNGAKM_05230	GNGAKM_05230	bifunctional aspartate kinase/homoserine dehydrogenase I	set17TCH832	M9+xylose	-2.27889087060358	-8.5259127446968
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH819	M9+polygalacturonate	-3.61764272513105	-8.02360015417212
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH834	M9+mannose	-3.1297511265277	-9.85794414363937
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH837	M9+glycerol	-3.14256392550117	-9.89830130032624
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH833	M9+mannose	-3.36377455154909	-9.78645709888948
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH829	M9+galactose	-3.52799104475472	-11.1123016663108
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH832	M9+xylose	-3.38236643063906	-10.0536652031058
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH838	M9+glycerol	-3.54640986681861	-7.86561220003631
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH822	M9+fructose	-3.66116818498191	-6.99118690797426
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH827	M9+galactose	-3.41161598001591	-11.2994137471141
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH817	M9+glucose	-3.86252795073935	-10.1730509817296
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH835	M9+mannose	-3.25388336103804	-9.46674321646324
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH821	M9+fructose	-3.61340264358335	-10.2771804507445
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH836	M9+glycerol	-3.36291277168856	-10.399617830347
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH823	M9+fructose	-3.75423300120913	-7.96414936923526
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH818	M9+polygalacturonate	-3.86628320211992	-7.80571541299423
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set21TCH1141	Tuber-Atlantic	-2.03780428276452	-8.84631981555113
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH830	M9+xylose	-3.56691493477778	-9.65419195350726
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH828	M9+galactose	-3.81042028021828	-12.001884101199
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH824	M9+cellobiose	-3.21128736462741	-11.703369439204
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH816	M9+glucose	-3.83012363880443	-8.49486335544544
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set21TCH1145	Tuber-Atlantic	-3.19184789764693	-15.0300973187614
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH826	M9+cellobiose	-3.81458773634104	-8.80893044564996
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH825	M9+cellobiose	-3.53067132184754	-9.55609519406243
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set21TCH1144	Tuber-Atlantic	-2.5780922097015	-11.3790206576968
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set21TCH1146	Tuber-Atlantic	-3.0127520840815	-12.252154823092
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set19TCH1011	Tuber-Atlantic	-2.26760470810489	-7.78383786694406
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH820	M9+polygalacturonate	-3.53399286704023	-9.56508526964842
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH831	M9+xylose	-3.42437126458885	-9.26838405538672
+GNGAKM_05305	GNGAKM_05305	phosphoglycerate dehydrogenase	set17TCH815	M9+glucose	-3.68401511894	-9.42357279019109
+GNGAKM_05350	GNGAKM_05350	transketolase	set17TCH823	M9+fructose	-2.45238975975983	-5.80470816530637
+GNGAKM_05350	GNGAKM_05350	transketolase	set17TCH830	M9+xylose	-2.93566173669144	-5.45144635109207
+GNGAKM_05350	GNGAKM_05350	transketolase	set17TCH821	M9+fructose	-2.14504260702018	-5.97378911214322
+GNGAKM_05350	GNGAKM_05350	transketolase	set17TCH832	M9+xylose	-2.26745674277832	-5.52249523467693
+GNGAKM_05350	GNGAKM_05350	transketolase	set17TCH819	M9+polygalacturonate	-2.58751619959098	-5.528705037754
+GNGAKM_05350	GNGAKM_05350	transketolase	set21TCH1145	Tuber-Atlantic	-2.0408220355566	-7.32126197930446
+GNGAKM_05350	GNGAKM_05350	transketolase	set17TCH822	M9+fructose	-2.71198671286749	-5.79465921957226
+GNGAKM_05350	GNGAKM_05350	transketolase	set17TCH818	M9+polygalacturonate	-2.81451362232108	-5.76968187281692
+GNGAKM_05350	GNGAKM_05350	transketolase	set17TCH831	M9+xylose	-3.02083782933658	-5.6096161067036
+GNGAKM_05350	GNGAKM_05350	transketolase	set17TCH820	M9+polygalacturonate	-2.57234602951663	-5.49629117471156
+GNGAKM_05385	GNGAKM_05385	deoxyribonuclease I	set17TCH822	M9+fructose	-2.02842523723663	-9.48781387457437
+GNGAKM_05385	GNGAKM_05385	deoxyribonuclease I	set17TCH812	LB	2.11327605060891	13.3749849466113
+GNGAKM_05385	GNGAKM_05385	deoxyribonuclease I	set17TCH813	LB	2.40736731511131	16.5858038100424
+GNGAKM_05385	GNGAKM_05385	deoxyribonuclease I	set17TCH817	M9+glucose	-2.10753748476327	-10.1129449883207
+GNGAKM_05385	GNGAKM_05385	deoxyribonuclease I	set21TCH1141	Tuber-Atlantic	4.17508873917011	17.5308649217752
+GNGAKM_05385	GNGAKM_05385	deoxyribonuclease I	set17TCH814	LB	2.58418777657307	17.1238094801962
+GNGAKM_05385	GNGAKM_05385	deoxyribonuclease I	set21TCH1143	Tuber-Atlantic	5.0999477438868	18.1160146714435
+GNGAKM_05410	GNGAKM_05410	class 1 fructose-bisphosphatase	set17TCH837	M9+glycerol	-2.81918074354149	-11.4687737479817
+GNGAKM_05410	GNGAKM_05410	class 1 fructose-bisphosphatase	set17TCH838	M9+glycerol	-3.24808682919473	-9.89607506288082
+GNGAKM_05410	GNGAKM_05410	class 1 fructose-bisphosphatase	set17TCH836	M9+glycerol	-3.06281935618397	-10.6634032291988
+GNGAKM_05450	GNGAKM_05450	RNA chaperone Hfq	set21TCH1145	Tuber-Atlantic	3.17384832368196	10.3901652282129
+GNGAKM_05450	GNGAKM_05450	RNA chaperone Hfq	set21TCH1141	Tuber-Atlantic	3.80178080541332	8.77731873657173
+GNGAKM_05450	GNGAKM_05450	RNA chaperone Hfq	set19TCH1014	Tuber-Atlantic	2.24541965225011	8.57691237934073
+GNGAKM_05450	GNGAKM_05450	RNA chaperone Hfq	set21TCH1146	Tuber-Atlantic	3.66819918106612	10.5031541061207
+GNGAKM_05450	GNGAKM_05450	RNA chaperone Hfq	set21TCH1143	Tuber-Atlantic	4.10903239303873	11.9672925323013
+GNGAKM_05450	GNGAKM_05450	RNA chaperone Hfq	set21TCH1144	Tuber-Atlantic	3.91460948643604	9.43602996657201
+GNGAKM_05670	GNGAKM_05670	glucose-6-phosphate isomerase	set17TCH825	M9+cellobiose	-2.13037276799854	-7.17044259016972
+GNGAKM_05670	GNGAKM_05670	glucose-6-phosphate isomerase	set17TCH826	M9+cellobiose	-2.36929139540581	-7.56001768464559
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH827	M9+galactose	-2.74815592231826	-10.9074041995679
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH823	M9+fructose	-2.87863745751124	-10.2973912244354
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH826	M9+cellobiose	-3.12591645860414	-10.4539786521798
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH819	M9+polygalacturonate	-3.02390543866003	-10.6831581871354
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH828	M9+galactose	-3.21232219463828	-12.8616057860877
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH821	M9+fructose	-2.83048544094473	-11.524366950746
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH820	M9+polygalacturonate	-3.16365311944264	-8.75059482340545
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH825	M9+cellobiose	-3.04316467284727	-10.1772324840757
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH815	M9+glucose	-2.63870344176378	-11.2409652891283
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH832	M9+xylose	-2.77698422239443	-9.55563397589713
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH822	M9+fructose	-2.73039045807366	-10.5397124499995
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH829	M9+galactose	-2.85655530402295	-11.026727482473
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH834	M9+mannose	-2.24375725093211	-9.81653990785012
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH816	M9+glucose	-2.58583447526029	-10.8591116192046
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH818	M9+polygalacturonate	-3.12756390030051	-8.43410655499693
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH831	M9+xylose	-3.28999534435929	-9.73604434228387
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH836	M9+glycerol	-2.75950737365837	-10.2209364500919
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH838	M9+glycerol	-2.65883301251538	-10.458374613994
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH837	M9+glycerol	-2.69582094216014	-10.4062689872937
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH824	M9+cellobiose	-3.01749685791844	-10.6605173065899
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH830	M9+xylose	-3.25969053815715	-9.23376006924958
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH817	M9+glucose	-2.81020553829062	-11.624895636418
+GNGAKM_05735	GNGAKM_05735	homoserine O-succinyltransferase	set17TCH835	M9+mannose	-2.18280295999892	-9.84110450359287
+GNGAKM_05775	GNGAKM_05775	shikimate dehydrogenase	set17TCH826	M9+cellobiose	-2.23167035484985	-5.46589448740205
+GNGAKM_05775	GNGAKM_05775	shikimate dehydrogenase	set17TCH821	M9+fructose	-2.48079021575491	-5.1057634099195
+GNGAKM_05775	GNGAKM_05775	shikimate dehydrogenase	set17TCH828	M9+galactose	-2.4580028069817	-6.02023679863954
+GNGAKM_05775	GNGAKM_05775	shikimate dehydrogenase	set17TCH823	M9+fructose	-2.21609256750542	-5.11038210247711
+GNGAKM_05775	GNGAKM_05775	shikimate dehydrogenase	set21TCH1143	Tuber-Atlantic	-2.26132100020516	-7.76926586286832
+GNGAKM_05775	GNGAKM_05775	shikimate dehydrogenase	set17TCH815	M9+glucose	-2.13943226255039	-5.23998133713215
+GNGAKM_05775	GNGAKM_05775	shikimate dehydrogenase	set17TCH830	M9+xylose	-2.18367504034136	-5.19610412775867
+GNGAKM_05775	GNGAKM_05775	shikimate dehydrogenase	set21TCH1146	Tuber-Atlantic	-2.4558565702365	-7.82137368038702
+GNGAKM_06030	GNGAKM_06030	two-component system sensor histidine kinase PmrB	set21TCH1144	Tuber-Atlantic	2.71754714948663	13.2726825325155
+GNGAKM_06030	GNGAKM_06030	two-component system sensor histidine kinase PmrB	set21TCH1143	Tuber-Atlantic	3.90494780777936	14.2820792490225
+GNGAKM_06030	GNGAKM_06030	two-component system sensor histidine kinase PmrB	set21TCH1141	Tuber-Atlantic	2.61402049628244	12.7551189908075
+GNGAKM_06030	GNGAKM_06030	two-component system sensor histidine kinase PmrB	set21TCH1146	Tuber-Atlantic	2.83349296340743	13.5353759262082
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH820	M9+polygalacturonate	-2.98844324380308	-11.3070353573401
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH822	M9+fructose	-2.23010136118991	-11.7171783805051
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH823	M9+fructose	-2.47466986457312	-11.5228906291934
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH826	M9+cellobiose	-2.13813051421162	-11.7280633452447
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH819	M9+polygalacturonate	-3.1931608566024	-10.4341835398283
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH821	M9+fructose	-2.76944015249667	-13.1039586832252
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH838	M9+glycerol	-2.08840568787317	-10.492236319109
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH827	M9+galactose	-2.08652324797162	-11.4767146262249
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH824	M9+cellobiose	-2.29424406689098	-12.2530327015445
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH829	M9+galactose	-2.38358230446015	-12.5658465359334
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH836	M9+glycerol	-2.36724094469684	-11.8439906804774
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH828	M9+galactose	-2.3028831037923	-13.3264593216597
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH815	M9+glucose	-2.39435771201728	-12.3147667872882
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH834	M9+mannose	-2.14715433098261	-10.9664339648111
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH837	M9+glycerol	-2.27926297856387	-11.4511112200824
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH825	M9+cellobiose	-2.22731118150952	-11.4556056621548
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH816	M9+glucose	-2.31579655930592	-12.2084914450946
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH817	M9+glucose	-2.7227972055783	-12.3903790229831
+GNGAKM_06115	GNGAKM_06115	bifunctional succinylornithine transaminase/acetylornithine transaminase	set17TCH818	M9+polygalacturonate	-2.84544470562577	-11.7296159944269
+GNGAKM_06285	GNGAKM_06285	peptidoglycan glycosyltransferase/peptidoglycan DD-transpeptidase MrcA	set21TCH1141	Tuber-Atlantic	2.0293230924968	15.3071649825014
+GNGAKM_06460	GNGAKM_06460	hypothetical protein	set21TCH1144	Tuber-Atlantic	-3.20185206574624	-8.02720640666351
+GNGAKM_06460	GNGAKM_06460	hypothetical protein	set21TCH1143	Tuber-Atlantic	-2.50949022265985	-7.33332096411946
+GNGAKM_06460	GNGAKM_06460	hypothetical protein	set21TCH1146	Tuber-Atlantic	-3.2588529363722	-9.86299826602836
+GNGAKM_06730	GNGAKM_06730	class I adenylate cyclase	set17TCH820	M9+polygalacturonate	-2.81615532296028	-9.34273896512041
+GNGAKM_06730	GNGAKM_06730	class I adenylate cyclase	set17TCH828	M9+galactose	-2.31666420548357	-13.1027066780889
+GNGAKM_06730	GNGAKM_06730	class I adenylate cyclase	set17TCH827	M9+galactose	-2.53354695202137	-11.7102992147184
+GNGAKM_06730	GNGAKM_06730	class I adenylate cyclase	set17TCH829	M9+galactose	-2.32607677567277	-11.6613702061233
+GNGAKM_06730	GNGAKM_06730	class I adenylate cyclase	set17TCH818	M9+polygalacturonate	-2.93144832159194	-9.57033209341565
+GNGAKM_06730	GNGAKM_06730	class I adenylate cyclase	set17TCH819	M9+polygalacturonate	-2.44664624124791	-10.7693332489607
+GNGAKM_06880	GNGAKM_06880	lipid III flippase WzxE	set17TCH827	M9+galactose	-2.1920144672269	-5.07177336278495
+GNGAKM_06880	GNGAKM_06880	lipid III flippase WzxE	set21TCH1145	Tuber-Atlantic	-3.61426200353168	-5.94323517124789
+GNGAKM_06935	GNGAKM_06935	exopolyphosphatase	set17TCH837	M9+glycerol	-2.07669924896099	-7.89093742571149
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH833	M9+mannose	-2.47484740060666	-9.59420825696822
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH819	M9+polygalacturonate	-3.33825640524564	-6.73374577468519
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH827	M9+galactose	-3.27881546389884	-8.11691581188618
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH834	M9+mannose	-2.57939176824886	-8.78154883998609
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH820	M9+polygalacturonate	-3.37458532754916	-6.04299212875332
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH821	M9+fructose	-3.20906561755541	-9.52039897975066
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH831	M9+xylose	-3.24086017718807	-8.27830739010463
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH837	M9+glycerol	-2.66421870312167	-9.44616419953208
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH822	M9+fructose	-2.97113233870948	-9.66214077733214
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH823	M9+fructose	-2.74546236255567	-9.21110789080974
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH826	M9+cellobiose	-3.34747323932673	-8.28688249318179
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH836	M9+glycerol	-2.92399502580176	-9.19019041214348
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH829	M9+galactose	-3.05249377296496	-9.59406522852691
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH828	M9+galactose	-3.38647086267732	-10.8309611496149
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH838	M9+glycerol	-2.75431008163078	-8.95703345368352
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH817	M9+glucose	-2.67676676223757	-11.0397788613476
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH825	M9+cellobiose	-3.05089163277379	-8.45720434098611
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH835	M9+mannose	-2.55277971104398	-9.38592917864416
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH818	M9+polygalacturonate	-3.35323831470422	-7.10658324115521
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH815	M9+glucose	-2.86792415135603	-10.4221427605353
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH832	M9+xylose	-3.10904917057702	-8.61841956603276
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH816	M9+glucose	-2.74901690053838	-10.3344788696816
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH824	M9+cellobiose	-3.34797472458345	-8.55191596955906
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set17TCH830	M9+xylose	-3.43065428346374	-7.60080515464625
+GNGAKM_06965	GNGAKM_06965	ketol-acid reductoisomerase	set21TCH1146	Tuber-Atlantic	-2.3132706376003	-12.710308829668
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH829	M9+galactose	-2.59711180821308	-11.6156899500192
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH822	M9+fructose	-2.65477710554195	-10.4232920182026
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH820	M9+polygalacturonate	-2.62761944216615	-9.68731414104117
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH827	M9+galactose	-2.4320274017495	-11.0745870252229
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH821	M9+fructose	-2.61577885138701	-10.7369720622088
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH834	M9+mannose	-2.22696304179035	-9.89805250932461
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH833	M9+mannose	-2.20451252056199	-10.2092876771921
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH831	M9+xylose	-2.76545630610607	-9.57116002199357
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH838	M9+glycerol	-2.37731308686209	-9.99416544471267
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH819	M9+polygalacturonate	-3.12807201112642	-9.29648693287107
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH825	M9+cellobiose	-2.72723894183517	-10.4991932045321
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH815	M9+glucose	-2.47758953331865	-11.0811216334361
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH817	M9+glucose	-2.41990399758104	-11.4440083153931
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH830	M9+xylose	-2.78046675673705	-10.2508203809867
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH826	M9+cellobiose	-2.68090428089017	-10.6253268771728
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH828	M9+galactose	-2.69048065896219	-13.0921118646292
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH823	M9+fructose	-2.34852279090919	-10.5038652912385
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH832	M9+xylose	-2.49366605239279	-10.5629073401932
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH835	M9+mannose	-2.30208980542886	-9.89456865925331
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH836	M9+glycerol	-2.41550325750575	-10.667560013174
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH818	M9+polygalacturonate	-3.25619482205083	-8.8121614610302
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH816	M9+glucose	-2.23451909698973	-11.15554380846
+GNGAKM_07005	GNGAKM_07005	threonine ammonia-lyase, biosynthetic	set17TCH824	M9+cellobiose	-2.80472753641831	-10.9058686177337
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH822	M9+fructose	-2.92286293755311	-14.7723982481293
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH820	M9+polygalacturonate	-3.24893479515461	-11.4314206348861
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH825	M9+cellobiose	-3.21305549899676	-14.1689804058969
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH827	M9+galactose	-2.88202486690028	-15.6252718890306
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH834	M9+mannose	-2.5963722338548	-14.4666399179333
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH823	M9+fructose	-3.13084298402926	-14.8525548292231
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH817	M9+glucose	-2.16769139891474	-15.1303310850622
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH821	M9+fructose	-3.17340477071594	-15.8069148931121
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH837	M9+glycerol	-2.24045653222425	-14.6157879518163
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH826	M9+cellobiose	-2.83371219204611	-14.9591811396323
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH835	M9+mannose	-2.45825426717575	-14.7130459748638
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH831	M9+xylose	-2.87028760334494	-13.8525868457735
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH819	M9+polygalacturonate	-3.4124714620652	-11.6546388683408
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH830	M9+xylose	-3.0695475916624	-14.3874637042092
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH816	M9+glucose	-2.3638463125965	-15.7907903896701
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH838	M9+glycerol	-2.57691811780098	-14.4952975342779
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH829	M9+galactose	-3.04544983799203	-15.8127210885692
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH832	M9+xylose	-2.81329793514943	-14.6073315779507
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH824	M9+cellobiose	-2.91003463331517	-14.7075629058298
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH828	M9+galactose	-3.08017316372558	-17.9823767033519
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH833	M9+mannose	-2.42035268551532	-14.9044945712742
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH818	M9+polygalacturonate	-3.26398459915329	-12.9597589306977
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set21TCH1146	Tuber-Atlantic	-2.4550792606952	-17.3602773136758
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH836	M9+glycerol	-2.60176576286706	-15.3078451476599
+GNGAKM_07010	GNGAKM_07010	dihydroxy-acid dehydratase	set17TCH815	M9+glucose	-2.52436139328407	-16.4678628249764
+GNGAKM_07100	GNGAKM_07100	glutamate racemase	set19TCH1011	Tuber-Atlantic	-2.05754581634192	-6.14854252684484
+GNGAKM_07100	GNGAKM_07100	glutamate racemase	set17TCH814	LB	-2.0538087137362	-11.6606879436065
+GNGAKM_07100	GNGAKM_07100	glutamate racemase	set19TCH1004	LB	-2.15922088933084	-8.64191405706801
+GNGAKM_07100	GNGAKM_07100	glutamate racemase	set21TCH1141	Tuber-Atlantic	-2.50969368920853	-12.137885649928
+GNGAKM_07100	GNGAKM_07100	glutamate racemase	set17TCH816	M9+glucose	-2.23452633108902	-12.8437996962178
+GNGAKM_07100	GNGAKM_07100	glutamate racemase	set17TCH817	M9+glucose	-2.25750474402784	-12.8815855692419
+GNGAKM_07100	GNGAKM_07100	glutamate racemase	set21TCH1143	Tuber-Atlantic	-2.55432495793738	-12.0782615804406
+GNGAKM_07100	GNGAKM_07100	glutamate racemase	set21TCH1144	Tuber-Atlantic	-2.7507911554163	-10.4341587027562
+GNGAKM_07100	GNGAKM_07100	glutamate racemase	set21TCH1145	Tuber-Atlantic	-3.97456683717864	-11.940456128725
+GNGAKM_07100	GNGAKM_07100	glutamate racemase	set21TCH1146	Tuber-Atlantic	-2.88235507380732	-10.4055824269562
+GNGAKM_07100	GNGAKM_07100	glutamate racemase	set17TCH815	M9+glucose	-2.37490883162787	-12.7668145184648
+GNGAKM_07135	GNGAKM_07135	DNA-binding transcriptional regulator OxyR	set19TCH1006	LB at 36C	-3.08026073291757	-5.48903872096634
+GNGAKM_07135	GNGAKM_07135	DNA-binding transcriptional regulator OxyR	set17TCH812	LB	-2.87771703779552	-5.43848180970903
+GNGAKM_07135	GNGAKM_07135	DNA-binding transcriptional regulator OxyR	set17TCH814	LB	-2.95722838376778	-7.20446405031017
+GNGAKM_07135	GNGAKM_07135	DNA-binding transcriptional regulator OxyR	set17TCH813	LB	-3.44625900925419	-5.69095292718255
+GNGAKM_07135	GNGAKM_07135	DNA-binding transcriptional regulator OxyR	set19TCH1005	LB	-2.8812695948436	-5.77604975382021
+GNGAKM_07135	GNGAKM_07135	DNA-binding transcriptional regulator OxyR	set19TCH1008	LB at 36C	-3.01028337000858	-5.36433874005442
+GNGAKM_07135	GNGAKM_07135	DNA-binding transcriptional regulator OxyR	set19TCH1007	LB at 36C	-3.0311408402845	-5.02087175200611
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH821	M9+fructose	-3.0519711883354	-8.38438389802633
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH838	M9+glycerol	-2.6608688914966	-8.4091956873425
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH819	M9+polygalacturonate	-3.1140946492554	-6.85976240638989
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH822	M9+fructose	-3.01945882782605	-8.09001609322749
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH829	M9+galactose	-3.00272760200911	-9.16405293960002
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH817	M9+glucose	-2.67470850383887	-8.98380342479709
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH827	M9+galactose	-2.54302851300893	-8.65917035172621
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH830	M9+xylose	-2.65766744933402	-8.25725347457533
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH828	M9+galactose	-3.11174180542607	-10.7358813163754
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH832	M9+xylose	-2.817455657423	-8.75370826494782
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH834	M9+mannose	-2.18444217195356	-7.817252370753
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH825	M9+cellobiose	-3.07996942559461	-7.80735166887754
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH837	M9+glycerol	-2.33759689614368	-8.06498881069275
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH824	M9+cellobiose	-3.07517447860007	-7.79519705555287
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH823	M9+fructose	-2.61034042882641	-7.81816328184739
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH831	M9+xylose	-2.62492880062228	-8.0110451828825
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH826	M9+cellobiose	-2.78477908100948	-8.34061998916881
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH816	M9+glucose	-2.95499096443976	-8.67682494920198
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH818	M9+polygalacturonate	-3.30719068357042	-5.89998451921004
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH836	M9+glycerol	-3.07556495916608	-8.02293117523845
+GNGAKM_07180	GNGAKM_07180	cystathionine gamma-synthase	set17TCH815	M9+glucose	-3.09521023118665	-8.50317031908878
+GNGAKM_07260	GNGAKM_07260	aquaporin	set17TCH836	M9+glycerol	-2.50146460525204	-9.10053444153175
+GNGAKM_07260	GNGAKM_07260	aquaporin	set17TCH838	M9+glycerol	-2.09573998855321	-8.10556960073604
+GNGAKM_07265	GNGAKM_07265	glycerol kinase GlpK	set17TCH838	M9+glycerol	-2.65320004781641	-6.90079302116935
+GNGAKM_07265	GNGAKM_07265	glycerol kinase GlpK	set17TCH836	M9+glycerol	-2.68866541843881	-7.70375804187692
+GNGAKM_07610	GNGAKM_07610	envelope stress sensor histidine kinase CpxA	set21TCH1145	Tuber-Atlantic	-4.19877371181104	-5.35012765916397
+GNGAKM_07860	GNGAKM_07860	ketodeoxygluconokinase	set17TCH820	M9+polygalacturonate	-3.11470578917494	-9.05579796772231
+GNGAKM_07860	GNGAKM_07860	ketodeoxygluconokinase	set17TCH818	M9+polygalacturonate	-3.10160681761903	-9.58433800943673
+GNGAKM_07860	GNGAKM_07860	ketodeoxygluconokinase	set17TCH819	M9+polygalacturonate	-3.53714483329978	-8.16481492599541
+GNGAKM_08005	GNGAKM_08005	hypothetical protein	set21TCH1144	Tuber-Atlantic	-2.70487062282376	-5.69413809183614
+GNGAKM_08005	GNGAKM_08005	hypothetical protein	set21TCH1145	Tuber-Atlantic	-3.40758310569694	-7.79782853432025
+GNGAKM_08005	GNGAKM_08005	hypothetical protein	set21TCH1143	Tuber-Atlantic	-2.41059270359508	-5.91330533712604
+GNGAKM_08005	GNGAKM_08005	hypothetical protein	set21TCH1141	Tuber-Atlantic	-3.04372683203705	-6.40747869757731
+GNGAKM_08110	GNGAKM_08110	hypothetical protein	set21TCH1145	Tuber-Atlantic	-2.00310403986726	-9.78344722264537
+GNGAKM_08750	GNGAKM_08750	ribose operon transcriptional repressor RbsR	set21TCH1143	Tuber-Atlantic	2.21027279046149	17.8925628159942
+GNGAKM_08805	GNGAKM_08805	thiol:disulfide interchange protein DsbA	set21TCH1141	Tuber-Atlantic	3.61587471772914	12.6763675095046
+GNGAKM_08805	GNGAKM_08805	thiol:disulfide interchange protein DsbA	set21TCH1143	Tuber-Atlantic	4.57660415417433	11.421223125421
+GNGAKM_08805	GNGAKM_08805	thiol:disulfide interchange protein DsbA	set17TCH823	M9+fructose	-2.10414189927569	-6.34720092344706
+GNGAKM_08805	GNGAKM_08805	thiol:disulfide interchange protein DsbA	set17TCH819	M9+polygalacturonate	-3.18413451795566	-6.9091691113502
+GNGAKM_08805	GNGAKM_08805	thiol:disulfide interchange protein DsbA	set17TCH815	M9+glucose	-2.32691436710036	-7.24246017319275
+GNGAKM_08805	GNGAKM_08805	thiol:disulfide interchange protein DsbA	set17TCH816	M9+glucose	-2.53834934907089	-6.96762731003751
+GNGAKM_08805	GNGAKM_08805	thiol:disulfide interchange protein DsbA	set17TCH817	M9+glucose	-2.23920193811906	-6.96945752961775
+GNGAKM_08805	GNGAKM_08805	thiol:disulfide interchange protein DsbA	set17TCH826	M9+cellobiose	-2.72478378588297	-7.14070974581636
+GNGAKM_08805	GNGAKM_08805	thiol:disulfide interchange protein DsbA	set17TCH818	M9+polygalacturonate	-3.67548075407772	-5.54448090734686
+GNGAKM_08805	GNGAKM_08805	thiol:disulfide interchange protein DsbA	set17TCH820	M9+polygalacturonate	-3.80576668486107	-5.16221640297888
+GNGAKM_08805	GNGAKM_08805	thiol:disulfide interchange protein DsbA	set17TCH822	M9+fructose	-2.49379617919609	-6.84533134503096
+GNGAKM_08950	GNGAKM_08950	inorganic phosphate transporter PitA	set17TCH820	M9+polygalacturonate	-2.04331018221952	-5.19773974370013
+GNGAKM_09240	GNGAKM_09240	xylulokinase	set17TCH831	M9+xylose	-2.50563679147415	-9.98119580011461
+GNGAKM_09240	GNGAKM_09240	xylulokinase	set17TCH830	M9+xylose	-2.78983805754063	-10.3661457748731
+GNGAKM_09240	GNGAKM_09240	xylulokinase	set17TCH832	M9+xylose	-2.11409380208014	-9.57635309335595
+GNGAKM_09245	GNGAKM_09245	xylose isomerase	set17TCH830	M9+xylose	-2.4601842655082	-8.95961051919005
+GNGAKM_09245	GNGAKM_09245	xylose isomerase	set17TCH832	M9+xylose	-2.07468296478851	-8.25044851096242
+GNGAKM_09245	GNGAKM_09245	xylose isomerase	set17TCH831	M9+xylose	-2.48042965126692	-8.25597912116374
+GNGAKM_09265	GNGAKM_09265	XylR family transcriptional regulator	set17TCH830	M9+xylose	-2.84483558514049	-10.9627360955113
+GNGAKM_09265	GNGAKM_09265	XylR family transcriptional regulator	set17TCH832	M9+xylose	-2.34934808876874	-10.3209336473059
+GNGAKM_09265	GNGAKM_09265	XylR family transcriptional regulator	set17TCH831	M9+xylose	-2.72211448999679	-10.2721086551581
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH821	M9+fructose	-3.01866042333767	-10.134202825752
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH833	M9+mannose	-2.27587051933705	-9.54363023120757
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH828	M9+galactose	-3.29639064901146	-12.1293539769593
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH826	M9+cellobiose	-2.99826068116244	-9.42892249721637
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH817	M9+glucose	-2.8572031775798	-10.3910108728689
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH838	M9+glycerol	-2.63280070660411	-10.3143106850633
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH829	M9+galactose	-3.22959496458129	-9.58611645936848
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH827	M9+galactose	-2.98447361805021	-10.3115364958262
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH823	M9+fructose	-2.65897281890796	-8.92666483670946
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH819	M9+polygalacturonate	-2.86470052722218	-9.61733090395401
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH825	M9+cellobiose	-3.08969704154616	-9.17087002836211
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH820	M9+polygalacturonate	-3.00269723072567	-7.89973884445579
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH832	M9+xylose	-2.84430023123639	-9.10224621971404
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH837	M9+glycerol	-2.66771396238427	-9.46534489834872
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH831	M9+xylose	-3.09482562846751	-8.79095442223459
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH815	M9+glucose	-2.74877648390771	-10.4520037925628
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH822	M9+fructose	-2.74352391591039	-9.47904073099632
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH834	M9+mannose	-2.29209749593444	-9.2280173872113
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH818	M9+polygalacturonate	-2.95458731001063	-9.2915785916748
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH835	M9+mannose	-2.42713000163369	-8.8269306273854
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH830	M9+xylose	-3.133200517804	-9.49024493719179
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH816	M9+glucose	-2.79225305275992	-10.3911948368829
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH824	M9+cellobiose	-2.98044050439699	-10.1536343075035
+GNGAKM_09275	GNGAKM_09275	argininosuccinate synthase	set17TCH836	M9+glycerol	-2.95924619400801	-9.62929605368918
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set21TCH1144	Tuber-Atlantic	-2.6729905803653	-7.01746743434456
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set17TCH821	M9+fructose	-2.99565412171067	-5.30084342082514
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set17TCH833	M9+mannose	-2.17819367467931	-5.73080877317359
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set17TCH823	M9+fructose	-2.81223244392221	-5.29384290731936
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set17TCH829	M9+galactose	-3.36582820859747	-5.08397981089332
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set17TCH822	M9+fructose	-2.74215232406465	-5.96618781956897
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set21TCH1141	Tuber-Atlantic	-2.15555610088439	-7.89888530178435
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set17TCH828	M9+galactose	-3.03488622824483	-7.34556725597848
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set17TCH817	M9+glucose	-2.69333680076924	-6.71680195219423
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set17TCH837	M9+glycerol	-2.78072775153281	-5.23453739268689
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set17TCH827	M9+galactose	-2.6934374210889	-6.51913259292753
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set17TCH816	M9+glucose	-2.53892206021781	-6.33171337712736
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set17TCH834	M9+mannose	-2.72613860459184	-6.16592857787692
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set21TCH1145	Tuber-Atlantic	-3.71608039304379	-9.47679941964052
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set17TCH832	M9+xylose	-2.48050602467854	-6.35992489659825
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set21TCH1146	Tuber-Atlantic	-3.45211000046493	-6.17688661662809
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set17TCH815	M9+glucose	-2.66268891954527	-6.64037046082746
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set17TCH824	M9+cellobiose	-2.66695223229171	-6.03206196384212
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set21TCH1143	Tuber-Atlantic	-2.31505183053207	-7.38544465590096
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set17TCH826	M9+cellobiose	-3.03743238645905	-6.03523172620971
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set17TCH835	M9+mannose	-2.51632611184762	-5.69137866217267
+GNGAKM_09545	GNGAKM_09545	orotate phosphoribosyltransferase	set17TCH831	M9+xylose	-2.68406900543505	-5.59462869540296
+GNGAKM_09620	GNGAKM_09620	Glycosyltransferase family 2 protein	set21TCH1141	Tuber-Atlantic	2.00640407043847	5.5000537204844
+GNGAKM_09620	GNGAKM_09620	Glycosyltransferase family 2 protein	set21TCH1143	Tuber-Atlantic	2.05595374033284	5.29195606269596
+GNGAKM_09705	GNGAKM_09705	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	set17TCH827	M9+galactose	-2.61753095226522	-6.03360963467419
+GNGAKM_09705	GNGAKM_09705	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	set17TCH824	M9+cellobiose	-2.47752504838711	-6.06521371317894
+GNGAKM_09705	GNGAKM_09705	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	set19TCH1008	LB at 36C	-2.62396143978948	-5.42547591443641
+GNGAKM_09705	GNGAKM_09705	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	set17TCH829	M9+galactose	-2.40306505180584	-6.0420410485395
+GNGAKM_09705	GNGAKM_09705	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	set17TCH826	M9+cellobiose	-2.21474836397878	-5.96959414813824
+GNGAKM_09705	GNGAKM_09705	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	set17TCH828	M9+galactose	-2.90877724991374	-7.12095955447354
+GNGAKM_09705	GNGAKM_09705	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	set17TCH825	M9+cellobiose	-2.204970807096	-5.54397148645382
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH821	M9+fructose	-3.28528418154833	-8.32900529624191
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH829	M9+galactose	-3.25797078334773	-8.25975909843995
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH817	M9+glucose	-3.02657247750791	-9.40546989031648
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH827	M9+galactose	-3.25627359757166	-8.00443317763457
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH838	M9+glycerol	-2.95416873426284	-7.9163647711887
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH823	M9+fructose	-2.9420634680971	-8.64054359792961
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH837	M9+glycerol	-2.12430813284814	-8.09541458952173
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH822	M9+fructose	-3.24193820239204	-6.83519735322339
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH833	M9+mannose	-2.09517992019787	-8.20359083240292
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH832	M9+xylose	-2.86925759467809	-7.6888261251073
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH816	M9+glucose	-2.58103717413217	-9.13128468239972
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH834	M9+mannose	-2.72625560143087	-8.00673766514605
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH828	M9+galactose	-3.48715371228154	-10.0293136887438
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH830	M9+xylose	-3.09662174005265	-7.85069949753963
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH825	M9+cellobiose	-3.48944564663531	-7.00574137812758
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH836	M9+glycerol	-3.01347750633801	-8.47707722039908
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH826	M9+cellobiose	-2.8478199403676	-8.19054216348817
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH835	M9+mannose	-2.49439573057024	-8.01411243851481
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH831	M9+xylose	-2.99270112588031	-6.86082575555562
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH824	M9+cellobiose	-3.28413519117306	-7.52894403970891
+GNGAKM_09740	GNGAKM_09740	HTH-type transcriptional regulator MetR	set17TCH815	M9+glucose	-3.1302914028641	-8.60100750400305
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH833	M9+mannose	-2.11984383579604	-12.2274955522852
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH817	M9+glucose	-2.72819708795676	-14.470861180601
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH819	M9+polygalacturonate	-3.12473663811025	-11.6545113022185
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH816	M9+glucose	-2.90027812524664	-14.5370830897482
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH825	M9+cellobiose	-2.69789257831499	-13.7614452876503
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH821	M9+fructose	-2.86688393073763	-14.1026966870539
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH832	M9+xylose	-2.58328952023253	-13.6524317287668
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH823	M9+fructose	-2.9438424864372	-13.1311072396721
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH836	M9+glycerol	-2.8715488749209	-13.7707783812761
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH834	M9+mannose	-2.49298082451011	-11.8911346520238
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH829	M9+galactose	-2.74747363051571	-13.9546902781674
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH822	M9+fructose	-2.94850456205084	-13.329152014904
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH837	M9+glycerol	-2.07296316856074	-12.1305553127892
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH820	M9+polygalacturonate	-3.18873747828164	-10.1272589456093
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH828	M9+galactose	-2.89234475060341	-16.2017861140993
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH830	M9+xylose	-3.05638417556724	-13.0450065854298
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH838	M9+glycerol	-2.82641658208647	-12.9419744559634
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH831	M9+xylose	-2.86383495385839	-13.1948928430151
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH815	M9+glucose	-2.63571159851643	-14.0802342705973
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH824	M9+cellobiose	-2.51808161229211	-13.0564193065671
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH827	M9+galactose	-2.99940029216512	-13.9036777058206
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH835	M9+mannose	-2.47886563340245	-12.3108977755293
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH826	M9+cellobiose	-2.64043646411419	-13.3529873975099
+GNGAKM_09775	GNGAKM_09775	Phosphoenolpyruvate carboxylase	set17TCH818	M9+polygalacturonate	-3.33880781758187	-11.6741281170578
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH838	M9+glycerol	-2.44017926067257	-9.54105290827791
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH829	M9+galactose	-2.32272658784038	-10.3327668713892
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH816	M9+glucose	-2.66297009645245	-10.3125969985475
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH835	M9+mannose	-2.2436412577148	-9.38746987937418
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH822	M9+fructose	-2.46226608009293	-10.1429769325566
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH836	M9+glycerol	-2.27201563190541	-9.20678103195388
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH821	M9+fructose	-2.39954716876002	-10.739335676768
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH834	M9+mannose	-2.22250421106949	-9.00614825292895
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH825	M9+cellobiose	-2.55242926081044	-9.88451743003214
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH817	M9+glucose	-2.55696741611357	-10.6165185064859
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH815	M9+glucose	-2.3544065588648	-10.4736968270721
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH832	M9+xylose	-2.7710958118062	-8.85643022092172
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH823	M9+fructose	-2.2285599666668	-9.66296075583215
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH827	M9+galactose	-2.37289292539103	-10.4907843037411
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH819	M9+polygalacturonate	-3.07665114062609	-7.85525218429809
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH826	M9+cellobiose	-2.35217400051995	-10.0597227931223
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH830	M9+xylose	-2.71359003434996	-9.48860790228299
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH820	M9+polygalacturonate	-2.87159182383813	-8.68770053138454
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH818	M9+polygalacturonate	-3.03716867256255	-9.1886359584556
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH831	M9+xylose	-2.97572754368759	-9.00275225327691
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH824	M9+cellobiose	-2.40532988862492	-10.0639805056995
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH828	M9+galactose	-2.46614777032488	-11.6500643695416
+GNGAKM_09795	GNGAKM_09795	acetylornithine deacetylase	set17TCH837	M9+glycerol	-2.33929407208913	-9.55864983543334
+GNGAKM_09800	GNGAKM_09800	N-acetyl-gamma-glutamyl-phosphate reductase	set17TCH816	M9+glucose	-2.79273642434297	-5.1860378189228
+GNGAKM_09800	GNGAKM_09800	N-acetyl-gamma-glutamyl-phosphate reductase	set17TCH829	M9+galactose	-2.40976309578974	-5.70381256197813
+GNGAKM_09800	GNGAKM_09800	N-acetyl-gamma-glutamyl-phosphate reductase	set17TCH827	M9+galactose	-2.49533333800122	-5.53467278477821
+GNGAKM_09800	GNGAKM_09800	N-acetyl-gamma-glutamyl-phosphate reductase	set17TCH822	M9+fructose	-2.545555960261	-5.43904925642761
+GNGAKM_09800	GNGAKM_09800	N-acetyl-gamma-glutamyl-phosphate reductase	set17TCH830	M9+xylose	-3.23746656313798	-5.27469626241934
+GNGAKM_09800	GNGAKM_09800	N-acetyl-gamma-glutamyl-phosphate reductase	set17TCH821	M9+fructose	-3.16661253653223	-5.15925616071448
+GNGAKM_09800	GNGAKM_09800	N-acetyl-gamma-glutamyl-phosphate reductase	set17TCH832	M9+xylose	-2.8657256414506	-5.32157686836344
+GNGAKM_09800	GNGAKM_09800	N-acetyl-gamma-glutamyl-phosphate reductase	set17TCH815	M9+glucose	-2.86226293211518	-5.31514670853423
+GNGAKM_09800	GNGAKM_09800	N-acetyl-gamma-glutamyl-phosphate reductase	set17TCH837	M9+glycerol	-2.45079555767174	-5.43588756962075
+GNGAKM_09800	GNGAKM_09800	N-acetyl-gamma-glutamyl-phosphate reductase	set17TCH828	M9+galactose	-2.57879524213604	-6.60890650103548
+GNGAKM_09800	GNGAKM_09800	N-acetyl-gamma-glutamyl-phosphate reductase	set17TCH817	M9+glucose	-2.6725225127213	-5.47860368273041
+GNGAKM_09800	GNGAKM_09800	N-acetyl-gamma-glutamyl-phosphate reductase	set17TCH825	M9+cellobiose	-2.40001786179217	-5.50706404723497
+GNGAKM_09800	GNGAKM_09800	N-acetyl-gamma-glutamyl-phosphate reductase	set17TCH826	M9+cellobiose	-3.00430816174329	-5.25247171505243
+GNGAKM_09800	GNGAKM_09800	N-acetyl-gamma-glutamyl-phosphate reductase	set17TCH823	M9+fructose	-2.88279291836785	-5.04002500705332
+GNGAKM_09800	GNGAKM_09800	N-acetyl-gamma-glutamyl-phosphate reductase	set17TCH824	M9+cellobiose	-2.39574913815584	-5.31379409402996
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH828	M9+galactose	-3.45545881746486	-9.15253937849476
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH836	M9+glycerol	-3.37426698251598	-7.06289846040566
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH832	M9+xylose	-2.95764409502868	-7.63179022147268
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH830	M9+xylose	-3.89633561847481	-5.30005301762369
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH821	M9+fructose	-3.08453057991061	-7.26609036439767
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH835	M9+mannose	-2.24599636587719	-6.87175453482187
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH816	M9+glucose	-2.94072295177879	-7.37810032240355
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH834	M9+mannose	-2.06942378043433	-6.63797104093702
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH831	M9+xylose	-3.50069520939641	-6.98232741428109
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH819	M9+polygalacturonate	-3.84252695617242	-5.22685892169986
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH837	M9+glycerol	-3.10291689241831	-7.30940217625619
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH824	M9+cellobiose	-3.1733572219673	-7.21308561780024
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH827	M9+galactose	-3.20268635685904	-7.79584138459119
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH838	M9+glycerol	-2.89059699648319	-7.03616688630697
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH823	M9+fructose	-3.2475542178441	-7.09826136292202
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH815	M9+glucose	-3.13543717942142	-7.6321463292121
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH826	M9+cellobiose	-3.12198704304006	-7.35432487489397
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH829	M9+galactose	-2.98746839362122	-7.70874768594362
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH817	M9+glucose	-2.8187595622772	-7.99918749012537
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH822	M9+fructose	-3.39357516146756	-7.10331367001917
+GNGAKM_09805	GNGAKM_09805	acetylglutamate kinase	set17TCH825	M9+cellobiose	-3.30842789274025	-7.23131449323166
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH832	M9+xylose	-2.41706958932361	-6.86194066839735
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH834	M9+mannose	-2.45952648719416	-5.98859745792399
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH836	M9+glycerol	-2.71874387672655	-6.6197549624623
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH837	M9+glycerol	-2.34150602975601	-6.91633384672662
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH824	M9+cellobiose	-2.87932549806603	-5.74408178250043
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH815	M9+glucose	-2.43134953029254	-7.80280010985457
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH822	M9+fructose	-2.80729758276561	-6.13740574693965
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH816	M9+glucose	-2.68157647295244	-7.10516431982518
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH830	M9+xylose	-3.06901377598289	-6.42532067347243
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH835	M9+mannose	-2.23595995606979	-6.47847505120305
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH819	M9+polygalacturonate	-2.95144850381331	-6.45255320287598
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH821	M9+fructose	-2.80434964089986	-6.82819283226415
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH827	M9+galactose	-2.62255220585319	-6.94877231652883
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH828	M9+galactose	-2.70579893391313	-8.80936999225121
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH826	M9+cellobiose	-2.55165520645227	-7.2440225594756
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH829	M9+galactose	-3.17481375961775	-6.33356315279427
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH817	M9+glucose	-2.80620119719444	-6.83270110870544
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH823	M9+fructose	-2.44162572711496	-6.78354170382032
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH825	M9+cellobiose	-3.10180649925018	-6.78127076775324
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH833	M9+mannose	-2.14668211546694	-6.21980124919658
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH838	M9+glycerol	-2.69902370443866	-6.13645912197283
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH820	M9+polygalacturonate	-2.79596104933122	-5.85365451047482
+GNGAKM_09810	GNGAKM_09810	argininosuccinate lyase	set17TCH831	M9+xylose	-2.61477611604091	-6.16117181728453
+GNGAKM_09850	GNGAKM_09850	Sec-independent protein translocase subunit TatC	set19TCH1007	LB at 36C	-2.1346532404148	-11.0892615102682
+GNGAKM_09850	GNGAKM_09850	Sec-independent protein translocase subunit TatC	set19TCH1006	LB at 36C	-2.0599467650781	-11.7186231953413
+GNGAKM_09850	GNGAKM_09850	Sec-independent protein translocase subunit TatC	set19TCH1008	LB at 36C	-2.29268544750263	-11.7619091762149
+GNGAKM_09900	GNGAKM_09900	Trk system potassium transporter TrkH	set21TCH1144	Tuber-Atlantic	2.13408577278104	5.9052485467737
+GNGAKM_10055	GNGAKM_10055	thiamine phosphate synthase	set17TCH818	M9+polygalacturonate	-2.03607143809137	-9.09689251778928
+GNGAKM_10055	GNGAKM_10055	thiamine phosphate synthase	set17TCH820	M9+polygalacturonate	-2.18943945274931	-8.96148472532968
+GNGAKM_10060	GNGAKM_10060	phosphomethylpyrimidine synthase ThiC	set17TCH820	M9+polygalacturonate	-2.01584807754085	-9.70138206483231
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set17TCH825	M9+cellobiose	-2.46826790573587	-13.9520021549444
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set21TCH1144	Tuber-Atlantic	-2.6864514699311	-14.1433276231771
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set19TCH1011	Tuber-Atlantic	-2.70788934676154	-8.80273491222053
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set21TCH1143	Tuber-Atlantic	-2.88756726999025	-16.5527629153191
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set17TCH821	M9+fructose	-2.45648357391132	-14.2556428722714
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set17TCH836	M9+glycerol	-2.38965585226795	-13.4696509452713
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set21TCH1146	Tuber-Atlantic	-3.31242911070078	-17.1098388522137
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set17TCH827	M9+galactose	-2.54580011178354	-14.4303311523361
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set19TCH1013	Tuber-Atlantic	-2.20868405784012	-7.65971612067674
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set17TCH832	M9+xylose	-3.13907077233354	-13.8359426262732
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set17TCH822	M9+fructose	-2.44861700452849	-14.4811940524236
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set17TCH831	M9+xylose	-3.2391458101962	-11.8061188885245
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set19TCH1012	Tuber-Atlantic	-2.26651120781679	-6.81869375459391
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set17TCH829	M9+galactose	-2.79518836115861	-15.3344851665899
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set17TCH838	M9+glycerol	-2.31483684224721	-13.0847257448535
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set17TCH819	M9+polygalacturonate	-3.53732529895891	-9.10423428622122
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set17TCH830	M9+xylose	-3.34667905320215	-13.9627299756361
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set17TCH824	M9+cellobiose	-2.53841230051768	-14.5444161048794
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set21TCH1145	Tuber-Atlantic	-2.95199796338524	-16.804503879289
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set17TCH823	M9+fructose	-2.32929594698036	-13.64889914619
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set17TCH820	M9+polygalacturonate	-3.29761174671061	-10.2901343222928
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set19TCH1010	Tuber-Atlantic	-2.50327364205048	-5.34293072095455
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set21TCH1141	Tuber-Atlantic	-2.62267902591737	-14.3304525292602
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set17TCH818	M9+polygalacturonate	-3.42911463700402	-12.0056653380101
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set17TCH828	M9+galactose	-2.55610867794856	-16.2754034551353
+GNGAKM_10100	GNGAKM_10100	phosphoribosylamine--glycine ligase	set17TCH826	M9+cellobiose	-2.34996986978626	-14.0210354687446
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set17TCH821	M9+fructose	-2.3864398702658	-11.9988734704471
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1144	Tuber-Atlantic	-2.53574629220436	-15.3952187577409
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set17TCH829	M9+galactose	-2.6730537680069	-13.3799333907993
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set19TCH1011	Tuber-Atlantic	-2.10430710659414	-7.69850782224397
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set17TCH828	M9+galactose	-2.66123296596394	-14.482829779976
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1141	Tuber-Atlantic	-2.124063969945	-12.3544641530753
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1146	Tuber-Atlantic	-2.83340580136219	-16.4633433142623
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set17TCH822	M9+fructose	-2.15754821692998	-11.6267935082521
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set17TCH830	M9+xylose	-2.28701084362451	-11.5997246490352
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set17TCH825	M9+cellobiose	-2.54580875890147	-12.5670558413261
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1143	Tuber-Atlantic	-2.06448704603582	-13.4754691528109
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set17TCH836	M9+glycerol	-2.34404214464141	-11.9396721577743
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set17TCH820	M9+polygalacturonate	-2.38585754105455	-11.7210613326789
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set17TCH827	M9+galactose	-2.69509329379736	-12.8393356801791
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set17TCH824	M9+cellobiose	-2.5322626985858	-12.6176186875833
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1145	Tuber-Atlantic	-3.01142835343642	-17.8772709471031
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set17TCH819	M9+polygalacturonate	-2.59115879397536	-11.7007467490324
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set17TCH838	M9+glycerol	-2.22553746719522	-11.0380170712181
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set17TCH831	M9+xylose	-2.14746878481697	-11.0743317642983
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set17TCH826	M9+cellobiose	-2.62732469251254	-12.5838816337242
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set17TCH823	M9+fructose	-2.31531077330519	-12.518511330583
+GNGAKM_10105	GNGAKM_10105	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set17TCH818	M9+polygalacturonate	-2.72905344675804	-11.7273402631189
+GNGAKM_10320	GNGAKM_10320	YjeO family protein	set21TCH1146	Tuber-Atlantic	-2.02915065567455	-5.37648244742203
+GNGAKM_10320	GNGAKM_10320	YjeO family protein	set21TCH1141	Tuber-Atlantic	-2.55233672026137	-6.40562115716372
+GNGAKM_10320	GNGAKM_10320	YjeO family protein	set21TCH1143	Tuber-Atlantic	-2.24945482260435	-5.47710280922047
+GNGAKM_10320	GNGAKM_10320	YjeO family protein	set21TCH1145	Tuber-Atlantic	-2.14395398155333	-6.25574547526323
+GNGAKM_10375	GNGAKM_10375	RNase adapter RapZ	set17TCH812	LB	2.17846020805952	14.4994678573259
+GNGAKM_10375	GNGAKM_10375	RNase adapter RapZ	set21TCH1141	Tuber-Atlantic	2.09151291785189	12.9148775443344
+GNGAKM_10375	GNGAKM_10375	RNase adapter RapZ	set17TCH814	LB	2.1773763640115	15.0250496621172
+GNGAKM_10375	GNGAKM_10375	RNase adapter RapZ	set17TCH813	LB	2.18088577209006	16.2986938684725
+GNGAKM_10375	GNGAKM_10375	RNase adapter RapZ	set21TCH1143	Tuber-Atlantic	2.33716929308331	13.2048158439243
+GNGAKM_10460	GNGAKM_10460	outer membrane-stress sensor serine endopeptidase DegS	set17TCH825	M9+cellobiose	-2.70511894638817	-13.6439760726268
+GNGAKM_10460	GNGAKM_10460	outer membrane-stress sensor serine endopeptidase DegS	set17TCH824	M9+cellobiose	-2.59773473732897	-13.8844867538234
+GNGAKM_10460	GNGAKM_10460	outer membrane-stress sensor serine endopeptidase DegS	set17TCH826	M9+cellobiose	-2.17704680363598	-12.8093998064278
+GNGAKM_10460	GNGAKM_10460	outer membrane-stress sensor serine endopeptidase DegS	set17TCH816	M9+glucose	-2.04055884240616	-12.5783465228447
+GNGAKM_10460	GNGAKM_10460	outer membrane-stress sensor serine endopeptidase DegS	set17TCH815	M9+glucose	-2.39458477846962	-13.865392698697
+GNGAKM_10465	GNGAKM_10465	serine endoprotease DegQ	set19TCH1006	LB at 36C	-2.53056508863517	-6.59209070199403
+GNGAKM_10465	GNGAKM_10465	serine endoprotease DegQ	set19TCH1007	LB at 36C	-2.61077634360723	-6.19888944902678
+GNGAKM_10465	GNGAKM_10465	serine endoprotease DegQ	set19TCH1008	LB at 36C	-2.34372669941516	-6.72812886896516
+GNGAKM_10625	GNGAKM_10625	outer membrane channel protein TolC	set17TCH818	M9+polygalacturonate	-2.18972930939276	-9.24256950000547
+GNGAKM_10625	GNGAKM_10625	outer membrane channel protein TolC	set17TCH819	M9+polygalacturonate	-2.28356134769287	-8.99098077586674
+GNGAKM_10740	GNGAKM_10740	cell division protein FtsP	set19TCH1007	LB at 36C	-2.61239744709502	-11.5935261656765
+GNGAKM_10740	GNGAKM_10740	cell division protein FtsP	set19TCH1008	LB at 36C	-2.28946139823293	-11.2877620563215
+GNGAKM_10740	GNGAKM_10740	cell division protein FtsP	set19TCH1006	LB at 36C	-2.33199398190668	-11.8730319519286
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH832	M9+xylose	-2.54922037204357	-13.0381698691087
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH815	M9+glucose	-2.79175527031159	-13.9730163451239
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH835	M9+mannose	-2.40203459406528	-12.4844164778856
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH821	M9+fructose	-2.94041109631526	-12.5369296736942
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH837	M9+glycerol	-2.00968805699569	-11.512175441293
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH829	M9+galactose	-3.0335042229196	-12.9338476362218
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH820	M9+polygalacturonate	-3.39297001249369	-8.16606056214463
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH833	M9+mannose	-2.05935252101605	-11.8852064168595
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH834	M9+mannose	-2.43927081923032	-11.8649209379215
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH824	M9+cellobiose	-3.00446859647522	-11.8240077888665
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH838	M9+glycerol	-2.66270369033996	-12.4011049511086
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH836	M9+glycerol	-2.93174496090712	-11.985197710145
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH816	M9+glucose	-2.79031813776549	-13.3636159518775
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH822	M9+fructose	-2.86077751040391	-12.1973986919598
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH823	M9+fructose	-2.89206222524183	-11.7157644150466
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH827	M9+galactose	-3.02909053581013	-12.8123832127198
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH828	M9+galactose	-3.13901997803342	-15.0336468390312
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH825	M9+cellobiose	-2.97368816570808	-12.6788119701007
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH818	M9+polygalacturonate	-3.37658630260854	-10.3157906464654
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH831	M9+xylose	-2.70065443109401	-12.1944258238985
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH819	M9+polygalacturonate	-3.4810587562	-8.94965360482494
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH817	M9+glucose	-2.51303545407703	-13.7618952527359
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH826	M9+cellobiose	-3.09455859834773	-12.4191875347281
+GNGAKM_10780	GNGAKM_10780	cystathionine beta-lyase	set17TCH830	M9+xylose	-2.70219187413059	-12.9415545652021
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set21TCH1144	Tuber-Atlantic	-2.164662331714	-8.61527294484373
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH815	M9+glucose	-2.64673514854336	-10.1549602199595
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH821	M9+fructose	-3.30642084296634	-7.88133706204123
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH825	M9+cellobiose	-2.92412538861529	-9.12809433752784
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH834	M9+mannose	-2.60514435835205	-7.5215110283565
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH838	M9+glycerol	-2.84255748628417	-8.38191535785696
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH816	M9+glucose	-2.55197264454313	-9.79137663321653
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH822	M9+fructose	-3.00782054663288	-8.86923038677273
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH829	M9+galactose	-3.13646152815469	-9.4352006768748
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH832	M9+xylose	-2.73536718395275	-8.68694572144616
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set21TCH1146	Tuber-Atlantic	-3.61043505793898	-10.825296605057
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set21TCH1145	Tuber-Atlantic	-2.87857677076283	-11.4117429496574
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH826	M9+cellobiose	-2.2638529408959	-9.29981720372302
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH835	M9+mannose	-2.41918088723292	-8.81224612334793
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set21TCH1143	Tuber-Atlantic	-2.25055103089558	-9.20329261606915
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH828	M9+galactose	-2.47358227192068	-10.2381103087362
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH820	M9+polygalacturonate	-3.10343986913545	-5.90657618880972
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH818	M9+polygalacturonate	-3.06166393141243	-5.82706675108096
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH833	M9+mannose	-2.45605105038402	-8.52316968624032
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH817	M9+glucose	-2.58010405220973	-9.99310026943987
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH819	M9+polygalacturonate	-3.15488053875942	-6.34591585907631
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH831	M9+xylose	-3.22246284731576	-7.94362251754355
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH836	M9+glycerol	-3.21200156029308	-7.91783462825103
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH837	M9+glycerol	-2.52182138265894	-8.864114934825
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set21TCH1141	Tuber-Atlantic	-2.13898703831404	-11.1479394484813
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH827	M9+galactose	-2.48248643020739	-9.14360979781678
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH830	M9+xylose	-3.00272459075234	-8.8542038231714
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH824	M9+cellobiose	-2.56494499495283	-8.78348157092298
+GNGAKM_10915	GNGAKM_10915	aspartate carbamoyltransferase	set17TCH823	M9+fructose	-3.19499302452889	-7.6157325800644
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH829	M9+galactose	-2.90786730884106	-7.43572373222394
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH826	M9+cellobiose	-2.71995413936364	-6.35903919518752
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH818	M9+polygalacturonate	-3.04829091131778	-5.01310217214004
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH822	M9+fructose	-2.53384822463226	-6.96381058696549
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH838	M9+glycerol	-2.29542698062082	-6.69771322747312
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH816	M9+glucose	-2.19335173571436	-7.39838161327896
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH836	M9+glycerol	-2.41304379938873	-6.77339375045478
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH815	M9+glucose	-2.17559919745459	-6.46223810089941
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH828	M9+galactose	-2.88572312168212	-8.85913681852012
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH821	M9+fructose	-2.5681218036001	-6.90117070396699
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH832	M9+xylose	-2.83124751739119	-6.14815859514882
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH820	M9+polygalacturonate	-2.75204977274493	-5.17307085874059
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH825	M9+cellobiose	-2.69684938831616	-6.51182757291815
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH833	M9+mannose	-2.2725677600262	-6.75026630957537
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH824	M9+cellobiose	-2.67943651165218	-6.0476749552273
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH827	M9+galactose	-2.55967822679716	-6.8784807502477
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH830	M9+xylose	-3.00342359782897	-5.95805770295072
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH831	M9+xylose	-2.80490805770746	-6.3308729796523
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH823	M9+fructose	-2.41318850557798	-5.6418452319702
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH834	M9+mannose	-2.38445250749664	-6.40760643310157
+GNGAKM_10945	GNGAKM_10945	ornithine carbamoyltransferase	set17TCH817	M9+glucose	-2.35291183394639	-7.3349419281337
+GNGAKM_11450	GNGAKM_11450	5-formyltetrahydrofolate cyclo-ligase	set17TCH828	M9+galactose	-2.32789257040725	-5.10487562007423
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH821	M9+fructose	-3.56662480645067	-11.3115214655416
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH838	M9+glycerol	-2.66701081816509	-12.8823302901888
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH815	M9+glucose	-2.70912537678433	-14.1569856889929
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set21TCH1144	Tuber-Atlantic	-2.90962624357433	-13.305170411571
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH837	M9+glycerol	-2.22915609507268	-12.3255206413775
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH820	M9+polygalacturonate	-3.58194720767299	-8.30223946784466
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set21TCH1141	Tuber-Atlantic	-2.86246554377607	-15.0686148995471
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set19TCH1011	Tuber-Atlantic	-2.72254085766337	-7.80628312146502
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH822	M9+fructose	-3.37958403223666	-12.4309235920542
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH835	M9+mannose	-2.53946235080493	-12.509821929799
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH827	M9+galactose	-3.40863944833794	-12.6888274643085
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH823	M9+fructose	-3.21909638791009	-12.5241965379316
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH829	M9+galactose	-3.36225308670864	-14.3142017395094
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH824	M9+cellobiose	-3.27305896355763	-11.7390988798997
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH836	M9+glycerol	-2.99421769830983	-12.0006577708465
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH825	M9+cellobiose	-3.49358338905333	-10.8755571200827
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set21TCH1143	Tuber-Atlantic	-2.88148300665715	-14.5104420899534
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH828	M9+galactose	-3.16398769817866	-15.7321502049059
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH832	M9+xylose	-2.92856749776324	-12.8466719752968
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set21TCH1146	Tuber-Atlantic	-3.08679638634483	-13.6240622127182
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH831	M9+xylose	-3.38352307333897	-11.1100282651745
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set21TCH1145	Tuber-Atlantic	-3.1039946877592	-17.41490570439
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH830	M9+xylose	-3.28459081832538	-12.2270503572634
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH826	M9+cellobiose	-3.52681257828131	-11.5805291057204
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH816	M9+glucose	-2.64122307601163	-14.004698722533
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH834	M9+mannose	-2.49514937122785	-12.052196453267
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH817	M9+glucose	-2.74126735957093	-14.2161022418051
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH819	M9+polygalacturonate	-3.64594944179709	-7.75851641756411
+GNGAKM_11465	GNGAKM_11465	phosphoserine phosphatase	set17TCH818	M9+polygalacturonate	-3.55671800013659	-9.41267919602962
+GNGAKM_12195	GNGAKM_12195	Thiol:disulfide interchange protein DsbD	set21TCH1141	Tuber-Atlantic	2.42385922589046	17.7481682797125
+GNGAKM_12385	GNGAKM_12385	DUF305 domain-containing protein	set19TCH1012	Tuber-Atlantic	2.55831223659676	5.03554321804226
+GNGAKM_12755	GNGAKM_12755	lipoprotein NlpI	set19TCH1007	LB at 36C	-3.36823042532694	-6.42021753135568
+GNGAKM_12755	GNGAKM_12755	lipoprotein NlpI	set19TCH1004	LB	-3.26642755555785	-5.84407420772671
+GNGAKM_12755	GNGAKM_12755	lipoprotein NlpI	set19TCH1012	Tuber-Atlantic	-2.12859525040158	-5.0858539896108
+GNGAKM_12755	GNGAKM_12755	lipoprotein NlpI	set19TCH1005	LB	-3.56867223012648	-5.93166995756925
+GNGAKM_12755	GNGAKM_12755	lipoprotein NlpI	set19TCH1008	LB at 36C	-3.23659697373414	-7.1610418095308
+GNGAKM_12755	GNGAKM_12755	lipoprotein NlpI	set19TCH1006	LB at 36C	-3.53624073057722	-5.87776392777719
+GNGAKM_13060	GNGAKM_13060	site-specific tyrosine recombinase XerD	set21TCH1145	Tuber-Atlantic	-3.54134359760001	-5.64867284553823
+GNGAKM_13065	GNGAKM_13065	bifunctional protein-disulfide isomerase/oxidoreductase DsbC	set21TCH1141	Tuber-Atlantic	2.49116498465482	10.972120644484
+GNGAKM_13465	GNGAKM_13465	outer membrane protein assembly factor BamE	set21TCH1141	Tuber-Atlantic	2.17572538758729	6.49194799469323
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH824	M9+cellobiose	-2.38269099599763	-7.5759918630888
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH838	M9+glycerol	-2.33370220874484	-6.96332042465348
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH822	M9+fructose	-2.44289424069895	-7.15921534999065
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH826	M9+cellobiose	-2.6247809038313	-7.07960009514038
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH837	M9+glycerol	-2.29682501085088	-6.97129818975553
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH832	M9+xylose	-2.77818426777618	-7.12796717411643
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH821	M9+fructose	-2.65953196325283	-7.64755207261684
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH829	M9+galactose	-2.35673931860025	-7.99612886094324
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH823	M9+fructose	-2.22437650380621	-7.45751408242791
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH836	M9+glycerol	-2.5501895548429	-7.18735739014601
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH827	M9+galactose	-2.27770921852598	-7.63631900614302
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH830	M9+xylose	-3.14203105055093	-6.83953731294834
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH828	M9+galactose	-2.15358231158206	-8.8666642809578
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH817	M9+glucose	-2.54677948452157	-7.59910220558759
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH815	M9+glucose	-2.05666074450216	-7.6978101185159
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH825	M9+cellobiose	-2.55064817653876	-7.03719612850307
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH834	M9+mannose	-2.30898671809955	-7.00821127078102
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH819	M9+polygalacturonate	-3.18597024396728	-6.33293347190197
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH831	M9+xylose	-2.83293327876342	-7.45871891386942
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH818	M9+polygalacturonate	-3.35833744332584	-5.53064163374968
+GNGAKM_14545	GNGAKM_14545	amino-acid N-acetyltransferase	set17TCH816	M9+glucose	-2.42195064800503	-7.58793805683544
+GNGAKM_15295	GNGAKM_15295	Lon protease	set19TCH1005	LB	-2.07155762137189	-6.46277351596785
+GNGAKM_15400	GNGAKM_15400	hydrophobe/amphiphile efflux-1 family RND transporter	set19TCH1011	Tuber-Atlantic	-2.65003169362442	-6.59507289613028
+GNGAKM_15400	GNGAKM_15400	hydrophobe/amphiphile efflux-1 family RND transporter	set17TCH819	M9+polygalacturonate	-2.32638586735064	-11.7646488636669
+GNGAKM_15400	GNGAKM_15400	hydrophobe/amphiphile efflux-1 family RND transporter	set17TCH820	M9+polygalacturonate	-2.30877570823107	-11.8084245048445
+GNGAKM_15405	GNGAKM_15405	efflux transporter periplasmic adaptor subunit	set17TCH818	M9+polygalacturonate	-2.31635512574268	-11.5281733393388
+GNGAKM_15405	GNGAKM_15405	efflux transporter periplasmic adaptor subunit	set17TCH819	M9+polygalacturonate	-2.36375143077919	-11.0325094518648
+GNGAKM_15405	GNGAKM_15405	efflux transporter periplasmic adaptor subunit	set19TCH1011	Tuber-Atlantic	-2.76057233353973	-7.86759816135477
+GNGAKM_15405	GNGAKM_15405	efflux transporter periplasmic adaptor subunit	set17TCH820	M9+polygalacturonate	-2.29350119031991	-10.7046253809043
+GNGAKM_15405	GNGAKM_15405	efflux transporter periplasmic adaptor subunit	set19TCH1012	Tuber-Atlantic	-2.03912007286719	-6.55313869933553
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1144	Tuber-Atlantic	-2.64409962756	-9.8819304667345
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set17TCH838	M9+glycerol	-2.20924027364393	-7.99500370364155
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set17TCH836	M9+glycerol	-2.32703791578353	-8.58503422868074
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set17TCH824	M9+cellobiose	-2.9692308421755	-8.42620084589144
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set17TCH823	M9+fructose	-2.82398981190856	-8.1788993951474
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set17TCH826	M9+cellobiose	-3.00366707401569	-8.52392534805529
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set19TCH1011	Tuber-Atlantic	-2.19331111753475	-5.00672111447696
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1145	Tuber-Atlantic	-3.24191185565579	-13.0008295108872
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1143	Tuber-Atlantic	-2.98343741371286	-10.3459191041537
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set17TCH830	M9+xylose	-3.37355627255972	-6.72874187455329
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set17TCH819	M9+polygalacturonate	-3.38857175010523	-6.40065792036241
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set17TCH829	M9+galactose	-2.93316219329903	-8.49508676960461
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1141	Tuber-Atlantic	-2.68525792667766	-11.0814802202333
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set17TCH822	M9+fructose	-2.98743499169292	-8.82053946066198
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set17TCH818	M9+polygalacturonate	-3.27555907101645	-7.7160876144135
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set17TCH828	M9+galactose	-2.92480368707169	-10.0233590250247
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1146	Tuber-Atlantic	-3.40549350036764	-9.9202550655238
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set17TCH821	M9+fructose	-3.09222183372209	-8.39313425404835
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set17TCH825	M9+cellobiose	-3.05887995934307	-8.30263530442809
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set17TCH832	M9+xylose	-2.92048240892877	-8.45836330825247
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set17TCH831	M9+xylose	-3.06837872624935	-7.69838112621343
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set17TCH827	M9+galactose	-2.51544931997562	-8.40903256724989
+GNGAKM_15865	GNGAKM_15865	Phosphoribosylformylglycinamidine cyclo-ligase	set17TCH820	M9+polygalacturonate	-3.47952663867102	-5.74365021561384
+GNGAKM_15900	GNGAKM_15900	glycine cleavage system transcriptional repressor	set17TCH818	M9+polygalacturonate	-2.07452465971228	-7.44122866210806
+GNGAKM_16025	GNGAKM_16025	peptidase M15	set21TCH1143	Tuber-Atlantic	2.06028954995957	10.4402284207136
+GNGAKM_16070	GNGAKM_16070	lipoyl(octanoyl) transferase LipB	set21TCH1146	Tuber-Atlantic	-2.03386279165592	-5.97050035435472
+GNGAKM_16400	GNGAKM_16400	succinate dehydrogenase cytochrome b556 subunit	set17TCH820	M9+polygalacturonate	-3.33171377246989	-5.74903290813679
+GNGAKM_16400	GNGAKM_16400	succinate dehydrogenase cytochrome b556 subunit	set17TCH818	M9+polygalacturonate	-2.38215025257892	-5.80154453563588
+GNGAKM_16400	GNGAKM_16400	succinate dehydrogenase cytochrome b556 subunit	set17TCH819	M9+polygalacturonate	-2.89763479764815	-6.29386452835989
+GNGAKM_16470	GNGAKM_16470	Tol-Pal system protein TolQ	set21TCH1141	Tuber-Atlantic	2.17070002882527	7.46816723604059
+GNGAKM_16470	GNGAKM_16470	Tol-Pal system protein TolQ	set21TCH1143	Tuber-Atlantic	2.31428337996806	6.54358526701423
+GNGAKM_16520	GNGAKM_16520	quinolinate synthase NadA	set17TCH818	M9+polygalacturonate	-2.25583594503932	-8.24442237569245
+GNGAKM_16520	GNGAKM_16520	quinolinate synthase NadA	set17TCH819	M9+polygalacturonate	-2.91211138064944	-7.86394269826451
+GNGAKM_16570	GNGAKM_16570	galactose-1-epimerase	set17TCH820	M9+polygalacturonate	-2.0862801874969	-10.8414417690182
+GNGAKM_16570	GNGAKM_16570	galactose-1-epimerase	set17TCH819	M9+polygalacturonate	-2.3576159770736	-11.4043638647194
+GNGAKM_16570	GNGAKM_16570	galactose-1-epimerase	set17TCH818	M9+polygalacturonate	-2.32067821759015	-11.7508368581899
+GNGAKM_16575	GNGAKM_16575	UDP-glucose 4-epimerase GalE	set17TCH820	M9+polygalacturonate	-3.67334788920773	-9.97730928572068
+GNGAKM_16575	GNGAKM_16575	UDP-glucose 4-epimerase GalE	set17TCH828	M9+galactose	-3.79140448816975	-14.8539772811084
+GNGAKM_16575	GNGAKM_16575	UDP-glucose 4-epimerase GalE	set17TCH829	M9+galactose	-3.38901024940572	-12.724857334177
+GNGAKM_16575	GNGAKM_16575	UDP-glucose 4-epimerase GalE	set17TCH819	M9+polygalacturonate	-3.62886594429305	-9.85649031201333
+GNGAKM_16575	GNGAKM_16575	UDP-glucose 4-epimerase GalE	set17TCH827	M9+galactose	-3.43392302087702	-12.1213154219741
+GNGAKM_16575	GNGAKM_16575	UDP-glucose 4-epimerase GalE	set17TCH818	M9+polygalacturonate	-3.80935626672095	-10.61652297884
+GNGAKM_16775	GNGAKM_16775	O-antigen flippase	set19TCH1008	LB at 36C	-2.45606044018048	-6.06156689717255
+GNGAKM_16775	GNGAKM_16775	O-antigen flippase	set19TCH1006	LB at 36C	-2.09665393932481	-6.05188243679448
+GNGAKM_16775	GNGAKM_16775	O-antigen flippase	set19TCH1007	LB at 36C	-2.03331672475213	-5.53473987589735
+GNGAKM_16860	GNGAKM_16860	NADP-dependent phosphogluconate dehydrogenase	set17TCH826	M9+cellobiose	-2.02797879594183	-11.1981158419611
+GNGAKM_16860	GNGAKM_16860	NADP-dependent phosphogluconate dehydrogenase	set17TCH824	M9+cellobiose	-2.16826821969419	-11.5060218897006
+GNGAKM_16915	GNGAKM_16915	Fe-S cluster assembly protein HesB	set21TCH1146	Tuber-Atlantic	2.76515091673211	10.6724331789376
+GNGAKM_16915	GNGAKM_16915	Fe-S cluster assembly protein HesB	set21TCH1141	Tuber-Atlantic	2.98234893172567	18.8254861528374
+GNGAKM_16915	GNGAKM_16915	Fe-S cluster assembly protein HesB	set21TCH1144	Tuber-Atlantic	2.86089397449805	16.8675059984071
+GNGAKM_16915	GNGAKM_16915	Fe-S cluster assembly protein HesB	set19TCH1006	LB at 36C	2.10969481686124	13.4336808615562
+GNGAKM_16915	GNGAKM_16915	Fe-S cluster assembly protein HesB	set19TCH1011	Tuber-Atlantic	2.17643683036183	8.43196207292577
+GNGAKM_16915	GNGAKM_16915	Fe-S cluster assembly protein HesB	set17TCH814	LB	2.15831109706911	11.5190708223366
+GNGAKM_16915	GNGAKM_16915	Fe-S cluster assembly protein HesB	set17TCH812	LB	2.06481462214787	9.96449387397955
+GNGAKM_16915	GNGAKM_16915	Fe-S cluster assembly protein HesB	set21TCH1145	Tuber-Atlantic	3.10149700018485	18.0551673480539
+GNGAKM_17090	GNGAKM_17090	MFS transporter	set17TCH829	M9+galactose	-2.42447477880292	-12.1629070313291
+GNGAKM_17090	GNGAKM_17090	MFS transporter	set17TCH828	M9+galactose	-2.78044910139809	-14.0001808032357
+GNGAKM_17090	GNGAKM_17090	MFS transporter	set17TCH827	M9+galactose	-2.58402984992658	-12.2811588522978
+GNGAKM_17095	GNGAKM_17095	Beta-galactosidase	set17TCH829	M9+galactose	-2.09553650653485	-11.6092037309782
+GNGAKM_17095	GNGAKM_17095	Beta-galactosidase	set17TCH828	M9+galactose	-2.49461603665646	-13.6574854548311
+GNGAKM_17095	GNGAKM_17095	Beta-galactosidase	set17TCH827	M9+galactose	-2.18115705718919	-11.5008518993207
+GNGAKM_17480	GNGAKM_17480	TetR family transcriptional regulator	set17TCH833	M9+mannose	2.01274823091068	5.46257152682311
+GNGAKM_18235	GNGAKM_18235	DNA starvation/stationary phase protection protein Dps	set19TCH1008	LB at 36C	-2.25123132411692	-5.94447651785993
+GNGAKM_18235	GNGAKM_18235	DNA starvation/stationary phase protection protein Dps	set19TCH1006	LB at 36C	-2.52450532379418	-6.30835232852477
+GNGAKM_18235	GNGAKM_18235	DNA starvation/stationary phase protection protein Dps	set19TCH1007	LB at 36C	-4.47736718115367	-5.27085084950426
+GNGAKM_18425	GNGAKM_18425	fused PTS fructose transporter subunit IIA/HPr protein	set17TCH821	M9+fructose	-2.13923005280104	-5.56682933740579
+GNGAKM_18430	GNGAKM_18430	1-phosphofructokinase	set17TCH822	M9+fructose	-2.92532695229417	-8.38718566055686
+GNGAKM_18430	GNGAKM_18430	1-phosphofructokinase	set17TCH823	M9+fructose	-2.71045334104691	-7.91914169934493
+GNGAKM_18430	GNGAKM_18430	1-phosphofructokinase	set17TCH821	M9+fructose	-3.0018221522175	-8.43638545021976
+GNGAKM_18435	GNGAKM_18435	PTS fructose transporter subunit IIBC	set17TCH822	M9+fructose	-2.15798704152179	-7.20941687656711
+GNGAKM_18950	GNGAKM_18950	thioredoxin-disulfide reductase	set21TCH1145	Tuber-Atlantic	-2.10482420004138	-5.0987012814401
+GNGAKM_18955	GNGAKM_18955	leucine-responsive transcriptional regulator Lrp	set17TCH835	M9+mannose	-2.10725958908622	-5.4281193586384
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set19TCH1011	Tuber-Atlantic	-2.85344651242699	-9.11569152286782
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH819	M9+polygalacturonate	-3.68489667430702	-8.4529758891831
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH835	M9+mannose	-2.39640733990142	-10.0717003683914
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH823	M9+fructose	-3.0733774815082	-9.72659066122469
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1146	Tuber-Atlantic	-3.25801654426705	-14.0096607696599
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH822	M9+fructose	-3.25417383428083	-9.36845508958161
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1145	Tuber-Atlantic	-2.37673371095438	-11.6120043927288
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH838	M9+glycerol	-3.3971555465063	-9.56537927473317
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH836	M9+glycerol	-3.2458087031751	-10.0983651569699
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH827	M9+galactose	-3.09411710402175	-11.0927087633406
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH832	M9+xylose	-2.98494320756583	-9.60194615146579
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH824	M9+cellobiose	-3.27232247111082	-10.180854833592
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH816	M9+glucose	-2.78074431464796	-10.907770293726
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH820	M9+polygalacturonate	-3.79796570231353	-6.2995556674028
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH828	M9+galactose	-3.1574089039876	-11.8196603063898
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH831	M9+xylose	-3.55737186602352	-8.46293343291982
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1143	Tuber-Atlantic	-2.58120703146826	-13.1007345300993
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH833	M9+mannose	-2.99623051865295	-11.3283249904287
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH815	M9+glucose	-2.61498217181688	-10.5989613965085
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH817	M9+glucose	-2.60207174752538	-10.706797094324
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH818	M9+polygalacturonate	-3.97146425086783	-6.03638214619175
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH829	M9+galactose	-3.22201317200756	-10.8393810529443
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set19TCH1014	Tuber-Atlantic	-2.48406711048649	-5.00842779352895
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH826	M9+cellobiose	-3.18055314594553	-10.991791372274
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH830	M9+xylose	-3.39807298719987	-10.1904052797165
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1141	Tuber-Atlantic	-2.29082258330944	-11.4457344107533
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH821	M9+fructose	-3.6126099685765	-9.43294309025662
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH834	M9+mannose	-3.12052090245139	-10.3489067927651
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH825	M9+cellobiose	-3.46458145094434	-9.9741984848645
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set19TCH1012	Tuber-Atlantic	-2.41260498032607	-8.20302108447405
+GNGAKM_19030	GNGAKM_19030	3-phosphoshikimate 1-carboxyvinyltransferase	set17TCH837	M9+glycerol	-3.11118030258253	-10.6111606572631
+GNGAKM_19055	GNGAKM_19055	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set17TCH822	M9+fructose	-2.83220106180548	-5.18225536274898
+GNGAKM_19055	GNGAKM_19055	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set17TCH821	M9+fructose	-2.83461463846239	-5.45749159065349
+GNGAKM_19055	GNGAKM_19055	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set17TCH836	M9+glycerol	-2.28098627354716	-5.41757896825739
+GNGAKM_19055	GNGAKM_19055	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set17TCH827	M9+galactose	-2.07133752882784	-5.04458394629772
+GNGAKM_19055	GNGAKM_19055	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set17TCH824	M9+cellobiose	-2.62196446083984	-5.04807560148201
+GNGAKM_19055	GNGAKM_19055	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set17TCH826	M9+cellobiose	-2.72105503876113	-5.23885497176416
+GNGAKM_19055	GNGAKM_19055	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set17TCH823	M9+fructose	-2.34770638903041	-5.42641200431834
+GNGAKM_19055	GNGAKM_19055	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set17TCH817	M9+glucose	-2.25852831613103	-5.36423899020552
+GNGAKM_19055	GNGAKM_19055	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set17TCH830	M9+xylose	-2.54314865841241	-5.70641442408984
+GNGAKM_19055	GNGAKM_19055	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set17TCH815	M9+glucose	-2.04144587728185	-5.0886036150509
+GNGAKM_19055	GNGAKM_19055	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set17TCH828	M9+galactose	-2.68763695568702	-6.69932976467793
+GNGAKM_19055	GNGAKM_19055	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set17TCH831	M9+xylose	-2.2885009352632	-5.28956644878181
+GNGAKM_19055	GNGAKM_19055	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set17TCH832	M9+xylose	-2.16352889283159	-5.26910895410934
+GNGAKM_19055	GNGAKM_19055	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set17TCH829	M9+galactose	-2.57560448739622	-5.59439227312731
+GNGAKM_19070	GNGAKM_19070	imidazole glycerol phosphate synthase subunit HisH	set17TCH828	M9+galactose	-4.03800451815196	-5.31295188817087
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH823	M9+fructose	-3.07998587146518	-10.0493161770895
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH822	M9+fructose	-3.03528065052148	-10.4734898023842
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH816	M9+glucose	-2.60457541344736	-10.3687124203613
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH819	M9+polygalacturonate	-3.80941918688653	-7.64780455153911
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH835	M9+mannose	-2.69417874316512	-10.1674330041993
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH828	M9+galactose	-3.48330906642197	-11.8624381699407
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH827	M9+galactose	-3.46230275704754	-9.51245908615913
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH832	M9+xylose	-3.19997124609244	-10.8975288521702
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH836	M9+glycerol	-2.95958477612709	-11.1690362073635
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH821	M9+fructose	-3.29102291725355	-10.2261758313755
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH818	M9+polygalacturonate	-3.91013909915943	-6.97588737077119
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH825	M9+cellobiose	-3.46263408661546	-9.27816516564137
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH838	M9+glycerol	-2.51728667326505	-9.7687452555171
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH820	M9+polygalacturonate	-3.90225455900191	-5.92940717506016
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH829	M9+galactose	-3.47145262095677	-9.76451906442952
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH831	M9+xylose	-3.19596117282309	-8.9896153595225
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH817	M9+glucose	-2.68697532472735	-10.2379848575938
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH834	M9+mannose	-2.67998830425352	-10.4915788603313
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH837	M9+glycerol	-2.30460904711657	-9.91618104450034
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH833	M9+mannose	-2.25242288964659	-9.97708434109259
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH815	M9+glucose	-2.57900836679095	-10.6652586808876
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH824	M9+cellobiose	-3.40991253512756	-10.2139762969604
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH830	M9+xylose	-3.3767767990581	-9.71095992291498
+GNGAKM_19075	GNGAKM_19075	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set17TCH826	M9+cellobiose	-3.24183058957348	-10.4142999528877
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH819	M9+polygalacturonate	-3.56957127319397	-5.3696090084989
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH836	M9+glycerol	-2.38461230529694	-7.22596020893448
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH823	M9+fructose	-2.1704878118836	-6.14491443966193
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH838	M9+glycerol	-2.1690096076694	-6.2546953813342
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH822	M9+fructose	-3.01017591639436	-5.93880636547184
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH816	M9+glucose	-2.16383208326989	-6.84318542643472
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH828	M9+galactose	-3.53009894867221	-7.61560288734113
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH817	M9+glucose	-2.26137398803122	-7.42371076003153
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH825	M9+cellobiose	-2.59681970909202	-6.90875699302798
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH827	M9+galactose	-2.7472618361979	-6.77547074353963
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH831	M9+xylose	-2.4645409380193	-6.70278853300443
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH832	M9+xylose	-2.24211208044365	-6.89629174713388
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH826	M9+cellobiose	-2.86512084425168	-6.86232172097071
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH820	M9+polygalacturonate	-3.45361009152924	-6.07687403711555
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH818	M9+polygalacturonate	-3.70337098375051	-5.01192108901873
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH830	M9+xylose	-2.43754998878917	-6.76789600713365
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH824	M9+cellobiose	-2.92295384312659	-6.55073168079281
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH829	M9+galactose	-2.57827094974728	-7.29939799786931
+GNGAKM_19080	GNGAKM_19080	histidinol-phosphate transaminase	set17TCH821	M9+fructose	-2.788693946218	-6.67926976925454
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH816	M9+glucose	-2.15396830998196	-6.91726564912312
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH832	M9+xylose	-2.70209398261184	-7.20048885039056
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH828	M9+galactose	-3.16824979956622	-8.63125662148885
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH825	M9+cellobiose	-3.05417946125578	-6.59590246906288
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH834	M9+mannose	-2.19240377216149	-6.44582748721352
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH838	M9+glycerol	-2.85261040815403	-5.9055147150171
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH817	M9+glucose	-2.04606625132775	-6.39770008668593
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH831	M9+xylose	-3.05546203269211	-7.09809459466427
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH836	M9+glycerol	-2.86476385340745	-6.87047689266618
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH822	M9+fructose	-3.16206245429921	-7.09475186939999
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH821	M9+fructose	-2.86116979850227	-7.62439107068961
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH820	M9+polygalacturonate	-3.54440918915977	-5.81060599309322
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH830	M9+xylose	-2.40954438350069	-6.83423860230485
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH837	M9+glycerol	-2.37147750234686	-7.08879743340833
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH818	M9+polygalacturonate	-3.65066488067736	-5.49443707655398
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH823	M9+fructose	-2.87957892795988	-6.46094069219007
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH827	M9+galactose	-3.0155890495188	-6.76610799300523
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH833	M9+mannose	-2.02696736382284	-6.50941411379577
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH824	M9+cellobiose	-2.859816753501	-6.64359420034109
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH815	M9+glucose	-2.23022620231413	-7.16216066297236
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH826	M9+cellobiose	-3.10911538788869	-6.71454383205904
+GNGAKM_19085	GNGAKM_19085	Histidinol dehydrogenase	set17TCH829	M9+galactose	-3.32044334774219	-6.87402913290266
+GNGAKM_19090	GNGAKM_19090	ATP phosphoribosyltransferase	set17TCH828	M9+galactose	-2.82944662841615	-6.41476035346038
+GNGAKM_19090	GNGAKM_19090	ATP phosphoribosyltransferase	set17TCH823	M9+fructose	-3.04636838376207	-5.19988253818004
+GNGAKM_19090	GNGAKM_19090	ATP phosphoribosyltransferase	set17TCH817	M9+glucose	-2.54849744767203	-5.05647716180949
+GNGAKM_19090	GNGAKM_19090	ATP phosphoribosyltransferase	set17TCH829	M9+galactose	-3.05285481903375	-5.21095431193007
+GNGAKM_19090	GNGAKM_19090	ATP phosphoribosyltransferase	set17TCH826	M9+cellobiose	-2.35921863290748	-5.03751223367004
+GNGAKM_19090	GNGAKM_19090	ATP phosphoribosyltransferase	set17TCH827	M9+galactose	-3.04667495646992	-5.50712722839585
+GNGAKM_19090	GNGAKM_19090	ATP phosphoribosyltransferase	set17TCH821	M9+fructose	-3.16479510118459	-5.40202651500889
+GNGAKM_19090	GNGAKM_19090	ATP phosphoribosyltransferase	set17TCH824	M9+cellobiose	-2.84645691124548	-5.14521587775105
+GNGAKM_19090	GNGAKM_19090	ATP phosphoribosyltransferase	set17TCH831	M9+xylose	-2.36634558520485	-5.21379642493026
+GNGAKM_19090	GNGAKM_19090	ATP phosphoribosyltransferase	set17TCH815	M9+glucose	-2.76148422509765	-5.24548915145737
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH819	M9+polygalacturonate	-2.73839932038604	-6.23366484338695
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH834	M9+mannose	-2.73272786535645	-6.01625367434735
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH823	M9+fructose	-2.95064385237587	-5.74121065231422
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set21TCH1146	Tuber-Atlantic	-3.21803843504485	-7.87941138866696
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set21TCH1143	Tuber-Atlantic	-2.45818457726992	-8.19842744218053
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH817	M9+glucose	-2.09541030530431	-5.96582446814156
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH830	M9+xylose	-3.06699311493899	-6.50804722856755
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH815	M9+glucose	-2.80377194723097	-6.58043868111184
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH838	M9+glycerol	-2.70176990637016	-6.69284632053855
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH836	M9+glycerol	-3.2748541570598	-5.31414429081048
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH821	M9+fructose	-2.61278975976848	-6.1322044461475
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH832	M9+xylose	-2.54157157357691	-6.13487323126397
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set21TCH1141	Tuber-Atlantic	-2.00838281107559	-7.2946311810676
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH822	M9+fructose	-2.92011563371443	-6.42879835697143
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH828	M9+galactose	-3.11579461011921	-7.90633451746363
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH833	M9+mannose	-3.20870913502435	-5.58386406720309
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH829	M9+galactose	-2.39323646759503	-6.58754100242621
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH827	M9+galactose	-2.84180372890776	-6.85957688787268
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set21TCH1145	Tuber-Atlantic	-3.3220478622615	-10.9248958686838
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH825	M9+cellobiose	-2.80793249339869	-5.4635302492028
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH818	M9+polygalacturonate	-3.13189053642563	-7.12940431474417
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH831	M9+xylose	-3.02281319739691	-6.15736080672106
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH824	M9+cellobiose	-2.535041223786	-6.11911020159384
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH826	M9+cellobiose	-3.0912032121959	-6.01470380643767
+GNGAKM_19355	GNGAKM_19355	quinone-dependent dihydroorotate dehydrogenase	set17TCH835	M9+mannose	-2.20557981922984	-5.84440705480863
+GNGAKM_19685	GNGAKM_19685	RNA chaperone ProQ	set19TCH1007	LB at 36C	-2.55240513354103	-5.15487353105363
+GNGAKM_19685	GNGAKM_19685	RNA chaperone ProQ	set19TCH1008	LB at 36C	-2.61045512878955	-5.03977054015133
+GNGAKM_19685	GNGAKM_19685	RNA chaperone ProQ	set19TCH1006	LB at 36C	-2.56717234746676	-5.39714950464641
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH819	M9+polygalacturonate	-3.38072708012138	-8.48204471105111
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH820	M9+polygalacturonate	-3.40713186636594	-7.74445867395836
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH812	LB	-2.91579989917998	-7.31556985440984
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH834	M9+mannose	-3.17299400342045	-7.72356553489811
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH837	M9+glycerol	-3.12220954007696	-8.26985569008506
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set19TCH1007	LB at 36C	-3.37259586198968	-6.75792742117302
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH828	M9+galactose	-3.77131170431197	-8.24305134342745
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH814	LB	-3.18551034592237	-8.21976746602931
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH816	M9+glucose	-3.5262489755785	-5.33803950536353
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH822	M9+fructose	-3.23243634793092	-7.8682575333323
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set19TCH1005	LB	-3.71476501866888	-6.15133372222002
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH836	M9+glycerol	-3.42891473167031	-7.17728523103368
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH823	M9+fructose	-3.36475284177496	-6.3556664916716
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH825	M9+cellobiose	-3.36245333016703	-7.34939925775827
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH833	M9+mannose	-3.08261210208585	-8.92792677611838
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH821	M9+fructose	-3.57156816717633	-5.89558305014643
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH838	M9+glycerol	-3.22334430396434	-7.04534514204783
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH831	M9+xylose	-3.37537813605091	-7.95122690962877
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH835	M9+mannose	-3.3499246066762	-7.01194584470208
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set19TCH1006	LB at 36C	-3.76464031280138	-5.71404965637494
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH832	M9+xylose	-3.44221314945847	-6.86568175794053
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH817	M9+glucose	-3.41818624772055	-6.81775879274363
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH830	M9+xylose	-3.35071566495027	-8.15616795971102
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH829	M9+galactose	-3.54438342688179	-6.69496989502072
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH815	M9+glucose	-3.4947673229611	-6.2027740932357
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH824	M9+cellobiose	-3.38649252166688	-7.08848853436659
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH826	M9+cellobiose	-3.25841013736638	-7.93148181446179
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH827	M9+galactose	-3.50058799082257	-6.61224489305508
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH813	LB	-2.549503273522	-9.03809756059932
+GNGAKM_19690	GNGAKM_19690	carboxy terminal-processing peptidase	set17TCH818	M9+polygalacturonate	-3.65198205754984	-7.2840772794069
+GNGAKM_20120	GNGAKM_20120	sugar ABC transporter substrate-binding protein	set17TCH819	M9+polygalacturonate	-2.04713127109819	-9.06551808117925
+GNGAKM_20145	GNGAKM_20145	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD	set17TCH820	M9+polygalacturonate	-3.24347470681403	-11.0768083052693
+GNGAKM_20145	GNGAKM_20145	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD	set17TCH818	M9+polygalacturonate	-3.31068673791367	-10.2012544484318
+GNGAKM_20145	GNGAKM_20145	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD	set17TCH819	M9+polygalacturonate	-2.82628573526612	-10.634236857229
+GNGAKM_20360	GNGAKM_20360	disulfide bond formation protein DsbB	set17TCH820	M9+polygalacturonate	-3.07437440760167	-7.47924687278338
+GNGAKM_20360	GNGAKM_20360	disulfide bond formation protein DsbB	set21TCH1144	Tuber-Atlantic	2.0983283004136	5.12151941289438
+GNGAKM_20360	GNGAKM_20360	disulfide bond formation protein DsbB	set17TCH814	LB	2.18840734724413	10.2125801497973
+GNGAKM_20360	GNGAKM_20360	disulfide bond formation protein DsbB	set17TCH812	LB	2.08089554183056	11.1172083492263
+GNGAKM_20360	GNGAKM_20360	disulfide bond formation protein DsbB	set17TCH818	M9+polygalacturonate	-3.13009611769695	-7.61480499639572
+GNGAKM_20360	GNGAKM_20360	disulfide bond formation protein DsbB	set21TCH1143	Tuber-Atlantic	4.61564960985442	11.3597287030375
+GNGAKM_20360	GNGAKM_20360	disulfide bond formation protein DsbB	set17TCH819	M9+polygalacturonate	-3.41739060354576	-6.99990550953768
+GNGAKM_20360	GNGAKM_20360	disulfide bond formation protein DsbB	set17TCH815	M9+glucose	-2.32243463725292	-6.99413920225772
+GNGAKM_20360	GNGAKM_20360	disulfide bond formation protein DsbB	set17TCH823	M9+fructose	-2.19373765803413	-6.4153379106098
+GNGAKM_20360	GNGAKM_20360	disulfide bond formation protein DsbB	set21TCH1141	Tuber-Atlantic	3.11636829961075	10.3959966749723
+GNGAKM_20535	GNGAKM_20535	two-component system response regulator RssB	set17TCH819	M9+polygalacturonate	-2.21318114801074	-5.91121840485084
+GNGAKM_20540	GNGAKM_20540	UTP--glucose-1-phosphate uridylyltransferase GalU	set17TCH829	M9+galactose	-3.83341229396675	-7.17465888332304
+GNGAKM_20540	GNGAKM_20540	UTP--glucose-1-phosphate uridylyltransferase GalU	set17TCH819	M9+polygalacturonate	-3.95730227347908	-5.35727038356003
+GNGAKM_20540	GNGAKM_20540	UTP--glucose-1-phosphate uridylyltransferase GalU	set17TCH828	M9+galactose	-3.47337770348131	-9.25212217949733
+GNGAKM_20540	GNGAKM_20540	UTP--glucose-1-phosphate uridylyltransferase GalU	set17TCH820	M9+polygalacturonate	-4.01322461581068	-5.43297627804278
+GNGAKM_20540	GNGAKM_20540	UTP--glucose-1-phosphate uridylyltransferase GalU	set17TCH827	M9+galactose	-3.86460141410781	-7.62963863228104
+GNGAKM_20540	GNGAKM_20540	UTP--glucose-1-phosphate uridylyltransferase GalU	set17TCH818	M9+polygalacturonate	-4.0188495098307	-6.58740150683016
+GNGAKM_20540	GNGAKM_20540	UTP--glucose-1-phosphate uridylyltransferase GalU	set21TCH1145	Tuber-Atlantic	-2.70091862590372	-8.21642033550474
+GNGAKM_20645	GNGAKM_20645	tryptophan synthase subunit alpha	set21TCH1146	Tuber-Atlantic	-2.23531698739721	-7.11772034574784
+GNGAKM_20645	GNGAKM_20645	tryptophan synthase subunit alpha	set17TCH828	M9+galactose	-2.05645980417122	-5.52124990850007
+GNGAKM_20645	GNGAKM_20645	tryptophan synthase subunit alpha	set17TCH829	M9+galactose	-3.0324315217562	-6.03766184645993
+GNGAKM_20645	GNGAKM_20645	tryptophan synthase subunit alpha	set17TCH832	M9+xylose	-2.43692564790374	-5.39245645827185
+GNGAKM_20645	GNGAKM_20645	tryptophan synthase subunit alpha	set17TCH827	M9+galactose	-2.40260343423309	-5.47192106600778
+GNGAKM_20645	GNGAKM_20645	tryptophan synthase subunit alpha	set17TCH819	M9+polygalacturonate	-3.31168566214445	-5.66734537938377
+GNGAKM_20645	GNGAKM_20645	tryptophan synthase subunit alpha	set17TCH826	M9+cellobiose	-2.38333075851521	-5.57317542432983
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH816	M9+glucose	-2.25266604048485	-7.63792558918302
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH820	M9+polygalacturonate	-3.77740157346027	-5.11155473891006
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH828	M9+galactose	-2.7344383341043	-9.07401632757553
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH837	M9+glycerol	-2.3232453128492	-7.43884093746587
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH831	M9+xylose	-3.14220815033694	-7.28830436610694
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH836	M9+glycerol	-2.77576975455222	-7.21036520453103
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set21TCH1146	Tuber-Atlantic	-2.08055606387232	-8.57132854854548
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set19TCH1011	Tuber-Atlantic	-2.51663525790889	-5.89799532231846
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH824	M9+cellobiose	-2.43361578415688	-7.58818410358672
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH825	M9+cellobiose	-3.13995873622643	-7.03497451456833
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH821	M9+fructose	-3.52907370127275	-5.78099668480732
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH832	M9+xylose	-2.89523818959771	-7.13784624983736
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH822	M9+fructose	-3.07703795286393	-6.63636832239933
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH830	M9+xylose	-2.9936604826891	-7.16775316533148
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH838	M9+glycerol	-3.07043314137094	-7.12182331641321
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH829	M9+galactose	-2.66492372289705	-7.68095994541308
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH817	M9+glucose	-2.24373513311705	-7.60764431149107
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH819	M9+polygalacturonate	-4.07434360559565	-5.51337472601638
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH815	M9+glucose	-2.59961059818691	-7.35631877073006
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH823	M9+fructose	-3.38119317233499	-5.94835968382445
+GNGAKM_20650	GNGAKM_20650	tryptophan synthase subunit beta	set17TCH826	M9+cellobiose	-2.59213636017761	-7.60218583314527
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH831	M9+xylose	-2.64881651877039	-7.25418335975742
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH819	M9+polygalacturonate	-3.13885147818474	-8.0019263377193
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH834	M9+mannose	-2.03675157354308	-7.19933436353055
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set19TCH1011	Tuber-Atlantic	-2.08745765268385	-5.62179466326488
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH822	M9+fructose	-3.24662329084212	-6.42867820861703
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH816	M9+glucose	-2.42729898844422	-7.95246659272832
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH836	M9+glycerol	-2.42558047117082	-7.846724827917
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH827	M9+galactose	-2.3795727156474	-8.16183657968666
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH828	M9+galactose	-2.71351026264864	-9.20730090171862
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH817	M9+glucose	-2.45604842825458	-8.04665727988305
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH824	M9+cellobiose	-2.5966100933718	-7.6811286238608
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH829	M9+galactose	-2.44942302204016	-8.21849087800036
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH838	M9+glycerol	-2.67139275384756	-6.98615568538715
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH821	M9+fructose	-2.84541002917477	-7.25385116572379
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH832	M9+xylose	-2.46625150581855	-7.87339242058708
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH825	M9+cellobiose	-2.57846050922949	-7.8811601541182
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH815	M9+glucose	-2.42756813998184	-7.85315491357877
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH826	M9+cellobiose	-2.30201966126197	-8.05869525079055
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH830	M9+xylose	-2.71860514981843	-7.75489654328227
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH818	M9+polygalacturonate	-3.68283958699095	-6.04900535734602
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH823	M9+fructose	-2.90742794490798	-7.0012154194971
+GNGAKM_20655	GNGAKM_20655	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set17TCH820	M9+polygalacturonate	-3.16747652837063	-6.57723798723773
+GNGAKM_20660	GNGAKM_20660	Anthranilate phosphoribosyltransferase	set17TCH828	M9+galactose	-2.26070573401658	-7.09983306465123
+GNGAKM_20660	GNGAKM_20660	Anthranilate phosphoribosyltransferase	set17TCH817	M9+glucose	-2.10215786009366	-5.71164215593729
+GNGAKM_20660	GNGAKM_20660	Anthranilate phosphoribosyltransferase	set17TCH822	M9+fructose	-2.71090430872884	-5.48263774989209
+GNGAKM_20660	GNGAKM_20660	Anthranilate phosphoribosyltransferase	set17TCH827	M9+galactose	-2.19505409352476	-6.06576579426907
+GNGAKM_20660	GNGAKM_20660	Anthranilate phosphoribosyltransferase	set17TCH826	M9+cellobiose	-2.63261649201225	-5.74766189570847
+GNGAKM_20660	GNGAKM_20660	Anthranilate phosphoribosyltransferase	set17TCH838	M9+glycerol	-2.18576329706658	-5.83306134992782
+GNGAKM_20660	GNGAKM_20660	Anthranilate phosphoribosyltransferase	set17TCH825	M9+cellobiose	-2.43098520308557	-5.80943393149429
+GNGAKM_20660	GNGAKM_20660	Anthranilate phosphoribosyltransferase	set17TCH836	M9+glycerol	-2.24916059783549	-5.51317839099791
+GNGAKM_20660	GNGAKM_20660	Anthranilate phosphoribosyltransferase	set17TCH829	M9+galactose	-2.2129780207274	-6.30813145466338
+GNGAKM_20660	GNGAKM_20660	Anthranilate phosphoribosyltransferase	set17TCH819	M9+polygalacturonate	-2.67055781542684	-6.54611398318596
+GNGAKM_20660	GNGAKM_20660	Anthranilate phosphoribosyltransferase	set17TCH832	M9+xylose	-2.22331536886724	-5.9332751008514
+GNGAKM_20660	GNGAKM_20660	Anthranilate phosphoribosyltransferase	set17TCH830	M9+xylose	-2.68078045241952	-6.04829963599623
+GNGAKM_20660	GNGAKM_20660	Anthranilate phosphoribosyltransferase	set17TCH820	M9+polygalacturonate	-2.82104595516281	-6.55852111815624
+GNGAKM_20660	GNGAKM_20660	Anthranilate phosphoribosyltransferase	set17TCH821	M9+fructose	-2.90388165562036	-5.33278040320365
+GNGAKM_20660	GNGAKM_20660	Anthranilate phosphoribosyltransferase	set17TCH823	M9+fructose	-2.29603629598447	-5.62808085120754
+GNGAKM_20660	GNGAKM_20660	Anthranilate phosphoribosyltransferase	set17TCH818	M9+polygalacturonate	-3.07649331416968	-6.22201909792474
+GNGAKM_20660	GNGAKM_20660	Anthranilate phosphoribosyltransferase	set17TCH824	M9+cellobiose	-2.43524571104963	-5.81961545769216
+GNGAKM_20665	GNGAKM_20665	anthranilate synthase component II	set17TCH828	M9+galactose	-2.47606806520911	-5.23780503370796
+GNGAKM_20670	GNGAKM_20670	anthranilate synthase component 1	set19TCH1011	Tuber-Atlantic	-2.31955291598024	-6.57989512855209
+GNGAKM_20670	GNGAKM_20670	anthranilate synthase component 1	set17TCH828	M9+galactose	-2.17865083884815	-8.94904003349867
+GNGAKM_20670	GNGAKM_20670	anthranilate synthase component 1	set17TCH831	M9+xylose	-2.55119380646706	-8.10050890034117
+GNGAKM_20670	GNGAKM_20670	anthranilate synthase component 1	set17TCH826	M9+cellobiose	-2.37286001201641	-7.74467730006486
+GNGAKM_20670	GNGAKM_20670	anthranilate synthase component 1	set17TCH827	M9+galactose	-2.042531217582	-7.59347862842295
+GNGAKM_20670	GNGAKM_20670	anthranilate synthase component 1	set17TCH822	M9+fructose	-3.13841189139599	-7.35238532549196
+GNGAKM_20670	GNGAKM_20670	anthranilate synthase component 1	set17TCH817	M9+glucose	-2.52352428646837	-8.74256374610384
+GNGAKM_20670	GNGAKM_20670	anthranilate synthase component 1	set17TCH838	M9+glycerol	-2.29433960568446	-7.58568398763771
+GNGAKM_20670	GNGAKM_20670	anthranilate synthase component 1	set17TCH821	M9+fructose	-3.24390433313452	-7.0566973766247
+GNGAKM_20670	GNGAKM_20670	anthranilate synthase component 1	set17TCH829	M9+galactose	-2.48626667917481	-8.51917077969145
+GNGAKM_20670	GNGAKM_20670	anthranilate synthase component 1	set17TCH836	M9+glycerol	-2.05121855890541	-7.66269349417589
+GNGAKM_20670	GNGAKM_20670	anthranilate synthase component 1	set17TCH820	M9+polygalacturonate	-3.78642591380029	-5.71882337883127
+GNGAKM_20670	GNGAKM_20670	anthranilate synthase component 1	set17TCH825	M9+cellobiose	-2.26434175195307	-8.38840272699043
+GNGAKM_20670	GNGAKM_20670	anthranilate synthase component 1	set17TCH824	M9+cellobiose	-2.64364256181842	-8.14467259345966
+GNGAKM_20670	GNGAKM_20670	anthranilate synthase component 1	set17TCH823	M9+fructose	-2.59239601731325	-7.85846324485544
+GNGAKM_20670	GNGAKM_20670	anthranilate synthase component 1	set17TCH835	M9+mannose	-2.01621718388447	-7.98676550611586
+GNGAKM_20670	GNGAKM_20670	anthranilate synthase component 1	set17TCH830	M9+xylose	-2.97398331862908	-8.01346172820904
+GNGAKM_20670	GNGAKM_20670	anthranilate synthase component 1	set17TCH818	M9+polygalacturonate	-3.61427937995318	-7.18040751840106
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH822	M9+fructose	-3.11802529768349	-5.05447002780153
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH817	M9+glucose	-2.81365249973829	-6.18274174594607
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH821	M9+fructose	-2.86901538678995	-5.83464948466032
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH820	M9+polygalacturonate	-3.49901804695449	-5.67207772759494
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH834	M9+mannose	-3.35501071282987	-5.00176752878931
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH829	M9+galactose	-3.14684978381828	-6.66580882136392
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH833	M9+mannose	-2.82110120038809	-6.19910957831515
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH837	M9+glycerol	-2.66470227224065	-5.85543736500228
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH819	M9+polygalacturonate	-3.61044478356331	-5.38257759173643
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH815	M9+glucose	-3.03989628005495	-5.28385757024026
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH827	M9+galactose	-3.42884323042487	-5.55832095111242
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH816	M9+glucose	-2.97926930938921	-6.05887030816567
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH830	M9+xylose	-3.11499125059347	-6.05206301494386
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH818	M9+polygalacturonate	-3.98027372802009	-5.34761760773633
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH835	M9+mannose	-2.63458389110075	-5.98526077925374
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH828	M9+galactose	-3.23441239991856	-6.85128817338901
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set21TCH1145	Tuber-Atlantic	-3.71660754986728	-9.03010227846676
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set21TCH1141	Tuber-Atlantic	-2.31504565504075	-7.17568745698867
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH832	M9+xylose	-3.69097689609635	-5.50263768691056
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH823	M9+fructose	-3.4791203208888	-5.18679448122976
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH838	M9+glycerol	-3.35726215282855	-5.00512405442882
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH825	M9+cellobiose	-3.43148955704699	-5.56261077474059
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set21TCH1144	Tuber-Atlantic	-2.4744117311131	-7.14773299869874
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH836	M9+glycerol	-3.74179000580732	-5.0272075457133
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set21TCH1146	Tuber-Atlantic	-3.21414677904624	-6.06442973397111
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH826	M9+cellobiose	-2.3714298504821	-6.26674939265411
+GNGAKM_22605	GNGAKM_22605	orotidine-5'-phosphate decarboxylase	set17TCH824	M9+cellobiose	-3.35383987171563	-5.82954501171926
+GNGAKM_22720	GNGAKM_22720	pyridoxamine 5'-phosphate oxidase	set17TCH828	M9+galactose	-3.03104571262427	-5.40521335280833
+GNGAKM_23085	GNGAKM_23085	cysteine desulfurase SufS	set19TCH1006	LB at 36C	-2.70967833509244	-5.18334853774781
+GNGAKM_23090	GNGAKM_23090	Fe-S cluster assembly protein SufD	set19TCH1006	LB at 36C	-2.13102943703878	-6.28271557780275
+GNGAKM_23090	GNGAKM_23090	Fe-S cluster assembly protein SufD	set19TCH1007	LB at 36C	-2.36962726004497	-6.18070993424684
+GNGAKM_23090	GNGAKM_23090	Fe-S cluster assembly protein SufD	set19TCH1008	LB at 36C	-2.6905893972524	-7.34736814302019
+GNGAKM_23100	GNGAKM_23100	Fe-S cluster assembly protein SufB	set19TCH1007	LB at 36C	-2.38773762668989	-8.82944758311265
+GNGAKM_23100	GNGAKM_23100	Fe-S cluster assembly protein SufB	set19TCH1008	LB at 36C	-2.41303293399259	-8.4560816605419
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH823	M9+fructose	-3.32565418498345	-8.09158579369487
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH816	M9+glucose	-3.16320896045988	-9.3334476497463
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH819	M9+polygalacturonate	-3.68968145424887	-8.68801856042479
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set21TCH1143	Tuber-Atlantic	-2.39524025425074	-10.4510368161992
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH829	M9+galactose	-3.22054802360599	-9.67749827918113
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH827	M9+galactose	-3.22222845714126	-9.32644787126024
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set21TCH1146	Tuber-Atlantic	-3.89780257884914	-9.96964858594568
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH820	M9+polygalacturonate	-3.79685707476843	-7.16995659106163
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH835	M9+mannose	-3.02845451080419	-8.21553480551628
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH826	M9+cellobiose	-3.35124575412688	-8.64312931528351
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH825	M9+cellobiose	-3.47483550505554	-8.18212513375127
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH832	M9+xylose	-3.67007772769869	-6.93054741730741
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH830	M9+xylose	-3.52207676900227	-8.56949783806319
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH821	M9+fructose	-3.22590536897422	-9.33709035890299
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH838	M9+glycerol	-3.21346269088727	-8.28777583767915
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH837	M9+glycerol	-2.60110172419348	-9.21237677381998
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH834	M9+mannose	-3.23256889246443	-8.55768543158603
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH822	M9+fructose	-3.67034291936445	-6.93104820327178
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH828	M9+galactose	-3.27423103742297	-10.4945033249667
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set21TCH1145	Tuber-Atlantic	-3.82626769485567	-14.2682819860284
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH836	M9+glycerol	-3.64712498642833	-6.88720363182546
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH815	M9+glucose	-2.78478540693313	-9.05470912821497
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH833	M9+mannose	-2.51029946943694	-8.89078051522345
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH818	M9+polygalacturonate	-4.01912529651071	-5.46632457136549
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set21TCH1144	Tuber-Atlantic	-2.23048952729829	-8.88437534093941
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH831	M9+xylose	-3.68111613260513	-6.53198382616995
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH824	M9+cellobiose	-3.25206811307737	-8.38734229169085
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set17TCH817	M9+glucose	-2.65950510600684	-9.41922526156867
+GNGAKM_23440	GNGAKM_23440	dihydroorotase	set21TCH1141	Tuber-Atlantic	-2.55365329855918	-11.6963420682515
+GNGAKM_23630	GNGAKM_23630	porin OmpA	set17TCH825	M9+cellobiose	-2.30513212314858	-5.00958638051103
+GNGAKM_23630	GNGAKM_23630	porin OmpA	set21TCH1141	Tuber-Atlantic	2.40908533674233	8.52587402347424
+GNGAKM_23630	GNGAKM_23630	porin OmpA	set17TCH814	LB	2.30300592091036	7.07681249471547
+GNGAKM_23630	GNGAKM_23630	porin OmpA	set21TCH1143	Tuber-Atlantic	3.3529922754407	8.81242703857261
+GNGAKM_23705	GNGAKM_23705	RNA polymerase sigma factor FliA	set19TCH1014	Tuber-Atlantic	2.7254311494986	6.60182948935642
+GNGAKM_23705	GNGAKM_23705	RNA polymerase sigma factor FliA	set19TCH1009	Tuber-Atlantic	2.18070108586933	5.24497913141604
+GNGAKM_23775	GNGAKM_23775	flagellar M-ring protein FliF	set19TCH1009	Tuber-Atlantic	2.32413915469181	11.1317073945863
+GNGAKM_23780	GNGAKM_23780	flagellar motor switch protein FliG	set19TCH1009	Tuber-Atlantic	3.35258532291659	8.78384383974836
+GNGAKM_23785	GNGAKM_23785	flagellar assembly protein FliH	set19TCH1009	Tuber-Atlantic	2.25662883507896	8.03647264888172
+GNGAKM_23795	GNGAKM_23795	flagella biosynthesis chaperone FliJ	set19TCH1009	Tuber-Atlantic	2.58320084301656	5.78073828250956
+GNGAKM_23805	GNGAKM_23805	flagellar basal body-associated protein FliL	set19TCH1009	Tuber-Atlantic	2.09613447248714	6.50170799794614
+GNGAKM_23810	GNGAKM_23810	flagellar motor switch protein FliM	set19TCH1009	Tuber-Atlantic	2.22766522812755	5.77660362949248
+GNGAKM_23815	GNGAKM_23815	flagellar motor switch protein FliN	set19TCH1009	Tuber-Atlantic	2.76916454229217	5.78003516566734
+GNGAKM_23815	GNGAKM_23815	flagellar motor switch protein FliN	set19TCH1014	Tuber-Atlantic	2.54926559297782	6.45734053086347
+GNGAKM_23815	GNGAKM_23815	flagellar motor switch protein FliN	set19TCH1010	Tuber-Atlantic	2.63271687772861	5.45118754838368
+GNGAKM_23830	GNGAKM_23830	flagellar biosynthesis protein FliQ	set19TCH1009	Tuber-Atlantic	3.07703495401138	7.00008348237792
+GNGAKM_23835	GNGAKM_23835	flagellar type III secretion system protein FliR	set19TCH1009	Tuber-Atlantic	2.20181397571526	9.7448803245276
+GNGAKM_23850	GNGAKM_23850	flagellar assembly peptidoglycan hydrolase FlgJ	set19TCH1009	Tuber-Atlantic	2.15707628354067	6.60638927063119
+GNGAKM_23855	GNGAKM_23855	Flagellar P-ring protein	set19TCH1009	Tuber-Atlantic	2.45975046476392	6.87498048665401
+GNGAKM_23860	GNGAKM_23860	flagellar basal body L-ring protein FlgH	set19TCH1009	Tuber-Atlantic	2.26981705055953	7.36104057722601
+GNGAKM_23865	GNGAKM_23865	flagellar basal-body rod protein FlgG	set19TCH1013	Tuber-Atlantic	2.14645120689294	5.47103502367498
+GNGAKM_23870	GNGAKM_23870	flagellar biosynthesis protein FlgF	set19TCH1009	Tuber-Atlantic	2.55016847915659	6.83588832105782
+GNGAKM_23885	GNGAKM_23885	flagellar basal body rod protein FlgC	set19TCH1009	Tuber-Atlantic	2.64938966285361	6.33389554840829
+GNGAKM_23890	GNGAKM_23890	flagellar basal body rod protein FlgB	set19TCH1014	Tuber-Atlantic	2.14107480978234	6.19142919876747
+GNGAKM_23895	GNGAKM_23895	flagellar basal body P-ring formation protein FlgA	set19TCH1009	Tuber-Atlantic	2.38085092526392	5.95312072539402
+GNGAKM_23905	GNGAKM_23905	flagellar biosynthesis protein FlgN	set19TCH1009	Tuber-Atlantic	3.18009148268312	5.72931268186338

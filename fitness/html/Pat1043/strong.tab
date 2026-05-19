@@ -1,0 +1,1560 @@
+locusId	sysName	desc	name	short	lrn	t
+ECA_RS00160	ECA_RS00160	ribosome-dependent GTPase TypA	set21TCH1118	Tuber-Atlantic	-2.38763957200999	-9.71321122487207
+ECA_RS00160	ECA_RS00160	ribosome-dependent GTPase TypA	set21TCH1116	Tuber-Atlantic	-2.49096767861712	-13.2205338607022
+ECA_RS00160	ECA_RS00160	ribosome-dependent GTPase TypA	set21TCH1119	Tuber-Atlantic	-3.4437457657202	-13.3553850800892
+ECA_RS00160	ECA_RS00160	ribosome-dependent GTPase TypA	set21TCH1117	Tuber-Atlantic	-3.06651342025441	-13.4911611250488
+ECA_RS00160	ECA_RS00160	ribosome-dependent GTPase TypA	set21TCH1114	Tuber-Atlantic	-3.09665399279901	-14.8841028105055
+ECA_RS00160	ECA_RS00160	ribosome-dependent GTPase TypA	set21TCH1115	Tuber-Atlantic	-3.60893326268094	-12.9085505636307
+ECA_RS00250	ECA_RS00250	inorganic phosphate transporter PitA	set21TCH1091	M9+polygalacturonate	-2.24091431736369	-8.98257495869024
+ECA_RS00480	ECA_RS00480	xylulokinase	set21TCH1103	M9+xylose	-5.09165084287272	-12.7125217927075
+ECA_RS00480	ECA_RS00480	xylulokinase	set21TCH1104	M9+xylose	-3.14135925815578	-12.0873005483417
+ECA_RS00480	ECA_RS00480	xylulokinase	set21TCH1105	M9+xylose	-3.38787284764582	-13.1354429515522
+ECA_RS00485	ECA_RS00485	xylose isomerase	set21TCH1105	M9+xylose	-3.52767567175892	-13.8606161557791
+ECA_RS00485	ECA_RS00485	xylose isomerase	set21TCH1103	M9+xylose	-4.04065933165513	-14.9938135507958
+ECA_RS00485	ECA_RS00485	xylose isomerase	set21TCH1104	M9+xylose	-2.71938904724761	-12.2298677013758
+ECA_RS00490	ECA_RS00490	D-xylose ABC transporter substrate-binding protein	set21TCH1103	M9+xylose	-2.18634652185745	-7.72417439451076
+ECA_RS00505	ECA_RS00505	D-xylose utilization transcriptional activator XylR	set21TCH1105	M9+xylose	-3.64938518082737	-15.4909475413998
+ECA_RS00505	ECA_RS00505	D-xylose utilization transcriptional activator XylR	set21TCH1103	M9+xylose	-4.81378046481244	-15.3819208352518
+ECA_RS00505	ECA_RS00505	D-xylose utilization transcriptional activator XylR	set21TCH1104	M9+xylose	-3.20767057173862	-14.9811387197379
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1104	M9+xylose	-2.61592514448399	-13.03883193644
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1089	M9+glucose	-2.45725502921645	-13.4801476948617
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1109	M9+glycerol	-3.54546594126125	-17.5197301207523
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1092	M9+polygalacturonate	-4.67766405074099	-15.7528317383691
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1105	M9+xylose	-2.91877293909212	-13.8706380875892
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1095	M9+fructose	-2.49361270041026	-13.6871394552561
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1106	M9+mannose	-3.90760923664118	-17.7887818955267
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1111	M9+glycerol	-2.82475475363913	-14.4684151634914
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1102	M9+galactose	-2.22528507608257	-10.9449508454248
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1094	M9+fructose	-2.22223691763722	-12.1145887287193
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1097	M9+cellobiose	-2.34221689510342	-14.1123155176703
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1096	M9+fructose	-2.43822567982481	-12.6686325491443
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1101	M9+galactose	-3.65563135479461	-14.0980226014569
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1110	M9+glycerol	-3.74217553359233	-18.0844009936001
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1088	M9+glucose	-2.39895708866737	-14.2606873669368
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1093	M9+polygalacturonate	-4.72980513676779	-15.1234746029445
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1108	M9+mannose	-2.97709309284105	-14.3780710302492
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1103	M9+xylose	-4.01175783235042	-15.9591274795519
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1100	M9+galactose	-3.32654359335274	-15.4047658938929
+ECA_RS00515	ECA_RS00515	argininosuccinate synthase	set21TCH1091	M9+polygalacturonate	-4.67399227784501	-15.7404664167076
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1108	M9+mannose	-2.63225317355712	-7.75049253704968
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1093	M9+polygalacturonate	-3.93043630451273	-7.47600477363714
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1101	M9+galactose	-2.39765636762001	-7.33925421943287
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1092	M9+polygalacturonate	-3.92432021790294	-7.46437148685973
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1119	Tuber-Atlantic	-3.67677809236448	-10.086290078194
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1103	M9+xylose	-4.05532464866736	-7.71355241077851
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1091	M9+polygalacturonate	-4.27605221716844	-7.09600713927509
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1117	Tuber-Atlantic	-3.95851921806893	-7.69842970543238
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1097	M9+cellobiose	-2.06171666278217	-6.94992746939657
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1118	Tuber-Atlantic	-3.5421661116044	-6.31533023153845
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1110	M9+glycerol	-3.5155785607817	-7.76377522998078
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1111	M9+glycerol	-2.15879759865887	-6.53702990671701
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1106	M9+mannose	-3.52711007545752	-8.68575465399057
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1116	Tuber-Atlantic	-3.94720735850787	-9.99340756458159
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1114	Tuber-Atlantic	-4.09191740667666	-8.1270940273185
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1100	M9+galactose	-2.90063235895357	-7.36786132039338
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1105	M9+xylose	-2.2274720161276	-6.94205091326353
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1115	Tuber-Atlantic	-4.60882815904801	-8.21708267984589
+ECA_RS00700	ECA_RS00700	orotate phosphoribosyltransferase	set21TCH1109	M9+glycerol	-3.51448881284115	-8.36932635181514
+ECA_RS00785	ECA_RS00785	glycosyltransferase family 4 protein	set21TCH1089	M9+glucose	2.02975182817109	14.2546974734053
+ECA_RS00850	ECA_RS00850	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	set21TCH1091	M9+polygalacturonate	-3.9807955353277	-8.44947321075002
+ECA_RS00850	ECA_RS00850	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	set21TCH1093	M9+polygalacturonate	-4.02107791235096	-8.12232461559216
+ECA_RS00850	ECA_RS00850	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	set21TCH1092	M9+polygalacturonate	-3.97857783870664	-9.19368756658735
+ECA_RS00850	ECA_RS00850	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	set21TCH1087	LB	-3.36390132558998	-8.86738033228691
+ECA_RS00850	ECA_RS00850	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	set21TCH1085	LB	-3.69448548359749	-8.53720767381778
+ECA_RS00850	ECA_RS00850	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	set21TCH1100	M9+galactose	-3.0117074277245	-9.14598716678394
+ECA_RS00850	ECA_RS00850	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	set21TCH1086	LB	-3.23495551235133	-9.62601697539215
+ECA_RS00850	ECA_RS00850	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	set21TCH1101	M9+galactose	-2.01917756630469	-7.57314311813183
+ECA_RS00885	ECA_RS00885	HTH-type transcriptional regulator MetR	set21TCH1108	M9+mannose	-2.53809174602926	-9.17552867787611
+ECA_RS00885	ECA_RS00885	HTH-type transcriptional regulator MetR	set21TCH1093	M9+polygalacturonate	-4.63795685763802	-9.86987849668557
+ECA_RS00885	ECA_RS00885	HTH-type transcriptional regulator MetR	set21TCH1103	M9+xylose	-3.08151405770848	-8.28517558522415
+ECA_RS00885	ECA_RS00885	HTH-type transcriptional regulator MetR	set21TCH1105	M9+xylose	-2.6469940407412	-9.43848045083681
+ECA_RS00885	ECA_RS00885	HTH-type transcriptional regulator MetR	set21TCH1106	M9+mannose	-3.40477126169603	-8.40133941146746
+ECA_RS00885	ECA_RS00885	HTH-type transcriptional regulator MetR	set21TCH1094	M9+fructose	-2.00105808916305	-8.10250290410977
+ECA_RS00885	ECA_RS00885	HTH-type transcriptional regulator MetR	set21TCH1110	M9+glycerol	-3.63148345268606	-10.0736181389283
+ECA_RS00885	ECA_RS00885	HTH-type transcriptional regulator MetR	set21TCH1097	M9+cellobiose	-2.12809951791217	-6.89025593658485
+ECA_RS00885	ECA_RS00885	HTH-type transcriptional regulator MetR	set21TCH1111	M9+glycerol	-2.68244799298732	-8.9735739201649
+ECA_RS00885	ECA_RS00885	HTH-type transcriptional regulator MetR	set21TCH1101	M9+galactose	-2.50340896538437	-9.22891712078241
+ECA_RS00885	ECA_RS00885	HTH-type transcriptional regulator MetR	set21TCH1088	M9+glucose	-2.00332066549229	-8.47352332566956
+ECA_RS00885	ECA_RS00885	HTH-type transcriptional regulator MetR	set21TCH1109	M9+glycerol	-3.02634258786036	-11.6012695227413
+ECA_RS00885	ECA_RS00885	HTH-type transcriptional regulator MetR	set21TCH1100	M9+galactose	-2.66826623087879	-8.47250380988214
+ECA_RS00885	ECA_RS00885	HTH-type transcriptional regulator MetR	set21TCH1091	M9+polygalacturonate	-4.44275818243587	-10.0678407879911
+ECA_RS00885	ECA_RS00885	HTH-type transcriptional regulator MetR	set21TCH1092	M9+polygalacturonate	-4.23650696590518	-11.5255232634547
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1108	M9+mannose	-3.44283061960357	-17.2219227740133
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1096	M9+fructose	-2.04240877949751	-13.0879695492515
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1104	M9+xylose	-2.63889077867797	-14.7821011433793
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1102	M9+galactose	-2.71663010158367	-14.2636917459866
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1110	M9+glycerol	-4.58882842593419	-21.100879130974
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1100	M9+galactose	-3.3540800714536	-17.613663555654
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1111	M9+glycerol	-3.00510946338876	-15.5257038000029
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1105	M9+xylose	-2.57909607444447	-14.2309945132403
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1103	M9+xylose	-4.42542474952535	-19.4838230860434
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1088	M9+glucose	-2.48291505555258	-15.5937607572617
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1095	M9+fructose	-2.15618755110049	-11.0489255219317
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1106	M9+mannose	-4.19975012673757	-20.300392670573
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1093	M9+polygalacturonate	-4.27128853933462	-18.2809383487312
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1091	M9+polygalacturonate	-4.40792546940969	-18.6226412412119
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1101	M9+galactose	-3.35773621410012	-16.4253839792173
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1089	M9+glucose	-2.39048855742825	-13.731094929733
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1092	M9+polygalacturonate	-4.49345357579569	-18.9839811169244
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1097	M9+cellobiose	-2.34463980406302	-15.7883340504522
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1094	M9+fructose	-2.30852071251316	-15.05775416413
+ECA_RS00920	ECA_RS00920	phosphoenolpyruvate carboxylase	set21TCH1109	M9+glycerol	-4.03199323466258	-20.136463290886
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1107	M9+mannose	-2.18168546169507	-11.0794722146805
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1096	M9+fructose	-2.35282312133063	-11.5052279266102
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1104	M9+xylose	-2.51548417917936	-13.8977298261984
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1095	M9+fructose	-2.67121919713234	-13.8903306942999
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1100	M9+galactose	-3.15104518999516	-13.4497250675024
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1110	M9+glycerol	-3.01568545192996	-16.939924772613
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1093	M9+polygalacturonate	-4.05367497645247	-14.4748889450897
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1108	M9+mannose	-2.84242343145045	-13.5327303422601
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1102	M9+galactose	-2.72095171618479	-12.7164820467201
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1103	M9+xylose	-3.75036272062908	-15.4938980094563
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1105	M9+xylose	-2.14197326550702	-11.5620393043659
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1106	M9+mannose	-3.48980672603407	-16.864229154929
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1089	M9+glucose	-2.29108977135457	-11.3456056646475
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1088	M9+glucose	-2.16831410875379	-11.7141545908098
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1111	M9+glycerol	-2.40469791748128	-12.0196926648085
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1109	M9+glycerol	-3.14154398597104	-16.1220181724155
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1092	M9+polygalacturonate	-4.21841758560504	-15.4698185264726
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1097	M9+cellobiose	-2.2324369277126	-13.4194424868331
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1101	M9+galactose	-3.24977424929482	-13.9469803606498
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1091	M9+polygalacturonate	-4.51551769609368	-14.9409886065831
+ECA_RS00940	ECA_RS00940	acetylornithine deacetylase	set21TCH1094	M9+fructose	-2.29219513817752	-13.1883716131243
+ECA_RS00945	ECA_RS00945	N-acetyl-gamma-glutamyl-phosphate reductase	set21TCH1102	M9+galactose	-3.04285962813015	-8.84280487275047
+ECA_RS00945	ECA_RS00945	N-acetyl-gamma-glutamyl-phosphate reductase	set21TCH1110	M9+glycerol	-2.65710134544123	-10.6255001436494
+ECA_RS00945	ECA_RS00945	N-acetyl-gamma-glutamyl-phosphate reductase	set21TCH1103	M9+xylose	-3.76535487798566	-10.48206682544
+ECA_RS00945	ECA_RS00945	N-acetyl-gamma-glutamyl-phosphate reductase	set21TCH1106	M9+mannose	-3.29929615932041	-11.3046726241926
+ECA_RS00945	ECA_RS00945	N-acetyl-gamma-glutamyl-phosphate reductase	set21TCH1092	M9+polygalacturonate	-4.85017372121356	-9.80544222957293
+ECA_RS00945	ECA_RS00945	N-acetyl-gamma-glutamyl-phosphate reductase	set21TCH1108	M9+mannose	-2.92178662746312	-10.2949122923692
+ECA_RS00945	ECA_RS00945	N-acetyl-gamma-glutamyl-phosphate reductase	set21TCH1098	M9+cellobiose	-2.09153436107231	-8.10167484366824
+ECA_RS00945	ECA_RS00945	N-acetyl-gamma-glutamyl-phosphate reductase	set21TCH1111	M9+glycerol	-2.32389406783884	-8.34457231544799
+ECA_RS00945	ECA_RS00945	N-acetyl-gamma-glutamyl-phosphate reductase	set21TCH1105	M9+xylose	-2.15564226325533	-8.34704625534052
+ECA_RS00945	ECA_RS00945	N-acetyl-gamma-glutamyl-phosphate reductase	set21TCH1107	M9+mannose	-2.49292599835441	-8.5177585014753
+ECA_RS00945	ECA_RS00945	N-acetyl-gamma-glutamyl-phosphate reductase	set21TCH1091	M9+polygalacturonate	-4.72877154883079	-9.56000731192506
+ECA_RS00945	ECA_RS00945	N-acetyl-gamma-glutamyl-phosphate reductase	set21TCH1096	M9+fructose	-2.03219399380418	-8.59654021263788
+ECA_RS00945	ECA_RS00945	N-acetyl-gamma-glutamyl-phosphate reductase	set21TCH1101	M9+galactose	-3.44510853825251	-9.82504845465973
+ECA_RS00945	ECA_RS00945	N-acetyl-gamma-glutamyl-phosphate reductase	set21TCH1093	M9+polygalacturonate	-4.22384397394083	-9.77139953358035
+ECA_RS00945	ECA_RS00945	N-acetyl-gamma-glutamyl-phosphate reductase	set21TCH1100	M9+galactose	-4.21512993562919	-9.364138322249
+ECA_RS00945	ECA_RS00945	N-acetyl-gamma-glutamyl-phosphate reductase	set21TCH1109	M9+glycerol	-3.09376151327747	-10.9008656324618
+ECA_RS00945	ECA_RS00945	N-acetyl-gamma-glutamyl-phosphate reductase	set21TCH1097	M9+cellobiose	-2.15122075250623	-6.89538886056468
+ECA_RS00950	ECA_RS00950	acetylglutamate kinase	set21TCH1103	M9+xylose	-3.23881005302393	-8.22586627502506
+ECA_RS00950	ECA_RS00950	acetylglutamate kinase	set21TCH1110	M9+glycerol	-2.77598529609637	-7.47126561279691
+ECA_RS00950	ECA_RS00950	acetylglutamate kinase	set21TCH1104	M9+xylose	-2.14974577139853	-5.86414755086213
+ECA_RS00950	ECA_RS00950	acetylglutamate kinase	set21TCH1106	M9+mannose	-4.11667445608333	-8.69018882657321
+ECA_RS00950	ECA_RS00950	acetylglutamate kinase	set21TCH1092	M9+polygalacturonate	-4.3797203423189	-7.24636462848927
+ECA_RS00950	ECA_RS00950	acetylglutamate kinase	set21TCH1091	M9+polygalacturonate	-5.85359237384241	-5.69369894211692
+ECA_RS00950	ECA_RS00950	acetylglutamate kinase	set21TCH1111	M9+glycerol	-2.84243659994817	-7.42997552127929
+ECA_RS00950	ECA_RS00950	acetylglutamate kinase	set21TCH1096	M9+fructose	-3.66941902261936	-6.58568650633961
+ECA_RS00950	ECA_RS00950	acetylglutamate kinase	set21TCH1098	M9+cellobiose	-2.00198701076859	-6.61698666839942
+ECA_RS00950	ECA_RS00950	acetylglutamate kinase	set21TCH1101	M9+galactose	-4.53791422938954	-6.8998817701839
+ECA_RS00950	ECA_RS00950	acetylglutamate kinase	set21TCH1097	M9+cellobiose	-2.69366588960006	-7.7650274412509
+ECA_RS00950	ECA_RS00950	acetylglutamate kinase	set21TCH1093	M9+polygalacturonate	-4.7198547247729	-7.17652161921928
+ECA_RS00950	ECA_RS00950	acetylglutamate kinase	set21TCH1088	M9+glucose	-2.49892952623287	-6.78580375994083
+ECA_RS00950	ECA_RS00950	acetylglutamate kinase	set21TCH1105	M9+xylose	-2.09766610186132	-5.86370210781535
+ECA_RS00950	ECA_RS00950	acetylglutamate kinase	set21TCH1100	M9+galactose	-3.99964568735662	-7.18834328945209
+ECA_RS00950	ECA_RS00950	acetylglutamate kinase	set21TCH1089	M9+glucose	-2.15210267226754	-5.75529263538536
+ECA_RS00950	ECA_RS00950	acetylglutamate kinase	set21TCH1109	M9+glycerol	-2.60460056608608	-6.71622366860532
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1103	M9+xylose	-4.29636603453682	-8.6574096032838
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1110	M9+glycerol	-3.67523570377499	-10.3768940223921
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1104	M9+xylose	-2.98947753217756	-8.57591480559891
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1101	M9+galactose	-3.2196056828971	-8.68424731546995
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1092	M9+polygalacturonate	-3.93054611024362	-9.05399227544353
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1108	M9+mannose	-3.4034176102395	-8.35238789881487
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1109	M9+glycerol	-3.37788238291648	-9.57091228523584
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1100	M9+galactose	-3.11189112401336	-6.88732454739827
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1096	M9+fructose	-2.17085612664346	-7.05604622594603
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1106	M9+mannose	-3.62839954569118	-10.0384221327309
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1098	M9+cellobiose	-2.54900283818208	-5.818044636096
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1095	M9+fructose	-2.46439463383824	-6.15763258200157
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1111	M9+glycerol	-2.34687725079157	-6.81116155116958
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1102	M9+galactose	-2.26035207506541	-6.30001164097187
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1094	M9+fructose	-2.26570125927904	-7.25286139103413
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1107	M9+mannose	-2.06332302104807	-6.67207669749608
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1091	M9+polygalacturonate	-4.70946962387391	-7.82837465310005
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1105	M9+xylose	-3.04335196026153	-8.81913206040049
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1097	M9+cellobiose	-2.22482045472691	-6.93943502665684
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1093	M9+polygalacturonate	-3.71038852657923	-8.86646908511741
+ECA_RS00955	ECA_RS00955	argininosuccinate lyase	set21TCH1088	M9+glucose	-3.29939587054023	-7.49083989873268
+ECA_RS01005	ECA_RS01005	transcription/translation regulatory transformer protein RfaH	set21TCH1089	M9+glucose	2.46030097661714	10.1706830611589
+ECA_RS01005	ECA_RS01005	transcription/translation regulatory transformer protein RfaH	set21TCH1116	Tuber-Atlantic	-2.68422454728313	-6.63364631742369
+ECA_RS01015	ECA_RS01015	NAD(P)H-flavin reductase	set21TCH1093	M9+polygalacturonate	-2.90467619052708	-5.10412060994419
+ECA_RS01040	ECA_RS01040	Trk system potassium transporter TrkH	set21TCH1109	M9+glycerol	-2.04158387178281	-6.71280116446942
+ECA_RS01175	ECA_RS01175	thiazole synthase	set21TCH1110	M9+glycerol	-2.20084834403484	-6.66096481874492
+ECA_RS01180	ECA_RS01180	sulfur carrier protein ThiS	set21TCH1092	M9+polygalacturonate	-2.40405912600581	-5.15704676038037
+ECA_RS01180	ECA_RS01180	sulfur carrier protein ThiS	set21TCH1110	M9+glycerol	-2.14156820734938	-5.24275985317665
+ECA_RS01190	ECA_RS01190	thiamine phosphate synthase	set21TCH1109	M9+glycerol	-2.33216194061701	-11.4450047000707
+ECA_RS01195	ECA_RS01195	phosphomethylpyrimidine synthase ThiC	set21TCH1110	M9+glycerol	-2.09636018548241	-14.4178340577791
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1108	M9+mannose	-3.42735087110189	-16.8719186081311
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1118	Tuber-Atlantic	-3.21509160980625	-16.4151599634035
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1104	M9+xylose	-2.90708861889474	-15.3099934854641
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1109	M9+glycerol	-4.9184425965201	-18.0805879127078
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1094	M9+fructose	-2.44427739912453	-14.9296464698713
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1115	Tuber-Atlantic	-3.99804923308593	-22.6200407728917
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1102	M9+galactose	-2.84196421352527	-14.2083803762508
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1098	M9+cellobiose	-2.28791249774668	-12.3243884032704
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1119	Tuber-Atlantic	-3.71803536796888	-19.7632452271322
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1111	M9+glycerol	-3.64057582956534	-16.3678328826514
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1092	M9+polygalacturonate	-5.1729582410108	-16.8559566819061
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1106	M9+mannose	-4.04503443499207	-19.2915002985362
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1114	Tuber-Atlantic	-4.56782033076661	-24.1380981658223
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1088	M9+glucose	-2.86526234630812	-15.975820474618
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1093	M9+polygalacturonate	-4.99780231451727	-16.2852154209102
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1105	M9+xylose	-3.11271866254802	-16.6073899680762
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1101	M9+galactose	-3.82195085123814	-16.6711323525336
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1117	Tuber-Atlantic	-3.84285579542835	-19.8961205099086
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1100	M9+galactose	-3.87688022783608	-17.0113695405762
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1097	M9+cellobiose	-2.46653943192819	-12.9463454943459
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1116	Tuber-Atlantic	-3.98500405066393	-22.8916031420545
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1091	M9+polygalacturonate	-4.99628310430317	-17.1107044437542
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1110	M9+glycerol	-5.28484770838755	-17.8136310448133
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1090	M9+glucose	-2.10589175376317	-11.6920137397362
+ECA_RS01235	ECA_RS01235	phosphoribosylamine--glycine ligase	set21TCH1103	M9+xylose	-4.35791677523792	-18.0592162402186
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1108	M9+mannose	-2.92820263878073	-16.866370073453
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1092	M9+polygalacturonate	-4.86961522853498	-18.3725777857728
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1115	Tuber-Atlantic	-4.01474966120877	-20.8450592154904
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1117	Tuber-Atlantic	-4.04043494754051	-20.4895018517156
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1102	M9+galactose	-2.69931523046222	-12.4400784271838
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1114	Tuber-Atlantic	-4.6607671557331	-22.2715672458885
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1119	Tuber-Atlantic	-3.61025948617759	-21.0537328183862
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1111	M9+glycerol	-4.39385787739506	-16.7760023244427
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1104	M9+xylose	-2.68332019114988	-13.590561931787
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1091	M9+polygalacturonate	-4.9671059543187	-17.2875750915115
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1109	M9+glycerol	-4.92108847489946	-18.5667812655829
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1105	M9+xylose	-3.59819734714086	-16.8613674209685
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1097	M9+cellobiose	-2.71272485605282	-15.9522325617967
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1100	M9+galactose	-3.39563101477561	-16.2980033953565
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1106	M9+mannose	-4.1663634354855	-17.5407035803457
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1110	M9+glycerol	-4.86925655572643	-20.3887397298248
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1090	M9+glucose	-2.46280508761205	-12.4261739888095
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1094	M9+fructose	-2.40038239077858	-12.8149763379294
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1101	M9+galactose	-3.32547615233854	-14.6772468627613
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1116	Tuber-Atlantic	-3.90952010448864	-18.8707506740882
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1088	M9+glucose	-3.09978992578431	-15.923786828572
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1093	M9+polygalacturonate	-4.79097917464218	-17.3986885646683
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1103	M9+xylose	-4.59632625552203	-18.7116113734215
+ECA_RS01240	ECA_RS01240	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1118	Tuber-Atlantic	-3.54172026775178	-16.6055701355448
+ECA_RS01395	ECA_RS01395	RNase E specificity factor CsrD	set21TCH1089	M9+glucose	2.40819600250906	20.9834165568176
+ECA_RS01420	ECA_RS01420	ribonuclease G	set21TCH1100	M9+galactose	-2.09186358294378	-7.50076124545703
+ECA_RS01500	ECA_RS01500	RNA polymerase factor sigma-54	set21TCH1116	Tuber-Atlantic	-2.37525549123339	-15.2516094787649
+ECA_RS01580	ECA_RS01580	Z-ring associated protein ZapG	set21TCH1099	M9+cellobiose	2.27893543358073	6.39005225059196
+ECA_RS01650	ECA_RS01650	division/outer membrane stress-associated lipid-binding lipoprotein	set21TCH1089	M9+glucose	2.5367010428379	13.160946688931
+ECA_RS01650	ECA_RS01650	division/outer membrane stress-associated lipid-binding lipoprotein	set21TCH1099	M9+cellobiose	2.54532497942955	16.2117314231701
+ECA_RS01650	ECA_RS01650	division/outer membrane stress-associated lipid-binding lipoprotein	set21TCH1096	M9+fructose	2.35634894430437	16.1081723915803
+ECA_RS01650	ECA_RS01650	division/outer membrane stress-associated lipid-binding lipoprotein	set21TCH1095	M9+fructose	2.53310533368627	15.5133231426952
+ECA_RS01650	ECA_RS01650	division/outer membrane stress-associated lipid-binding lipoprotein	set21TCH1107	M9+mannose	2.19006681833388	14.9975220736246
+ECA_RS01650	ECA_RS01650	division/outer membrane stress-associated lipid-binding lipoprotein	set21TCH1104	M9+xylose	2.06656968662285	10.9584288920014
+ECA_RS01700	ECA_RS01700	outer membrane channel protein TolC	set21TCH1115	Tuber-Atlantic	-2.81859258652912	-9.76803707713126
+ECA_RS01700	ECA_RS01700	outer membrane channel protein TolC	set21TCH1089	M9+glucose	2.00365479520726	13.315233960504
+ECA_RS01700	ECA_RS01700	outer membrane channel protein TolC	set21TCH1116	Tuber-Atlantic	-2.13529637468103	-9.63064605790579
+ECA_RS01700	ECA_RS01700	outer membrane channel protein TolC	set21TCH1114	Tuber-Atlantic	-2.48361674357245	-10.4813550638074
+ECA_RS01700	ECA_RS01700	outer membrane channel protein TolC	set21TCH1117	Tuber-Atlantic	-2.32075274365173	-9.65731592155552
+ECA_RS01825	ECA_RS01825	cystathionine beta-lyase	set21TCH1093	M9+polygalacturonate	-4.23227476472471	-17.0317720940998
+ECA_RS01825	ECA_RS01825	cystathionine beta-lyase	set21TCH1104	M9+xylose	-2.30251384190903	-13.1754144773159
+ECA_RS01825	ECA_RS01825	cystathionine beta-lyase	set21TCH1108	M9+mannose	-2.65105856297795	-14.2096003157294
+ECA_RS01825	ECA_RS01825	cystathionine beta-lyase	set21TCH1106	M9+mannose	-3.41084185863667	-19.0013611547238
+ECA_RS01825	ECA_RS01825	cystathionine beta-lyase	set21TCH1098	M9+cellobiose	-2.02570540526293	-12.5872114644892
+ECA_RS01825	ECA_RS01825	cystathionine beta-lyase	set21TCH1097	M9+cellobiose	-2.54894206630147	-13.8943189405846
+ECA_RS01825	ECA_RS01825	cystathionine beta-lyase	set21TCH1105	M9+xylose	-2.3557008492989	-12.5459346348141
+ECA_RS01825	ECA_RS01825	cystathionine beta-lyase	set21TCH1092	M9+polygalacturonate	-4.62257168197801	-17.2033865377481
+ECA_RS01825	ECA_RS01825	cystathionine beta-lyase	set21TCH1091	M9+polygalacturonate	-4.71663299812118	-16.6381523274123
+ECA_RS01825	ECA_RS01825	cystathionine beta-lyase	set21TCH1111	M9+glycerol	-2.37990231914799	-14.3163614339095
+ECA_RS01825	ECA_RS01825	cystathionine beta-lyase	set21TCH1101	M9+galactose	-2.58897320267406	-15.8641683671422
+ECA_RS01825	ECA_RS01825	cystathionine beta-lyase	set21TCH1088	M9+glucose	-2.21816491272145	-13.4906213517062
+ECA_RS01825	ECA_RS01825	cystathionine beta-lyase	set21TCH1110	M9+glycerol	-3.61321917638592	-19.3390644667458
+ECA_RS01825	ECA_RS01825	cystathionine beta-lyase	set21TCH1109	M9+glycerol	-3.68398026364775	-18.8070644204184
+ECA_RS01825	ECA_RS01825	cystathionine beta-lyase	set21TCH1094	M9+fructose	-2.08953615349716	-13.7736020065725
+ECA_RS01825	ECA_RS01825	cystathionine beta-lyase	set21TCH1103	M9+xylose	-3.75476310672183	-18.0016716267913
+ECA_RS01825	ECA_RS01825	cystathionine beta-lyase	set21TCH1100	M9+galactose	-2.4499792883398	-14.8430911930283
+ECA_RS01965	ECA_RS01965	aspartate carbamoyltransferase	set21TCH1101	M9+galactose	-2.41997102335319	-7.80607017605505
+ECA_RS01965	ECA_RS01965	aspartate carbamoyltransferase	set21TCH1108	M9+mannose	-2.28925397455257	-9.49249572766829
+ECA_RS01965	ECA_RS01965	aspartate carbamoyltransferase	set21TCH1093	M9+polygalacturonate	-5.01508157284999	-8.98976206805365
+ECA_RS01965	ECA_RS01965	aspartate carbamoyltransferase	set21TCH1092	M9+polygalacturonate	-5.13151755924555	-9.80241893783743
+ECA_RS01965	ECA_RS01965	aspartate carbamoyltransferase	set21TCH1114	Tuber-Atlantic	-5.93792588130876	-11.3300521747767
+ECA_RS01965	ECA_RS01965	aspartate carbamoyltransferase	set21TCH1100	M9+galactose	-2.76312242033648	-6.25569296263087
+ECA_RS01965	ECA_RS01965	aspartate carbamoyltransferase	set21TCH1109	M9+glycerol	-3.4326526437238	-10.248568722058
+ECA_RS01965	ECA_RS01965	aspartate carbamoyltransferase	set21TCH1116	Tuber-Atlantic	-3.9690166462042	-12.9079308798289
+ECA_RS01965	ECA_RS01965	aspartate carbamoyltransferase	set21TCH1091	M9+polygalacturonate	-4.79831387574282	-8.88597270914157
+ECA_RS01965	ECA_RS01965	aspartate carbamoyltransferase	set21TCH1115	Tuber-Atlantic	-5.37278115272728	-10.9204867846099
+ECA_RS01965	ECA_RS01965	aspartate carbamoyltransferase	set21TCH1117	Tuber-Atlantic	-3.86736702259964	-10.1888349637276
+ECA_RS01965	ECA_RS01965	aspartate carbamoyltransferase	set21TCH1118	Tuber-Atlantic	-3.37041050533467	-8.45035693131173
+ECA_RS01965	ECA_RS01965	aspartate carbamoyltransferase	set21TCH1111	M9+glycerol	-2.59107727652201	-7.9539965964535
+ECA_RS01965	ECA_RS01965	aspartate carbamoyltransferase	set21TCH1119	Tuber-Atlantic	-3.75361316868028	-13.3094985989157
+ECA_RS01965	ECA_RS01965	aspartate carbamoyltransferase	set21TCH1103	M9+xylose	-4.03943503911537	-10.6462699759519
+ECA_RS01965	ECA_RS01965	aspartate carbamoyltransferase	set21TCH1106	M9+mannose	-3.44510263671656	-10.92473437689
+ECA_RS01965	ECA_RS01965	aspartate carbamoyltransferase	set21TCH1110	M9+glycerol	-3.48658380576466	-9.9027721553453
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1088	M9+glucose	-3.11880331357009	-12.5644739945469
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1110	M9+glycerol	-3.7584867302137	-14.995151253132
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1108	M9+mannose	-3.18332764251128	-12.4537671866202
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1091	M9+polygalacturonate	-4.67777331510322	-12.0452139880668
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1098	M9+cellobiose	-2.29370368607684	-9.83549201040025
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1094	M9+fructose	-2.70061174010624	-12.2535057448565
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1089	M9+glucose	-2.59061051837713	-10.8218759473238
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1100	M9+galactose	-3.07759949669861	-12.7448723701901
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1093	M9+polygalacturonate	-4.3099055735495	-12.061150740446
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1102	M9+galactose	-2.50913193796554	-9.38933752533794
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1101	M9+galactose	-3.49757804216456	-12.7602517966436
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1092	M9+polygalacturonate	-4.47033886136352	-12.1896688649954
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1109	M9+glycerol	-4.1039408377422	-14.1742857645405
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1096	M9+fructose	-2.95013214234008	-12.6328476383709
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1106	M9+mannose	-3.45363293245311	-14.5497503040251
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1103	M9+xylose	-4.28472854952719	-12.2870765365413
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1105	M9+xylose	-2.57409619814361	-11.9053535865489
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1104	M9+xylose	-2.56183141059677	-10.2986613194442
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1095	M9+fructose	-2.54708493905523	-10.8603825034922
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1107	M9+mannose	-2.52822627798057	-10.6223815109359
+ECA_RS01975	ECA_RS01975	ornithine carbamoyltransferase	set21TCH1111	M9+glycerol	-3.26243508151144	-12.1985629043803
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1098	M9+cellobiose	-2.57560593288714	-10.509574533061
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1116	Tuber-Atlantic	-4.06354289962024	-16.8047635643767
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1102	M9+galactose	-2.42848681886604	-11.2312112595928
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1106	M9+mannose	-3.67940928849984	-15.6659500141553
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1115	Tuber-Atlantic	-3.25072286869311	-13.9702468397248
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1092	M9+polygalacturonate	-5.18570332084808	-12.0484453326173
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1088	M9+glucose	-2.47216406474195	-12.4883968187399
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1091	M9+polygalacturonate	-5.12937492668669	-10.937420536809
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1097	M9+cellobiose	-3.00006629557991	-13.6485509541024
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1108	M9+mannose	-2.99852384531935	-12.9676766727815
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1109	M9+glycerol	-4.29838006556263	-14.6458551878507
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1114	Tuber-Atlantic	-3.55094105478079	-17.9876123276971
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1094	M9+fructose	-2.50590577182494	-12.6002766433733
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1093	M9+polygalacturonate	-4.87454843151776	-12.1685228633241
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1110	M9+glycerol	-4.15541718057832	-15.5656336569114
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1104	M9+xylose	-2.34782761152372	-11.1613749316946
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1117	Tuber-Atlantic	-3.22679714976861	-16.5716958755053
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1100	M9+galactose	-3.41037533657123	-13.6343490833999
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1118	Tuber-Atlantic	-3.62687336312861	-11.5303003607997
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1103	M9+xylose	-3.79135408180232	-13.8558705789934
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1119	Tuber-Atlantic	-2.01707022201323	-9.84380120171656
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1101	M9+galactose	-2.74011782356781	-11.7738739424144
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1105	M9+xylose	-2.83553124287861	-13.0685001043377
+ECA_RS02360	ECA_RS02360	phosphoserine phosphatase	set21TCH1111	M9+glycerol	-2.81470559882542	-12.0378467039766
+ECA_RS03085	ECA_RS03085	protein-disulfide reductase DsbD	set21TCH1089	M9+glucose	2.40814211518526	19.113044907703
+ECA_RS03085	ECA_RS03085	protein-disulfide reductase DsbD	set21TCH1107	M9+mannose	2.28040786702266	17.9029760867458
+ECA_RS03215	ECA_RS03215	glucuronate isomerase	set21TCH1092	M9+polygalacturonate	-2.2235332048512	-12.970976551998
+ECA_RS03215	ECA_RS03215	glucuronate isomerase	set21TCH1091	M9+polygalacturonate	-2.41864688805141	-12.8644632267981
+ECA_RS03215	ECA_RS03215	glucuronate isomerase	set21TCH1093	M9+polygalacturonate	-2.05729983204833	-11.4319238858193
+ECA_RS03550	ECA_RS03550	polyribonucleotide nucleotidyltransferase	set21TCH1114	Tuber-Atlantic	-2.45116848166801	-8.08714861355239
+ECA_RS03550	ECA_RS03550	polyribonucleotide nucleotidyltransferase	set21TCH1119	Tuber-Atlantic	-3.04281981391477	-7.31723724689583
+ECA_RS03550	ECA_RS03550	polyribonucleotide nucleotidyltransferase	set21TCH1117	Tuber-Atlantic	-2.95300663830025	-7.71018902542277
+ECA_RS03550	ECA_RS03550	polyribonucleotide nucleotidyltransferase	set21TCH1087	LB	-2.15034113862189	-5.64614139944947
+ECA_RS03550	ECA_RS03550	polyribonucleotide nucleotidyltransferase	set21TCH1118	Tuber-Atlantic	-2.05778304684317	-5.23791212317066
+ECA_RS03555	ECA_RS03555	lipoprotein NlpI	set21TCH1119	Tuber-Atlantic	-2.33057642316396	-10.9516590244279
+ECA_RS03750	ECA_RS03750	LacI family DNA-binding transcriptional regulator	set21TCH1101	M9+galactose	4.66624856554772	34.6575602417697
+ECA_RS03750	ECA_RS03750	LacI family DNA-binding transcriptional regulator	set21TCH1102	M9+galactose	2.95339253354101	18.5756127818353
+ECA_RS03750	ECA_RS03750	LacI family DNA-binding transcriptional regulator	set21TCH1100	M9+galactose	5.84490794459849	42.9960425725018
+ECA_RS03820	ECA_RS03820	bifunctional protein-disulfide isomerase/oxidoreductase DsbC	set21TCH1089	M9+glucose	2.32560589051926	15.5138216000625
+ECA_RS03820	ECA_RS03820	bifunctional protein-disulfide isomerase/oxidoreductase DsbC	set21TCH1107	M9+mannose	2.20358787562151	14.4431832619122
+ECA_RS04020	ECA_RS04020	hypothetical protein	set21TCH1092	M9+polygalacturonate	-2.81306752013064	-5.81193018676356
+ECA_RS04020	ECA_RS04020	hypothetical protein	set21TCH1100	M9+galactose	-2.59855750138026	-5.12188546542687
+ECA_RS04020	ECA_RS04020	hypothetical protein	set21TCH1108	M9+mannose	-2.20398138658492	-5.27147823736809
+ECA_RS04020	ECA_RS04020	hypothetical protein	set21TCH1097	M9+cellobiose	-2.54005836376469	-5.6856869885716
+ECA_RS04020	ECA_RS04020	hypothetical protein	set21TCH1093	M9+polygalacturonate	-2.49030005614801	-5.77052405510969
+ECA_RS04020	ECA_RS04020	hypothetical protein	set21TCH1091	M9+polygalacturonate	-2.4872175087082	-5.56740759533183
+ECA_RS04420	ECA_RS04420	phosphoenolpyruvate-protein phosphotransferase PtsI	set21TCH1098	M9+cellobiose	-2.44902151011154	-6.63472621355614
+ECA_RS04420	ECA_RS04420	phosphoenolpyruvate-protein phosphotransferase PtsI	set21TCH1100	M9+galactose	2.00716975074602	10.5017960619205
+ECA_RS04420	ECA_RS04420	phosphoenolpyruvate-protein phosphotransferase PtsI	set21TCH1097	M9+cellobiose	-2.49693135850997	-6.60174242200185
+ECA_RS04420	ECA_RS04420	phosphoenolpyruvate-protein phosphotransferase PtsI	set21TCH1108	M9+mannose	-2.02269137103577	-6.06800798082096
+ECA_RS04420	ECA_RS04420	phosphoenolpyruvate-protein phosphotransferase PtsI	set21TCH1106	M9+mannose	-2.56664839211538	-6.78607023570818
+ECA_RS04420	ECA_RS04420	phosphoenolpyruvate-protein phosphotransferase PtsI	set21TCH1116	Tuber-Atlantic	-2.17734893632824	-6.52028362339237
+ECA_RS04820	ECA_RS04820	membrane-bound lytic murein transglycosylase MltC	set21TCH1099	M9+cellobiose	2.47920080628198	14.9280553835896
+ECA_RS04820	ECA_RS04820	membrane-bound lytic murein transglycosylase MltC	set21TCH1108	M9+mannose	2.11650874384297	15.0621743904468
+ECA_RS04820	ECA_RS04820	membrane-bound lytic murein transglycosylase MltC	set21TCH1111	M9+glycerol	2.42499607162375	16.3344269766179
+ECA_RS04820	ECA_RS04820	membrane-bound lytic murein transglycosylase MltC	set21TCH1096	M9+fructose	2.66544432272243	16.4340597790153
+ECA_RS04820	ECA_RS04820	membrane-bound lytic murein transglycosylase MltC	set21TCH1089	M9+glucose	2.79541328167322	15.9948487940799
+ECA_RS04820	ECA_RS04820	membrane-bound lytic murein transglycosylase MltC	set21TCH1107	M9+mannose	2.48028769793555	16.0396498512952
+ECA_RS04820	ECA_RS04820	membrane-bound lytic murein transglycosylase MltC	set21TCH1095	M9+fructose	2.8494486241398	15.1339984536917
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1092	M9+polygalacturonate	-4.82727913063622	-12.0176818606477
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1098	M9+cellobiose	-2.1114970890757	-9.8097316955333
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1110	M9+glycerol	-2.95449136722286	-14.2004962060318
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1088	M9+glucose	-2.02596812431289	-10.3421411987767
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1108	M9+mannose	-3.32617630585897	-11.5321919170034
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1102	M9+galactose	-2.38314785920505	-10.1071144963173
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1096	M9+fructose	-2.93683438518575	-10.8016514794854
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1105	M9+xylose	-2.08864931778476	-8.74193908089087
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1111	M9+glycerol	-2.36475695640779	-10.6618011027457
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1093	M9+polygalacturonate	-4.35842863803317	-12.1674374065027
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1094	M9+fructose	-2.31505091617858	-10.4659790478629
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1106	M9+mannose	-3.27795771399287	-11.945594312375
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1109	M9+glycerol	-2.80793467191217	-13.1326186186482
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1103	M9+xylose	-4.19066093728499	-12.7941128279804
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1097	M9+cellobiose	-2.1669260827589	-11.1520374288053
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1101	M9+galactose	-3.06178861921437	-12.1557157684892
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1091	M9+polygalacturonate	-4.9190825667202	-12.2462297566187
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1100	M9+galactose	-3.69343333466853	-11.9246366993287
+ECA_RS04945	ECA_RS04945	amino-acid N-acetyltransferase	set21TCH1095	M9+fructose	-2.49262751184957	-8.51202598117053
+ECA_RS05600	ECA_RS05600	thiamine-phosphate kinase	set21TCH1114	Tuber-Atlantic	-2.69316605110908	-5.30825896556918
+ECA_RS05670	ECA_RS05670	cytochrome o ubiquinol oxidase subunit II	set21TCH1092	M9+polygalacturonate	-2.13991298295821	-7.97912292802945
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1090	M9+glucose	-2.7537309569676	-9.78614987519001
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1098	M9+cellobiose	-2.61007176203078	-9.43910840544173
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1088	M9+glucose	-3.03870472482234	-10.3673682625792
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1110	M9+glycerol	-4.63901476513421	-10.1564196671334
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1105	M9+xylose	-3.46996658693292	-10.3110954870543
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1106	M9+mannose	-4.01503587809715	-11.9307829876256
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1117	Tuber-Atlantic	-4.35211293372671	-13.1643408135485
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1111	M9+glycerol	-4.49016653264702	-8.04544220955384
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1108	M9+mannose	-3.5974976445397	-11.327590818367
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1101	M9+galactose	-3.33722674976946	-10.0277926640828
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1104	M9+xylose	-2.8053233637834	-8.48699462893932
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1092	M9+polygalacturonate	-4.09320216410831	-10.4680395979043
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1102	M9+galactose	-3.15485412538858	-9.06229111823847
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1093	M9+polygalacturonate	-4.95854817063627	-7.55809765672128
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1119	Tuber-Atlantic	-4.27627826630032	-13.185454305784
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1118	Tuber-Atlantic	-3.06259015070577	-9.07855335411582
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1091	M9+polygalacturonate	-5.32439266426416	-7.28289894307134
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1114	Tuber-Atlantic	-4.35652940452443	-13.6964771100747
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1109	M9+glycerol	-5.15798134849853	-8.58433135984968
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1100	M9+galactose	-3.68789554763204	-10.2374610391831
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1099	M9+cellobiose	-2.45436476974725	-7.52018241263328
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1107	M9+mannose	-2.06721469833999	-5.70031864070595
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1094	M9+fructose	-2.73312602836487	-9.96519699859125
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1097	M9+cellobiose	-3.53684633202994	-10.934111129627
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1116	Tuber-Atlantic	-4.06565722464395	-12.238292907802
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1095	M9+fructose	-2.17102118128567	-8.86263959463566
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1103	M9+xylose	-4.37983105208541	-10.1124858660852
+ECA_RS06205	ECA_RS06205	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1115	Tuber-Atlantic	-3.51649306772347	-12.9305482770472
+ECA_RS06220	ECA_RS06220	DnaA inactivator Hda	set21TCH1092	M9+polygalacturonate	-2.45394909924703	-5.94897413210372
+ECA_RS06220	ECA_RS06220	DnaA inactivator Hda	set21TCH1093	M9+polygalacturonate	-2.13717432164945	-5.53005969489547
+ECA_RS06220	ECA_RS06220	DnaA inactivator Hda	set21TCH1085	LB	-2.82820410707151	-5.56602705603587
+ECA_RS06220	ECA_RS06220	DnaA inactivator Hda	set21TCH1086	LB	-2.73898865847351	-5.64939789784587
+ECA_RS06220	ECA_RS06220	DnaA inactivator Hda	set21TCH1087	LB	-2.72422351126183	-5.85973688893198
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1098	M9+cellobiose	-2.95973678609069	-7.21636408418118
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1106	M9+mannose	-4.4919959530381	-7.9772469117816
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1117	Tuber-Atlantic	-4.22309594662016	-9.60966174329612
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1103	M9+xylose	-4.22988855108197	-6.44880548140178
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1110	M9+glycerol	-5.21706440176751	-7.90263533347007
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1093	M9+polygalacturonate	-5.84176378542122	-5.67340160096478
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1102	M9+galactose	-3.76099607670248	-6.02957170138087
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1099	M9+cellobiose	-2.37236813677596	-6.24038022712136
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1104	M9+xylose	-3.76451808592558	-5.68565168279849
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1101	M9+galactose	-3.69665168812237	-7.74714767621998
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1088	M9+glucose	-3.04034248423498	-7.17307592820963
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1119	Tuber-Atlantic	-4.49374792966134	-6.26775860300419
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1108	M9+mannose	-3.68758954588007	-7.72815596151784
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1095	M9+fructose	-2.47472248101815	-6.00504417806716
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1105	M9+xylose	-4.25498681226917	-6.85946117305618
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1089	M9+glucose	-2.47947415220018	-6.2317724738052
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1114	Tuber-Atlantic	-5.18340369655284	-9.79830372671726
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1109	M9+glycerol	-4.48880400093307	-6.89096365091658
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1118	Tuber-Atlantic	-4.46382878837395	-6.76062590789422
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1116	Tuber-Atlantic	-3.68645503337731	-9.06682930002598
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1111	M9+glycerol	-4.09957721721943	-6.47723245288634
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1091	M9+polygalacturonate	-4.77008629786748	-7.22556779411382
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1100	M9+galactose	-3.74441274857436	-6.77056715258579
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1094	M9+fructose	-3.04096525940569	-7.1745452408311
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1092	M9+polygalacturonate	-5.51808481206889	-6.53342526174528
+ECA_RS06255	ECA_RS06255	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1115	Tuber-Atlantic	-4.95179746675759	-8.67236412154984
+ECA_RS06390	ECA_RS06390	M15 family metallopeptidase	set21TCH1101	M9+galactose	-2.2521181700823	-6.40473738252867
+ECA_RS06645	ECA_RS06645	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	set21TCH1101	M9+galactose	-2.23813709977542	-9.38011294857509
+ECA_RS06645	ECA_RS06645	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	set21TCH1107	M9+mannose	2.04636058242333	15.3235769064562
+ECA_RS06645	ECA_RS06645	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	set21TCH1102	M9+galactose	-2.41947278726403	-10.834506200359
+ECA_RS06645	ECA_RS06645	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	set21TCH1100	M9+galactose	-3.13503090926115	-12.150369644359
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1095	M9+fructose	-2.21123001086802	-7.34069803546989
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1106	M9+mannose	-3.5434263140884	-9.25805490725467
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1110	M9+glycerol	-2.95299991625976	-9.94464604708995
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1107	M9+mannose	-2.66065087746828	-7.3222070324623
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1097	M9+cellobiose	-2.07522240825401	-7.85637213389902
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1104	M9+xylose	-3.44702894153152	-8.75088634566447
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1101	M9+galactose	-2.79190164221885	-8.37944702261137
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1105	M9+xylose	-3.23820519994017	-7.97013696061805
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1109	M9+glycerol	-3.25592107873675	-9.95836480376727
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1098	M9+cellobiose	-2.00858928520732	-7.8207569335032
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1108	M9+mannose	-2.98269213904131	-8.77577418422744
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1093	M9+polygalacturonate	-3.9572280446078	-7.9516384921876
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1111	M9+glycerol	-3.07898277490234	-7.81653672784594
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1100	M9+galactose	-3.46130449966255	-7.94387944775067
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1102	M9+galactose	-2.40157836867533	-7.47839902966087
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1103	M9+xylose	-3.41335158839757	-8.66539048975586
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1096	M9+fructose	-2.13353511384977	-7.56801171340727
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1092	M9+polygalacturonate	-3.85414315229375	-8.13354564845274
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1099	M9+cellobiose	-2.26573791195515	-7.29529905479091
+ECA_RS06745	ECA_RS06745	citrate synthase	set21TCH1091	M9+polygalacturonate	-4.08042810629509	-8.19919621231632
+ECA_RS06750	ECA_RS06750	succinate dehydrogenase cytochrome b556 subunit	set21TCH1092	M9+polygalacturonate	-2.28354414020077	-6.33190615615759
+ECA_RS06750	ECA_RS06750	succinate dehydrogenase cytochrome b556 subunit	set21TCH1091	M9+polygalacturonate	-2.11001989123318	-6.57727555778585
+ECA_RS06755	ECA_RS06755	succinate dehydrogenase membrane anchor subunit	set21TCH1092	M9+polygalacturonate	-2.3574916811847	-6.43226623700027
+ECA_RS06755	ECA_RS06755	succinate dehydrogenase membrane anchor subunit	set21TCH1091	M9+polygalacturonate	-2.58657632877262	-8.24801126031237
+ECA_RS06765	ECA_RS06765	succinate dehydrogenase iron-sulfur subunit	set21TCH1092	M9+polygalacturonate	-2.46298100733859	-5.64020227865646
+ECA_RS06765	ECA_RS06765	succinate dehydrogenase iron-sulfur subunit	set21TCH1093	M9+polygalacturonate	-2.87164441000754	-6.76513400586067
+ECA_RS06765	ECA_RS06765	succinate dehydrogenase iron-sulfur subunit	set21TCH1091	M9+polygalacturonate	-2.40103895331711	-6.60463828400345
+ECA_RS06770	ECA_RS06770	2-oxoglutarate dehydrogenase E1 component	set21TCH1098	M9+cellobiose	-2.166058519586	-5.76978370393302
+ECA_RS06770	ECA_RS06770	2-oxoglutarate dehydrogenase E1 component	set21TCH1110	M9+glycerol	-3.63323958602454	-5.4675194068187
+ECA_RS06770	ECA_RS06770	2-oxoglutarate dehydrogenase E1 component	set21TCH1096	M9+fructose	-2.09475131091393	-5.44987916194041
+ECA_RS06770	ECA_RS06770	2-oxoglutarate dehydrogenase E1 component	set21TCH1088	M9+glucose	-2.74306259003668	-5.41545532517493
+ECA_RS06770	ECA_RS06770	2-oxoglutarate dehydrogenase E1 component	set21TCH1085	LB	-2.75840587443972	-5.44574660308013
+ECA_RS06770	ECA_RS06770	2-oxoglutarate dehydrogenase E1 component	set21TCH1097	M9+cellobiose	-2.30964568208259	-5.85914416215065
+ECA_RS06770	ECA_RS06770	2-oxoglutarate dehydrogenase E1 component	set21TCH1109	M9+glycerol	-2.72481626321941	-6.32806954214422
+ECA_RS06770	ECA_RS06770	2-oxoglutarate dehydrogenase E1 component	set21TCH1104	M9+xylose	-2.886850168539	-5.40306223756026
+ECA_RS06770	ECA_RS06770	2-oxoglutarate dehydrogenase E1 component	set21TCH1086	LB	-2.75774519445031	-5.70775723107081
+ECA_RS06770	ECA_RS06770	2-oxoglutarate dehydrogenase E1 component	set21TCH1106	M9+mannose	-2.62509848647616	-6.48099143663517
+ECA_RS06770	ECA_RS06770	2-oxoglutarate dehydrogenase E1 component	set21TCH1100	M9+galactose	-2.58139729144401	-5.34276665087002
+ECA_RS06770	ECA_RS06770	2-oxoglutarate dehydrogenase E1 component	set21TCH1094	M9+fructose	-2.15849632077565	-5.6157234791694
+ECA_RS06770	ECA_RS06770	2-oxoglutarate dehydrogenase E1 component	set21TCH1087	LB	-2.63373445218365	-5.686414985955
+ECA_RS06770	ECA_RS06770	2-oxoglutarate dehydrogenase E1 component	set21TCH1108	M9+mannose	-2.8465614729075	-5.89158195738019
+ECA_RS06770	ECA_RS06770	2-oxoglutarate dehydrogenase E1 component	set21TCH1102	M9+galactose	-2.29490667995509	-5.32965442826916
+ECA_RS06860	ECA_RS06860	quinolinate synthase NadA	set21TCH1091	M9+polygalacturonate	-2.39566239899747	-12.3049311909261
+ECA_RS06860	ECA_RS06860	quinolinate synthase NadA	set21TCH1092	M9+polygalacturonate	-2.25573390541817	-11.9803752034985
+ECA_RS06860	ECA_RS06860	quinolinate synthase NadA	set21TCH1093	M9+polygalacturonate	-2.72475035318799	-12.2662862736054
+ECA_RS06860	ECA_RS06860	quinolinate synthase NadA	set21TCH1106	M9+mannose	-2.06815890083397	-11.1772368150398
+ECA_RS06860	ECA_RS06860	quinolinate synthase NadA	set21TCH1103	M9+xylose	-2.08255508898529	-11.2998197628395
+ECA_RS06910	ECA_RS06910	galactose-1-epimerase	set21TCH1100	M9+galactose	3.21439251941789	24.2092180322337
+ECA_RS06910	ECA_RS06910	galactose-1-epimerase	set21TCH1092	M9+polygalacturonate	-2.69951060902198	-12.8010025364767
+ECA_RS06910	ECA_RS06910	galactose-1-epimerase	set21TCH1091	M9+polygalacturonate	-2.98045587529032	-13.044257229658
+ECA_RS06910	ECA_RS06910	galactose-1-epimerase	set21TCH1093	M9+polygalacturonate	-2.64279962814965	-11.9566462758358
+ECA_RS06915	ECA_RS06915	UDP-glucose 4-epimerase GalE	set21TCH1119	Tuber-Atlantic	-3.02410671828142	-6.16934554087921
+ECA_RS06915	ECA_RS06915	UDP-glucose 4-epimerase GalE	set21TCH1102	M9+galactose	-3.40961307212449	-5.12617461777748
+ECA_RS06915	ECA_RS06915	UDP-glucose 4-epimerase GalE	set21TCH1101	M9+galactose	-3.57199556462089	-5.37030818771591
+ECA_RS06915	ECA_RS06915	UDP-glucose 4-epimerase GalE	set21TCH1100	M9+galactose	-3.40591731089132	-5.57651052631707
+ECA_RS06915	ECA_RS06915	UDP-glucose 4-epimerase GalE	set21TCH1114	Tuber-Atlantic	-4.4116281750844	-5.9352479258531
+ECA_RS06990	ECA_RS06990	6-phosphogluconolactonase	set21TCH1097	M9+cellobiose	-2.11675746687597	-8.34766623502756
+ECA_RS06990	ECA_RS06990	6-phosphogluconolactonase	set21TCH1099	M9+cellobiose	-2.13272445687513	-6.62744198381469
+ECA_RS06990	ECA_RS06990	6-phosphogluconolactonase	set21TCH1103	M9+xylose	-2.10127700632883	-8.40402472149123
+ECA_RS07185	ECA_RS07185	glucose-1-phosphate thymidylyltransferase RfbA	set21TCH1089	M9+glucose	2.11390053270566	13.719327313034
+ECA_RS07185	ECA_RS07185	glucose-1-phosphate thymidylyltransferase RfbA	set21TCH1093	M9+polygalacturonate	-2.00497734545537	-8.23636662678353
+ECA_RS07185	ECA_RS07185	glucose-1-phosphate thymidylyltransferase RfbA	set21TCH1092	M9+polygalacturonate	-2.0435491726943	-7.93385694494685
+ECA_RS07185	ECA_RS07185	glucose-1-phosphate thymidylyltransferase RfbA	set21TCH1091	M9+polygalacturonate	-2.30825256477928	-9.02235193220551
+ECA_RS07435	ECA_RS07435	LacI family DNA-binding transcriptional regulator	set21TCH1100	M9+galactose	5.29025682253322	30.9657823210987
+ECA_RS07435	ECA_RS07435	LacI family DNA-binding transcriptional regulator	set21TCH1102	M9+galactose	2.51958496593082	16.1805696073097
+ECA_RS07435	ECA_RS07435	LacI family DNA-binding transcriptional regulator	set21TCH1101	M9+galactose	3.95766132660845	21.2804561104854
+ECA_RS08670	ECA_RS08670	porin OmpA	set21TCH1107	M9+mannose	2.36245369297943	15.0775097684187
+ECA_RS08670	ECA_RS08670	porin OmpA	set21TCH1111	M9+glycerol	2.0606960329862	11.364472633791
+ECA_RS08670	ECA_RS08670	porin OmpA	set21TCH1095	M9+fructose	2.4659296466788	15.619911161752
+ECA_RS08670	ECA_RS08670	porin OmpA	set21TCH1099	M9+cellobiose	2.39207570496624	10.8812002831203
+ECA_RS08670	ECA_RS08670	porin OmpA	set21TCH1096	M9+fructose	2.24130837121706	12.1860630587932
+ECA_RS08670	ECA_RS08670	porin OmpA	set21TCH1089	M9+glucose	2.45508627967057	16.1323698081416
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1091	M9+polygalacturonate	-4.76220353179157	-15.9204789742409
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1114	Tuber-Atlantic	-4.39257595832616	-16.1307979650382
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1092	M9+polygalacturonate	-4.82118414419836	-15.8657000733303
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1105	M9+xylose	-2.60264803746912	-12.066097820725
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1116	Tuber-Atlantic	-3.98063534659497	-17.2371905374162
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1093	M9+polygalacturonate	-4.25046886163528	-15.3224584896526
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1118	Tuber-Atlantic	-3.76064534833449	-15.5576912441686
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1117	Tuber-Atlantic	-3.77709915418637	-16.9533159623747
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1110	M9+glycerol	-3.70096613950265	-14.2968838439221
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1115	Tuber-Atlantic	-4.71684096587316	-17.4195297299568
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1108	M9+mannose	-2.80435438145249	-13.9111105176201
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1101	M9+galactose	-2.68793412872816	-13.0629596517626
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1103	M9+xylose	-3.99318543741299	-15.0035775796223
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1111	M9+glycerol	-2.87296182367124	-13.45831911518
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1100	M9+galactose	-3.20920743248038	-15.5982739726043
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1109	M9+glycerol	-3.32068813834895	-13.299445867883
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1119	Tuber-Atlantic	-3.62296302853569	-17.2298114836066
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1106	M9+mannose	-3.3664356391697	-15.5716552242024
+ECA_RS08840	ECA_RS08840	dihydroorotase	set21TCH1097	M9+cellobiose	-2.05969502962052	-11.9371045731299
+ECA_RS08930	ECA_RS08930	PTS glucose transporter subunit IIBC	set21TCH1089	M9+glucose	-2.02966489216659	-11.0453583298732
+ECA_RS09220	ECA_RS09220	major outer membrane lipoprotein	set21TCH1109	M9+glycerol	2.18402659694256	8.03057223177173
+ECA_RS09220	ECA_RS09220	major outer membrane lipoprotein	set21TCH1103	M9+xylose	2.7224096950657	11.9387753768142
+ECA_RS09220	ECA_RS09220	major outer membrane lipoprotein	set21TCH1106	M9+mannose	2.62129109564127	7.84076080057173
+ECA_RS09220	ECA_RS09220	major outer membrane lipoprotein	set21TCH1089	M9+glucose	3.498350166675	14.9758773734717
+ECA_RS09220	ECA_RS09220	major outer membrane lipoprotein	set21TCH1104	M9+xylose	2.7972666754487	11.2238696471833
+ECA_RS09220	ECA_RS09220	major outer membrane lipoprotein	set21TCH1098	M9+cellobiose	3.05218506882074	10.6535107963272
+ECA_RS09220	ECA_RS09220	major outer membrane lipoprotein	set21TCH1088	M9+glucose	2.59856751944313	11.2795380688356
+ECA_RS09220	ECA_RS09220	major outer membrane lipoprotein	set21TCH1096	M9+fructose	3.37092013839916	13.9173953333657
+ECA_RS09220	ECA_RS09220	major outer membrane lipoprotein	set21TCH1086	LB	2.09119435035394	8.84010082545622
+ECA_RS09220	ECA_RS09220	major outer membrane lipoprotein	set21TCH1108	M9+mannose	2.44156717969477	10.4898111196775
+ECA_RS09220	ECA_RS09220	major outer membrane lipoprotein	set21TCH1105	M9+xylose	2.70748007285627	10.1833460278564
+ECA_RS09220	ECA_RS09220	major outer membrane lipoprotein	set21TCH1099	M9+cellobiose	3.58564421669346	12.1845914872043
+ECA_RS09220	ECA_RS09220	major outer membrane lipoprotein	set21TCH1097	M9+cellobiose	2.94379901516888	13.1416995498022
+ECA_RS09220	ECA_RS09220	major outer membrane lipoprotein	set21TCH1107	M9+mannose	3.74550612719059	15.6165346016931
+ECA_RS09220	ECA_RS09220	major outer membrane lipoprotein	set21TCH1111	M9+glycerol	2.98275678699126	11.3953509101626
+ECA_RS09220	ECA_RS09220	major outer membrane lipoprotein	set21TCH1094	M9+fructose	3.06020233951907	13.6289160316798
+ECA_RS09220	ECA_RS09220	major outer membrane lipoprotein	set21TCH1101	M9+galactose	2.17116436445597	7.46240199334338
+ECA_RS09220	ECA_RS09220	major outer membrane lipoprotein	set21TCH1095	M9+fructose	3.33991738638499	12.8799304880213
+ECA_RS09655	ECA_RS09655	orotidine-5'-phosphate decarboxylase	set21TCH1114	Tuber-Atlantic	-5.39937621598555	-13.3688648278019
+ECA_RS09655	ECA_RS09655	orotidine-5'-phosphate decarboxylase	set21TCH1101	M9+galactose	-2.94071929970178	-11.7923252508058
+ECA_RS09655	ECA_RS09655	orotidine-5'-phosphate decarboxylase	set21TCH1091	M9+polygalacturonate	-4.58006495671502	-12.074988172241
+ECA_RS09655	ECA_RS09655	orotidine-5'-phosphate decarboxylase	set21TCH1119	Tuber-Atlantic	-3.47482120552382	-13.6071492744498
+ECA_RS09655	ECA_RS09655	orotidine-5'-phosphate decarboxylase	set21TCH1108	M9+mannose	-3.2312393414671	-11.3203592516526
+ECA_RS09655	ECA_RS09655	orotidine-5'-phosphate decarboxylase	set21TCH1092	M9+polygalacturonate	-4.7466006666013	-11.7765514200822
+ECA_RS09655	ECA_RS09655	orotidine-5'-phosphate decarboxylase	set21TCH1093	M9+polygalacturonate	-4.47734288222794	-11.1085095169067
+ECA_RS09655	ECA_RS09655	orotidine-5'-phosphate decarboxylase	set21TCH1100	M9+galactose	-3.31821973233312	-11.8186371737056
+ECA_RS09655	ECA_RS09655	orotidine-5'-phosphate decarboxylase	set21TCH1106	M9+mannose	-3.47282172263253	-13.6902593284675
+ECA_RS09655	ECA_RS09655	orotidine-5'-phosphate decarboxylase	set21TCH1118	Tuber-Atlantic	-3.93841144498587	-10.3594734090525
+ECA_RS09655	ECA_RS09655	orotidine-5'-phosphate decarboxylase	set21TCH1103	M9+xylose	-3.96838756655254	-12.2889976709822
+ECA_RS09655	ECA_RS09655	orotidine-5'-phosphate decarboxylase	set21TCH1109	M9+glycerol	-3.93049256958382	-13.4376284423398
+ECA_RS09655	ECA_RS09655	orotidine-5'-phosphate decarboxylase	set21TCH1115	Tuber-Atlantic	-4.28564690579562	-14.8021958347713
+ECA_RS09655	ECA_RS09655	orotidine-5'-phosphate decarboxylase	set21TCH1116	Tuber-Atlantic	-3.93719100760226	-14.3133580952708
+ECA_RS09655	ECA_RS09655	orotidine-5'-phosphate decarboxylase	set21TCH1111	M9+glycerol	-3.62232749472484	-11.6282512612139
+ECA_RS09655	ECA_RS09655	orotidine-5'-phosphate decarboxylase	set21TCH1105	M9+xylose	-2.0550480257446	-9.06773444447733
+ECA_RS09655	ECA_RS09655	orotidine-5'-phosphate decarboxylase	set21TCH1110	M9+glycerol	-4.46532791364029	-13.0071900250483
+ECA_RS09655	ECA_RS09655	orotidine-5'-phosphate decarboxylase	set21TCH1117	Tuber-Atlantic	-4.00098598933793	-14.6103825248555
+ECA_RS09745	ECA_RS09745	putrescine export ABC transporter permease SapC	set21TCH1109	M9+glycerol	-2.51390632705465	-5.87863451220035
+ECA_RS11090	ECA_RS11090	sugar metabolism global transcriptional regulator Mlc	set21TCH1101	M9+galactose	2.14966210846722	11.5766453627339
+ECA_RS11090	ECA_RS11090	sugar metabolism global transcriptional regulator Mlc	set21TCH1100	M9+galactose	2.73811824784833	15.1564355896713
+ECA_RS11115	ECA_RS11115	mannose-6-phosphate isomerase	set21TCH1108	M9+mannose	-3.92094901742911	-13.844420116866
+ECA_RS11115	ECA_RS11115	mannose-6-phosphate isomerase	set21TCH1106	M9+mannose	-5.15698289401717	-13.2348811113372
+ECA_RS11115	ECA_RS11115	mannose-6-phosphate isomerase	set21TCH1107	M9+mannose	-2.88471612599018	-10.8611616149714
+ECA_RS11220	ECA_RS11220	HTH-type transcriptional regulator CysB	set21TCH1103	M9+xylose	-3.61799849756477	-9.40359522277579
+ECA_RS11220	ECA_RS11220	HTH-type transcriptional regulator CysB	set21TCH1092	M9+polygalacturonate	-3.61772329044776	-8.26939889330126
+ECA_RS11220	ECA_RS11220	HTH-type transcriptional regulator CysB	set21TCH1114	Tuber-Atlantic	-3.39424481010899	-13.0555044534924
+ECA_RS11220	ECA_RS11220	HTH-type transcriptional regulator CysB	set21TCH1119	Tuber-Atlantic	-2.39142744785479	-8.75278844753826
+ECA_RS11220	ECA_RS11220	HTH-type transcriptional regulator CysB	set21TCH1093	M9+polygalacturonate	-3.77036861456396	-8.61831587035339
+ECA_RS11220	ECA_RS11220	HTH-type transcriptional regulator CysB	set21TCH1115	Tuber-Atlantic	-2.34557862744352	-7.96499153554429
+ECA_RS11220	ECA_RS11220	HTH-type transcriptional regulator CysB	set21TCH1110	M9+glycerol	-3.57256376635898	-9.53522713375134
+ECA_RS11220	ECA_RS11220	HTH-type transcriptional regulator CysB	set21TCH1117	Tuber-Atlantic	-3.07260640746435	-11.6075253048578
+ECA_RS11220	ECA_RS11220	HTH-type transcriptional regulator CysB	set21TCH1091	M9+polygalacturonate	-4.04443462759571	-8.10172268233426
+ECA_RS11220	ECA_RS11220	HTH-type transcriptional regulator CysB	set21TCH1100	M9+galactose	-2.82087352764224	-8.07572022114937
+ECA_RS11220	ECA_RS11220	HTH-type transcriptional regulator CysB	set21TCH1109	M9+glycerol	-3.51787822465827	-9.85242017201229
+ECA_RS11220	ECA_RS11220	HTH-type transcriptional regulator CysB	set21TCH1118	Tuber-Atlantic	-2.78831502264271	-8.16374809944112
+ECA_RS11220	ECA_RS11220	HTH-type transcriptional regulator CysB	set21TCH1108	M9+mannose	-2.61291199534143	-8.84219634444789
+ECA_RS11220	ECA_RS11220	HTH-type transcriptional regulator CysB	set21TCH1106	M9+mannose	-2.42498056585347	-8.90254136928452
+ECA_RS11220	ECA_RS11220	HTH-type transcriptional regulator CysB	set21TCH1116	Tuber-Atlantic	-2.3751330854183	-8.60163629786024
+ECA_RS11220	ECA_RS11220	HTH-type transcriptional regulator CysB	set21TCH1101	M9+galactose	-2.52000114323551	-8.41331201579949
+ECA_RS11220	ECA_RS11220	HTH-type transcriptional regulator CysB	set21TCH1111	M9+glycerol	-2.22951909908639	-7.44350449052353
+ECA_RS11275	ECA_RS11275	anthranilate synthase component 1	set21TCH1106	M9+mannose	-2.45697109062664	-11.6239138506011
+ECA_RS11275	ECA_RS11275	anthranilate synthase component 1	set21TCH1101	M9+galactose	-2.04892612895121	-10.1383799374249
+ECA_RS11275	ECA_RS11275	anthranilate synthase component 1	set21TCH1091	M9+polygalacturonate	-4.23890963049204	-11.4839970824779
+ECA_RS11275	ECA_RS11275	anthranilate synthase component 1	set21TCH1092	M9+polygalacturonate	-3.80891911584414	-12.633403153006
+ECA_RS11275	ECA_RS11275	anthranilate synthase component 1	set21TCH1110	M9+glycerol	-2.13587214642281	-9.31882328173301
+ECA_RS11275	ECA_RS11275	anthranilate synthase component 1	set21TCH1093	M9+polygalacturonate	-3.72118877384757	-12.2536382506694
+ECA_RS11275	ECA_RS11275	anthranilate synthase component 1	set21TCH1109	M9+glycerol	-2.13904598172984	-10.6100579571491
+ECA_RS11275	ECA_RS11275	anthranilate synthase component 1	set21TCH1100	M9+galactose	-2.13370565764845	-10.465930319976
+ECA_RS11275	ECA_RS11275	anthranilate synthase component 1	set21TCH1103	M9+xylose	-2.3197165718342	-11.5756749968316
+ECA_RS11280	ECA_RS11280	glutamine amidotransferase-related protein	set21TCH1092	M9+polygalacturonate	-4.87343621577349	-6.21135176999902
+ECA_RS11280	ECA_RS11280	glutamine amidotransferase-related protein	set21TCH1091	M9+polygalacturonate	-4.46090758108208	-6.69307695165276
+ECA_RS11280	ECA_RS11280	glutamine amidotransferase-related protein	set21TCH1109	M9+glycerol	-2.38884822747823	-6.57480730267187
+ECA_RS11280	ECA_RS11280	glutamine amidotransferase-related protein	set21TCH1093	M9+polygalacturonate	-5.21844759631903	-6.14261359489449
+ECA_RS11280	ECA_RS11280	glutamine amidotransferase-related protein	set21TCH1106	M9+mannose	-2.40337850670389	-6.71301905501669
+ECA_RS11285	ECA_RS11285	anthranilate phosphoribosyltransferase	set21TCH1102	M9+galactose	-2.07657156608428	-7.57785645559225
+ECA_RS11285	ECA_RS11285	anthranilate phosphoribosyltransferase	set21TCH1103	M9+xylose	-3.33113852033767	-13.1404891362493
+ECA_RS11285	ECA_RS11285	anthranilate phosphoribosyltransferase	set21TCH1093	M9+polygalacturonate	-4.13303915340964	-12.570283195762
+ECA_RS11285	ECA_RS11285	anthranilate phosphoribosyltransferase	set21TCH1105	M9+xylose	-2.54515092197823	-9.50417105577518
+ECA_RS11285	ECA_RS11285	anthranilate phosphoribosyltransferase	set21TCH1109	M9+glycerol	-2.32088232532185	-11.8315825547846
+ECA_RS11285	ECA_RS11285	anthranilate phosphoribosyltransferase	set21TCH1091	M9+polygalacturonate	-3.42140614649669	-10.9669077698438
+ECA_RS11285	ECA_RS11285	anthranilate phosphoribosyltransferase	set21TCH1100	M9+galactose	-2.10529389635645	-9.84862997954959
+ECA_RS11285	ECA_RS11285	anthranilate phosphoribosyltransferase	set21TCH1110	M9+glycerol	-2.47600017721116	-12.6743647430144
+ECA_RS11285	ECA_RS11285	anthranilate phosphoribosyltransferase	set21TCH1101	M9+galactose	-2.63822661153948	-12.0183411834095
+ECA_RS11285	ECA_RS11285	anthranilate phosphoribosyltransferase	set21TCH1092	M9+polygalacturonate	-4.40345381054443	-13.1006687687922
+ECA_RS11285	ECA_RS11285	anthranilate phosphoribosyltransferase	set21TCH1106	M9+mannose	-2.45248069731645	-12.8867654186935
+ECA_RS11290	ECA_RS11290	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set21TCH1109	M9+glycerol	-2.54832544728023	-10.4717063533008
+ECA_RS11290	ECA_RS11290	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set21TCH1105	M9+xylose	-2.84164772037968	-11.0527789447886
+ECA_RS11290	ECA_RS11290	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set21TCH1101	M9+galactose	-2.65327860106109	-10.4935561768184
+ECA_RS11290	ECA_RS11290	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set21TCH1092	M9+polygalacturonate	-4.32109902854083	-11.381140602005
+ECA_RS11290	ECA_RS11290	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set21TCH1110	M9+glycerol	-2.67905896748659	-11.2053474639828
+ECA_RS11290	ECA_RS11290	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set21TCH1103	M9+xylose	-3.87117546976458	-11.802277588207
+ECA_RS11290	ECA_RS11290	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set21TCH1106	M9+mannose	-2.37996639781075	-9.66431509892163
+ECA_RS11290	ECA_RS11290	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set21TCH1102	M9+galactose	-2.169568806428	-8.37238966523955
+ECA_RS11290	ECA_RS11290	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set21TCH1100	M9+galactose	-2.80611860989492	-9.27517917454272
+ECA_RS11290	ECA_RS11290	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set21TCH1091	M9+polygalacturonate	-4.5790882546314	-10.1561969853487
+ECA_RS11290	ECA_RS11290	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set21TCH1093	M9+polygalacturonate	-4.20939725995341	-11.0869345388277
+ECA_RS11295	ECA_RS11295	tryptophan synthase subunit beta	set21TCH1104	M9+xylose	-2.07218946406578	-9.12028241537236
+ECA_RS11295	ECA_RS11295	tryptophan synthase subunit beta	set21TCH1108	M9+mannose	-2.12469376795875	-11.0044932962745
+ECA_RS11295	ECA_RS11295	tryptophan synthase subunit beta	set21TCH1100	M9+galactose	-3.06733623645792	-11.8506389147371
+ECA_RS11295	ECA_RS11295	tryptophan synthase subunit beta	set21TCH1105	M9+xylose	-2.78034151715944	-11.553654987611
+ECA_RS11295	ECA_RS11295	tryptophan synthase subunit beta	set21TCH1106	M9+mannose	-2.90816046842213	-13.6116753541929
+ECA_RS11295	ECA_RS11295	tryptophan synthase subunit beta	set21TCH1109	M9+glycerol	-2.84325972008642	-13.0415726278388
+ECA_RS11295	ECA_RS11295	tryptophan synthase subunit beta	set21TCH1103	M9+xylose	-3.79824194197491	-12.6108947512444
+ECA_RS11295	ECA_RS11295	tryptophan synthase subunit beta	set21TCH1092	M9+polygalacturonate	-4.42270085135762	-10.6108072271877
+ECA_RS11295	ECA_RS11295	tryptophan synthase subunit beta	set21TCH1093	M9+polygalacturonate	-3.91925748003504	-11.1672985477336
+ECA_RS11295	ECA_RS11295	tryptophan synthase subunit beta	set21TCH1110	M9+glycerol	-3.00150081262802	-13.7361795879015
+ECA_RS11295	ECA_RS11295	tryptophan synthase subunit beta	set21TCH1091	M9+polygalacturonate	-3.97748489474714	-12.0900241230982
+ECA_RS11295	ECA_RS11295	tryptophan synthase subunit beta	set21TCH1101	M9+galactose	-2.74673365510471	-11.772495153573
+ECA_RS11300	ECA_RS11300	tryptophan synthase subunit alpha	set21TCH1103	M9+xylose	-3.91602765017124	-12.5343155225233
+ECA_RS11300	ECA_RS11300	tryptophan synthase subunit alpha	set21TCH1100	M9+galactose	-2.90525384202349	-11.3848890846928
+ECA_RS11300	ECA_RS11300	tryptophan synthase subunit alpha	set21TCH1091	M9+polygalacturonate	-4.39251569732256	-11.5576555751303
+ECA_RS11300	ECA_RS11300	tryptophan synthase subunit alpha	set21TCH1109	M9+glycerol	-2.94645475659615	-11.9473179964821
+ECA_RS11300	ECA_RS11300	tryptophan synthase subunit alpha	set21TCH1105	M9+xylose	-2.77764244161365	-10.987260997634
+ECA_RS11300	ECA_RS11300	tryptophan synthase subunit alpha	set21TCH1101	M9+galactose	-3.08424945034796	-11.11355089921
+ECA_RS11300	ECA_RS11300	tryptophan synthase subunit alpha	set21TCH1110	M9+glycerol	-3.51021172342094	-13.4885720312864
+ECA_RS11300	ECA_RS11300	tryptophan synthase subunit alpha	set21TCH1093	M9+polygalacturonate	-3.84080102233565	-11.1610277311877
+ECA_RS11300	ECA_RS11300	tryptophan synthase subunit alpha	set21TCH1106	M9+mannose	-2.98415360539401	-12.974801830662
+ECA_RS11300	ECA_RS11300	tryptophan synthase subunit alpha	set21TCH1108	M9+mannose	-2.19415752078752	-10.64561517306
+ECA_RS11300	ECA_RS11300	tryptophan synthase subunit alpha	set21TCH1092	M9+polygalacturonate	-4.3877944631156	-10.8672864378854
+ECA_RS11440	ECA_RS11440	UTP--glucose-1-phosphate uridylyltransferase GalU	set21TCH1100	M9+galactose	-3.19591917990358	-5.20016827525759
+ECA_RS11440	ECA_RS11440	UTP--glucose-1-phosphate uridylyltransferase GalU	set21TCH1102	M9+galactose	-2.83374248973333	-5.25321554882336
+ECA_RS11440	ECA_RS11440	UTP--glucose-1-phosphate uridylyltransferase GalU	set21TCH1101	M9+galactose	-2.68656480042528	-5.94435149717627
+ECA_RS11440	ECA_RS11440	UTP--glucose-1-phosphate uridylyltransferase GalU	set21TCH1092	M9+polygalacturonate	-3.77990254939313	-5.09147199249275
+ECA_RS11455	ECA_RS11455	formyltetrahydrofolate deformylase	set21TCH1103	M9+xylose	-3.84912079053512	-5.20110149834826
+ECA_RS11455	ECA_RS11455	formyltetrahydrofolate deformylase	set21TCH1092	M9+polygalacturonate	-3.30006157030595	-6.15447676516785
+ECA_RS11455	ECA_RS11455	formyltetrahydrofolate deformylase	set21TCH1096	M9+fructose	-2.30212242075809	-5.6485906536746
+ECA_RS11455	ECA_RS11455	formyltetrahydrofolate deformylase	set21TCH1106	M9+mannose	-3.40397731036892	-6.69369178308982
+ECA_RS11455	ECA_RS11455	formyltetrahydrofolate deformylase	set21TCH1090	M9+glucose	-2.14015972794533	-5.10120336454929
+ECA_RS11455	ECA_RS11455	formyltetrahydrofolate deformylase	set21TCH1109	M9+glycerol	-2.73276190202109	-6.70522696763935
+ECA_RS11455	ECA_RS11455	formyltetrahydrofolate deformylase	set21TCH1110	M9+glycerol	-2.94403872514543	-6.79987204615029
+ECA_RS11455	ECA_RS11455	formyltetrahydrofolate deformylase	set21TCH1118	Tuber-Atlantic	-2.19821771449278	-5.36262540665745
+ECA_RS11455	ECA_RS11455	formyltetrahydrofolate deformylase	set21TCH1100	M9+galactose	-2.38629420964967	-5.68788015778437
+ECA_RS11455	ECA_RS11455	formyltetrahydrofolate deformylase	set21TCH1108	M9+mannose	-2.92355861098837	-6.28235653626845
+ECA_RS11455	ECA_RS11455	formyltetrahydrofolate deformylase	set21TCH1102	M9+galactose	-2.15921116503912	-5.57918545482932
+ECA_RS11455	ECA_RS11455	formyltetrahydrofolate deformylase	set21TCH1117	Tuber-Atlantic	-2.01746410099032	-5.63291273974216
+ECA_RS11455	ECA_RS11455	formyltetrahydrofolate deformylase	set21TCH1088	M9+glucose	-2.4295175559569	-5.42183965367967
+ECA_RS11455	ECA_RS11455	formyltetrahydrofolate deformylase	set21TCH1116	Tuber-Atlantic	-2.88129623433145	-7.39754107504917
+ECA_RS11605	ECA_RS11605	disulfide bond formation protein DsbB	set21TCH1099	M9+cellobiose	2.19045768027716	13.4521510459786
+ECA_RS11800	ECA_RS11800	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD	set21TCH1092	M9+polygalacturonate	-3.18334108408447	-12.129488679768
+ECA_RS11800	ECA_RS11800	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD	set21TCH1114	Tuber-Atlantic	-2.01587773669993	-11.0398161038581
+ECA_RS11800	ECA_RS11800	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD	set21TCH1117	Tuber-Atlantic	-2.16216707882017	-11.6446749850922
+ECA_RS11800	ECA_RS11800	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD	set21TCH1091	M9+polygalacturonate	-2.91915684159816	-11.8820216444206
+ECA_RS11800	ECA_RS11800	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD	set21TCH1093	M9+polygalacturonate	-3.26705509053931	-11.9040718391385
+ECA_RS11805	ECA_RS11805	pectate disaccharide-lyase PelW	set21TCH1092	M9+polygalacturonate	-2.95851477703746	-14.6303706660723
+ECA_RS11805	ECA_RS11805	pectate disaccharide-lyase PelW	set21TCH1091	M9+polygalacturonate	-2.98831604148912	-12.7870299232005
+ECA_RS11805	ECA_RS11805	pectate disaccharide-lyase PelW	set21TCH1093	M9+polygalacturonate	-3.25770543774279	-14.544396872275
+ECA_RS11810	ECA_RS11810	carbohydrate ABC transporter permease	set21TCH1091	M9+polygalacturonate	-3.3289088420566	-18.0212287027074
+ECA_RS11810	ECA_RS11810	carbohydrate ABC transporter permease	set21TCH1093	M9+polygalacturonate	-3.30531609094252	-17.4241371454233
+ECA_RS11810	ECA_RS11810	carbohydrate ABC transporter permease	set21TCH1092	M9+polygalacturonate	-3.46839916285331	-18.428543753724
+ECA_RS11815	ECA_RS11815	carbohydrate ABC transporter permease	set21TCH1093	M9+polygalacturonate	-3.80527010564161	-13.8076552353509
+ECA_RS11815	ECA_RS11815	carbohydrate ABC transporter permease	set21TCH1091	M9+polygalacturonate	-3.79383241263589	-14.104881392644
+ECA_RS11815	ECA_RS11815	carbohydrate ABC transporter permease	set21TCH1092	M9+polygalacturonate	-3.2051013256174	-14.2312859661115
+ECA_RS11820	ECA_RS11820	ABC transporter ATP-binding protein	set21TCH1091	M9+polygalacturonate	-3.59877255492081	-18.2451688468579
+ECA_RS11820	ECA_RS11820	ABC transporter ATP-binding protein	set21TCH1093	M9+polygalacturonate	-3.65424203676237	-17.7080914796512
+ECA_RS11820	ECA_RS11820	ABC transporter ATP-binding protein	set21TCH1092	M9+polygalacturonate	-3.33995730391424	-18.0755366382444
+ECA_RS11825	ECA_RS11825	ABC transporter substrate-binding protein	set21TCH1093	M9+polygalacturonate	-3.49507824975695	-18.9048635776188
+ECA_RS11825	ECA_RS11825	ABC transporter substrate-binding protein	set21TCH1092	M9+polygalacturonate	-3.36076713069963	-19.0761499948608
+ECA_RS11825	ECA_RS11825	ABC transporter substrate-binding protein	set21TCH1091	M9+polygalacturonate	-3.36318077744912	-18.5995497820347
+ECA_RS11925	ECA_RS11925	oligogalacturonate lyase	set21TCH1092	M9+polygalacturonate	-3.35849951140909	-16.3482753797371
+ECA_RS11925	ECA_RS11925	oligogalacturonate lyase	set21TCH1091	M9+polygalacturonate	-3.32437846765155	-16.1821832848306
+ECA_RS11925	ECA_RS11925	oligogalacturonate lyase	set21TCH1093	M9+polygalacturonate	-3.09870883193746	-15.534347125713
+ECA_RS12070	ECA_RS12070	carboxy terminal-processing peptidase	set21TCH1119	Tuber-Atlantic	-4.17401724684525	-14.7644391691447
+ECA_RS12070	ECA_RS12070	carboxy terminal-processing peptidase	set21TCH1115	Tuber-Atlantic	-4.70968601484917	-16.1966453756104
+ECA_RS12070	ECA_RS12070	carboxy terminal-processing peptidase	set21TCH1118	Tuber-Atlantic	-3.13043687683785	-12.7045098613404
+ECA_RS12070	ECA_RS12070	carboxy terminal-processing peptidase	set21TCH1114	Tuber-Atlantic	-2.87309759707292	-13.1654271818794
+ECA_RS12070	ECA_RS12070	carboxy terminal-processing peptidase	set21TCH1116	Tuber-Atlantic	-4.51977550658835	-15.3131644563185
+ECA_RS12070	ECA_RS12070	carboxy terminal-processing peptidase	set21TCH1117	Tuber-Atlantic	-4.30060658869012	-13.4039661766204
+ECA_RS12155	ECA_RS12155	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase	set21TCH1114	Tuber-Atlantic	-2.92207719067684	-5.6391538613804
+ECA_RS12155	ECA_RS12155	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase	set21TCH1116	Tuber-Atlantic	-3.38915187009031	-5.05258656460581
+ECA_RS12240	ECA_RS12240	dihydroneopterin triphosphate diphosphatase	set21TCH1117	Tuber-Atlantic	-2.05062167108873	-5.04426983418513
+ECA_RS12240	ECA_RS12240	dihydroneopterin triphosphate diphosphatase	set21TCH1106	M9+mannose	-2.96606452711701	-6.32325333002204
+ECA_RS12240	ECA_RS12240	dihydroneopterin triphosphate diphosphatase	set21TCH1115	Tuber-Atlantic	-2.23876837837137	-6.08730591834105
+ECA_RS12240	ECA_RS12240	dihydroneopterin triphosphate diphosphatase	set21TCH1093	M9+polygalacturonate	-2.74664135797755	-5.36522050221561
+ECA_RS12240	ECA_RS12240	dihydroneopterin triphosphate diphosphatase	set21TCH1092	M9+polygalacturonate	-3.03079820250485	-5.9202853721429
+ECA_RS12240	ECA_RS12240	dihydroneopterin triphosphate diphosphatase	set21TCH1114	Tuber-Atlantic	-3.01223262131735	-7.59706976605911
+ECA_RS12240	ECA_RS12240	dihydroneopterin triphosphate diphosphatase	set21TCH1094	M9+fructose	-2.73560969034545	-5.34367151869743
+ECA_RS12430	ECA_RS12430	quinone-dependent dihydroorotate dehydrogenase	set21TCH1117	Tuber-Atlantic	-4.15276663964108	-14.7845060974991
+ECA_RS12430	ECA_RS12430	quinone-dependent dihydroorotate dehydrogenase	set21TCH1109	M9+glycerol	-3.67571291319409	-13.4576442153413
+ECA_RS12430	ECA_RS12430	quinone-dependent dihydroorotate dehydrogenase	set21TCH1111	M9+glycerol	-2.87452272703856	-11.5641237443169
+ECA_RS12430	ECA_RS12430	quinone-dependent dihydroorotate dehydrogenase	set21TCH1105	M9+xylose	-2.63343840977485	-10.4347707230777
+ECA_RS12430	ECA_RS12430	quinone-dependent dihydroorotate dehydrogenase	set21TCH1106	M9+mannose	-4.3835559963058	-13.8545384891505
+ECA_RS12430	ECA_RS12430	quinone-dependent dihydroorotate dehydrogenase	set21TCH1093	M9+polygalacturonate	-4.57791061179905	-11.7366015237807
+ECA_RS12430	ECA_RS12430	quinone-dependent dihydroorotate dehydrogenase	set21TCH1108	M9+mannose	-2.64246111531082	-12.3331824315963
+ECA_RS12430	ECA_RS12430	quinone-dependent dihydroorotate dehydrogenase	set21TCH1092	M9+polygalacturonate	-4.8355333005506	-12.0119938219873
+ECA_RS12430	ECA_RS12430	quinone-dependent dihydroorotate dehydrogenase	set21TCH1119	Tuber-Atlantic	-3.6629658040504	-14.1277985266649
+ECA_RS12430	ECA_RS12430	quinone-dependent dihydroorotate dehydrogenase	set21TCH1110	M9+glycerol	-4.06874385895071	-13.4318700112925
+ECA_RS12430	ECA_RS12430	quinone-dependent dihydroorotate dehydrogenase	set21TCH1101	M9+galactose	-2.22779834557092	-10.1402669259566
+ECA_RS12430	ECA_RS12430	quinone-dependent dihydroorotate dehydrogenase	set21TCH1118	Tuber-Atlantic	-3.0893038013296	-11.5396154040664
+ECA_RS12430	ECA_RS12430	quinone-dependent dihydroorotate dehydrogenase	set21TCH1091	M9+polygalacturonate	-4.33764482843339	-12.9325221683028
+ECA_RS12430	ECA_RS12430	quinone-dependent dihydroorotate dehydrogenase	set21TCH1100	M9+galactose	-3.11939669131157	-12.3161276901248
+ECA_RS12430	ECA_RS12430	quinone-dependent dihydroorotate dehydrogenase	set21TCH1115	Tuber-Atlantic	-3.55407556542116	-13.5064237074697
+ECA_RS12430	ECA_RS12430	quinone-dependent dihydroorotate dehydrogenase	set21TCH1114	Tuber-Atlantic	-4.57998524356178	-16.1873483280486
+ECA_RS12430	ECA_RS12430	quinone-dependent dihydroorotate dehydrogenase	set21TCH1116	Tuber-Atlantic	-3.87827997881409	-14.2803055226594
+ECA_RS12430	ECA_RS12430	quinone-dependent dihydroorotate dehydrogenase	set21TCH1103	M9+xylose	-3.82366044695252	-12.9101894568617
+ECA_RS12450	ECA_RS12450	porin	set21TCH1089	M9+glucose	2.13234658642057	16.6636767328878
+ECA_RS12650	ECA_RS12650	ATP phosphoribosyltransferase	set21TCH1104	M9+xylose	-2.98236211353177	-6.14771990705097
+ECA_RS12650	ECA_RS12650	ATP phosphoribosyltransferase	set21TCH1102	M9+galactose	-2.7648341657687	-5.69931664685152
+ECA_RS12650	ECA_RS12650	ATP phosphoribosyltransferase	set21TCH1106	M9+mannose	-3.43177725074356	-6.75022955761475
+ECA_RS12650	ECA_RS12650	ATP phosphoribosyltransferase	set21TCH1092	M9+polygalacturonate	-4.33483189446007	-5.10513606012647
+ECA_RS12650	ECA_RS12650	ATP phosphoribosyltransferase	set21TCH1108	M9+mannose	-2.68316772392641	-6.19970695131704
+ECA_RS12650	ECA_RS12650	ATP phosphoribosyltransferase	set21TCH1090	M9+glucose	-3.40737092340262	-5.11663865483014
+ECA_RS12650	ECA_RS12650	ATP phosphoribosyltransferase	set21TCH1105	M9+xylose	-2.70897147560373	-5.82316355411091
+ECA_RS12650	ECA_RS12650	ATP phosphoribosyltransferase	set21TCH1109	M9+glycerol	-4.24483252213668	-5.73655537169585
+ECA_RS12650	ECA_RS12650	ATP phosphoribosyltransferase	set21TCH1111	M9+glycerol	-2.09833297358878	-5.29088167305151
+ECA_RS12650	ECA_RS12650	ATP phosphoribosyltransferase	set21TCH1110	M9+glycerol	-3.96410012257459	-6.48116310725224
+ECA_RS12650	ECA_RS12650	ATP phosphoribosyltransferase	set21TCH1094	M9+fructose	-2.44091738505459	-5.53900735076493
+ECA_RS12650	ECA_RS12650	ATP phosphoribosyltransferase	set21TCH1103	M9+xylose	-3.73362574223624	-6.10434566954193
+ECA_RS12650	ECA_RS12650	ATP phosphoribosyltransferase	set21TCH1098	M9+cellobiose	-3.00957700066977	-5.61395077607258
+ECA_RS12650	ECA_RS12650	ATP phosphoribosyltransferase	set21TCH1088	M9+glucose	-2.44414811938382	-5.8281522314141
+ECA_RS12650	ECA_RS12650	ATP phosphoribosyltransferase	set21TCH1097	M9+cellobiose	-3.49228978514231	-6.13022304768159
+ECA_RS12650	ECA_RS12650	ATP phosphoribosyltransferase	set21TCH1101	M9+galactose	-2.89492135132919	-5.69424593874159
+ECA_RS12650	ECA_RS12650	ATP phosphoribosyltransferase	set21TCH1100	M9+galactose	-2.98110312788244	-5.86376357724551
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1106	M9+mannose	-2.9727512477183	-6.4216963881513
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1104	M9+xylose	-4.03222377227097	-5.45980652474538
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1088	M9+glucose	-2.9979437957521	-6.20785064413272
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1105	M9+xylose	-3.44021905841969	-5.64063410214961
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1092	M9+polygalacturonate	-3.86112544844866	-5.81191569551797
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1098	M9+cellobiose	-3.49075187053392	-5.72348844905273
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1090	M9+glucose	-2.3886708371766	-5.73049192719661
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1108	M9+mannose	-2.79075927214561	-6.48509464937628
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1094	M9+fructose	-2.57828288228909	-6.18537682674213
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1102	M9+galactose	-2.37712938075551	-5.37190319454632
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1099	M9+cellobiose	-3.31371909706842	-5.43322289263018
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1095	M9+fructose	-2.67307462026804	-5.99926755532308
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1091	M9+polygalacturonate	-4.21689518888825	-5.70985966225097
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1111	M9+glycerol	-3.07642570826526	-5.76011210669861
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1103	M9+xylose	-3.88506752610986	-5.84795423889095
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1097	M9+cellobiose	-3.16636568480864	-5.92851024040679
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1101	M9+galactose	-3.51887917730526	-6.19716162838105
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1100	M9+galactose	-3.11722810067954	-6.15680849773056
+ECA_RS12655	ECA_RS12655	histidinol dehydrogenase	set21TCH1109	M9+glycerol	-4.59972593154799	-5.42508014132939
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1104	M9+xylose	-2.82376160705266	-7.04655813218306
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1102	M9+galactose	-2.1815848181718	-5.88420468304297
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1094	M9+fructose	-2.52119028873415	-6.80019386834755
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1106	M9+mannose	-2.69792101970626	-7.44351946674502
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1088	M9+glucose	-2.86102499880082	-6.70761274611873
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1107	M9+mannose	-2.06601039340456	-5.44347486408788
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1105	M9+xylose	-2.81716618035678	-6.82270230464968
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1099	M9+cellobiose	-2.95397065963138	-5.87177476023785
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1092	M9+polygalacturonate	-4.1752951978396	-5.67048444264994
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1098	M9+cellobiose	-2.89171824014263	-6.77957240286076
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1118	Tuber-Atlantic	-2.38406783915686	-6.2162083531817
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1108	M9+mannose	-3.23623404301354	-6.74855937323622
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1111	M9+glycerol	-3.29417658221176	-6.20332546780959
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1110	M9+glycerol	-4.47169862866694	-5.28606647836624
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1103	M9+xylose	-3.71769778555976	-6.12245031998735
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1097	M9+cellobiose	-3.02306101686441	-6.84109145837041
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1101	M9+galactose	-3.17362531259732	-6.61800060372788
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1109	M9+glycerol	-3.88285801274166	-6.87296761279767
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1091	M9+polygalacturonate	-3.99545393665072	-5.42624133518158
+ECA_RS12660	ECA_RS12660	histidinol-phosphate transaminase	set21TCH1100	M9+galactose	-3.49434335339856	-5.75462149324208
+ECA_RS12665	ECA_RS12665	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set21TCH1088	M9+glucose	-3.178850125064	-8.00607004680432
+ECA_RS12665	ECA_RS12665	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set21TCH1118	Tuber-Atlantic	-2.11318143198496	-6.55146745075697
+ECA_RS12665	ECA_RS12665	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set21TCH1099	M9+cellobiose	-2.11674051343624	-6.62291990240139
+ECA_RS12665	ECA_RS12665	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set21TCH1106	M9+mannose	-3.52069011842114	-8.60077336237303
+ECA_RS12665	ECA_RS12665	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set21TCH1092	M9+polygalacturonate	-4.31603550946868	-5.8775343158673
+ECA_RS12665	ECA_RS12665	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set21TCH1108	M9+mannose	-3.26562649597723	-8.22462004966889
+ECA_RS12665	ECA_RS12665	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set21TCH1111	M9+glycerol	-3.02330508383165	-7.38570023396641
+ECA_RS12665	ECA_RS12665	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set21TCH1098	M9+cellobiose	-2.72790935040198	-8.09706029789515
+ECA_RS12665	ECA_RS12665	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set21TCH1110	M9+glycerol	-4.20432516100575	-7.47640104348709
+ECA_RS12665	ECA_RS12665	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set21TCH1104	M9+xylose	-3.4951047888153	-7.33528530756
+ECA_RS12665	ECA_RS12665	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set21TCH1093	M9+polygalacturonate	-3.92479217164895	-6.97931752751654
+ECA_RS12665	ECA_RS12665	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set21TCH1094	M9+fructose	-2.63229126685952	-7.5724559033216
+ECA_RS12665	ECA_RS12665	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set21TCH1097	M9+cellobiose	-4.05851619331152	-6.15231466780041
+ECA_RS12665	ECA_RS12665	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set21TCH1105	M9+xylose	-3.50873068791443	-7.01524547860836
+ECA_RS12665	ECA_RS12665	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set21TCH1109	M9+glycerol	-4.21574005828649	-6.97040746081252
+ECA_RS12665	ECA_RS12665	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set21TCH1100	M9+galactose	-3.13118574116611	-7.64924432694487
+ECA_RS12665	ECA_RS12665	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set21TCH1101	M9+galactose	-2.65947893733768	-7.74179490999747
+ECA_RS12665	ECA_RS12665	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB	set21TCH1091	M9+polygalacturonate	-4.15607310004675	-6.30020142238366
+ECA_RS12670	ECA_RS12670	imidazole glycerol phosphate synthase subunit HisH	set21TCH1106	M9+mannose	-4.03491161554808	-5.3915111839523
+ECA_RS12670	ECA_RS12670	imidazole glycerol phosphate synthase subunit HisH	set21TCH1116	Tuber-Atlantic	-2.98190915748111	-5.96259896401596
+ECA_RS12675	ECA_RS12675	1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino]imidazole-4- carboxamide isomerase	set21TCH1103	M9+xylose	-3.84372504430069	-5.14515783837498
+ECA_RS12675	ECA_RS12675	1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino]imidazole-4- carboxamide isomerase	set21TCH1116	Tuber-Atlantic	-2.23871946682329	-5.51210038456494
+ECA_RS12675	ECA_RS12675	1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino]imidazole-4- carboxamide isomerase	set21TCH1097	M9+cellobiose	-3.51551183916634	-5.21733229772778
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1111	M9+glycerol	-2.18955695944598	-7.08343816682052
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1107	M9+mannose	-2.24225467875703	-6.91367479997481
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1090	M9+glucose	-2.08831174450136	-6.75589965878912
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1098	M9+cellobiose	-2.35909502591396	-7.23961775077851
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1108	M9+mannose	-2.74876382764584	-8.61873694667518
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1103	M9+xylose	-3.75017289327821	-8.22920562197807
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1088	M9+glucose	-2.1939787995904	-7.4026415256238
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1094	M9+fructose	-2.9926136276559	-8.17237846770898
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1092	M9+polygalacturonate	-4.09951569966194	-8.20355987186603
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1093	M9+polygalacturonate	-3.60878599655269	-8.23785777681988
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1105	M9+xylose	-2.47172413666621	-7.750080208571
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1100	M9+galactose	-2.16572569238014	-7.30731351939983
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1110	M9+glycerol	-3.33029188072961	-8.87228650059977
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1106	M9+mannose	-3.46665428452656	-9.6893440473291
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1097	M9+cellobiose	-2.94764658892911	-8.76606200546792
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1104	M9+xylose	-2.88084656026546	-8.56740413534471
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1101	M9+galactose	-2.5871157716045	-8.24267133332362
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1109	M9+glycerol	-3.57353491834508	-9.012511190735
+ECA_RS12685	ECA_RS12685	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set21TCH1091	M9+polygalacturonate	-3.9867887525379	-8.37520469079669
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1109	M9+glycerol	-3.58594648441919	-14.7549444656438
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1108	M9+mannose	-3.10316128191912	-13.4997928690528
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1092	M9+polygalacturonate	-4.87762485978997	-12.1379824575931
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1105	M9+xylose	-2.8200607740406	-11.6903673243311
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1088	M9+glucose	-2.7367311252876	-12.6325442465468
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1118	Tuber-Atlantic	-3.47277053550556	-10.7491156928209
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1117	Tuber-Atlantic	-3.2013342923603	-15.0214559605105
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1101	M9+galactose	-2.67159839466682	-12.313855537649
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1115	Tuber-Atlantic	-2.78707093518563	-14.4133212501414
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1097	M9+cellobiose	-2.74132879629347	-13.0869475634478
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1103	M9+xylose	-4.12035822028863	-13.2937317520124
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1100	M9+galactose	-2.92027029091949	-12.7041556875448
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1111	M9+glycerol	-2.36307095947221	-11.3403566104745
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1094	M9+fructose	-2.07604046612033	-10.3767588587349
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1116	Tuber-Atlantic	-3.6099222490618	-15.32181303089
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1114	Tuber-Atlantic	-2.4499115371942	-14.7530518715788
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1093	M9+polygalacturonate	-4.75505317301134	-11.8329624885131
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1110	M9+glycerol	-3.82602815835255	-15.3201686055599
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1091	M9+polygalacturonate	-4.76992629916112	-12.2519211766392
+ECA_RS12705	ECA_RS12705	3-phosphoshikimate 1-carboxyvinyltransferase	set21TCH1106	M9+mannose	-3.90294099887951	-15.171377259558
+ECA_RS12980	ECA_RS12980	thioredoxin-disulfide reductase	set21TCH1092	M9+polygalacturonate	-2.59103267910352	-7.61417172412962
+ECA_RS12980	ECA_RS12980	thioredoxin-disulfide reductase	set21TCH1118	Tuber-Atlantic	-2.05369037285834	-5.85601978148662
+ECA_RS12980	ECA_RS12980	thioredoxin-disulfide reductase	set21TCH1103	M9+xylose	-2.51168430567011	-7.36035280528083
+ECA_RS12980	ECA_RS12980	thioredoxin-disulfide reductase	set21TCH1114	Tuber-Atlantic	-2.80576416776024	-9.61845797055016
+ECA_RS12980	ECA_RS12980	thioredoxin-disulfide reductase	set21TCH1111	M9+glycerol	-2.83333617819582	-6.65433468543502
+ECA_RS12980	ECA_RS12980	thioredoxin-disulfide reductase	set21TCH1106	M9+mannose	-2.44393774603987	-7.19834002395675
+ECA_RS12980	ECA_RS12980	thioredoxin-disulfide reductase	set21TCH1117	Tuber-Atlantic	-2.57447335000534	-8.2318274306182
+ECA_RS12980	ECA_RS12980	thioredoxin-disulfide reductase	set21TCH1093	M9+polygalacturonate	-3.34643897161545	-7.29548799135685
+ECA_RS12980	ECA_RS12980	thioredoxin-disulfide reductase	set21TCH1115	Tuber-Atlantic	-2.0851023867068	-6.35433770410547
+ECA_RS12980	ECA_RS12980	thioredoxin-disulfide reductase	set21TCH1091	M9+polygalacturonate	-2.92166637660093	-7.51183452367268
+ECA_RS12980	ECA_RS12980	thioredoxin-disulfide reductase	set21TCH1100	M9+galactose	-2.37810586916874	-5.78951538331555
+ECA_RS12980	ECA_RS12980	thioredoxin-disulfide reductase	set21TCH1110	M9+glycerol	-3.11130612472544	-8.60489008642918
+ECA_RS12980	ECA_RS12980	thioredoxin-disulfide reductase	set21TCH1101	M9+galactose	-2.16022763883776	-6.57598627293886
+ECA_RS12990	ECA_RS12990	heme ABC transporter ATP-binding protein/permease CydC	set21TCH1086	LB	-3.644809038028	-5.46667868948969
+ECA_RS12990	ECA_RS12990	heme ABC transporter ATP-binding protein/permease CydC	set21TCH1092	M9+polygalacturonate	-2.86882316476971	-5.90044920454741
+ECA_RS12990	ECA_RS12990	heme ABC transporter ATP-binding protein/permease CydC	set21TCH1093	M9+polygalacturonate	-2.03032011381263	-5.35242226657972
+ECA_RS12990	ECA_RS12990	heme ABC transporter ATP-binding protein/permease CydC	set21TCH1091	M9+polygalacturonate	-2.36947599010932	-5.79794180838936
+ECA_RS12990	ECA_RS12990	heme ABC transporter ATP-binding protein/permease CydC	set21TCH1087	LB	-3.74621387979132	-5.05783572035193
+ECA_RS12990	ECA_RS12990	heme ABC transporter ATP-binding protein/permease CydC	set21TCH1085	LB	-3.28316171816918	-5.3602911571691
+ECA_RS14085	ECA_RS14085	hypothetical protein	set21TCH1116	Tuber-Atlantic	-3.29051662491113	-5.25111446115278
+ECA_RS14085	ECA_RS14085	hypothetical protein	set21TCH1114	Tuber-Atlantic	-5.3142298493827	-5.804350343689
+ECA_RS14810	ECA_RS14810	NADH-quinone oxidoreductase subunit NuoN	set21TCH1093	M9+polygalacturonate	-2.37576428901666	-9.8588059999397
+ECA_RS14810	ECA_RS14810	NADH-quinone oxidoreductase subunit NuoN	set21TCH1092	M9+polygalacturonate	-2.50113788409773	-10.2975954288761
+ECA_RS14810	ECA_RS14810	NADH-quinone oxidoreductase subunit NuoN	set21TCH1091	M9+polygalacturonate	-2.55661685626137	-10.4411623042784
+ECA_RS14815	ECA_RS14815	NADH-quinone oxidoreductase subunit M	set21TCH1091	M9+polygalacturonate	-2.01258013590791	-7.35013802470859
+ECA_RS14815	ECA_RS14815	NADH-quinone oxidoreductase subunit M	set21TCH1093	M9+polygalacturonate	-2.4212515434491	-8.20169701802862
+ECA_RS14815	ECA_RS14815	NADH-quinone oxidoreductase subunit M	set21TCH1092	M9+polygalacturonate	-2.31664695464231	-8.37113239543512
+ECA_RS14820	ECA_RS14820	NADH-quinone oxidoreductase subunit L	set21TCH1092	M9+polygalacturonate	-2.60402927012244	-10.6563678157458
+ECA_RS14820	ECA_RS14820	NADH-quinone oxidoreductase subunit L	set21TCH1093	M9+polygalacturonate	-2.65181120152751	-10.3827820575205
+ECA_RS14820	ECA_RS14820	NADH-quinone oxidoreductase subunit L	set21TCH1091	M9+polygalacturonate	-2.63877557671645	-10.4288138558657
+ECA_RS14830	ECA_RS14830	NADH-quinone oxidoreductase subunit J	set21TCH1093	M9+polygalacturonate	-2.70311352956164	-7.70621922588228
+ECA_RS14830	ECA_RS14830	NADH-quinone oxidoreductase subunit J	set21TCH1091	M9+polygalacturonate	-2.04594125815617	-6.50785580161208
+ECA_RS14830	ECA_RS14830	NADH-quinone oxidoreductase subunit J	set21TCH1092	M9+polygalacturonate	-2.73420362093794	-7.79485296519006
+ECA_RS14840	ECA_RS14840	NADH-quinone oxidoreductase subunit NuoH	set21TCH1093	M9+polygalacturonate	-3.40058444497004	-6.37518877530042
+ECA_RS14840	ECA_RS14840	NADH-quinone oxidoreductase subunit NuoH	set21TCH1092	M9+polygalacturonate	-2.6104961636012	-6.27582082195865
+ECA_RS14840	ECA_RS14840	NADH-quinone oxidoreductase subunit NuoH	set21TCH1091	M9+polygalacturonate	-2.51201880545203	-6.39209511400368
+ECA_RS14845	ECA_RS14845	NADH-quinone oxidoreductase subunit NuoG	set21TCH1091	M9+polygalacturonate	-2.45427146216749	-10.7217129826958
+ECA_RS14845	ECA_RS14845	NADH-quinone oxidoreductase subunit NuoG	set21TCH1093	M9+polygalacturonate	-2.79941730140276	-11.2193825076929
+ECA_RS14845	ECA_RS14845	NADH-quinone oxidoreductase subunit NuoG	set21TCH1092	M9+polygalacturonate	-2.80395541740368	-11.3381881389148
+ECA_RS14850	ECA_RS14850	NADH-quinone oxidoreductase subunit NuoF	set21TCH1091	M9+polygalacturonate	-2.7210896634887	-8.39814055966649
+ECA_RS14850	ECA_RS14850	NADH-quinone oxidoreductase subunit NuoF	set21TCH1092	M9+polygalacturonate	-2.35457217383929	-7.95362058075826
+ECA_RS14850	ECA_RS14850	NADH-quinone oxidoreductase subunit NuoF	set21TCH1093	M9+polygalacturonate	-3.57475701127262	-7.15634987212096
+ECA_RS14860	ECA_RS14860	NADH-quinone oxidoreductase subunit C/D	set21TCH1092	M9+polygalacturonate	-2.64990411444838	-10.8592139478553
+ECA_RS14860	ECA_RS14860	NADH-quinone oxidoreductase subunit C/D	set21TCH1093	M9+polygalacturonate	-2.66023166395501	-10.5272767717562
+ECA_RS14860	ECA_RS14860	NADH-quinone oxidoreductase subunit C/D	set21TCH1091	M9+polygalacturonate	-2.47464442793112	-10.3854558388701
+ECA_RS14865	ECA_RS14865	NuoB/complex I 20 kDa subunit family protein	set21TCH1093	M9+polygalacturonate	-3.34328180742295	-7.00923170446357
+ECA_RS14865	ECA_RS14865	NuoB/complex I 20 kDa subunit family protein	set21TCH1091	M9+polygalacturonate	-3.04426563362149	-7.65544864106926
+ECA_RS14865	ECA_RS14865	NuoB/complex I 20 kDa subunit family protein	set21TCH1092	M9+polygalacturonate	-2.94233318986912	-7.81339796601603
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1109	M9+glycerol	-4.7802702781731	-19.8008478373495
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1102	M9+galactose	-3.09725771390313	-16.6248998719282
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1111	M9+glycerol	-4.18994744897082	-17.9741001981453
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1110	M9+glycerol	-5.55161905894587	-19.0069162460629
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1115	Tuber-Atlantic	-3.83022451980184	-22.4632699466225
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1105	M9+xylose	-3.46127470840074	-17.9434921834446
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1092	M9+polygalacturonate	-4.92883460236544	-19.6349570030434
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1088	M9+glucose	-2.66281572976253	-17.0445791329198
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1097	M9+cellobiose	-2.89258560903216	-18.4491035241781
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1099	M9+cellobiose	-2.09723219179269	-11.4728285348894
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1098	M9+cellobiose	-2.37980311412044	-15.8099073308268
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1114	Tuber-Atlantic	-4.0855181121688	-24.2877485595419
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1108	M9+mannose	-3.41929902353772	-19.774289388514
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1118	Tuber-Atlantic	-3.17936382550538	-17.3618953932692
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1100	M9+galactose	-3.46249320000041	-18.3109095204021
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1094	M9+fructose	-2.30641096328006	-15.7439101271033
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1093	M9+polygalacturonate	-5.20468942021667	-16.9547974169412
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1103	M9+xylose	-4.84600673756632	-17.8082196025574
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1116	Tuber-Atlantic	-3.76015775484441	-23.1657761303078
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1106	M9+mannose	-4.21380951635613	-21.411663247478
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1101	M9+galactose	-4.27469741393045	-18.7838091552011
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1091	M9+polygalacturonate	-4.91900624106902	-18.7543053225796
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1119	Tuber-Atlantic	-3.41973940313553	-19.2776916784165
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1117	Tuber-Atlantic	-3.79552771947664	-23.5295109601876
+ECA_RS14980	ECA_RS14980	amidophosphoribosyltransferase	set21TCH1104	M9+xylose	-3.08487489140711	-16.5708087711528
+ECA_RS15025	ECA_RS15025	4-phosphoerythronate dehydrogenase PdxB	set21TCH1093	M9+polygalacturonate	-4.71413558074806	-8.4345478629274
+ECA_RS15025	ECA_RS15025	4-phosphoerythronate dehydrogenase PdxB	set21TCH1110	M9+glycerol	-2.63392439017697	-10.8140356069788
+ECA_RS15025	ECA_RS15025	4-phosphoerythronate dehydrogenase PdxB	set21TCH1108	M9+mannose	-2.51713771960315	-9.064082393148
+ECA_RS15025	ECA_RS15025	4-phosphoerythronate dehydrogenase PdxB	set21TCH1109	M9+glycerol	-2.53806291261158	-10.5024452535119
+ECA_RS15025	ECA_RS15025	4-phosphoerythronate dehydrogenase PdxB	set21TCH1106	M9+mannose	-2.79268510792287	-10.9880095016505
+ECA_RS15025	ECA_RS15025	4-phosphoerythronate dehydrogenase PdxB	set21TCH1092	M9+polygalacturonate	-4.00036452094391	-10.5009395342642
+ECA_RS15025	ECA_RS15025	4-phosphoerythronate dehydrogenase PdxB	set21TCH1091	M9+polygalacturonate	-3.71025984794503	-10.2639449251619
+ECA_RS15070	ECA_RS15070	chorismate synthase	set21TCH1115	Tuber-Atlantic	-3.29412787499814	-6.02747173426578
+ECA_RS15070	ECA_RS15070	chorismate synthase	set21TCH1101	M9+galactose	-3.63543840784229	-5.44960031123809
+ECA_RS15070	ECA_RS15070	chorismate synthase	set21TCH1109	M9+glycerol	-3.69643260628656	-5.54103192567793
+ECA_RS15070	ECA_RS15070	chorismate synthase	set21TCH1106	M9+mannose	-3.41822526250933	-5.9859388174537
+ECA_RS15070	ECA_RS15070	chorismate synthase	set21TCH1111	M9+glycerol	-3.39505182404548	-5.53932798068638
+ECA_RS15070	ECA_RS15070	chorismate synthase	set21TCH1116	Tuber-Atlantic	-2.33679935181301	-5.40120183410091
+ECA_RS15070	ECA_RS15070	chorismate synthase	set21TCH1110	M9+glycerol	-3.3765054132869	-5.91287971638803
+ECA_RS15070	ECA_RS15070	chorismate synthase	set21TCH1103	M9+xylose	-3.0857628740058	-5.7407957712025
+ECA_RS15070	ECA_RS15070	chorismate synthase	set21TCH1088	M9+glucose	-2.47739482076284	-5.50942498972065
+ECA_RS15070	ECA_RS15070	chorismate synthase	set21TCH1100	M9+galactose	-2.7699461843585	-5.15324604997302
+ECA_RS15070	ECA_RS15070	chorismate synthase	set21TCH1117	Tuber-Atlantic	-2.42037912331273	-5.74865144334119
+ECA_RS15500	ECA_RS15500	5-(carboxyamino)imidazole ribonucleotide mutase	set21TCH1114	Tuber-Atlantic	-5.06294028142771	-5.64166536994848
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1109	M9+glycerol	-5.2639822669591	-10.0547897865224
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1099	M9+cellobiose	-2.77410223083679	-7.91131763818743
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1102	M9+galactose	-2.84940139265403	-7.04360732923127
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1096	M9+fructose	-2.23432920432187	-8.62429864920517
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1114	Tuber-Atlantic	-2.68319462087998	-9.82562238434485
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1089	M9+glucose	-2.44594148535147	-6.54892812036261
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1115	Tuber-Atlantic	-3.11162756487685	-10.9593316192229
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1093	M9+polygalacturonate	-4.97867167761878	-9.50981492638809
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1098	M9+cellobiose	-3.45648197016766	-11.0885474620389
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1103	M9+xylose	-5.84690035299797	-8.91451014217895
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1092	M9+polygalacturonate	-5.31800906079604	-9.53221552387751
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1111	M9+glycerol	-4.23406205362952	-9.78180621179971
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1108	M9+mannose	-3.98651541126251	-11.0760489574525
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1088	M9+glucose	-4.10751274498628	-9.84650861014312
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1116	Tuber-Atlantic	-2.30760300776896	-11.9902482579086
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1100	M9+galactose	-4.04080531216991	-7.88865746651924
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1094	M9+fructose	-3.68377799683681	-8.94879450634743
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1105	M9+xylose	-4.40293396859089	-9.76916818690695
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1101	M9+galactose	-4.02305967267531	-10.6017700797771
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1106	M9+mannose	-4.94488966045078	-11.4240064941415
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1107	M9+mannose	-2.47797028829747	-7.76189505377314
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1119	Tuber-Atlantic	-3.19977553161226	-13.0473282241508
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1095	M9+fructose	-3.15967851615376	-9.74622856350847
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1097	M9+cellobiose	-4.28847628724618	-10.635731597825
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1090	M9+glucose	-2.54973175153579	-6.78517520892752
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1091	M9+polygalacturonate	-6.14181889969145	-8.40277770137319
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1118	Tuber-Atlantic	-2.15622347552873	-8.71958067966604
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1110	M9+glycerol	-5.64748546790405	-10.1227824233849
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1104	M9+xylose	-3.19370292823154	-8.99253287306006
+ECA_RS15505	ECA_RS15505	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1117	Tuber-Atlantic	-2.66640505220406	-12.3403798299393
+ECA_RS15575	ECA_RS15575	galactokinase	set21TCH1093	M9+polygalacturonate	-5.40749881091854	-7.40837063909483
+ECA_RS15575	ECA_RS15575	galactokinase	set21TCH1100	M9+galactose	-2.78532804552541	-12.0704440505295
+ECA_RS15575	ECA_RS15575	galactokinase	set21TCH1101	M9+galactose	-2.94686061504561	-12.7704584872003
+ECA_RS15575	ECA_RS15575	galactokinase	set21TCH1092	M9+polygalacturonate	-5.17890024464995	-10.4908193024297
+ECA_RS15575	ECA_RS15575	galactokinase	set21TCH1091	M9+polygalacturonate	-4.90139423838509	-10.9148498004437
+ECA_RS15580	ECA_RS15580	galactose-1-phosphate uridylyltransferase	set21TCH1100	M9+galactose	-3.03442954543594	-9.3407336101591
+ECA_RS15580	ECA_RS15580	galactose-1-phosphate uridylyltransferase	set21TCH1093	M9+polygalacturonate	-4.93357474760362	-7.51216678626255
+ECA_RS15580	ECA_RS15580	galactose-1-phosphate uridylyltransferase	set21TCH1101	M9+galactose	-2.22712254803985	-7.27534953631244
+ECA_RS15580	ECA_RS15580	galactose-1-phosphate uridylyltransferase	set21TCH1092	M9+polygalacturonate	-4.31193148508574	-9.54081571173528
+ECA_RS15580	ECA_RS15580	galactose-1-phosphate uridylyltransferase	set21TCH1091	M9+polygalacturonate	-4.62184800145715	-8.8101429735941
+ECA_RS15600	ECA_RS15600	extracellular solute-binding protein	set21TCH1102	M9+galactose	2.01631273739468	11.9535098436943
+ECA_RS15600	ECA_RS15600	extracellular solute-binding protein	set21TCH1101	M9+galactose	2.47216850456893	14.8426014706019
+ECA_RS15600	ECA_RS15600	extracellular solute-binding protein	set21TCH1100	M9+galactose	2.57959993037092	15.8517503054813
+ECA_RS15620	ECA_RS15620	beta-galactosidase	set21TCH1102	M9+galactose	2.31734813220537	19.1510395889037
+ECA_RS15620	ECA_RS15620	beta-galactosidase	set21TCH1091	M9+polygalacturonate	-2.53076289058822	-15.0487771975159
+ECA_RS15620	ECA_RS15620	beta-galactosidase	set21TCH1101	M9+galactose	3.79903829929289	32.021800339659
+ECA_RS15620	ECA_RS15620	beta-galactosidase	set21TCH1100	M9+galactose	5.02671814846021	42.1704327995898
+ECA_RS15620	ECA_RS15620	beta-galactosidase	set21TCH1093	M9+polygalacturonate	-2.31202659080028	-14.0889888306523
+ECA_RS15620	ECA_RS15620	beta-galactosidase	set21TCH1092	M9+polygalacturonate	-2.32503747966495	-14.5656445534091
+ECA_RS15710	ECA_RS15710	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase	set21TCH1110	M9+glycerol	-2.12310738524645	-8.49588837385392
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1101	M9+galactose	-2.55931525538731	-7.78548083806879
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1108	M9+mannose	-2.56887586359675	-7.95457442928679
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1102	M9+galactose	-2.88541755855158	-6.845368424856
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1115	Tuber-Atlantic	-4.52844955127896	-7.48546210481298
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1094	M9+fructose	-2.72285738396279	-7.63708463772266
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1111	M9+glycerol	-2.65758989974638	-7.28174533251941
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1119	Tuber-Atlantic	-3.71033574689276	-8.7649848761572
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1118	Tuber-Atlantic	-3.53213290647803	-5.83856499254517
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1103	M9+xylose	-3.1447433829335	-8.40461766763279
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1110	M9+glycerol	-3.6434981210265	-8.33649786113027
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1092	M9+polygalacturonate	-4.19570992663559	-6.94989858942979
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1105	M9+xylose	-2.52583261095858	-7.68362606028828
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1106	M9+mannose	-3.83376007114523	-8.06963416841327
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1096	M9+fructose	-2.51602577703486	-7.36570341214769
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1109	M9+glycerol	-3.36172772140539	-8.7486223247764
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1097	M9+cellobiose	-2.96866802690795	-7.72571651466144
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1114	Tuber-Atlantic	-4.64578523534402	-8.79133254212358
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1090	M9+glucose	-2.12936453021299	-6.76848207751824
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1117	Tuber-Atlantic	-4.21236938686876	-7.97116917684685
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1088	M9+glucose	-2.78318755176672	-7.24301869969613
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1104	M9+xylose	-3.27872816307225	-7.50188676122569
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1116	Tuber-Atlantic	-4.09782922456296	-9.33893760806847
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1091	M9+polygalacturonate	-4.05771857489388	-7.69950690843497
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1093	M9+polygalacturonate	-4.4147913503889	-5.23438893351667
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1098	M9+cellobiose	-2.57856375053663	-7.98457316095688
+ECA_RS15775	ECA_RS15775	IMP dehydrogenase	set21TCH1100	M9+galactose	-3.31924273133431	-7.2992892137036
+ECA_RS15940	ECA_RS15940	FecCD family ABC transporter permease	set21TCH1088	M9+glucose	-2.13257534665129	-6.29381012488841
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1094	M9+fructose	-3.28509024359812	-19.2199580295016
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1107	M9+mannose	-2.86029166826744	-17.0935735752607
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1119	Tuber-Atlantic	-4.09916228789085	-23.935442066282
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1090	M9+glucose	-3.34485702491054	-18.7515294849419
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1101	M9+galactose	-3.96389950655143	-19.4807771168653
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1103	M9+xylose	-5.03978215134588	-17.7990097685575
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1118	Tuber-Atlantic	-3.68279128608299	-18.4559018462238
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1111	M9+glycerol	-4.40462107715994	-18.4412674198215
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1100	M9+galactose	-3.71718571266808	-19.6263604600705
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1116	Tuber-Atlantic	-4.22276335600485	-25.0570578361983
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1095	M9+fructose	-2.47320030031695	-16.7027949308854
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1108	M9+mannose	-3.83423304448149	-20.8966613816827
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1098	M9+cellobiose	-3.2403255804184	-19.8249304003259
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1102	M9+galactose	-3.22217533121577	-18.0834694760416
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1089	M9+glucose	-3.04360267931886	-18.0021740489768
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1117	Tuber-Atlantic	-3.95733769469382	-24.1313726433884
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1093	M9+polygalacturonate	-5.0845017430315	-17.9569460494036
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1092	M9+polygalacturonate	-5.08225721042814	-18.9389479993182
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1115	Tuber-Atlantic	-4.33152843225169	-25.078400235998
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1097	M9+cellobiose	-3.7425882891334	-20.0859129126743
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1114	Tuber-Atlantic	-4.62015782858595	-26.6719984405962
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1105	M9+xylose	-4.20541874262621	-19.5925048177338
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1106	M9+mannose	-4.44894299942292	-21.6236779517463
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1109	M9+glycerol	-5.57224640451921	-17.1634687215629
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1110	M9+glycerol	-5.26843104317437	-19.3846302235275
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1091	M9+polygalacturonate	-5.006018237718	-19.550047965047
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1088	M9+glucose	-4.11802329856759	-19.3089434068136
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1099	M9+cellobiose	-2.57310466501551	-16.3627812768726
+ECA_RS16025	ECA_RS16025	phosphoribosylformylglycinamidine synthase	set21TCH1104	M9+xylose	-3.85658449419198	-20.8598501674012
+ECA_RS16105	ECA_RS16105	pyridoxine 5'-phosphate synthase	set21TCH1107	M9+mannose	-2.31724388630574	-7.05176100864789
+ECA_RS16105	ECA_RS16105	pyridoxine 5'-phosphate synthase	set21TCH1097	M9+cellobiose	-2.71569742082126	-7.9530291642008
+ECA_RS16105	ECA_RS16105	pyridoxine 5'-phosphate synthase	set21TCH1093	M9+polygalacturonate	-3.85512167419035	-7.72958907410017
+ECA_RS16105	ECA_RS16105	pyridoxine 5'-phosphate synthase	set21TCH1098	M9+cellobiose	-2.47918616529098	-7.46558974354844
+ECA_RS16105	ECA_RS16105	pyridoxine 5'-phosphate synthase	set21TCH1095	M9+fructose	-2.45582762098292	-6.64930624953818
+ECA_RS16105	ECA_RS16105	pyridoxine 5'-phosphate synthase	set21TCH1108	M9+mannose	-2.93299597467809	-8.22912664121307
+ECA_RS16105	ECA_RS16105	pyridoxine 5'-phosphate synthase	set21TCH1106	M9+mannose	-3.31380024206631	-9.08253411989509
+ECA_RS16105	ECA_RS16105	pyridoxine 5'-phosphate synthase	set21TCH1103	M9+xylose	-2.04406339804348	-7.44884540924129
+ECA_RS16105	ECA_RS16105	pyridoxine 5'-phosphate synthase	set21TCH1092	M9+polygalacturonate	-3.32217845388861	-8.6480907800382
+ECA_RS16105	ECA_RS16105	pyridoxine 5'-phosphate synthase	set21TCH1111	M9+glycerol	-2.3451929454963	-6.37389752442401
+ECA_RS16105	ECA_RS16105	pyridoxine 5'-phosphate synthase	set21TCH1109	M9+glycerol	-3.41104084643267	-8.63746190410555
+ECA_RS16105	ECA_RS16105	pyridoxine 5'-phosphate synthase	set21TCH1110	M9+glycerol	-3.00743869734869	-9.31624151873962
+ECA_RS16105	ECA_RS16105	pyridoxine 5'-phosphate synthase	set21TCH1091	M9+polygalacturonate	-3.34248086848234	-8.70094077798307
+ECA_RS16475	ECA_RS16475	hydroxyacylglutathione hydrolase	set21TCH1110	M9+glycerol	-2.20074773580453	-9.21127892117233
+ECA_RS16525	ECA_RS16525	23S rRNA pseudouridine(1911/1915/1917) synthase RluD	set21TCH1087	LB	-2.23156278361696	-6.59701965531926
+ECA_RS16540	ECA_RS16540	bifunctional chorismate mutase/prephenate dehydratase	set21TCH1105	M9+xylose	-3.13659460695926	-13.4919031510794
+ECA_RS16540	ECA_RS16540	bifunctional chorismate mutase/prephenate dehydratase	set21TCH1101	M9+galactose	-3.83153469005684	-14.0458478895297
+ECA_RS16540	ECA_RS16540	bifunctional chorismate mutase/prephenate dehydratase	set21TCH1097	M9+cellobiose	-3.11745837458531	-14.7166170307381
+ECA_RS16540	ECA_RS16540	bifunctional chorismate mutase/prephenate dehydratase	set21TCH1100	M9+galactose	-3.89467715271603	-14.0465558761397
+ECA_RS16540	ECA_RS16540	bifunctional chorismate mutase/prephenate dehydratase	set21TCH1103	M9+xylose	-4.19846239453053	-15.1421887633273
+ECA_RS16540	ECA_RS16540	bifunctional chorismate mutase/prephenate dehydratase	set21TCH1093	M9+polygalacturonate	-4.34271965495339	-14.3262398032384
+ECA_RS16540	ECA_RS16540	bifunctional chorismate mutase/prephenate dehydratase	set21TCH1110	M9+glycerol	-3.72969811518643	-16.6168098211272
+ECA_RS16540	ECA_RS16540	bifunctional chorismate mutase/prephenate dehydratase	set21TCH1111	M9+glycerol	-2.94891973381264	-12.6303490586107
+ECA_RS16540	ECA_RS16540	bifunctional chorismate mutase/prephenate dehydratase	set21TCH1108	M9+mannose	-2.56789816379071	-12.4887331712696
+ECA_RS16540	ECA_RS16540	bifunctional chorismate mutase/prephenate dehydratase	set21TCH1109	M9+glycerol	-3.57496802113367	-13.3750977275404
+ECA_RS16540	ECA_RS16540	bifunctional chorismate mutase/prephenate dehydratase	set21TCH1088	M9+glucose	-2.47379999060975	-13.1319083719588
+ECA_RS16540	ECA_RS16540	bifunctional chorismate mutase/prephenate dehydratase	set21TCH1106	M9+mannose	-3.6279429636259	-16.4990604206614
+ECA_RS16540	ECA_RS16540	bifunctional chorismate mutase/prephenate dehydratase	set21TCH1092	M9+polygalacturonate	-4.62123434253855	-14.7200593714444
+ECA_RS16540	ECA_RS16540	bifunctional chorismate mutase/prephenate dehydratase	set21TCH1091	M9+polygalacturonate	-5.22794496201273	-13.8773870256625
+ECA_RS16540	ECA_RS16540	bifunctional chorismate mutase/prephenate dehydratase	set21TCH1102	M9+galactose	-3.35306743501395	-13.7880971362049
+ECA_RS16540	ECA_RS16540	bifunctional chorismate mutase/prephenate dehydratase	set21TCH1104	M9+xylose	-3.11390643033761	-14.1605831280531
+ECA_RS16545	ECA_RS16545	bifunctional chorismate mutase/prephenate dehydrogenase	set21TCH1093	M9+polygalacturonate	-4.29556964982635	-18.4267305853464
+ECA_RS16545	ECA_RS16545	bifunctional chorismate mutase/prephenate dehydrogenase	set21TCH1105	M9+xylose	-3.06243295748092	-17.6097541650559
+ECA_RS16545	ECA_RS16545	bifunctional chorismate mutase/prephenate dehydrogenase	set21TCH1108	M9+mannose	-2.27031568719853	-15.218370153494
+ECA_RS16545	ECA_RS16545	bifunctional chorismate mutase/prephenate dehydrogenase	set21TCH1091	M9+polygalacturonate	-4.62160771148714	-18.0231786127021
+ECA_RS16545	ECA_RS16545	bifunctional chorismate mutase/prephenate dehydrogenase	set21TCH1101	M9+galactose	-2.99130684498627	-17.8631756308122
+ECA_RS16545	ECA_RS16545	bifunctional chorismate mutase/prephenate dehydrogenase	set21TCH1118	Tuber-Atlantic	-2.61536607662591	-16.0503840426262
+ECA_RS16545	ECA_RS16545	bifunctional chorismate mutase/prephenate dehydrogenase	set21TCH1106	M9+mannose	-3.25845392601489	-19.7420391908765
+ECA_RS16545	ECA_RS16545	bifunctional chorismate mutase/prephenate dehydrogenase	set21TCH1092	M9+polygalacturonate	-4.29141904167306	-19.283589188733
+ECA_RS16545	ECA_RS16545	bifunctional chorismate mutase/prephenate dehydrogenase	set21TCH1100	M9+galactose	-3.16203852404878	-16.1529877851273
+ECA_RS16545	ECA_RS16545	bifunctional chorismate mutase/prephenate dehydrogenase	set21TCH1109	M9+glycerol	-2.81109019765009	-17.3533253541127
+ECA_RS16545	ECA_RS16545	bifunctional chorismate mutase/prephenate dehydrogenase	set21TCH1097	M9+cellobiose	-2.1422166383029	-13.2626461508865
+ECA_RS16545	ECA_RS16545	bifunctional chorismate mutase/prephenate dehydrogenase	set21TCH1088	M9+glucose	-2.00798446513911	-13.8961116409847
+ECA_RS16545	ECA_RS16545	bifunctional chorismate mutase/prephenate dehydrogenase	set21TCH1103	M9+xylose	-3.78620934056131	-19.2382076346038
+ECA_RS16545	ECA_RS16545	bifunctional chorismate mutase/prephenate dehydrogenase	set21TCH1102	M9+galactose	-2.56389213009908	-13.1849105687434
+ECA_RS16545	ECA_RS16545	bifunctional chorismate mutase/prephenate dehydrogenase	set21TCH1104	M9+xylose	-2.38600530962026	-13.897118784189
+ECA_RS16545	ECA_RS16545	bifunctional chorismate mutase/prephenate dehydrogenase	set21TCH1110	M9+glycerol	-2.91522415461717	-19.3878905902683
+ECA_RS17400	ECA_RS17400	D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphatase	set21TCH1119	Tuber-Atlantic	-2.47370153637944	-5.60350487497887
+ECA_RS17400	ECA_RS17400	D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphatase	set21TCH1117	Tuber-Atlantic	-2.04107437343021	-5.26284701159941
+ECA_RS17490	ECA_RS17490	adenylyl-sulfate kinase	set21TCH1093	M9+polygalacturonate	-2.07929052794348	-5.57589233786731
+ECA_RS17490	ECA_RS17490	adenylyl-sulfate kinase	set21TCH1092	M9+polygalacturonate	-2.54464139943456	-6.3185837713735
+ECA_RS17490	ECA_RS17490	adenylyl-sulfate kinase	set21TCH1091	M9+polygalacturonate	-2.4934021807347	-6.19135197525215
+ECA_RS17495	ECA_RS17495	sulfate adenylyltransferase subunit CysN	set21TCH1091	M9+polygalacturonate	-2.14016935206388	-11.5571034882561
+ECA_RS17500	ECA_RS17500	sulfate adenylyltransferase subunit CysD	set21TCH1093	M9+polygalacturonate	-2.0089403277269	-11.5647241834989
+ECA_RS17510	ECA_RS17510	phosphoadenylyl-sulfate reductase	set21TCH1110	M9+glycerol	-2.36320057704498	-6.88836175318826
+ECA_RS17510	ECA_RS17510	phosphoadenylyl-sulfate reductase	set21TCH1115	Tuber-Atlantic	-2.11250340696843	-6.64226880894871
+ECA_RS17510	ECA_RS17510	phosphoadenylyl-sulfate reductase	set21TCH1091	M9+polygalacturonate	-2.96159607595995	-6.42754262240906
+ECA_RS17510	ECA_RS17510	phosphoadenylyl-sulfate reductase	set21TCH1093	M9+polygalacturonate	-3.17145580147929	-5.21394549254895
+ECA_RS17510	ECA_RS17510	phosphoadenylyl-sulfate reductase	set21TCH1092	M9+polygalacturonate	-2.26483325207265	-5.62965988209176
+ECA_RS17515	ECA_RS17515	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set21TCH1092	M9+polygalacturonate	-3.21838429535081	-13.5241783406518
+ECA_RS17515	ECA_RS17515	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set21TCH1109	M9+glycerol	-2.4466616018673	-12.8468982732154
+ECA_RS17515	ECA_RS17515	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set21TCH1093	M9+polygalacturonate	-3.26124184914925	-12.5880654422064
+ECA_RS17515	ECA_RS17515	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set21TCH1110	M9+glycerol	-2.16321477431965	-12.6740751321285
+ECA_RS17515	ECA_RS17515	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set21TCH1106	M9+mannose	-2.3610292431651	-12.9246948523464
+ECA_RS17515	ECA_RS17515	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set21TCH1091	M9+polygalacturonate	-3.12281738142617	-13.2308066335912
+ECA_RS17515	ECA_RS17515	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set21TCH1111	M9+glycerol	-2.2230785618551	-10.6435240248443
+ECA_RS17515	ECA_RS17515	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set21TCH1103	M9+xylose	-2.54347078748759	-12.5830497861564
+ECA_RS17515	ECA_RS17515	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set21TCH1101	M9+galactose	-2.11323934209732	-11.1702358238779
+ECA_RS17520	ECA_RS17520	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set21TCH1106	M9+mannose	-2.46150515920723	-11.7192446417496
+ECA_RS17520	ECA_RS17520	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set21TCH1092	M9+polygalacturonate	-3.10534621928634	-12.427432360843
+ECA_RS17520	ECA_RS17520	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set21TCH1110	M9+glycerol	-2.21051823630095	-11.0585259774316
+ECA_RS17520	ECA_RS17520	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set21TCH1093	M9+polygalacturonate	-3.5907469070017	-11.3537807396725
+ECA_RS17520	ECA_RS17520	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set21TCH1091	M9+polygalacturonate	-3.40040570372316	-12.0204679529457
+ECA_RS17520	ECA_RS17520	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set21TCH1109	M9+glycerol	-2.51247166713775	-11.3647123768006
+ECA_RS17520	ECA_RS17520	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set21TCH1103	M9+xylose	-2.4193528385247	-11.2251242992167
+ECA_RS17520	ECA_RS17520	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set21TCH1105	M9+xylose	-2.00187256123771	-9.47498860988562
+ECA_RS17520	ECA_RS17520	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set21TCH1111	M9+glycerol	-2.03051101648037	-8.66899217712701
+ECA_RS17650	ECA_RS17650	glycerate kinase	set21TCH1087	LB	-2.00081973998012	-7.33457968095408
+ECA_RS17650	ECA_RS17650	glycerate kinase	set21TCH1093	M9+polygalacturonate	-2.31244981593734	-8.92966328833392
+ECA_RS17650	ECA_RS17650	glycerate kinase	set21TCH1091	M9+polygalacturonate	-2.04712856088739	-8.78518486573414
+ECA_RS17650	ECA_RS17650	glycerate kinase	set21TCH1100	M9+galactose	-2.48092884078974	-8.71752392592505
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1103	M9+xylose	-3.26268900534764	-11.5783184288559
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1093	M9+polygalacturonate	-2.21555723897475	-10.7203766082116
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1110	M9+glycerol	-4.27953618758574	-13.374803950163
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1109	M9+glycerol	-4.44264073165104	-12.3037396611965
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1095	M9+fructose	-2.8961376181717	-7.99567714256738
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1098	M9+cellobiose	-3.65859944218098	-11.1230936148956
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1097	M9+cellobiose	-3.80426356407518	-12.0608423357634
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1096	M9+fructose	-2.76343445865309	-10.8990996504312
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1106	M9+mannose	-2.99401276062744	-13.308583389056
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1102	M9+galactose	-2.51581332985708	-7.23541107792197
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1091	M9+polygalacturonate	-2.03340971305045	-9.25651979012259
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1104	M9+xylose	-2.6707340800884	-7.1752601366819
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1105	M9+xylose	-3.58635490285625	-12.3345809086761
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1100	M9+galactose	-2.0781592992197	-8.95395939052802
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1089	M9+glucose	-4.02673726105734	-10.6538872212796
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1107	M9+mannose	-3.08781463039452	-10.0033721622573
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1092	M9+polygalacturonate	-2.35443831133648	-9.15434705358888
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1099	M9+cellobiose	-3.55790826332606	-11.6781205951578
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1101	M9+galactose	-2.60400589496221	-9.87102428285289
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1111	M9+glycerol	-3.4411453893415	-11.8351605942698
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1094	M9+fructose	-3.27876098248679	-9.69831065424627
+ECA_RS17795	ECA_RS17795	3'(2'),5'-bisphosphate nucleotidase CysQ	set21TCH1108	M9+mannose	-2.63163897491899	-11.930797900103
+ECA_RS18050	ECA_RS18050	diaminopimelate decarboxylase	set21TCH1103	M9+xylose	-3.35767359073861	-7.03606462905169
+ECA_RS18050	ECA_RS18050	diaminopimelate decarboxylase	set21TCH1097	M9+cellobiose	-2.23410967807271	-6.61108707355813
+ECA_RS18050	ECA_RS18050	diaminopimelate decarboxylase	set21TCH1091	M9+polygalacturonate	-3.91842382995516	-5.93519827943944
+ECA_RS18050	ECA_RS18050	diaminopimelate decarboxylase	set21TCH1102	M9+galactose	-2.35938400418887	-5.21673875395206
+ECA_RS18050	ECA_RS18050	diaminopimelate decarboxylase	set21TCH1111	M9+glycerol	-2.58201864501989	-6.29459701549125
+ECA_RS18050	ECA_RS18050	diaminopimelate decarboxylase	set21TCH1098	M9+cellobiose	-2.37456950373458	-6.45742433520303
+ECA_RS18050	ECA_RS18050	diaminopimelate decarboxylase	set21TCH1106	M9+mannose	-3.52572305510136	-7.38821526555049
+ECA_RS18050	ECA_RS18050	diaminopimelate decarboxylase	set21TCH1100	M9+galactose	-3.55106154154006	-5.86582729339361
+ECA_RS18050	ECA_RS18050	diaminopimelate decarboxylase	set21TCH1095	M9+fructose	-2.70572250823415	-5.17683300777849
+ECA_RS18050	ECA_RS18050	diaminopimelate decarboxylase	set21TCH1105	M9+xylose	-2.80661140486377	-6.38792460653012
+ECA_RS18050	ECA_RS18050	diaminopimelate decarboxylase	set21TCH1093	M9+polygalacturonate	-4.73704135228191	-5.60849502657973
+ECA_RS18050	ECA_RS18050	diaminopimelate decarboxylase	set21TCH1101	M9+galactose	-2.3637823615006	-5.55814131525162
+ECA_RS18050	ECA_RS18050	diaminopimelate decarboxylase	set21TCH1109	M9+glycerol	-3.93309517969833	-7.43600311125213
+ECA_RS18050	ECA_RS18050	diaminopimelate decarboxylase	set21TCH1110	M9+glycerol	-3.13720826166965	-7.64807093820507
+ECA_RS18050	ECA_RS18050	diaminopimelate decarboxylase	set21TCH1089	M9+glucose	-2.37847179285794	-5.79837851970212
+ECA_RS18050	ECA_RS18050	diaminopimelate decarboxylase	set21TCH1108	M9+mannose	-2.96726557100118	-6.75357789904945
+ECA_RS18050	ECA_RS18050	diaminopimelate decarboxylase	set21TCH1094	M9+fructose	-2.67071351636708	-6.08446263874748
+ECA_RS18575	ECA_RS18575	D-threonate 4-phosphate dehydrogenase	set21TCH1086	LB	-2.09270055861207	-6.82239836326394
+ECA_RS18575	ECA_RS18575	D-threonate 4-phosphate dehydrogenase	set21TCH1097	M9+cellobiose	-2.03300299340876	-7.41811108411548
+ECA_RS18575	ECA_RS18575	D-threonate 4-phosphate dehydrogenase	set21TCH1087	LB	-2.02681109599858	-7.38951601833732
+ECA_RS18575	ECA_RS18575	D-threonate 4-phosphate dehydrogenase	set21TCH1119	Tuber-Atlantic	-4.36362737339192	-5.92839099517156
+ECA_RS18710	ECA_RS18710	pyruvate dehydrogenase complex dihydrolipoyllysine-residue acetyltransferase	set21TCH1110	M9+glycerol	-2.94450553983713	-5.12010809258525
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1102	M9+galactose	-2.40237104484675	-8.96489769992327
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1106	M9+mannose	-3.45367996363674	-9.59257255801229
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1095	M9+fructose	-2.31770805167027	-8.74462590361849
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1111	M9+glycerol	-2.83901927268645	-8.26248529228218
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1108	M9+mannose	-3.47270435226891	-8.32277408319144
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1109	M9+glycerol	-3.5247176012111	-9.54271389524051
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1091	M9+polygalacturonate	-3.892630554973	-6.97638350924934
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1093	M9+polygalacturonate	-3.60060750376452	-8.31652513570969
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1088	M9+glucose	-2.37338150579849	-8.75657561550328
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1100	M9+galactose	-3.05475280614083	-8.27034541424504
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1098	M9+cellobiose	-2.33060015928512	-9.65406567656865
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1097	M9+cellobiose	-2.64030654866435	-9.74139382353932
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1104	M9+xylose	-2.81513533233178	-9.47209952451492
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1101	M9+galactose	-3.25381402694023	-8.3252641196682
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1107	M9+mannose	-2.16621426932848	-8.59288514829901
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1110	M9+glycerol	-3.30935318113209	-10.612042058723
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1092	M9+polygalacturonate	-3.69961682154345	-8.86659844220928
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1103	M9+xylose	-3.7230729829778	-7.51778338361177
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1105	M9+xylose	-2.88469599254554	-9.25030165231584
+ECA_RS18715	ECA_RS18715	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	set21TCH1089	M9+glucose	-2.18360491751059	-8.14853090430105
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1102	M9+galactose	-2.44862751857411	-13.1849101139338
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1091	M9+polygalacturonate	-5.53522374069325	-15.9459995945709
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1106	M9+mannose	-4.12015463984631	-19.8337288139648
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1098	M9+cellobiose	-2.67807786209609	-15.4128576742399
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1105	M9+xylose	-3.73614947534238	-16.6441470038699
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1111	M9+glycerol	-3.28077431428134	-15.689176690867
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1094	M9+fructose	-2.49340881002625	-14.8726563755073
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1108	M9+mannose	-3.46472603856684	-18.2560934874985
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1118	Tuber-Atlantic	-2.77883685336052	-14.2001690448999
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1109	M9+glycerol	-4.05397169919413	-19.8865045590246
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1116	Tuber-Atlantic	-2.53643591406696	-13.6047267419586
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1115	Tuber-Atlantic	-2.55010070655	-14.1000562334698
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1088	M9+glucose	-3.05099924080439	-16.9484066165566
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1100	M9+galactose	-3.16418164110231	-17.1211155751573
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1101	M9+galactose	-3.65197535226708	-18.010923118095
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1092	M9+polygalacturonate	-5.27353760318813	-17.1818017836354
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1097	M9+cellobiose	-3.55718106099306	-18.2528947589794
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1104	M9+xylose	-2.71569135614616	-15.4789590271674
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1110	M9+glycerol	-4.5177806186726	-20.1598709784607
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1114	Tuber-Atlantic	-2.38748352283112	-14.2001298887485
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1117	Tuber-Atlantic	-2.30417887881512	-13.1582230099765
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1093	M9+polygalacturonate	-4.63132819363646	-17.4529484225098
+ECA_RS18920	ECA_RS18920	2-isopropylmalate synthase	set21TCH1103	M9+xylose	-4.68893074064399	-17.6700209856913
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1105	M9+xylose	-3.20622597622424	-13.5303284689924
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1094	M9+fructose	-2.50211542373955	-12.5885601855181
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1102	M9+galactose	-2.33857601507636	-11.1032595778187
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1109	M9+glycerol	-4.14796753680436	-14.7569367736136
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1118	Tuber-Atlantic	-3.45525033105221	-12.7670857382119
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1107	M9+mannose	-2.08701924174688	-10.3041039301975
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1106	M9+mannose	-4.22768258380551	-14.399295063868
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1090	M9+glucose	-2.16838037832672	-11.2348415165756
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1088	M9+glucose	-2.97514980648073	-10.5548408535742
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1091	M9+polygalacturonate	-4.71241491830868	-14.1455177304579
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1111	M9+glycerol	-3.08873374805415	-12.5811858047243
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1097	M9+cellobiose	-3.09001745438733	-14.0479112597348
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1115	Tuber-Atlantic	-3.16358991804056	-17.8947671082256
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1114	Tuber-Atlantic	-2.92452291687511	-12.5465019398563
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1116	Tuber-Atlantic	-3.49708698396084	-15.5959073987417
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1117	Tuber-Atlantic	-3.07190865601128	-15.7838140507451
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1101	M9+galactose	-3.72819040745752	-13.9586535016606
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1100	M9+galactose	-3.24075247157591	-12.949190486916
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1110	M9+glycerol	-4.35513559626758	-15.0330730693348
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1104	M9+xylose	-2.69029106466641	-9.16809705616689
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1098	M9+cellobiose	-2.57798505819973	-12.8311615626423
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1108	M9+mannose	-3.66434891415725	-14.7851256577686
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1092	M9+polygalacturonate	-5.39594368255331	-13.0117711181533
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1103	M9+xylose	-4.19040400756333	-14.4893737547583
+ECA_RS18925	ECA_RS18925	3-isopropylmalate dehydrogenase	set21TCH1093	M9+polygalacturonate	-4.86387840440373	-12.5323436701734
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1115	Tuber-Atlantic	-3.45075119752668	-13.9786447637397
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1105	M9+xylose	-3.50820512437598	-11.8998293627203
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1091	M9+polygalacturonate	-4.71314761415103	-11.7371699566634
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1109	M9+glycerol	-3.81521381791203	-13.1363612453526
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1116	Tuber-Atlantic	-3.34879311576361	-15.3191452175704
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1117	Tuber-Atlantic	-2.73764738163247	-14.6799286583844
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1108	M9+mannose	-3.04351667071619	-10.4662922644058
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1094	M9+fructose	-2.39145589568577	-9.87412883419779
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1107	M9+mannose	-2.51151856390579	-10.3256390777562
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1097	M9+cellobiose	-3.49956744514725	-11.7702456724272
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1098	M9+cellobiose	-2.52675692902236	-9.57840287772872
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1111	M9+glycerol	-3.38755092942257	-11.1302722908392
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1102	M9+galactose	-2.34537715525637	-6.9042316121908
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1093	M9+polygalacturonate	-4.61280008016215	-11.4872740998854
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1100	M9+galactose	-3.04487794726897	-9.70710783483112
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1104	M9+xylose	-2.34447494984087	-11.2222921351656
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1106	M9+mannose	-3.54383539974404	-12.9528763623132
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1118	Tuber-Atlantic	-3.31774031791033	-9.61013064495662
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1114	Tuber-Atlantic	-3.11242470823743	-15.0097782065388
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1103	M9+xylose	-4.7348590046938	-10.9779076963974
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1110	M9+glycerol	-4.42322584963943	-13.2351288533367
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1088	M9+glucose	-2.94680952544017	-11.5928675625995
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1092	M9+polygalacturonate	-4.77319708646376	-11.8867113926724
+ECA_RS18930	ECA_RS18930	3-isopropylmalate dehydratase large subunit	set21TCH1101	M9+galactose	-3.00460990735053	-11.4835465463266
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1108	M9+mannose	-2.86081047117495	-7.60547337036875
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1111	M9+glycerol	-3.03302276692115	-7.05336301283761
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1105	M9+xylose	-3.29593469498486	-5.59249083167156
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1115	Tuber-Atlantic	-3.27126177076483	-10.9306478421007
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1117	Tuber-Atlantic	-2.56898832560397	-7.37197015794109
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1116	Tuber-Atlantic	-3.47433161737979	-8.22220918244929
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1102	M9+galactose	-2.30046682574718	-6.13120555755861
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1109	M9+glycerol	-3.4469987966612	-7.6489933124829
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1106	M9+mannose	-3.60693807865986	-6.63981340325314
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1094	M9+fructose	-2.30047384613386	-6.32921773842858
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1093	M9+polygalacturonate	-4.06188454181657	-7.02770409903031
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1114	Tuber-Atlantic	-3.24230129271491	-9.27500444473322
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1118	Tuber-Atlantic	-3.12410433941524	-6.39935985168302
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1103	M9+xylose	-4.18281397141256	-8.41659719609885
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1097	M9+cellobiose	-3.45440341669952	-5.57845750846363
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1088	M9+glucose	-2.67564948718975	-7.83840975849009
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1091	M9+polygalacturonate	-5.72451384678545	-7.81865033254045
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1110	M9+glycerol	-4.56727779691632	-8.26047332416863
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1092	M9+polygalacturonate	-4.6561334690852	-8.86457860146444
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1104	M9+xylose	-2.61109190045643	-8.29973481082042
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1099	M9+cellobiose	-2.26432201568085	-6.69067011919463
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1100	M9+galactose	-3.79649923243508	-8.02416721641298
+ECA_RS18935	ECA_RS18935	3-isopropylmalate dehydratase small subunit	set21TCH1101	M9+galactose	-3.03481339103686	-7.39362145032158
+ECA_RS19055	ECA_RS19055	4-hydroxythreonine-4-phosphate dehydrogenase PdxA	set21TCH1093	M9+polygalacturonate	-2.26535134816872	-8.57960003361336
+ECA_RS19055	ECA_RS19055	4-hydroxythreonine-4-phosphate dehydrogenase PdxA	set21TCH1092	M9+polygalacturonate	-2.10272031877211	-6.90819433868085
+ECA_RS19055	ECA_RS19055	4-hydroxythreonine-4-phosphate dehydrogenase PdxA	set21TCH1095	M9+fructose	-2.04228548524002	-7.48680052571082
+ECA_RS19055	ECA_RS19055	4-hydroxythreonine-4-phosphate dehydrogenase PdxA	set21TCH1091	M9+polygalacturonate	-2.45414346433472	-8.93173734321916
+ECA_RS19070	ECA_RS19070	bis(5'-nucleosyl)-tetraphosphatase (symmetrical) ApaH	set21TCH1117	Tuber-Atlantic	-3.56054905068387	-15.961208197503
+ECA_RS19070	ECA_RS19070	bis(5'-nucleosyl)-tetraphosphatase (symmetrical) ApaH	set21TCH1119	Tuber-Atlantic	-4.03171336851693	-15.8589498741267
+ECA_RS19070	ECA_RS19070	bis(5'-nucleosyl)-tetraphosphatase (symmetrical) ApaH	set21TCH1116	Tuber-Atlantic	-2.39863328127467	-12.8108257254299
+ECA_RS19070	ECA_RS19070	bis(5'-nucleosyl)-tetraphosphatase (symmetrical) ApaH	set21TCH1115	Tuber-Atlantic	-3.252098514781	-14.3243101518797
+ECA_RS19070	ECA_RS19070	bis(5'-nucleosyl)-tetraphosphatase (symmetrical) ApaH	set21TCH1114	Tuber-Atlantic	-2.28872392103003	-13.9922050598425
+ECA_RS19070	ECA_RS19070	bis(5'-nucleosyl)-tetraphosphatase (symmetrical) ApaH	set21TCH1118	Tuber-Atlantic	-2.11262062727959	-9.37529021409142
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1108	M9+mannose	-2.84342716146938	-20.1030930238497
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1117	Tuber-Atlantic	-4.06050645870322	-23.3738922237528
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1119	Tuber-Atlantic	-3.50718786712521	-25.4352399533314
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1116	Tuber-Atlantic	-4.29248747297823	-26.407509063175
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1106	M9+mannose	-3.89286966385579	-22.5165078669007
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1105	M9+xylose	-2.75396536858504	-18.1917687692527
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1102	M9+galactose	-2.76266318637966	-16.6359884863633
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1115	Tuber-Atlantic	-4.25979898965152	-24.5968372724057
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1111	M9+glycerol	-2.85676527307262	-17.3455222863157
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1091	M9+polygalacturonate	-4.2133164622379	-22.5969302359646
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1100	M9+galactose	-3.40292291086343	-19.2560083707216
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1093	M9+polygalacturonate	-4.20349585153769	-22.0749458593151
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1114	Tuber-Atlantic	-4.81090854828657	-26.3768872263903
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1097	M9+cellobiose	-2.10764585168882	-15.8013067213544
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1104	M9+xylose	-2.33476653741124	-17.1172273887854
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1109	M9+glycerol	-4.20626021087426	-23.1744034850239
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1103	M9+xylose	-4.78359435391775	-21.8954827735169
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1110	M9+glycerol	-4.06603603337425	-24.3787349885055
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1118	Tuber-Atlantic	-4.14959298815706	-19.6105212021136
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1101	M9+galactose	-3.72393397101049	-21.2290574985299
+ECA_RS19120	ECA_RS19120	carbamoyl-phosphate synthase large subunit	set21TCH1092	M9+polygalacturonate	-4.17601731356406	-22.3968868098423
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1097	M9+cellobiose	-2.04736164320183	-10.8204830654345
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1119	Tuber-Atlantic	-3.56564934121059	-17.1245559360592
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1108	M9+mannose	-2.84770157570101	-11.8203247989226
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1116	Tuber-Atlantic	-4.65233394922853	-16.0462443418476
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1102	M9+galactose	-3.18274955438714	-12.5931135821122
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1117	Tuber-Atlantic	-4.22182569093733	-16.8128412411755
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1106	M9+mannose	-4.32457953997593	-14.5017553648291
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1115	Tuber-Atlantic	-4.87145306951694	-15.7599810306056
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1105	M9+xylose	-2.64743908320737	-11.1256675703551
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1093	M9+polygalacturonate	-4.27310560091337	-13.0969933764374
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1111	M9+glycerol	-3.07682791111561	-12.6514818996162
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1114	Tuber-Atlantic	-4.98726907434316	-16.4120280070573
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1118	Tuber-Atlantic	-3.9067388554162	-11.7048763098064
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1109	M9+glycerol	-4.33481426360239	-14.2996551021062
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1091	M9+polygalacturonate	-4.79941804668045	-12.3673402245746
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1088	M9+glucose	-2.09050482472221	-11.5313127027042
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1110	M9+glycerol	-4.05819445946769	-15.3761714185718
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1092	M9+polygalacturonate	-5.36304635605418	-11.9605636872721
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1103	M9+xylose	-5.38669410154797	-10.9250955351381
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1104	M9+xylose	-2.41083171880775	-11.3269839365337
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1100	M9+galactose	-3.61604596707164	-12.6882019555549
+ECA_RS19125	ECA_RS19125	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1101	M9+galactose	-4.17402277299721	-12.793306254673
+ECA_RS19225	ECA_RS19225	bifunctional aspartate kinase/homoserine dehydrogenase I	set21TCH1091	M9+polygalacturonate	-3.52187880159837	-13.1277891300508
+ECA_RS19225	ECA_RS19225	bifunctional aspartate kinase/homoserine dehydrogenase I	set21TCH1097	M9+cellobiose	-2.81043764836103	-12.3512433085664
+ECA_RS19225	ECA_RS19225	bifunctional aspartate kinase/homoserine dehydrogenase I	set21TCH1105	M9+xylose	-2.027373229518	-10.0578126778893
+ECA_RS19225	ECA_RS19225	bifunctional aspartate kinase/homoserine dehydrogenase I	set21TCH1093	M9+polygalacturonate	-3.18987362905777	-12.1650042840799
+ECA_RS19225	ECA_RS19225	bifunctional aspartate kinase/homoserine dehydrogenase I	set21TCH1110	M9+glycerol	-2.55472017373387	-13.3851446039967
+ECA_RS19225	ECA_RS19225	bifunctional aspartate kinase/homoserine dehydrogenase I	set21TCH1109	M9+glycerol	-2.31491667511034	-11.0783619244456
+ECA_RS19225	ECA_RS19225	bifunctional aspartate kinase/homoserine dehydrogenase I	set21TCH1108	M9+mannose	-2.69613526544993	-11.3553046354411
+ECA_RS19225	ECA_RS19225	bifunctional aspartate kinase/homoserine dehydrogenase I	set21TCH1100	M9+galactose	-2.09591658689819	-9.67965247436767
+ECA_RS19225	ECA_RS19225	bifunctional aspartate kinase/homoserine dehydrogenase I	set21TCH1106	M9+mannose	-3.12564616913799	-13.3242810673808
+ECA_RS19225	ECA_RS19225	bifunctional aspartate kinase/homoserine dehydrogenase I	set21TCH1101	M9+galactose	-2.01311858283612	-7.69181748962724
+ECA_RS19225	ECA_RS19225	bifunctional aspartate kinase/homoserine dehydrogenase I	set21TCH1103	M9+xylose	-3.48291226739313	-12.5071630659349
+ECA_RS19225	ECA_RS19225	bifunctional aspartate kinase/homoserine dehydrogenase I	set21TCH1092	M9+polygalacturonate	-3.41774303487263	-12.7396234765788
+ECA_RS19225	ECA_RS19225	bifunctional aspartate kinase/homoserine dehydrogenase I	set21TCH1088	M9+glucose	-2.26143615164053	-10.7171391472097
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1116	Tuber-Atlantic	-3.47182039738416	-14.1618618115071
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1107	M9+mannose	-2.0531074811635	-7.4564659224658
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1097	M9+cellobiose	-3.92522349032323	-10.6570706663779
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1115	Tuber-Atlantic	-2.9677958002066	-12.0822983545353
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1095	M9+fructose	-2.5167189098656	-9.85161293961377
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1105	M9+xylose	-2.72547830994433	-9.74002863684886
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1090	M9+glucose	-2.34454300558634	-8.68016987591424
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1098	M9+cellobiose	-2.75163007342478	-9.3916195395687
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1111	M9+glycerol	-3.11246693804848	-9.84491487846183
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1109	M9+glycerol	-4.51998285576139	-10.8566820494372
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1117	Tuber-Atlantic	-2.77247615261632	-9.69870237927076
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1118	Tuber-Atlantic	-3.57789186206713	-9.69192359283423
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1100	M9+galactose	-3.81829762299652	-10.0862041971095
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1106	M9+mannose	-4.64475857751569	-10.750306061632
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1110	M9+glycerol	-4.86816434638768	-11.2673793069313
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1108	M9+mannose	-3.77104957591223	-11.2511143839432
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1114	Tuber-Atlantic	-3.67751328738993	-14.7394206649554
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1101	M9+galactose	-3.35925375308943	-10.925177147829
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1103	M9+xylose	-3.96670538106927	-10.7696949391474
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1094	M9+fructose	-2.902064224645	-10.5062663064367
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1093	M9+polygalacturonate	-4.75802627251681	-9.62268243048783
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1088	M9+glucose	-2.65419401718228	-10.04325007688
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1104	M9+xylose	-2.24354408969883	-9.1292900345005
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1099	M9+cellobiose	-2.0157370847576	-7.65158772461373
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1092	M9+polygalacturonate	-5.22965410394965	-8.71461657362542
+ECA_RS19295	ECA_RS19295	phosphoglycerate dehydrogenase	set21TCH1091	M9+polygalacturonate	-5.80655500442508	-6.90563694951619
+ECA_RS19340	ECA_RS19340	transketolase	set21TCH1103	M9+xylose	-2.60602208266313	-6.75509825036199
+ECA_RS19395	ECA_RS19395	class 1 fructose-bisphosphatase	set21TCH1111	M9+glycerol	-3.55095648214882	-18.6681236717025
+ECA_RS19395	ECA_RS19395	class 1 fructose-bisphosphatase	set21TCH1109	M9+glycerol	-4.48489998485655	-22.2205250231614
+ECA_RS19395	ECA_RS19395	class 1 fructose-bisphosphatase	set21TCH1110	M9+glycerol	-4.74290427729292	-22.2005643993948
+ECA_RS19650	ECA_RS19650	glucose-6-phosphate isomerase	set21TCH1097	M9+cellobiose	-2.21850203114397	-9.27010748709314
+ECA_RS19650	ECA_RS19650	glucose-6-phosphate isomerase	set21TCH1101	M9+galactose	-2.17650733749825	-11.8903428474888
+ECA_RS19650	ECA_RS19650	glucose-6-phosphate isomerase	set21TCH1100	M9+galactose	-2.27407924248014	-11.6899737280453
+ECA_RS19650	ECA_RS19650	glucose-6-phosphate isomerase	set21TCH1088	M9+glucose	-2.13546407690222	-9.52497354876595
+ECA_RS19705	ECA_RS19705	homoserine O-acetyltransferase MetA	set21TCH1105	M9+xylose	-2.31320693674982	-10.0574381446127
+ECA_RS19705	ECA_RS19705	homoserine O-acetyltransferase MetA	set21TCH1097	M9+cellobiose	-2.51712203561534	-13.0985589041448
+ECA_RS19705	ECA_RS19705	homoserine O-acetyltransferase MetA	set21TCH1109	M9+glycerol	-3.26755763354395	-14.8576011068534
+ECA_RS19705	ECA_RS19705	homoserine O-acetyltransferase MetA	set21TCH1093	M9+polygalacturonate	-4.02323845952834	-13.2711210532061
+ECA_RS19705	ECA_RS19705	homoserine O-acetyltransferase MetA	set21TCH1111	M9+glycerol	-2.25739269206572	-10.8918683694888
+ECA_RS19705	ECA_RS19705	homoserine O-acetyltransferase MetA	set21TCH1108	M9+mannose	-2.76096497722862	-11.4757305970968
+ECA_RS19705	ECA_RS19705	homoserine O-acetyltransferase MetA	set21TCH1101	M9+galactose	-2.59489578444808	-11.4803766959986
+ECA_RS19705	ECA_RS19705	homoserine O-acetyltransferase MetA	set21TCH1110	M9+glycerol	-3.81196536190398	-15.8140989173184
+ECA_RS19705	ECA_RS19705	homoserine O-acetyltransferase MetA	set21TCH1092	M9+polygalacturonate	-4.91101534823818	-12.2575990372305
+ECA_RS19705	ECA_RS19705	homoserine O-acetyltransferase MetA	set21TCH1106	M9+mannose	-3.14490968509745	-14.7561820168202
+ECA_RS19705	ECA_RS19705	homoserine O-acetyltransferase MetA	set21TCH1091	M9+polygalacturonate	-4.75922032061328	-12.6324480361474
+ECA_RS19705	ECA_RS19705	homoserine O-acetyltransferase MetA	set21TCH1104	M9+xylose	-2.52519016078366	-11.5694587425217
+ECA_RS19705	ECA_RS19705	homoserine O-acetyltransferase MetA	set21TCH1100	M9+galactose	-2.96086997984515	-12.9995223931909
+ECA_RS19705	ECA_RS19705	homoserine O-acetyltransferase MetA	set21TCH1103	M9+xylose	-4.18025313517414	-14.6670386296741
+ECA_RS19705	ECA_RS19705	homoserine O-acetyltransferase MetA	set21TCH1088	M9+glucose	-2.37787203024269	-11.7845506707831
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1090	M9+glucose	-2.05805067072263	-9.19890860261964
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1105	M9+xylose	-3.3613405999137	-10.8406914540947
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1116	Tuber-Atlantic	-2.87746956703351	-13.4536950427673
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1098	M9+cellobiose	-2.673477169463	-10.3913788480633
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1114	Tuber-Atlantic	-2.13871900227456	-11.7776797941188
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1094	M9+fructose	-2.40900093189718	-9.32268550173198
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1093	M9+polygalacturonate	-4.27322351230371	-9.8994103619913
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1109	M9+glycerol	-3.82485921188203	-11.6660117408218
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1097	M9+cellobiose	-3.48663762987664	-11.2447880939823
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1111	M9+glycerol	-2.29522986785668	-9.5194385640605
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1102	M9+galactose	-2.35246059022006	-9.3421175695934
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1108	M9+mannose	-3.19665068366803	-11.1451433443047
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1091	M9+polygalacturonate	-4.50723259706286	-10.0259263854852
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1118	Tuber-Atlantic	-3.26105699682791	-9.70809878655366
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1115	Tuber-Atlantic	-2.42452444223819	-12.5858843596635
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1110	M9+glycerol	-4.00719569381516	-11.4522854303045
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1092	M9+polygalacturonate	-4.36989503015397	-9.72043153778475
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1101	M9+galactose	-2.95721658514431	-10.8633488789121
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1099	M9+cellobiose	-2.37375137040302	-8.35729758993476
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1104	M9+xylose	-2.88574531692493	-11.2110931664991
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1106	M9+mannose	-3.7707271230177	-11.5009061645735
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1103	M9+xylose	-4.67387240616461	-8.94436423880269
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1088	M9+glucose	-2.52539381858442	-9.77085071569093
+ECA_RS19745	ECA_RS19745	shikimate dehydrogenase	set21TCH1100	M9+galactose	-2.96969709644893	-10.3538681902867
+ECA_RS20095	ECA_RS20095	bifunctional acetylornithine/succinyldiaminopimelate transaminase	set21TCH1091	M9+polygalacturonate	-2.95804103245681	-16.9862735166636
+ECA_RS20095	ECA_RS20095	bifunctional acetylornithine/succinyldiaminopimelate transaminase	set21TCH1092	M9+polygalacturonate	-3.48687203356004	-17.9492429213706
+ECA_RS20095	ECA_RS20095	bifunctional acetylornithine/succinyldiaminopimelate transaminase	set21TCH1106	M9+mannose	-2.22797374081674	-15.5059439016306
+ECA_RS20095	ECA_RS20095	bifunctional acetylornithine/succinyldiaminopimelate transaminase	set21TCH1093	M9+polygalacturonate	-3.12219614152615	-16.1875299780266
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1105	M9+xylose	-2.68369570991712	-6.10007811088935
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1090	M9+glucose	-2.38329574936369	-5.44520693926068
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1093	M9+polygalacturonate	-4.62147296272046	-6.28643272047515
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1108	M9+mannose	-2.55197657638164	-5.78940653318173
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1111	M9+glycerol	-3.11412716938462	-5.88226078763669
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1091	M9+polygalacturonate	-5.24185751917892	-5.08945017712652
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1117	Tuber-Atlantic	-2.46506025259801	-5.99879745753277
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1097	M9+cellobiose	-3.61255540999669	-6.41183318851678
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1106	M9+mannose	-3.68225579221271	-6.8963033309565
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1109	M9+glycerol	-3.15600401922261	-6.89815777910129
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1102	M9+galactose	-3.77868603358454	-6.23747224991051
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1098	M9+cellobiose	-2.84833712631763	-6.47431036703497
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1101	M9+galactose	-3.81113597417322	-6.2910373257422
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1115	Tuber-Atlantic	-2.45738200416755	-6.29504131000072
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1092	M9+polygalacturonate	-4.64282942788428	-6.31548319474656
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1118	Tuber-Atlantic	-2.25530151811313	-5.07828039306185
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1088	M9+glucose	-2.43917792032638	-5.74586204441151
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1094	M9+fructose	-2.01456915474532	-5.59495772454781
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1100	M9+galactose	-4.02664244525192	-6.09553567986562
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1104	M9+xylose	-3.1388240849975	-6.57007756418932
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1103	M9+xylose	-4.59967684743711	-6.25678420507718
+ECA_RS20230	ECA_RS20230	3-dehydroquinate synthase	set21TCH1110	M9+glycerol	-4.66725117982927	-7.06528987372364
+ECA_RS20435	ECA_RS20435	Fe-S biogenesis protein NfuA	set21TCH1093	M9+polygalacturonate	-2.40042998553579	-5.17418299684601
+ECA_RS20695	ECA_RS20695	class I adenylate cyclase	set21TCH1100	M9+galactose	-2.18385617057897	-7.16625669757471
+ECA_RS20785	ECA_RS20785	ECA oligosaccharide polymerase	set21TCH1099	M9+cellobiose	2.14808560944927	6.3044815287303
+ECA_RS20785	ECA_RS20785	ECA oligosaccharide polymerase	set21TCH1114	Tuber-Atlantic	-2.80631776568623	-5.39498675508344
+ECA_RS20785	ECA_RS20785	ECA oligosaccharide polymerase	set21TCH1119	Tuber-Atlantic	-2.95420329313794	-5.0915360444361
+ECA_RS20795	ECA_RS20795	lipid III flippase WzxE	set21TCH1115	Tuber-Atlantic	-2.80764686024761	-6.46065654293812
+ECA_RS20795	ECA_RS20795	lipid III flippase WzxE	set21TCH1116	Tuber-Atlantic	-2.52870370021128	-6.38974502450155
+ECA_RS20795	ECA_RS20795	lipid III flippase WzxE	set21TCH1117	Tuber-Atlantic	-2.7056545193395	-5.90490482317933
+ECA_RS20795	ECA_RS20795	lipid III flippase WzxE	set21TCH1119	Tuber-Atlantic	-3.51314574635054	-6.15216197864449
+ECA_RS20795	ECA_RS20795	lipid III flippase WzxE	set21TCH1088	M9+glucose	2.04227001758109	6.65607168737365
+ECA_RS20795	ECA_RS20795	lipid III flippase WzxE	set21TCH1114	Tuber-Atlantic	-3.27047507347342	-7.00512733575406
+ECA_RS20810	ECA_RS20810	dTDP-glucose 4,6-dehydratase	set21TCH1118	Tuber-Atlantic	-2.04230137537395	-6.34181180690766
+ECA_RS20810	ECA_RS20810	dTDP-glucose 4,6-dehydratase	set21TCH1102	M9+galactose	-3.0229507887385	-8.59586036232943
+ECA_RS20810	ECA_RS20810	dTDP-glucose 4,6-dehydratase	set21TCH1114	Tuber-Atlantic	-2.30131379935021	-9.88939085832585
+ECA_RS20810	ECA_RS20810	dTDP-glucose 4,6-dehydratase	set21TCH1101	M9+galactose	-3.21219840370661	-9.34322964602945
+ECA_RS20810	ECA_RS20810	dTDP-glucose 4,6-dehydratase	set21TCH1116	Tuber-Atlantic	-3.18691674548662	-9.72096519325289
+ECA_RS20810	ECA_RS20810	dTDP-glucose 4,6-dehydratase	set21TCH1092	M9+polygalacturonate	-4.22476442907365	-7.03127593901708
+ECA_RS20810	ECA_RS20810	dTDP-glucose 4,6-dehydratase	set21TCH1091	M9+polygalacturonate	-3.96083477487744	-8.40136058056222
+ECA_RS20810	ECA_RS20810	dTDP-glucose 4,6-dehydratase	set21TCH1115	Tuber-Atlantic	-3.13407209361817	-9.19809692920853
+ECA_RS20810	ECA_RS20810	dTDP-glucose 4,6-dehydratase	set21TCH1100	M9+galactose	-3.52109118853995	-8.1299401035586
+ECA_RS20810	ECA_RS20810	dTDP-glucose 4,6-dehydratase	set21TCH1089	M9+glucose	2.54107962387108	17.1905908910102
+ECA_RS20810	ECA_RS20810	dTDP-glucose 4,6-dehydratase	set21TCH1093	M9+polygalacturonate	-3.97303087604715	-7.58592220878823
+ECA_RS20810	ECA_RS20810	dTDP-glucose 4,6-dehydratase	set21TCH1117	Tuber-Atlantic	-3.32753831435179	-8.911765516866
+ECA_RS20850	ECA_RS20850	exopolyphosphatase	set21TCH1110	M9+glycerol	-2.17236373606483	-11.3514949114498
+ECA_RS20850	ECA_RS20850	exopolyphosphatase	set21TCH1109	M9+glycerol	-2.25593283614011	-11.488578337605
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1102	M9+galactose	-2.80666447996322	-8.79164146007285
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1118	Tuber-Atlantic	-2.21974923952838	-9.99671205670748
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1111	M9+glycerol	-2.56573292149184	-10.3385173459224
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1105	M9+xylose	-3.3436233323679	-11.1655851699714
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1116	Tuber-Atlantic	-2.2870875963684	-13.0112445607662
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1091	M9+polygalacturonate	-5.31190877035088	-8.86079583831602
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1098	M9+cellobiose	-2.20839587145397	-10.1338630673742
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1094	M9+fructose	-2.17294150324577	-10.1474532501888
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1088	M9+glucose	-2.76495162386875	-10.7851800081392
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1093	M9+polygalacturonate	-4.51319595514606	-10.4665764060257
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1106	M9+mannose	-4.05002570415285	-12.3758328342708
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1109	M9+glycerol	-4.28835190704273	-12.5610135008174
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1108	M9+mannose	-2.72394617669072	-11.7096355581586
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1092	M9+polygalacturonate	-4.4258755587399	-11.3804441573719
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1097	M9+cellobiose	-2.51967936566805	-11.2313714504564
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1100	M9+galactose	-3.14836252399645	-11.736972769521
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1110	M9+glycerol	-3.78960678539995	-13.2447341706229
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1104	M9+xylose	-2.77857504056809	-10.6615826305347
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1101	M9+galactose	-3.06686264529703	-11.9508693332741
+ECA_RS20885	ECA_RS20885	ketol-acid reductoisomerase	set21TCH1103	M9+xylose	-4.5229407181308	-11.2667270052285
+ECA_RS20905	ECA_RS20905	threonine ammonia-lyase, biosynthetic	set21TCH1109	M9+glycerol	-2.68243078269399	-12.55108779603
+ECA_RS20905	ECA_RS20905	threonine ammonia-lyase, biosynthetic	set21TCH1093	M9+polygalacturonate	-3.16276903124672	-12.3791025477283
+ECA_RS20905	ECA_RS20905	threonine ammonia-lyase, biosynthetic	set21TCH1105	M9+xylose	-2.70195551723527	-11.4479264133548
+ECA_RS20905	ECA_RS20905	threonine ammonia-lyase, biosynthetic	set21TCH1108	M9+mannose	-2.25960486792982	-13.0817299555383
+ECA_RS20905	ECA_RS20905	threonine ammonia-lyase, biosynthetic	set21TCH1088	M9+glucose	-2.06317197534946	-12.1726439468775
+ECA_RS20905	ECA_RS20905	threonine ammonia-lyase, biosynthetic	set21TCH1106	M9+mannose	-2.76018420065103	-14.5841124989362
+ECA_RS20905	ECA_RS20905	threonine ammonia-lyase, biosynthetic	set21TCH1101	M9+galactose	-2.64109618076529	-11.8706700986897
+ECA_RS20905	ECA_RS20905	threonine ammonia-lyase, biosynthetic	set21TCH1100	M9+galactose	-3.1828750541967	-13.4430113416089
+ECA_RS20905	ECA_RS20905	threonine ammonia-lyase, biosynthetic	set21TCH1097	M9+cellobiose	-2.39899972871828	-11.7807429267804
+ECA_RS20905	ECA_RS20905	threonine ammonia-lyase, biosynthetic	set21TCH1104	M9+xylose	-2.51262209239264	-13.2996415852076
+ECA_RS20905	ECA_RS20905	threonine ammonia-lyase, biosynthetic	set21TCH1111	M9+glycerol	-2.32135584632531	-12.4492950334458
+ECA_RS20905	ECA_RS20905	threonine ammonia-lyase, biosynthetic	set21TCH1102	M9+galactose	-2.39087824937963	-9.73715471616091
+ECA_RS20905	ECA_RS20905	threonine ammonia-lyase, biosynthetic	set21TCH1092	M9+polygalacturonate	-3.14304329595394	-12.0817321015505
+ECA_RS20905	ECA_RS20905	threonine ammonia-lyase, biosynthetic	set21TCH1110	M9+glycerol	-2.9044659085717	-13.0710901386654
+ECA_RS20905	ECA_RS20905	threonine ammonia-lyase, biosynthetic	set21TCH1091	M9+polygalacturonate	-3.15088119693778	-11.2095374314913
+ECA_RS20905	ECA_RS20905	threonine ammonia-lyase, biosynthetic	set21TCH1103	M9+xylose	-3.67447567680456	-15.4420733084745
+ECA_RS20910	ECA_RS20910	dihydroxy-acid dehydratase	set21TCH1105	M9+xylose	-2.99980335095965	-16.6430707607731
+ECA_RS20910	ECA_RS20910	dihydroxy-acid dehydratase	set21TCH1108	M9+mannose	-3.22598610785837	-18.9865633784481
+ECA_RS20910	ECA_RS20910	dihydroxy-acid dehydratase	set21TCH1088	M9+glucose	-2.27052714885513	-14.1945575244102
+ECA_RS20910	ECA_RS20910	dihydroxy-acid dehydratase	set21TCH1092	M9+polygalacturonate	-5.40115448507887	-17.9297633174222
+ECA_RS20910	ECA_RS20910	dihydroxy-acid dehydratase	set21TCH1102	M9+galactose	-2.64277515715346	-13.9373695171566
+ECA_RS20910	ECA_RS20910	dihydroxy-acid dehydratase	set21TCH1094	M9+fructose	-2.1832555574288	-14.096161864173
+ECA_RS20910	ECA_RS20910	dihydroxy-acid dehydratase	set21TCH1097	M9+cellobiose	-3.35909209635873	-18.849075852408
+ECA_RS20910	ECA_RS20910	dihydroxy-acid dehydratase	set21TCH1106	M9+mannose	-4.1541014044437	-22.2381154505776
+ECA_RS20910	ECA_RS20910	dihydroxy-acid dehydratase	set21TCH1103	M9+xylose	-4.2833693642103	-19.4825381013587
+ECA_RS20910	ECA_RS20910	dihydroxy-acid dehydratase	set21TCH1100	M9+galactose	-3.66622730721319	-19.2192758862952
+ECA_RS20910	ECA_RS20910	dihydroxy-acid dehydratase	set21TCH1110	M9+glycerol	-4.07123466204477	-22.2220418957994
+ECA_RS20910	ECA_RS20910	dihydroxy-acid dehydratase	set21TCH1104	M9+xylose	-2.79658628424105	-16.6396862222444
+ECA_RS20910	ECA_RS20910	dihydroxy-acid dehydratase	set21TCH1111	M9+glycerol	-3.01769626248418	-17.6367081312465
+ECA_RS20910	ECA_RS20910	dihydroxy-acid dehydratase	set21TCH1109	M9+glycerol	-4.00271938378088	-21.4277233766046
+ECA_RS20910	ECA_RS20910	dihydroxy-acid dehydratase	set21TCH1093	M9+polygalacturonate	-4.8121454634741	-19.4111149292245
+ECA_RS20910	ECA_RS20910	dihydroxy-acid dehydratase	set21TCH1098	M9+cellobiose	-2.41324082326627	-14.5122951198742
+ECA_RS20910	ECA_RS20910	dihydroxy-acid dehydratase	set21TCH1091	M9+polygalacturonate	-4.9058793709364	-19.3829452401885
+ECA_RS20910	ECA_RS20910	dihydroxy-acid dehydratase	set21TCH1101	M9+galactose	-3.63765369113949	-18.7370062455306
+ECA_RS20995	ECA_RS20995	glutamate racemase	set21TCH1115	Tuber-Atlantic	-3.46649001749678	-6.93822548902436
+ECA_RS21070	ECA_RS21070	cystathionine gamma-synthase	set21TCH1110	M9+glycerol	-3.63744606950256	-15.3263319081527
+ECA_RS21070	ECA_RS21070	cystathionine gamma-synthase	set21TCH1094	M9+fructose	-2.04939313574825	-10.8473772423642
+ECA_RS21070	ECA_RS21070	cystathionine gamma-synthase	set21TCH1100	M9+galactose	-2.67731291948724	-11.4112841006064
+ECA_RS21070	ECA_RS21070	cystathionine gamma-synthase	set21TCH1108	M9+mannose	-2.72703224928291	-12.9397476086799
+ECA_RS21070	ECA_RS21070	cystathionine gamma-synthase	set21TCH1093	M9+polygalacturonate	-4.80034267925132	-11.145819852691
+ECA_RS21070	ECA_RS21070	cystathionine gamma-synthase	set21TCH1092	M9+polygalacturonate	-4.16432792573913	-12.7515800069898
+ECA_RS21070	ECA_RS21070	cystathionine gamma-synthase	set21TCH1091	M9+polygalacturonate	-4.63654526419475	-12.6436383346339
+ECA_RS21070	ECA_RS21070	cystathionine gamma-synthase	set21TCH1103	M9+xylose	-3.84254473221755	-12.6619444117221
+ECA_RS21070	ECA_RS21070	cystathionine gamma-synthase	set21TCH1109	M9+glycerol	-3.42519584228158	-13.8006233089833
+ECA_RS21070	ECA_RS21070	cystathionine gamma-synthase	set21TCH1097	M9+cellobiose	-2.44474943313875	-12.1398975087779
+ECA_RS21070	ECA_RS21070	cystathionine gamma-synthase	set21TCH1111	M9+glycerol	-2.26208547904019	-10.3988817752973
+ECA_RS21070	ECA_RS21070	cystathionine gamma-synthase	set21TCH1101	M9+galactose	-2.69297170186019	-12.1396372427347
+ECA_RS21070	ECA_RS21070	cystathionine gamma-synthase	set21TCH1088	M9+glucose	-2.40800114893147	-11.4714045375245
+ECA_RS21070	ECA_RS21070	cystathionine gamma-synthase	set21TCH1105	M9+xylose	-2.69816091110605	-11.996396987198
+ECA_RS21070	ECA_RS21070	cystathionine gamma-synthase	set21TCH1106	M9+mannose	-3.43175115171338	-14.4596390358407
+ECA_RS21140	ECA_RS21140	MIP/aquaporin family protein	set21TCH1111	M9+glycerol	-2.58355347036477	-9.04127992536166
+ECA_RS21140	ECA_RS21140	MIP/aquaporin family protein	set21TCH1110	M9+glycerol	-4.66165520681124	-13.1667402601968
+ECA_RS21140	ECA_RS21140	MIP/aquaporin family protein	set21TCH1109	M9+glycerol	-3.43585511462078	-12.3695303154232
+ECA_RS21145	ECA_RS21145	glycerol kinase GlpK	set21TCH1109	M9+glycerol	-4.15848124914469	-15.2321849021688
+ECA_RS21145	ECA_RS21145	glycerol kinase GlpK	set21TCH1111	M9+glycerol	-3.25017043013588	-13.881195185378
+ECA_RS21145	ECA_RS21145	glycerol kinase GlpK	set21TCH1110	M9+glycerol	-3.91206508376044	-16.844594201702
+ECA_RS21580	ECA_RS21580	sugar kinase	set21TCH1092	M9+polygalacturonate	-4.76756986899903	-17.5282704455076
+ECA_RS21580	ECA_RS21580	sugar kinase	set21TCH1091	M9+polygalacturonate	-4.3467259849298	-18.0158492981494
+ECA_RS21580	ECA_RS21580	sugar kinase	set21TCH1093	M9+polygalacturonate	-4.35327868841986	-17.1707354162218

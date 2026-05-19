@@ -1,0 +1,42 @@
+Unknown media	M9+cellobiose	M9+fructose	M9+galactose	M9+glucose	M9+glycerol	M9+mannose	M9+polygalacturonate	M9+xylose	Tuber-Atlantic
+Check gene locations: success 4321 wrap 0 overlap-adjacent 0 failure 0
+Processing 42 experiments, 4321 genes, 2 sets for Pbr1692
+Warning! No field for set Pbr1692_set19 index TCH995 in results/Pbr1692/Pbr1692_set19.poolcount
+Processed all the poolcount files; writing html/Pbr1692/all.poolcount
+Wrote data for 185088 barcodes (144070 in genes) to html/Pbr1692/all.poolcount
+Wrote 41 experiments to html/Pbr1692/exps
+Running R: Rscript /local/workdir/tch54/2026-pectobacterium-RBTnSeq/fitness/feba/bin/RunFEBA.R Pbr1692 html/Pbr1692 /local/workdir/tch54/2026-pectobacterium-RBTnSeq/fitness/feba/bin/.. > html/Pbr1692/log
+Aggregating all over genes
+Aggregating Time0 totals
+Computing cofitness with  35  experiments
+Wrote  html/Pbr1692/fit_quality.tab 
+Wrote  html/Pbr1692/fit_genes.tab 
+Wrote  html/Pbr1692/fit_logratios_unnormalized.tab 
+Wrote  html/Pbr1692/fit_logratios_unnormalized_naive.tab 
+Wrote  html/Pbr1692/fit_logratios.tab 
+Wrote  html/Pbr1692/fit_logratios_half1.tab 
+Wrote  html/Pbr1692/fit_logratios_half2.tab 
+Wrote fitness for  35  successful experiments to  html/Pbr1692/fit_logratios_good.tab 
+Wrote  html/Pbr1692/gene_counts.tab 
+Wrote  html/Pbr1692/fit_t.tab 
+Wrote  html/Pbr1692/fit_standard_error_obs.tab 
+Wrote  html/Pbr1692/fit_standard_error_naive.tab 
+Wrote  html/Pbr1692/strain_fit.tab 
+Wrote  html/Pbr1692/fit_quality.pdf 
+Wrote  html/Pbr1692/cofitness.pdf 
+Wrote  html/Pbr1692/fit_quality_cor12.pdf 
+Wrote  html/Pbr1692/fit_cluster_logratios.pdf 
+Wrote  html/Pbr1692/fit_cluster_logcounts.pdf 
+Wrote  html/Pbr1692/fit_chr_bias.pdf 
+Wrote  html/Pbr1692/replicate_noise.pdf 
+Wrote  html/Pbr1692/expsUsed 
+Wrote  html/Pbr1692/cofit 
+Wrote  html/Pbr1692/specific_phenotypes 
+Wrote  html/Pbr1692/strong.tab 
+Wrote  html/Pbr1692/high_fitness.tab 
+Wrote  html/Pbr1692/polar_effects.tab 
+Wrote  html/Pbr1692/fit2026May05.image 
+Created link for  html/Pbr1692/fit.image 
+Wrote  html/Pbr1692/poolcount.image 
+Wrote  html/Pbr1692/index.html 
+Success for Pbr1692, please visit html/Pbr1692/index.html

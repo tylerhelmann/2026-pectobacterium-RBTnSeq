@@ -1,0 +1,41 @@
+Unknown media	M9+cellobiose	M9+fructose	M9+galactose	M9+glucose	M9+glycerol	M9+mannose	M9+myo-inositol	M9+polygalacturonate	M9+xylose	Tuber-Atlantic
+Check gene locations: success 4287 wrap 0 overlap-adjacent 0 failure 0
+Processing 45 experiments, 4287 genes, 2 sets for Pbr123
+Processed all the poolcount files; writing html/Pbr123/all.poolcount
+Wrote data for 388677 barcodes (302161 in genes) to html/Pbr123/all.poolcount
+Wrote 45 experiments to html/Pbr123/exps
+Running R: Rscript /local/workdir/tch54/2026-pectobacterium-RBTnSeq/fitness/feba/bin/RunFEBA.R Pbr123 html/Pbr123 /local/workdir/tch54/2026-pectobacterium-RBTnSeq/fitness/feba/bin/.. > html/Pbr123/log
+Aggregating all over genes
+Aggregating Time0 totals
+Computing cofitness with  40  experiments
+Wrote  html/Pbr123/fit_quality.tab 
+Wrote  html/Pbr123/fit_genes.tab 
+Wrote  html/Pbr123/fit_logratios_unnormalized.tab 
+Wrote  html/Pbr123/fit_logratios_unnormalized_naive.tab 
+Wrote  html/Pbr123/fit_logratios.tab 
+Wrote  html/Pbr123/fit_logratios_half1.tab 
+Wrote  html/Pbr123/fit_logratios_half2.tab 
+Wrote fitness for  40  successful experiments to  html/Pbr123/fit_logratios_good.tab 
+Wrote  html/Pbr123/gene_counts.tab 
+Wrote  html/Pbr123/fit_t.tab 
+Wrote  html/Pbr123/fit_standard_error_obs.tab 
+Wrote  html/Pbr123/fit_standard_error_naive.tab 
+Wrote  html/Pbr123/strain_fit.tab 
+Wrote  html/Pbr123/fit_quality.pdf 
+Wrote  html/Pbr123/cofitness.pdf 
+Wrote  html/Pbr123/fit_quality_cor12.pdf 
+Wrote  html/Pbr123/fit_cluster_logratios.pdf 
+Wrote  html/Pbr123/fit_cluster_logcounts.pdf 
+Wrote  html/Pbr123/fit_chr_bias.pdf 
+Wrote  html/Pbr123/replicate_noise.pdf 
+Wrote  html/Pbr123/expsUsed 
+Wrote  html/Pbr123/cofit 
+Wrote  html/Pbr123/specific_phenotypes 
+Wrote  html/Pbr123/strong.tab 
+Wrote  html/Pbr123/high_fitness.tab 
+Wrote  html/Pbr123/polar_effects.tab 
+Wrote  html/Pbr123/fit2026May05.image 
+Created link for  html/Pbr123/fit.image 
+Wrote  html/Pbr123/poolcount.image 
+Wrote  html/Pbr123/index.html 
+Success for Pbr123, please visit html/Pbr123/index.html
