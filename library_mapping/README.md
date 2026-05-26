@@ -108,7 +108,7 @@ Pat1043| 240,722
 Pbr123| 388,212
 Pbr1692| 185,037
 PcWPP14| 284,613
-Ppa1722A | 583,310
+Ppa1722A | 586,547
 Pve1715C| 511,350
 
 #### Essential gene prediction
@@ -155,7 +155,7 @@ Note minimum gene length:
 - Pbr123: Chose length  125 minimum fp rate 0.01432493 
 - Pbr1692: Chose length  225 minimum fp rate 0.01421111 
 - PcWPP14: Chose length  175 minimum fp rate 0.01292093 
-- Ppa1722A: Chose length  125 minimum fp rate 0.01247826 
+- Ppa1722A: Chose length  100 minimum fp rate 0.00255386 
 - Pve1715C: Chose length  100 minimum fp rate 0.002569061 
 
 Save results into library_mapping/ess/ 
@@ -170,7 +170,7 @@ Pat1043|315|3985
 Pbr123|332|3764
 Pbr1692|357|3738
 PcWPP14|342|3732
-Ppa1722A|399|4041
+Ppa1722A|399|3985
 Pve1715C|327|4255
 
 

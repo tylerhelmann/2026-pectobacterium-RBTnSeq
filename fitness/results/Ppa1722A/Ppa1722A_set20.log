@@ -1,6 +1,6 @@
-Pool inputs/Ppa1722A.pool entries 583.4K saw 11448.5K lines ignored 23712.2K lines from 29 files
+Pool inputs/Ppa1722A.pool entries 586.6K saw 11503.7K lines ignored 23657.0K lines from 29 files
   Indexes 29 Success 29 LowCount 0 LowFraction 0 Total Reads (millions): 104.684 
-  Median Fraction (LowCount Excluded) 0.558 Median for Success 0.558
+  Median Fraction (LowCount Excluded) 0.566 Median for Success 0.566
   Success TCH1054:TCH1082
   Wrote 29 successful samples to results/Ppa1722A/Ppa1722A_set20.poolcount
   Wrote results/Ppa1722A/Ppa1722A_set20.colsum

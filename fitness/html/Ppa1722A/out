@@ -1,13 +1,13 @@
 Unknown media	M9+cellobiose	M9+fructose	M9+galactose	M9+glucose	M9+glycerol	M9+mannose	M9+polygalacturonate	M9+xylose	Tuber-Atlantic
-Check gene locations: success 4672 wrap 0 overlap-adjacent 1 failure 0
-Processing 40 experiments, 4673 genes, 2 sets for Ppa1722A
+Check gene locations: success 4716 wrap 0 overlap-adjacent 0 failure 0
+Processing 40 experiments, 4716 genes, 2 sets for Ppa1722A
 Processed all the poolcount files; writing html/Ppa1722A/all.poolcount
-Wrote data for 583350 barcodes (445670 in genes) to html/Ppa1722A/all.poolcount
+Wrote data for 586587 barcodes (454906 in genes) to html/Ppa1722A/all.poolcount
 Wrote 40 experiments to html/Ppa1722A/exps
 Running R: Rscript /local/workdir/tch54/2026-pectobacterium-RBTnSeq/fitness/feba/bin/RunFEBA.R Ppa1722A html/Ppa1722A /local/workdir/tch54/2026-pectobacterium-RBTnSeq/fitness/feba/bin/.. > html/Ppa1722A/log
 Aggregating all over genes
 Aggregating Time0 totals
-Computing cofitness with  30  experiments
+Computing cofitness with  31  experiments
 Wrote  html/Ppa1722A/fit_quality.tab 
 Wrote  html/Ppa1722A/fit_genes.tab 
 Wrote  html/Ppa1722A/fit_logratios_unnormalized.tab 
@@ -15,7 +15,7 @@ Wrote  html/Ppa1722A/fit_logratios_unnormalized_naive.tab
 Wrote  html/Ppa1722A/fit_logratios.tab 
 Wrote  html/Ppa1722A/fit_logratios_half1.tab 
 Wrote  html/Ppa1722A/fit_logratios_half2.tab 
-Wrote fitness for  30  successful experiments to  html/Ppa1722A/fit_logratios_good.tab 
+Wrote fitness for  31  successful experiments to  html/Ppa1722A/fit_logratios_good.tab 
 Wrote  html/Ppa1722A/gene_counts.tab 
 Wrote  html/Ppa1722A/fit_t.tab 
 Wrote  html/Ppa1722A/fit_standard_error_obs.tab 
@@ -34,7 +34,7 @@ Wrote  html/Ppa1722A/specific_phenotypes
 Wrote  html/Ppa1722A/strong.tab 
 Wrote  html/Ppa1722A/high_fitness.tab 
 Wrote  html/Ppa1722A/polar_effects.tab 
-Wrote  html/Ppa1722A/fit2026May05.image 
+Wrote  html/Ppa1722A/fit2026May26.image 
 Created link for  html/Ppa1722A/fit.image 
 Wrote  html/Ppa1722A/poolcount.image 
 Wrote  html/Ppa1722A/index.html 
