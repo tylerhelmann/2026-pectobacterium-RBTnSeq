@@ -109,7 +109,7 @@ Pbr123| 388,212
 Pbr1692| 185,037
 PcWPP14| 284,613
 Ppa1722A | 586,547
-Pve1715C| 511,350
+Pve1715C| 511,292
 
 #### Essential gene prediction
 
@@ -150,13 +150,13 @@ q()
 
 Note minimum gene length:
 
-- Par6119: Chose length  150 minimum fp rate 0.01791984 
-- Pat1043: Chose length  175 minimum fp rate 0.01505863 
-- Pbr123: Chose length  125 minimum fp rate 0.01432493 
+- Par6119: Chose length  150 minimum fp rate 0.01799148
+- Pat1043: Chose length  175 minimum fp rate 0.01505863
+- Pbr123: Chose length  125 minimum fp rate 0.01420368 
 - Pbr1692: Chose length  225 minimum fp rate 0.01421111 
-- PcWPP14: Chose length  175 minimum fp rate 0.01292093 
-- Ppa1722A: Chose length  100 minimum fp rate 0.00255386 
-- Pve1715C: Chose length  100 minimum fp rate 0.002569061 
+- PcWPP14: Chose length  175 minimum fp rate 0.01292093
+- Ppa1722A: Chose length  125 minimum fp rate 0.0123689 
+- Pve1715C: Chose length  100 minimum fp rate 0.00255386
 
 Save results into library_mapping/ess/ 
 
@@ -165,13 +165,13 @@ Save results into library_mapping/ess/
 
 Strain | Essential | Not (or too short)
 ---|---|---
-Par6119|376|3841
+Par6119|376|3870
 Pat1043|315|3985
-Pbr123|332|3764
+Pbr123|332|3771
 Pbr1692|357|3738
 PcWPP14|342|3732
-Ppa1722A|399|3985
-Pve1715C|327|4255
+Ppa1722A|399|3987
+Pve1715C|329|4166
 
 
 

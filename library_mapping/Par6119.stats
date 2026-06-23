@@ -19,13 +19,13 @@ Masked 1431 off-by-1 barcodes (19756 reads) leaving 359157 barcodes
 Reads for those barcodes: 24858985 of 26937812 (92.3%)
 Chao2 estimate of #barcodes present (may be inflated for sequencing error): 3051692
 359157 insertions in genome are at 166111 different locations
-Found 223192 insertions (108603 distinct locations) in central 10-90% of genes
-Found central insertions for 3898 of 4256 protein-coding genes
-Hit rate in (crude) likely essentials: 0.30 other 0.91
+Found 224434 insertions (109094 distinct locations) in central 10-90% of genes
+Found central insertions for 3931 of 4293 protein-coding genes
+Hit rate in (crude) likely essentials: 0.33 other 0.91
 Wrote proteins of 300nt or more with no good insertions to Par6119_data/Par6119.pool.unhit
-Wrote 25 genes with surprising insertions in central 10-90% to Par6119_data/Par6119.pool.surprise
+Wrote 28 genes with surprising insertions in central 10-90% to Par6119_data/Par6119.pool.surprise
 Wrote read and strain counts for hit genes to Par6119_data/Par6119.pool.hit
-Strains per hit protein: median 26 mean 56.1
+Strains per hit protein: median 26 mean 56.5
 Gene and transposon on same strand: 50.1%
-Reads per hit protein: median 1924 mean 3881.2 bias (ratio) 2.02
-Reads per million for hit proteins: median 71.41 mean 144.08
+Reads per hit protein: median 1918 mean 3881.4 bias (ratio) 2.02
+Reads per million for hit proteins: median 71.22 mean 144.09
