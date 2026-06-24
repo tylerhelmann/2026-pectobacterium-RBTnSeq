@@ -1,11 +1,11 @@
-Read 4716 genes, 40 exps, and data for 586587 barcodes
+Read 4718 genes, 40 exps, and data for 586587 barcodes
 Central Reads per t0set, in millions:
 4/14/2026 Ppa1722A_set21 8/18/2025 Ppa1722A_set20 
                      3.0                      2.6 
-Time0 reads per gene: mean 635.4 median 220.0 ratio 2.89
+Time0 reads per gene: mean 635.2 median 220.0 ratio 2.89
 Genes with enough Time0 reads:  3856 
-Using  219524  of  356142  genic strains
-Using  3856  of  4263  genes with data
+Using  219546  of  356192  genic strains
+Using  3856  of  4265  genes with data
 For cor12, using  3372 genes
 status
 low_cor12 low_count        OK     Time0 

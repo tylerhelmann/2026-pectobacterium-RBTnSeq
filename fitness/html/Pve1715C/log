@@ -1,12 +1,12 @@
-Read 4791 genes, 48 exps, and data for 512027 barcodes
+Read 4749 genes, 48 exps, and data for 511969 barcodes
 Central Reads per t0set, in millions:
 11/21/2024 Pve1715C_set17  4/14/2026 Pve1715C_set21   4/2/2025 Pve1715C_set19 
                       1.2                       3.2                       1.7 
-Time0 reads per gene: mean 437.9 median 269.7 ratio 1.62
-Genes with enough Time0 reads:  3958 
-Using  183483  of  302820  genic strains
-Using  3958  of  4379  genes with data
-For cor12, using  3087 genes
+Time0 reads per gene: mean 441.9 median 273.3 ratio 1.62
+Genes with enough Time0 reads:  3944 
+Using  183537  of  302954  genic strains
+Using  3944  of  4346  genes with data
+For cor12, using  3073 genes
 Skipping log ratios for  set17TCH810  which has no control counts
 status
 high_mad12         OK      Time0 
@@ -20,10 +20,10 @@ Presence of used genic strains in successful experimental samples:
 0.644 0.851 0.867 0.873 0.944 
 Presence of non-genic strains with enough t0 reads in individual Time0 samples:
    0%   25%   50%   75%  100% 
-0.888 0.892 0.939 0.984 0.985 
+0.889 0.892 0.939 0.984 0.985 
 Presence of non-genic strains with enough t0 reads in successful experimental samples:
    0%   25%   50%   75%  100% 
-0.652 0.857 0.873 0.884 0.951 
+0.652 0.857 0.873 0.883 0.951 
 Replicate count comparison for 4/14/2026 Pve1715C_set21 
  set21TCH1139 vs. set21TCH1140 
 Median sum for used strains (vertical line): 10 

@@ -1,10 +1,10 @@
 Unknown media	M9+cellobiose	M9+fructose	M9+galactose	M9+glucose	M9+glycerol	M9+mannose	M9+polygalacturonate	M9+xylose	Tuber-Atlantic
-Check gene locations: success 4791 wrap 0 overlap-adjacent 0 failure 0
-Processing 50 experiments, 4791 genes, 3 sets for Pve1715C
-Warning! No field for set Pve1715C_set21 index TCH1142 in results/Pve1715C/Pve1715C_set21.poolcount
+Check gene locations: success 4749 wrap 0 overlap-adjacent 0 failure 0
+Processing 50 experiments, 4749 genes, 3 sets for Pve1715C
 Warning! No field for set Pve1715C_set17 index TCH811 in results/Pve1715C/Pve1715C_set17.poolcount
+Warning! No field for set Pve1715C_set21 index TCH1142 in results/Pve1715C/Pve1715C_set21.poolcount
 Processed all the poolcount files; writing html/Pve1715C/all.poolcount
-Wrote data for 512027 barcodes (397145 in genes) to html/Pve1715C/all.poolcount
+Wrote data for 511969 barcodes (397363 in genes) to html/Pve1715C/all.poolcount
 Wrote 48 experiments to html/Pve1715C/exps
 Running R: Rscript /local/workdir/tch54/2026-pectobacterium-RBTnSeq/fitness/feba/bin/RunFEBA.R Pve1715C html/Pve1715C /local/workdir/tch54/2026-pectobacterium-RBTnSeq/fitness/feba/bin/.. > html/Pve1715C/log
 Aggregating all over genes
@@ -36,7 +36,7 @@ Wrote  html/Pve1715C/specific_phenotypes
 Wrote  html/Pve1715C/strong.tab 
 Wrote  html/Pve1715C/high_fitness.tab 
 Wrote  html/Pve1715C/polar_effects.tab 
-Wrote  html/Pve1715C/fit2026May05.image 
+Wrote  html/Pve1715C/fit2026Jun24.image 
 Created link for  html/Pve1715C/fit.image 
 Wrote  html/Pve1715C/poolcount.image 
 Wrote  html/Pve1715C/index.html 

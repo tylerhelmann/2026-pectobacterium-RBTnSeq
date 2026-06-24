@@ -1,4 +1,4 @@
-Pool inputs/Pve1715C.pool entries 512.0K saw 3596.2K lines ignored 4269.3K lines from 13 files
+Pool inputs/Pve1715C.pool entries 512.0K saw 3595.7K lines ignored 4269.8K lines from 13 files
   Indexes 13 Success 13 LowCount 0 LowFraction 0 Total Reads (millions): 30.236 
   Median Fraction (LowCount Excluded) 0.630 Median for Success 0.630
   Success TCH1002:TCH1014

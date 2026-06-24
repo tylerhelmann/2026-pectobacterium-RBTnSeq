@@ -1,725 +1,725 @@
 locusId	sysName	desc	name	short	lrn	t
-pgaptmp_000080	pgaptmp_000080	2-dehydro-3-deoxygluconokinase	set20TCH1063	M9+polygalacturonate	-2.53076421754628	-5.99179803028107
-pgaptmp_000080	pgaptmp_000080	2-dehydro-3-deoxygluconokinase	set20TCH1062	M9+polygalacturonate	-3.36175571255121	-5.98379229064977
-pgaptmp_000080	pgaptmp_000080	2-dehydro-3-deoxygluconokinase	set20TCH1064	M9+polygalacturonate	-2.7124313377078	-6.19444935932258
-pgaptmp_000095	pgaptmp_000095	aspartate 1-decarboxylase autocleavage activator PanM	set20TCH1063	M9+polygalacturonate	-2.20781772104084	-5.54745757221792
-pgaptmp_000168	pgaptmp_000168	glycerol kinase GlpK	set20TCH1082	M9+glycerol	-3.0243798664643	-5.00447910396148
-pgaptmp_000168	pgaptmp_000168	glycerol kinase GlpK	set20TCH1081	M9+glycerol	-3.15980998769632	-5.22857701549299
-pgaptmp_000168	pgaptmp_000168	glycerol kinase GlpK	set20TCH1080	M9+glycerol	-2.66976193517252	-5.34392163221038
-pgaptmp_000183	pgaptmp_000183	cystathionine gamma-synthase	set20TCH1059	M9+glucose	-2.33337888972316	-6.41861557348456
-pgaptmp_000183	pgaptmp_000183	cystathionine gamma-synthase	set20TCH1071	M9+galactose	-2.93771514789025	-5.58481005330192
-pgaptmp_000183	pgaptmp_000183	cystathionine gamma-synthase	set20TCH1082	M9+glycerol	-2.1881984423063	-6.68892488185062
-pgaptmp_000183	pgaptmp_000183	cystathionine gamma-synthase	set20TCH1073	M9+galactose	-2.93087057626799	-6.46155792577517
-pgaptmp_000183	pgaptmp_000183	cystathionine gamma-synthase	set20TCH1076	M9+xylose	-3.30280378924777	-5.47871440677631
-pgaptmp_000183	pgaptmp_000183	cystathionine gamma-synthase	set20TCH1062	M9+polygalacturonate	-3.15717776100128	-5.63545400475553
-pgaptmp_000183	pgaptmp_000183	cystathionine gamma-synthase	set20TCH1064	M9+polygalacturonate	-3.43232603228187	-5.69356682435529
-pgaptmp_000183	pgaptmp_000183	cystathionine gamma-synthase	set20TCH1077	M9+mannose	-2.17524839201209	-6.39675259324474
-pgaptmp_000183	pgaptmp_000183	cystathionine gamma-synthase	set20TCH1075	M9+xylose	-2.58591286818991	-6.56224575572195
-pgaptmp_000183	pgaptmp_000183	cystathionine gamma-synthase	set20TCH1063	M9+polygalacturonate	-3.35607623962441	-5.10139512450238
-pgaptmp_000183	pgaptmp_000183	cystathionine gamma-synthase	set20TCH1081	M9+glycerol	-2.69246202308173	-6.6244924378223
-pgaptmp_000183	pgaptmp_000183	cystathionine gamma-synthase	set20TCH1074	M9+xylose	-3.10856367757684	-6.24481721749794
-pgaptmp_000183	pgaptmp_000183	cystathionine gamma-synthase	set20TCH1070	M9+cellobiose	-2.29555381961282	-6.15808228453794
-pgaptmp_000183	pgaptmp_000183	cystathionine gamma-synthase	set20TCH1072	M9+galactose	-2.32412424066213	-6.06983945656841
-pgaptmp_000216	pgaptmp_000216	2-iminoacetate synthase ThiH	set20TCH1064	M9+polygalacturonate	-2.68215989417638	-6.56080872706433
-pgaptmp_000216	pgaptmp_000216	2-iminoacetate synthase ThiH	set20TCH1063	M9+polygalacturonate	-2.22024335842567	-6.47508634619051
-pgaptmp_000216	pgaptmp_000216	2-iminoacetate synthase ThiH	set20TCH1062	M9+polygalacturonate	-2.41536908816071	-6.09159877662112
-pgaptmp_000219	pgaptmp_000219	HesA/MoeB/ThiF family protein	set20TCH1064	M9+polygalacturonate	-3.0117163774354	-5.66502137921306
-pgaptmp_000219	pgaptmp_000219	HesA/MoeB/ThiF family protein	set20TCH1063	M9+polygalacturonate	-2.65576510990022	-6.00012889779078
-pgaptmp_000221	pgaptmp_000221	phosphomethylpyrimidine synthase ThiC	set20TCH1063	M9+polygalacturonate	-3.13706898835775	-7.22084537332754
-pgaptmp_000221	pgaptmp_000221	phosphomethylpyrimidine synthase ThiC	set20TCH1064	M9+polygalacturonate	-3.18679095674156	-6.07181607425662
-pgaptmp_000221	pgaptmp_000221	phosphomethylpyrimidine synthase ThiC	set20TCH1062	M9+polygalacturonate	-2.72559532603143	-7.71402949583445
-pgaptmp_000229	pgaptmp_000229	phosphoribosylamine--glycine ligase	set20TCH1082	M9+glycerol	-2.45172097276791	-5.8013554579399
-pgaptmp_000229	pgaptmp_000229	phosphoribosylamine--glycine ligase	set20TCH1059	M9+glucose	-2.04702820229896	-5.58940695371791
-pgaptmp_000229	pgaptmp_000229	phosphoribosylamine--glycine ligase	set20TCH1071	M9+galactose	-2.76475736815328	-5.23738666129896
-pgaptmp_000229	pgaptmp_000229	phosphoribosylamine--glycine ligase	set20TCH1073	M9+galactose	-3.23657106588789	-5.3543491999445
-pgaptmp_000229	pgaptmp_000229	phosphoribosylamine--glycine ligase	set20TCH1072	M9+galactose	-2.93060231694741	-5.55155315296414
-pgaptmp_000229	pgaptmp_000229	phosphoribosylamine--glycine ligase	set20TCH1064	M9+polygalacturonate	-2.99792588241626	-5.67908678316229
-pgaptmp_000229	pgaptmp_000229	phosphoribosylamine--glycine ligase	set21TCH1125	Tuber-Atlantic	-3.33789938419854	-7.01098436150378
-pgaptmp_000229	pgaptmp_000229	phosphoribosylamine--glycine ligase	set20TCH1081	M9+glycerol	-2.66301986649855	-6.07838906490847
-pgaptmp_000229	pgaptmp_000229	phosphoribosylamine--glycine ligase	set21TCH1129	Tuber-Atlantic	-2.27825327498069	-6.53862047349791
-pgaptmp_000229	pgaptmp_000229	phosphoribosylamine--glycine ligase	set21TCH1130	Tuber-Atlantic	-2.45501617898059	-6.36827665665857
-pgaptmp_000229	pgaptmp_000229	phosphoribosylamine--glycine ligase	set20TCH1080	M9+glycerol	-2.61455446532705	-5.49207940522855
-pgaptmp_000229	pgaptmp_000229	phosphoribosylamine--glycine ligase	set20TCH1075	M9+xylose	-2.853126802901	-6.26024876770578
-pgaptmp_000229	pgaptmp_000229	phosphoribosylamine--glycine ligase	set20TCH1074	M9+xylose	-2.48896906552444	-6.63009177773487
-pgaptmp_000229	pgaptmp_000229	phosphoribosylamine--glycine ligase	set20TCH1062	M9+polygalacturonate	-3.06840856892448	-5.81260485835498
-pgaptmp_000229	pgaptmp_000229	phosphoribosylamine--glycine ligase	set21TCH1126	Tuber-Atlantic	-2.96609072441896	-7.01779273173083
-pgaptmp_000229	pgaptmp_000229	phosphoribosylamine--glycine ligase	set20TCH1076	M9+xylose	-2.91304448789542	-6.11908141545781
-pgaptmp_000230	pgaptmp_000230	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1125	Tuber-Atlantic	-3.26271404961875	-6.86888938832752
-pgaptmp_000230	pgaptmp_000230	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1126	Tuber-Atlantic	-2.86810858487993	-7.25592365846127
-pgaptmp_000230	pgaptmp_000230	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1081	M9+glycerol	-2.81365264728124	-5.33942143806419
-pgaptmp_000230	pgaptmp_000230	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1082	M9+glycerol	-2.87119870044245	-5.7564928804409
-pgaptmp_000230	pgaptmp_000230	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1077	M9+mannose	-2.37335331730844	-6.00374102204109
-pgaptmp_000230	pgaptmp_000230	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1076	M9+xylose	-2.5768154937041	-6.32105821484682
-pgaptmp_000230	pgaptmp_000230	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1129	Tuber-Atlantic	-2.74287941209404	-6.27718136480744
-pgaptmp_000230	pgaptmp_000230	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1075	M9+xylose	-2.91508322539473	-6.41135626688467
-pgaptmp_000230	pgaptmp_000230	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1072	M9+galactose	-2.76141683032624	-5.24029440432967
-pgaptmp_000230	pgaptmp_000230	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1073	M9+galactose	-2.83353919682058	-6.23201050616282
-pgaptmp_000230	pgaptmp_000230	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1127	Tuber-Atlantic	-2.38201713362127	-7.62701172284097
-pgaptmp_000230	pgaptmp_000230	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1130	Tuber-Atlantic	-2.90360939943565	-6.11287764980878
-pgaptmp_000230	pgaptmp_000230	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1062	M9+polygalacturonate	-3.14650742004884	-5.60757719395421
-pgaptmp_000230	pgaptmp_000230	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1063	M9+polygalacturonate	-3.21742659901997	-5.32984060652372
-pgaptmp_000230	pgaptmp_000230	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1128	Tuber-Atlantic	-2.74509300579748	-6.51395965796331
-pgaptmp_000230	pgaptmp_000230	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1074	M9+xylose	-2.72886689629951	-6.00179704121992
-pgaptmp_000266	pgaptmp_000266	RNase E specificity factor CsrD	set20TCH1067	M9+fructose	2.01288994218393	13.9702600502532
-pgaptmp_000299	pgaptmp_000299	outer membrane-stress sensor serine endopeptidase DegS	set20TCH1074	M9+xylose	-2.75717804122794	-5.17498853678845
-pgaptmp_000299	pgaptmp_000299	outer membrane-stress sensor serine endopeptidase DegS	set20TCH1066	M9+fructose	-2.47002696897848	-5.35309701882706
-pgaptmp_000299	pgaptmp_000299	outer membrane-stress sensor serine endopeptidase DegS	set20TCH1076	M9+xylose	-2.60014848684214	-5.85612148604278
-pgaptmp_000299	pgaptmp_000299	outer membrane-stress sensor serine endopeptidase DegS	set20TCH1059	M9+glucose	-2.76062914786062	-5.18146597023535
-pgaptmp_000299	pgaptmp_000299	outer membrane-stress sensor serine endopeptidase DegS	set20TCH1075	M9+xylose	-2.6605435493741	-5.76598876104747
-pgaptmp_000299	pgaptmp_000299	outer membrane-stress sensor serine endopeptidase DegS	set20TCH1067	M9+fructose	-2.24986522518801	-5.06720448951185
-pgaptmp_000299	pgaptmp_000299	outer membrane-stress sensor serine endopeptidase DegS	set20TCH1073	M9+galactose	-2.31104210858713	-5.39059680881736
-pgaptmp_000349	pgaptmp_000349	hypothetical protein	set21TCH1125	Tuber-Atlantic	-3.80373819971496	-6.78113879403643
-pgaptmp_000349	pgaptmp_000349	hypothetical protein	set21TCH1126	Tuber-Atlantic	-2.5398072814295	-8.26677191914263
-pgaptmp_000349	pgaptmp_000349	hypothetical protein	set21TCH1128	Tuber-Atlantic	-2.96199721473486	-7.49786262994194
-pgaptmp_000349	pgaptmp_000349	hypothetical protein	set21TCH1127	Tuber-Atlantic	-3.05145004853705	-8.1630283662397
-pgaptmp_000349	pgaptmp_000349	hypothetical protein	set21TCH1129	Tuber-Atlantic	-2.1661348705512	-7.26498373885089
-pgaptmp_000377	pgaptmp_000377	cystathionine beta-lyase	set20TCH1080	M9+glycerol	-2.87496635360568	-7.14062371999097
-pgaptmp_000377	pgaptmp_000377	cystathionine beta-lyase	set20TCH1082	M9+glycerol	-2.40186024979705	-9.09848956959948
-pgaptmp_000377	pgaptmp_000377	cystathionine beta-lyase	set20TCH1074	M9+xylose	-2.64259551666713	-9.78723725209437
-pgaptmp_000377	pgaptmp_000377	cystathionine beta-lyase	set20TCH1064	M9+polygalacturonate	-3.42560860803023	-6.54900242322467
-pgaptmp_000377	pgaptmp_000377	cystathionine beta-lyase	set20TCH1075	M9+xylose	-2.61382872746076	-10.0083193788578
-pgaptmp_000377	pgaptmp_000377	cystathionine beta-lyase	set20TCH1072	M9+galactose	-2.19297621360349	-8.21561814457448
-pgaptmp_000377	pgaptmp_000377	cystathionine beta-lyase	set20TCH1062	M9+polygalacturonate	-3.46387346640402	-6.21355803902257
-pgaptmp_000377	pgaptmp_000377	cystathionine beta-lyase	set20TCH1073	M9+galactose	-2.28464980450416	-9.10291245074196
-pgaptmp_000377	pgaptmp_000377	cystathionine beta-lyase	set20TCH1076	M9+xylose	-2.5139723527608	-9.08890666103533
-pgaptmp_000377	pgaptmp_000377	cystathionine beta-lyase	set20TCH1081	M9+glycerol	-2.53740523674588	-9.5059638010816
-pgaptmp_000377	pgaptmp_000377	cystathionine beta-lyase	set20TCH1071	M9+galactose	-2.58893377617746	-7.87633291983524
-pgaptmp_000377	pgaptmp_000377	cystathionine beta-lyase	set20TCH1063	M9+polygalacturonate	-3.75441885189132	-5.13881349209333
-pgaptmp_000413	pgaptmp_000413	aspartate carbamoyltransferase	set21TCH1125	Tuber-Atlantic	-2.74481335567584	-7.655378315966
-pgaptmp_000413	pgaptmp_000413	aspartate carbamoyltransferase	set20TCH1072	M9+galactose	-2.77325914325934	-5.25283294338069
-pgaptmp_000413	pgaptmp_000413	aspartate carbamoyltransferase	set20TCH1080	M9+glycerol	-2.53956225804564	-5.57129681931835
-pgaptmp_000413	pgaptmp_000413	aspartate carbamoyltransferase	set21TCH1126	Tuber-Atlantic	-2.74408917467416	-7.47839087130443
-pgaptmp_000413	pgaptmp_000413	aspartate carbamoyltransferase	set20TCH1074	M9+xylose	-3.31159174984674	-5.89195491317191
-pgaptmp_000413	pgaptmp_000413	aspartate carbamoyltransferase	set20TCH1075	M9+xylose	-3.05704055014522	-6.4205662221849
-pgaptmp_000413	pgaptmp_000413	aspartate carbamoyltransferase	set20TCH1064	M9+polygalacturonate	-3.3464257638339	-5.53555525590411
-pgaptmp_000413	pgaptmp_000413	aspartate carbamoyltransferase	set21TCH1127	Tuber-Atlantic	-2.15421638241381	-7.14974263578226
-pgaptmp_000413	pgaptmp_000413	aspartate carbamoyltransferase	set20TCH1073	M9+galactose	-3.03171531137748	-6.06551115195919
-pgaptmp_000413	pgaptmp_000413	aspartate carbamoyltransferase	set20TCH1081	M9+glycerol	-2.5949440182898	-6.34548807808526
-pgaptmp_000413	pgaptmp_000413	aspartate carbamoyltransferase	set20TCH1062	M9+polygalacturonate	-3.00525591020045	-6.01257419171389
-pgaptmp_000413	pgaptmp_000413	aspartate carbamoyltransferase	set20TCH1071	M9+galactose	-2.31959697101805	-5.48764453639001
-pgaptmp_000413	pgaptmp_000413	aspartate carbamoyltransferase	set21TCH1129	Tuber-Atlantic	-2.2816385214416	-6.76898251405648
-pgaptmp_000417	pgaptmp_000417	ornithine carbamoyltransferase	set20TCH1077	M9+mannose	-2.39228140024639	-6.87312520059504
-pgaptmp_000417	pgaptmp_000417	ornithine carbamoyltransferase	set20TCH1075	M9+xylose	-2.98814824246665	-6.84579652857593
-pgaptmp_000417	pgaptmp_000417	ornithine carbamoyltransferase	set20TCH1064	M9+polygalacturonate	-3.35185079537074	-6.36573307169562
-pgaptmp_000417	pgaptmp_000417	ornithine carbamoyltransferase	set20TCH1072	M9+galactose	-2.81158908340896	-6.44130251419342
-pgaptmp_000417	pgaptmp_000417	ornithine carbamoyltransferase	set20TCH1074	M9+xylose	-3.25970306500688	-6.19072890520078
-pgaptmp_000417	pgaptmp_000417	ornithine carbamoyltransferase	set20TCH1080	M9+glycerol	-2.9668737018127	-5.29109329470772
-pgaptmp_000417	pgaptmp_000417	ornithine carbamoyltransferase	set20TCH1063	M9+polygalacturonate	-3.48532203830724	-5.77706884245036
-pgaptmp_000417	pgaptmp_000417	ornithine carbamoyltransferase	set20TCH1082	M9+glycerol	-2.38831077635399	-6.55597395672446
-pgaptmp_000417	pgaptmp_000417	ornithine carbamoyltransferase	set20TCH1061	M9+glucose	-2.14056563117638	-5.2577929977339
-pgaptmp_000417	pgaptmp_000417	ornithine carbamoyltransferase	set20TCH1070	M9+cellobiose	-2.45177159547807	-6.73017552277233
-pgaptmp_000417	pgaptmp_000417	ornithine carbamoyltransferase	set20TCH1059	M9+glucose	-2.74866805746558	-6.96284011828515
-pgaptmp_000417	pgaptmp_000417	ornithine carbamoyltransferase	set20TCH1081	M9+glycerol	-3.14857083693258	-5.97966995813761
-pgaptmp_000417	pgaptmp_000417	ornithine carbamoyltransferase	set20TCH1076	M9+xylose	-3.06547510006421	-6.74922026051353
-pgaptmp_000417	pgaptmp_000417	ornithine carbamoyltransferase	set20TCH1073	M9+galactose	-2.77744285379051	-6.82213120475098
-pgaptmp_000417	pgaptmp_000417	ornithine carbamoyltransferase	set20TCH1062	M9+polygalacturonate	-3.69092207563319	-5.03474250804557
-pgaptmp_000417	pgaptmp_000417	ornithine carbamoyltransferase	set20TCH1071	M9+galactose	-2.7670904156257	-5.83073574280673
-pgaptmp_000676	pgaptmp_000676	GntR family transcriptional regulator	set21TCH1129	Tuber-Atlantic	2.20478164456529	8.72772542584395
-pgaptmp_001050	pgaptmp_001050	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1074	M9+xylose	-3.56677951047374	-5.41299320185343
-pgaptmp_001050	pgaptmp_001050	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1081	M9+glycerol	-2.49849927899601	-7.44836958915074
-pgaptmp_001050	pgaptmp_001050	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1073	M9+galactose	-3.06581544671107	-6.44826589222199
-pgaptmp_001050	pgaptmp_001050	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1076	M9+xylose	-3.36747327472698	-6.74605740793557
-pgaptmp_001050	pgaptmp_001050	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1064	M9+polygalacturonate	-2.95946746097714	-7.2510018637772
-pgaptmp_001050	pgaptmp_001050	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1082	M9+glycerol	-2.55343444044874	-6.63734772235212
-pgaptmp_001050	pgaptmp_001050	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1070	M9+cellobiose	-2.46827897577219	-6.91365686885909
-pgaptmp_001050	pgaptmp_001050	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1071	M9+galactose	-2.86500389134905	-5.73946076129335
-pgaptmp_001050	pgaptmp_001050	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1077	M9+mannose	-2.95728360139236	-6.4978875795871
-pgaptmp_001050	pgaptmp_001050	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1063	M9+polygalacturonate	-3.39586987705311	-6.04814028731431
-pgaptmp_001050	pgaptmp_001050	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1062	M9+polygalacturonate	-3.28954226444209	-6.58993825676491
-pgaptmp_001050	pgaptmp_001050	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1078	M9+mannose	-2.63500498441035	-6.84938060465299
-pgaptmp_001050	pgaptmp_001050	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1075	M9+xylose	-3.07999695566514	-7.29989806164805
-pgaptmp_001051	pgaptmp_001051	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1080	M9+glycerol	-2.54330418924197	-5.09045687801622
-pgaptmp_001051	pgaptmp_001051	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1081	M9+glycerol	-2.33801161616125	-6.53737656952697
-pgaptmp_001051	pgaptmp_001051	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1075	M9+xylose	-2.50830227206672	-6.13740904798763
-pgaptmp_001051	pgaptmp_001051	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1074	M9+xylose	-2.66394950433414	-6.08267376545685
-pgaptmp_001051	pgaptmp_001051	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1063	M9+polygalacturonate	-2.51759175063062	-6.70958609582721
-pgaptmp_001051	pgaptmp_001051	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1059	M9+glucose	-2.18077809507068	-6.09773173217179
-pgaptmp_001051	pgaptmp_001051	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1082	M9+glycerol	-2.38247443481883	-5.82952872773516
-pgaptmp_001051	pgaptmp_001051	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1077	M9+mannose	-2.54349381321551	-6.60159184250396
-pgaptmp_001051	pgaptmp_001051	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1076	M9+xylose	-3.04509150137337	-6.09479080124303
-pgaptmp_001051	pgaptmp_001051	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1072	M9+galactose	-2.04582993920447	-5.72039959824977
-pgaptmp_001051	pgaptmp_001051	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1062	M9+polygalacturonate	-2.56576533868325	-6.27801185686951
-pgaptmp_001051	pgaptmp_001051	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1073	M9+galactose	-2.55035930365926	-5.59776427869869
-pgaptmp_001051	pgaptmp_001051	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1071	M9+galactose	-2.01929095038291	-5.64619322455097
-pgaptmp_001051	pgaptmp_001051	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1070	M9+cellobiose	-2.15744179300467	-6.41895118400385
-pgaptmp_001051	pgaptmp_001051	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1064	M9+polygalacturonate	-2.63014147303627	-6.00547889944955
-pgaptmp_001051	pgaptmp_001051	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1078	M9+mannose	-2.34762066078971	-5.74424719270444
-pgaptmp_001083	pgaptmp_001083	pantoate--beta-alanine ligase	set20TCH1063	M9+polygalacturonate	-2.1018675806326	-5.01398318999289
-pgaptmp_001083	pgaptmp_001083	pantoate--beta-alanine ligase	set20TCH1064	M9+polygalacturonate	-2.4247163307315	-5.41496038339304
-pgaptmp_001084	pgaptmp_001084	3-methyl-2-oxobutanoate hydroxymethyltransferase	set20TCH1064	M9+polygalacturonate	-2.50969762864998	-5.14882683719634
-pgaptmp_001128	pgaptmp_001128	L-aspartate oxidase	set20TCH1062	M9+polygalacturonate	-2.80559080468691	-8.79538037260924
-pgaptmp_001128	pgaptmp_001128	L-aspartate oxidase	set20TCH1063	M9+polygalacturonate	-2.72540448674123	-8.69347653943478
-pgaptmp_001128	pgaptmp_001128	L-aspartate oxidase	set20TCH1064	M9+polygalacturonate	-2.66852281396492	-9.05761894307183
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set20TCH1080	M9+glycerol	-3.14282613833985	-8.06670022919658
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set20TCH1075	M9+xylose	-3.2059448787853	-10.5078094888583
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set20TCH1062	M9+polygalacturonate	-3.62483151868374	-7.70768167928556
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set21TCH1125	Tuber-Atlantic	-2.78934972776682	-11.9109828711059
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set21TCH1128	Tuber-Atlantic	-2.34740398965094	-9.299570670254
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set20TCH1077	M9+mannose	-2.16277053722169	-10.189158931554
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set21TCH1126	Tuber-Atlantic	-3.06737339706228	-12.6248058626212
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set20TCH1063	M9+polygalacturonate	-3.46474261485638	-9.15843737477733
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set20TCH1082	M9+glycerol	-3.06545249392428	-10.5264713248761
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set20TCH1074	M9+xylose	-3.64171446777399	-9.34719823457327
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set20TCH1071	M9+galactose	-2.54783037602976	-9.35017935522433
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set20TCH1073	M9+galactose	-2.93907229344377	-10.0924937770175
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set20TCH1081	M9+glycerol	-3.15408643337321	-10.3378381745089
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set21TCH1129	Tuber-Atlantic	-2.49684382718674	-10.2614065633357
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set21TCH1130	Tuber-Atlantic	-3.09526619087652	-13.039906302263
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set20TCH1072	M9+galactose	-2.80645576915556	-8.72224970462287
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set20TCH1076	M9+xylose	-3.38668869907795	-10.7226444528066
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set20TCH1064	M9+polygalacturonate	-3.90372615972803	-5.95792352209377
-pgaptmp_001154	pgaptmp_001154	phosphoribosylformylglycinamidine synthase	set21TCH1127	Tuber-Atlantic	-2.89037356574468	-13.5034014695589
-pgaptmp_001231	pgaptmp_001231	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase	set20TCH1064	M9+polygalacturonate	-2.91619492652815	-6.61692912486963
-pgaptmp_001231	pgaptmp_001231	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase	set20TCH1062	M9+polygalacturonate	-3.29715455989018	-6.22043276501745
-pgaptmp_001231	pgaptmp_001231	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase	set20TCH1063	M9+polygalacturonate	-3.42119899326525	-6.45445578203671
-pgaptmp_001255	pgaptmp_001255	galactose-1-phosphate uridylyltransferase	set20TCH1064	M9+polygalacturonate	-2.70432321072331	-5.84904309388318
-pgaptmp_001255	pgaptmp_001255	galactose-1-phosphate uridylyltransferase	set20TCH1062	M9+polygalacturonate	-2.79277810614172	-5.52167284042595
-pgaptmp_001255	pgaptmp_001255	galactose-1-phosphate uridylyltransferase	set20TCH1073	M9+galactose	-2.77777455554922	-5.75845978673233
-pgaptmp_001256	pgaptmp_001256	galactokinase	set20TCH1063	M9+polygalacturonate	-3.17997946262156	-6.93259377478433
-pgaptmp_001256	pgaptmp_001256	galactokinase	set20TCH1073	M9+galactose	-3.32091121897721	-6.26073181943004
-pgaptmp_001256	pgaptmp_001256	galactokinase	set20TCH1071	M9+galactose	-3.1459586433553	-5.18536052941381
-pgaptmp_001256	pgaptmp_001256	galactokinase	set20TCH1062	M9+polygalacturonate	-3.32545970745209	-6.61852324965187
-pgaptmp_001256	pgaptmp_001256	galactokinase	set20TCH1072	M9+galactose	-2.58611883832821	-5.40033662415723
-pgaptmp_001270	pgaptmp_001270	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1126	Tuber-Atlantic	-2.41673430325285	-5.34731869171523
-pgaptmp_001270	pgaptmp_001270	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1125	Tuber-Atlantic	-2.56546928303734	-5.67641293117837
-pgaptmp_001271	pgaptmp_001271	5-(carboxyamino)imidazole ribonucleotide mutase	set20TCH1073	M9+galactose	-3.40706588284384	-5.11699408756143
-pgaptmp_001271	pgaptmp_001271	5-(carboxyamino)imidazole ribonucleotide mutase	set20TCH1077	M9+mannose	-3.09351255366566	-5.4314057152349
-pgaptmp_001271	pgaptmp_001271	5-(carboxyamino)imidazole ribonucleotide mutase	set21TCH1130	Tuber-Atlantic	-2.62590069943194	-6.26154728491838
-pgaptmp_001271	pgaptmp_001271	5-(carboxyamino)imidazole ribonucleotide mutase	set21TCH1126	Tuber-Atlantic	-3.43461502895238	-6.02898313306479
-pgaptmp_001271	pgaptmp_001271	5-(carboxyamino)imidazole ribonucleotide mutase	set20TCH1074	M9+xylose	-3.3326689702548	-5.44982267057994
-pgaptmp_001271	pgaptmp_001271	5-(carboxyamino)imidazole ribonucleotide mutase	set21TCH1125	Tuber-Atlantic	-3.41597791420325	-6.37224457992342
-pgaptmp_001271	pgaptmp_001271	5-(carboxyamino)imidazole ribonucleotide mutase	set21TCH1127	Tuber-Atlantic	-3.08685196188868	-5.75828538041324
-pgaptmp_001271	pgaptmp_001271	5-(carboxyamino)imidazole ribonucleotide mutase	set20TCH1076	M9+xylose	-3.34868069172853	-5.47600620199617
-pgaptmp_001271	pgaptmp_001271	5-(carboxyamino)imidazole ribonucleotide mutase	set20TCH1059	M9+glucose	-2.77488269540361	-5.72174452951515
-pgaptmp_001396	pgaptmp_001396	4-phosphoerythronate dehydrogenase PdxB	set20TCH1074	M9+xylose	-2.47006986488405	-5.73817948604281
-pgaptmp_001396	pgaptmp_001396	4-phosphoerythronate dehydrogenase PdxB	set20TCH1063	M9+polygalacturonate	-3.55760115729942	-5.83223253930784
-pgaptmp_001396	pgaptmp_001396	4-phosphoerythronate dehydrogenase PdxB	set20TCH1080	M9+glycerol	-2.80176627189266	-5.24484451108749
-pgaptmp_001396	pgaptmp_001396	4-phosphoerythronate dehydrogenase PdxB	set20TCH1081	M9+glycerol	-2.66024719664456	-5.9688238433744
-pgaptmp_001396	pgaptmp_001396	4-phosphoerythronate dehydrogenase PdxB	set20TCH1062	M9+polygalacturonate	-3.14578895910705	-5.8888473748621
-pgaptmp_001396	pgaptmp_001396	4-phosphoerythronate dehydrogenase PdxB	set20TCH1064	M9+polygalacturonate	-3.59302384875137	-5.89030351595233
-pgaptmp_001404	pgaptmp_001404	amidophosphoribosyltransferase	set21TCH1125	Tuber-Atlantic	-2.44663893784244	-7.0750975657487
-pgaptmp_001404	pgaptmp_001404	amidophosphoribosyltransferase	set20TCH1071	M9+galactose	-2.68865131694243	-6.14119217578239
-pgaptmp_001404	pgaptmp_001404	amidophosphoribosyltransferase	set20TCH1073	M9+galactose	-2.63816324526714	-7.38045242572222
-pgaptmp_001404	pgaptmp_001404	amidophosphoribosyltransferase	set20TCH1059	M9+glucose	-2.24746625088994	-7.2797037092178
-pgaptmp_001404	pgaptmp_001404	amidophosphoribosyltransferase	set20TCH1080	M9+glycerol	-3.23740234532414	-5.76304669303742
-pgaptmp_001404	pgaptmp_001404	amidophosphoribosyltransferase	set21TCH1126	Tuber-Atlantic	-2.53188104102169	-8.85367251775886
-pgaptmp_001404	pgaptmp_001404	amidophosphoribosyltransferase	set20TCH1075	M9+xylose	-2.71631495270499	-7.42433169368648
-pgaptmp_001404	pgaptmp_001404	amidophosphoribosyltransferase	set21TCH1128	Tuber-Atlantic	-2.5369657187498	-8.02296786015386
-pgaptmp_001404	pgaptmp_001404	amidophosphoribosyltransferase	set20TCH1072	M9+galactose	-2.41471295604666	-6.09448295414835
-pgaptmp_001404	pgaptmp_001404	amidophosphoribosyltransferase	set21TCH1129	Tuber-Atlantic	-2.99567270450068	-8.03013144496352
-pgaptmp_001404	pgaptmp_001404	amidophosphoribosyltransferase	set20TCH1063	M9+polygalacturonate	-3.49653528703623	-6.22434099121071
-pgaptmp_001404	pgaptmp_001404	amidophosphoribosyltransferase	set21TCH1127	Tuber-Atlantic	-2.52900296995293	-9.64383298362364
-pgaptmp_001404	pgaptmp_001404	amidophosphoribosyltransferase	set20TCH1082	M9+glycerol	-2.62140195215865	-6.9895298772683
-pgaptmp_001404	pgaptmp_001404	amidophosphoribosyltransferase	set21TCH1130	Tuber-Atlantic	-2.84131174189005	-8.34782687880691
-pgaptmp_001404	pgaptmp_001404	amidophosphoribosyltransferase	set20TCH1081	M9+glycerol	-2.50884594877035	-7.46884014177845
-pgaptmp_001404	pgaptmp_001404	amidophosphoribosyltransferase	set20TCH1076	M9+xylose	-2.9788358769994	-7.51827020686576
-pgaptmp_001404	pgaptmp_001404	amidophosphoribosyltransferase	set20TCH1074	M9+xylose	-3.34234592180936	-7.02502782965538
-pgaptmp_001460	pgaptmp_001460	MurR/RpiR family transcriptional regulator	set21TCH1126	Tuber-Atlantic	2.24456162605698	7.22643090090502
-pgaptmp_001460	pgaptmp_001460	MurR/RpiR family transcriptional regulator	set21TCH1127	Tuber-Atlantic	2.65977886405393	9.80008344446639
-pgaptmp_001460	pgaptmp_001460	MurR/RpiR family transcriptional regulator	set21TCH1129	Tuber-Atlantic	3.22174499321456	8.82859345703957
-pgaptmp_001460	pgaptmp_001460	MurR/RpiR family transcriptional regulator	set21TCH1125	Tuber-Atlantic	2.85498963114375	9.05732243513628
-pgaptmp_001460	pgaptmp_001460	MurR/RpiR family transcriptional regulator	set21TCH1130	Tuber-Atlantic	2.39199619538192	7.1657789666274
-pgaptmp_001460	pgaptmp_001460	MurR/RpiR family transcriptional regulator	set21TCH1128	Tuber-Atlantic	2.82976418081406	9.37982938219634
-pgaptmp_001515	pgaptmp_001515	contact-dependent growth inhibition system immunity protein	set21TCH1125	Tuber-Atlantic	-2.59039784378141	-5.70290614855591
-pgaptmp_001720	pgaptmp_001720	flagellar transcriptional regulator FlhD	set21TCH1130	Tuber-Atlantic	2.43251476455235	12.5911324088894
-pgaptmp_001720	pgaptmp_001720	flagellar transcriptional regulator FlhD	set21TCH1127	Tuber-Atlantic	2.21809341302363	14.8007446307564
-pgaptmp_001721	pgaptmp_001721	flagellar transcriptional regulator FlhC	set21TCH1129	Tuber-Atlantic	2.01739698199676	15.0406246940932
-pgaptmp_001721	pgaptmp_001721	flagellar transcriptional regulator FlhC	set21TCH1130	Tuber-Atlantic	2.35337321989528	18.5651892570821
-pgaptmp_001721	pgaptmp_001721	flagellar transcriptional regulator FlhC	set21TCH1127	Tuber-Atlantic	2.35479263173036	19.3179569760066
-pgaptmp_001851	pgaptmp_001851	heme ABC transporter ATP-binding protein/permease CydC	set21TCH1128	Tuber-Atlantic	-2.04939966571672	-5.57614172381327
-pgaptmp_001873	pgaptmp_001873	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set20TCH1076	M9+xylose	-3.15832652983259	-5.10177018428271
-pgaptmp_001873	pgaptmp_001873	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set20TCH1082	M9+glycerol	-2.82057811091002	-5.1797991307441
-pgaptmp_001879	pgaptmp_001879	histidinol dehydrogenase	set20TCH1080	M9+glycerol	-3.16590259042743	-5.19310126676399
-pgaptmp_001879	pgaptmp_001879	histidinol dehydrogenase	set20TCH1074	M9+xylose	-3.37885068260898	-6.32991569372307
-pgaptmp_001879	pgaptmp_001879	histidinol dehydrogenase	set20TCH1073	M9+galactose	-3.16953615839965	-5.58470722263371
-pgaptmp_001879	pgaptmp_001879	histidinol dehydrogenase	set20TCH1075	M9+xylose	-3.28563731148073	-6.15529040358921
-pgaptmp_001879	pgaptmp_001879	histidinol dehydrogenase	set20TCH1081	M9+glycerol	-3.46718269406587	-5.68729780098027
-pgaptmp_001879	pgaptmp_001879	histidinol dehydrogenase	set20TCH1070	M9+cellobiose	-2.27079331238972	-6.32658313254598
-pgaptmp_001879	pgaptmp_001879	histidinol dehydrogenase	set20TCH1076	M9+xylose	-3.28644607978184	-6.15680554457728
-pgaptmp_001879	pgaptmp_001879	histidinol dehydrogenase	set20TCH1082	M9+glycerol	-3.22397249984298	-6.37162773148024
-pgaptmp_001880	pgaptmp_001880	ATP phosphoribosyltransferase	set20TCH1081	M9+glycerol	-2.30144558637605	-5.05721431635004
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set21TCH1127	Tuber-Atlantic	-2.62425447508393	-18.2709072956951
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set20TCH1062	M9+polygalacturonate	-3.65443887132313	-14.8011425631351
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set21TCH1126	Tuber-Atlantic	-2.94090062141262	-18.9305675790026
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set21TCH1129	Tuber-Atlantic	-2.73383211089398	-17.2252914111245
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set20TCH1081	M9+glycerol	-2.86337931466998	-17.4086285310005
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set20TCH1063	M9+polygalacturonate	-3.62250335971425	-15.2195834830684
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set20TCH1072	M9+galactose	-2.74168360651756	-14.3543315333541
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set20TCH1080	M9+glycerol	-3.17103470011331	-15.3027091881955
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set20TCH1075	M9+xylose	-3.29766699279495	-16.7433384838945
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set20TCH1076	M9+xylose	-3.21125999717519	-16.6002494289723
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set20TCH1071	M9+galactose	-2.88667646648766	-14.0833930141259
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set21TCH1125	Tuber-Atlantic	-2.82281897089265	-18.9468927049815
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set20TCH1074	M9+xylose	-3.39204595829193	-16.6370335607353
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set20TCH1073	M9+galactose	-2.9650342004906	-16.1884434069573
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set20TCH1082	M9+glycerol	-2.82073011804361	-16.4656049934803
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set21TCH1130	Tuber-Atlantic	-2.84035215387939	-18.0293891707002
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set21TCH1128	Tuber-Atlantic	-2.62713272311585	-17.264086777133
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set20TCH1077	M9+mannose	-2.57896698621071	-16.0065580016913
-pgaptmp_001928	pgaptmp_001928	quinone-dependent dihydroorotate dehydrogenase	set20TCH1064	M9+polygalacturonate	-3.79505150428602	-14.4245120760522
-pgaptmp_001986	pgaptmp_001986	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase	set21TCH1125	Tuber-Atlantic	-2.71154271765032	-5.52040436625485
-pgaptmp_001986	pgaptmp_001986	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase	set20TCH1067	M9+fructose	-2.35955852171747	-5.01778804331724
-pgaptmp_002006	pgaptmp_002006	carboxy terminal-processing peptidase	set21TCH1126	Tuber-Atlantic	-2.25616889124496	-6.39634319276935
-pgaptmp_002006	pgaptmp_002006	carboxy terminal-processing peptidase	set21TCH1124	LB	-2.579615704213	-5.78628334801
-pgaptmp_002006	pgaptmp_002006	carboxy terminal-processing peptidase	set21TCH1123	LB	-3.09543792249085	-5.44955748432254
-pgaptmp_002006	pgaptmp_002006	carboxy terminal-processing peptidase	set21TCH1129	Tuber-Atlantic	-2.44955553818061	-5.49454804351346
-pgaptmp_002006	pgaptmp_002006	carboxy terminal-processing peptidase	set21TCH1127	Tuber-Atlantic	-2.82675095076044	-6.56480102390448
-pgaptmp_002006	pgaptmp_002006	carboxy terminal-processing peptidase	set21TCH1128	Tuber-Atlantic	-2.14666114042976	-5.58493209003944
-pgaptmp_002006	pgaptmp_002006	carboxy terminal-processing peptidase	set21TCH1125	Tuber-Atlantic	-2.83251189911524	-6.79094669728449
-pgaptmp_002006	pgaptmp_002006	carboxy terminal-processing peptidase	set21TCH1122	LB	-2.95893813428694	-5.84164478579147
-pgaptmp_002096	pgaptmp_002096	oligogalacturonate lyase	set20TCH1062	M9+polygalacturonate	-2.65376611902924	-9.77885825466838
-pgaptmp_002096	pgaptmp_002096	oligogalacturonate lyase	set20TCH1064	M9+polygalacturonate	-2.51144932818524	-9.73201463098562
-pgaptmp_002096	pgaptmp_002096	oligogalacturonate lyase	set20TCH1063	M9+polygalacturonate	-2.52952903568239	-9.61592379445178
-pgaptmp_002118	pgaptmp_002118	ABC transporter substrate-binding protein	set20TCH1064	M9+polygalacturonate	-2.35020253928078	-7.43508063319709
-pgaptmp_002118	pgaptmp_002118	ABC transporter substrate-binding protein	set20TCH1063	M9+polygalacturonate	-2.80727814275836	-7.62644843889308
-pgaptmp_002118	pgaptmp_002118	ABC transporter substrate-binding protein	set20TCH1062	M9+polygalacturonate	-2.8080006427152	-7.25143831759597
-pgaptmp_002119	pgaptmp_002119	ABC transporter ATP-binding protein	set20TCH1064	M9+polygalacturonate	-2.31157562828569	-7.70992527191915
-pgaptmp_002119	pgaptmp_002119	ABC transporter ATP-binding protein	set20TCH1063	M9+polygalacturonate	-2.76548638115709	-7.83513781637493
-pgaptmp_002119	pgaptmp_002119	ABC transporter ATP-binding protein	set20TCH1062	M9+polygalacturonate	-3.13173982962149	-7.11099351416203
-pgaptmp_002120	pgaptmp_002120	carbohydrate ABC transporter permease	set20TCH1064	M9+polygalacturonate	-2.67738005175267	-7.21240527291995
-pgaptmp_002120	pgaptmp_002120	carbohydrate ABC transporter permease	set20TCH1063	M9+polygalacturonate	-3.08694790757228	-6.97948859720714
-pgaptmp_002120	pgaptmp_002120	carbohydrate ABC transporter permease	set20TCH1062	M9+polygalacturonate	-2.26413768748219	-6.74537806100618
-pgaptmp_002121	pgaptmp_002121	carbohydrate ABC transporter permease	set20TCH1063	M9+polygalacturonate	-2.78903541696476	-14.2739732519502
-pgaptmp_002121	pgaptmp_002121	carbohydrate ABC transporter permease	set20TCH1062	M9+polygalacturonate	-2.85292433534748	-15.0184868019709
-pgaptmp_002121	pgaptmp_002121	carbohydrate ABC transporter permease	set20TCH1064	M9+polygalacturonate	-3.00877894182501	-15.4637827147259
-pgaptmp_002122	pgaptmp_002122	pectate disaccharide-lyase PelW	set20TCH1063	M9+polygalacturonate	-2.48022652699327	-13.9806831360662
-pgaptmp_002122	pgaptmp_002122	pectate disaccharide-lyase PelW	set20TCH1064	M9+polygalacturonate	-2.51628578909795	-14.1839440528088
-pgaptmp_002122	pgaptmp_002122	pectate disaccharide-lyase PelW	set20TCH1062	M9+polygalacturonate	-2.39094471049206	-13.8413400236918
-pgaptmp_002123	pgaptmp_002123	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD	set21TCH1129	Tuber-Atlantic	-2.02971651510631	-5.22867436345756
-pgaptmp_002123	pgaptmp_002123	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD	set20TCH1062	M9+polygalacturonate	-2.58064583742089	-5.2815538056516
-pgaptmp_002123	pgaptmp_002123	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD	set20TCH1064	M9+polygalacturonate	-3.36503440671426	-5.03376996222947
-pgaptmp_002123	pgaptmp_002123	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD	set21TCH1125	Tuber-Atlantic	-2.02447301312523	-5.87478071484093
-pgaptmp_002123	pgaptmp_002123	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD	set21TCH1128	Tuber-Atlantic	-2.00989795553242	-5.29858444368322
-pgaptmp_002161	pgaptmp_002161	disulfide bond formation protein DsbB	set21TCH1129	Tuber-Atlantic	3.28126119228131	7.4205530066246
-pgaptmp_002161	pgaptmp_002161	disulfide bond formation protein DsbB	set21TCH1130	Tuber-Atlantic	3.4045517387804	8.81810581392998
-pgaptmp_002161	pgaptmp_002161	disulfide bond formation protein DsbB	set21TCH1126	Tuber-Atlantic	3.83411097164911	5.99378692496391
-pgaptmp_002161	pgaptmp_002161	disulfide bond formation protein DsbB	set21TCH1125	Tuber-Atlantic	2.29897563995224	5.36064417409244
-pgaptmp_002161	pgaptmp_002161	disulfide bond formation protein DsbB	set21TCH1127	Tuber-Atlantic	2.98177117162554	7.53493645795622
-pgaptmp_002197	pgaptmp_002197	formyltetrahydrofolate deformylase	set20TCH1062	M9+polygalacturonate	-3.4737171764737	-5.23367602819796
-pgaptmp_002197	pgaptmp_002197	formyltetrahydrofolate deformylase	set20TCH1073	M9+galactose	-2.04301209878722	-6.03106637382877
-pgaptmp_002197	pgaptmp_002197	formyltetrahydrofolate deformylase	set20TCH1075	M9+xylose	-2.63115610732803	-6.86984942051189
-pgaptmp_002197	pgaptmp_002197	formyltetrahydrofolate deformylase	set20TCH1081	M9+glycerol	-2.49085336138642	-6.95334115975551
-pgaptmp_002197	pgaptmp_002197	formyltetrahydrofolate deformylase	set20TCH1080	M9+glycerol	-2.51682513986827	-5.86162744162265
-pgaptmp_002197	pgaptmp_002197	formyltetrahydrofolate deformylase	set20TCH1076	M9+xylose	-2.44900522888176	-6.97247734192152
-pgaptmp_002197	pgaptmp_002197	formyltetrahydrofolate deformylase	set20TCH1064	M9+polygalacturonate	-3.32511996701896	-5.86344823003291
-pgaptmp_002197	pgaptmp_002197	formyltetrahydrofolate deformylase	set20TCH1074	M9+xylose	-2.55009082969306	-6.97147787948209
-pgaptmp_002197	pgaptmp_002197	formyltetrahydrofolate deformylase	set20TCH1070	M9+cellobiose	-2.02281738941661	-6.07204504259398
-pgaptmp_002197	pgaptmp_002197	formyltetrahydrofolate deformylase	set20TCH1063	M9+polygalacturonate	-3.45548424584417	-5.20620538303264
-pgaptmp_002197	pgaptmp_002197	formyltetrahydrofolate deformylase	set20TCH1082	M9+glycerol	-3.26291688083913	-6.11815596018453
-pgaptmp_002201	pgaptmp_002201	UTP--glucose-1-phosphate uridylyltransferase GalU	set20TCH1062	M9+polygalacturonate	-3.38170085392942	-5.49615266411112
-pgaptmp_002201	pgaptmp_002201	UTP--glucose-1-phosphate uridylyltransferase GalU	set20TCH1073	M9+galactose	-3.49700885025582	-5.22492031490401
-pgaptmp_002201	pgaptmp_002201	UTP--glucose-1-phosphate uridylyltransferase GalU	set20TCH1071	M9+galactose	-2.69220304481924	-5.25020253156388
-pgaptmp_002201	pgaptmp_002201	UTP--glucose-1-phosphate uridylyltransferase GalU	set20TCH1064	M9+polygalacturonate	-2.80100884259477	-6.39596038611597
-pgaptmp_002201	pgaptmp_002201	UTP--glucose-1-phosphate uridylyltransferase GalU	set20TCH1063	M9+polygalacturonate	-2.90700804181479	-5.6691047169651
-pgaptmp_002201	pgaptmp_002201	UTP--glucose-1-phosphate uridylyltransferase GalU	set20TCH1072	M9+galactose	-2.33811683526424	-5.16242046972163
-pgaptmp_002296	pgaptmp_002296	tryptophan synthase subunit alpha	set20TCH1062	M9+polygalacturonate	-3.00363913262983	-5.9397451001817
-pgaptmp_002296	pgaptmp_002296	tryptophan synthase subunit alpha	set20TCH1081	M9+glycerol	-3.05358926769215	-6.33161221460886
-pgaptmp_002296	pgaptmp_002296	tryptophan synthase subunit alpha	set20TCH1070	M9+cellobiose	-2.15535204453199	-6.01213607862443
-pgaptmp_002296	pgaptmp_002296	tryptophan synthase subunit alpha	set20TCH1075	M9+xylose	-3.20721379284752	-5.65379470778386
-pgaptmp_002296	pgaptmp_002296	tryptophan synthase subunit alpha	set20TCH1059	M9+glucose	-2.48712762343628	-6.32671544853112
-pgaptmp_002296	pgaptmp_002296	tryptophan synthase subunit alpha	set20TCH1064	M9+polygalacturonate	-3.25342939634393	-6.09824415557043
-pgaptmp_002296	pgaptmp_002296	tryptophan synthase subunit alpha	set20TCH1080	M9+glycerol	-2.87226871589375	-5.38379469049194
-pgaptmp_002296	pgaptmp_002296	tryptophan synthase subunit alpha	set20TCH1082	M9+glycerol	-2.89353480557708	-5.99973955640543
-pgaptmp_002296	pgaptmp_002296	tryptophan synthase subunit alpha	set20TCH1063	M9+polygalacturonate	-2.75387480579133	-6.41026931175251
-pgaptmp_002296	pgaptmp_002296	tryptophan synthase subunit alpha	set20TCH1071	M9+galactose	-2.99094631559496	-5.27255042619492
-pgaptmp_002296	pgaptmp_002296	tryptophan synthase subunit alpha	set20TCH1072	M9+galactose	-2.72907199632116	-5.11538605091559
-pgaptmp_002296	pgaptmp_002296	tryptophan synthase subunit alpha	set20TCH1076	M9+xylose	-2.89940787581585	-6.27246486455617
-pgaptmp_002296	pgaptmp_002296	tryptophan synthase subunit alpha	set20TCH1074	M9+xylose	-3.15756816190341	-5.91856138349933
-pgaptmp_002296	pgaptmp_002296	tryptophan synthase subunit alpha	set20TCH1077	M9+mannose	-2.8655498203547	-6.19921768017976
-pgaptmp_002296	pgaptmp_002296	tryptophan synthase subunit alpha	set20TCH1073	M9+galactose	-2.89895591106758	-6.01098020952912
-pgaptmp_002298	pgaptmp_002298	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1074	M9+xylose	-2.98686026911833	-6.67035967177534
-pgaptmp_002298	pgaptmp_002298	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1064	M9+polygalacturonate	-3.70937812148487	-5.57102990339731
-pgaptmp_002298	pgaptmp_002298	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1059	M9+glucose	-2.32965109793797	-6.16724289464136
-pgaptmp_002298	pgaptmp_002298	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1076	M9+xylose	-3.08447644793392	-5.7552660825657
-pgaptmp_002298	pgaptmp_002298	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1081	M9+glycerol	-2.84469716862317	-6.5754109436633
-pgaptmp_002298	pgaptmp_002298	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1082	M9+glycerol	-2.72449844986189	-6.29757610785905
-pgaptmp_002298	pgaptmp_002298	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1075	M9+xylose	-2.50974264429359	-6.49108799036744
-pgaptmp_002298	pgaptmp_002298	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1072	M9+galactose	-2.84293905445626	-5.59352378637828
-pgaptmp_002298	pgaptmp_002298	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1070	M9+cellobiose	-2.44235038956964	-6.16107301526487
-pgaptmp_002298	pgaptmp_002298	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1062	M9+polygalacturonate	-3.53921865046172	-5.78758772910799
-pgaptmp_002298	pgaptmp_002298	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1080	M9+glycerol	-3.06573453582951	-5.01331207043529
-pgaptmp_002298	pgaptmp_002298	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1073	M9+galactose	-3.4125897731455	-5.58051497975682
-pgaptmp_002299	pgaptmp_002299	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1076	M9+xylose	-2.87367736515495	-7.58894732568511
-pgaptmp_002299	pgaptmp_002299	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1082	M9+glycerol	-2.08671174705242	-6.56577864915254
-pgaptmp_002299	pgaptmp_002299	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1074	M9+xylose	-2.14271247017601	-6.54994935497397
-pgaptmp_002299	pgaptmp_002299	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1075	M9+xylose	-3.45659279186742	-6.8827240678279
-pgaptmp_002299	pgaptmp_002299	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1081	M9+glycerol	-3.09800468160439	-7.9714235858066
-pgaptmp_002299	pgaptmp_002299	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1062	M9+polygalacturonate	-2.89584347739371	-7.45124600152175
-pgaptmp_002299	pgaptmp_002299	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1064	M9+polygalacturonate	-2.80744002269451	-6.44803233889366
-pgaptmp_002299	pgaptmp_002299	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1071	M9+galactose	-2.1706301757163	-6.00869369402031
-pgaptmp_002299	pgaptmp_002299	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1063	M9+polygalacturonate	-3.34655550107723	-6.31172051579261
-pgaptmp_002299	pgaptmp_002299	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1072	M9+galactose	-2.52633773137241	-5.93718107597243
-pgaptmp_002299	pgaptmp_002299	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1080	M9+glycerol	-2.68739112699007	-6.7245219777503
-pgaptmp_002299	pgaptmp_002299	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1073	M9+galactose	-2.49477872028072	-6.90599501114004
-pgaptmp_002300	pgaptmp_002300	anthranilate synthase component 1	set20TCH1059	M9+glucose	-2.13636675982023	-5.30411819861965
-pgaptmp_002300	pgaptmp_002300	anthranilate synthase component 1	set20TCH1075	M9+xylose	-2.97687751226456	-5.18616116711027
-pgaptmp_002300	pgaptmp_002300	anthranilate synthase component 1	set20TCH1070	M9+cellobiose	-2.57691821433115	-5.4771348182016
-pgaptmp_002300	pgaptmp_002300	anthranilate synthase component 1	set20TCH1073	M9+galactose	-2.48391209508895	-5.27945409586658
-pgaptmp_002300	pgaptmp_002300	anthranilate synthase component 1	set20TCH1082	M9+glycerol	-2.65037990909572	-5.40692210859136
-pgaptmp_002300	pgaptmp_002300	anthranilate synthase component 1	set20TCH1062	M9+polygalacturonate	-2.87373367313972	-5.00646933535298
-pgaptmp_002300	pgaptmp_002300	anthranilate synthase component 1	set20TCH1081	M9+glycerol	-2.93778014024824	-5.43369138894536
-pgaptmp_002300	pgaptmp_002300	anthranilate synthase component 1	set20TCH1076	M9+xylose	-2.96603593073395	-5.1672735276651
-pgaptmp_002300	pgaptmp_002300	anthranilate synthase component 1	set20TCH1077	M9+mannose	-2.5767545480189	-5.25672228584403
-pgaptmp_002630	pgaptmp_002630	L-ribulose-5-phosphate 4-epimerase	set20TCH1063	M9+polygalacturonate	-2.3688035287606	-5.80965399617786
-pgaptmp_002630	pgaptmp_002630	L-ribulose-5-phosphate 4-epimerase	set20TCH1064	M9+polygalacturonate	-2.77551476682517	-5.71782227883946
-pgaptmp_002630	pgaptmp_002630	L-ribulose-5-phosphate 4-epimerase	set20TCH1062	M9+polygalacturonate	-2.74771081616548	-5.66054351728431
-pgaptmp_002633	pgaptmp_002633	orotidine-5'-phosphate decarboxylase	set21TCH1126	Tuber-Atlantic	-3.99775074138292	-5.35966954875617
-pgaptmp_002654	pgaptmp_002654	pyridoxamine 5'-phosphate oxidase	set20TCH1059	M9+glucose	-3.08851566662257	-5.77566140014506
-pgaptmp_002654	pgaptmp_002654	pyridoxamine 5'-phosphate oxidase	set20TCH1081	M9+glycerol	-3.93103991541115	-6.09698747177285
-pgaptmp_002654	pgaptmp_002654	pyridoxamine 5'-phosphate oxidase	set20TCH1074	M9+xylose	-2.9411403957442	-6.18037984660263
-pgaptmp_002654	pgaptmp_002654	pyridoxamine 5'-phosphate oxidase	set20TCH1076	M9+xylose	-2.29979821267046	-6.02671722828176
-pgaptmp_002654	pgaptmp_002654	pyridoxamine 5'-phosphate oxidase	set20TCH1080	M9+glycerol	-2.99146496121121	-5.29829057939409
-pgaptmp_002654	pgaptmp_002654	pyridoxamine 5'-phosphate oxidase	set20TCH1077	M9+mannose	-2.34797010422818	-5.41045657985572
-pgaptmp_002654	pgaptmp_002654	pyridoxamine 5'-phosphate oxidase	set20TCH1082	M9+glycerol	-3.3308408952824	-5.83448115521552
-pgaptmp_002654	pgaptmp_002654	pyridoxamine 5'-phosphate oxidase	set20TCH1073	M9+galactose	-2.99743689059951	-5.82683569087121
-pgaptmp_002654	pgaptmp_002654	pyridoxamine 5'-phosphate oxidase	set20TCH1075	M9+xylose	-3.27241815316775	-6.00946003156761
-pgaptmp_002654	pgaptmp_002654	pyridoxamine 5'-phosphate oxidase	set20TCH1064	M9+polygalacturonate	-4.75419761356885	-5.47119343245367
-pgaptmp_002698	pgaptmp_002698	hypothetical protein	set21TCH1123	LB	-2.03639260703521	-7.69584147933759
-pgaptmp_002698	pgaptmp_002698	hypothetical protein	set20TCH1056	LB	-2.76168415962357	-11.6544297299023
-pgaptmp_002698	pgaptmp_002698	hypothetical protein	set21TCH1127	Tuber-Atlantic	-3.05444735504414	-7.0055918943193
-pgaptmp_002698	pgaptmp_002698	hypothetical protein	set21TCH1126	Tuber-Atlantic	-3.19355101753283	-6.41393038654102
-pgaptmp_002698	pgaptmp_002698	hypothetical protein	set21TCH1129	Tuber-Atlantic	-2.97561435199363	-5.97622621530059
-pgaptmp_002698	pgaptmp_002698	hypothetical protein	set21TCH1128	Tuber-Atlantic	-2.84463805779762	-5.40664190735582
-pgaptmp_002698	pgaptmp_002698	hypothetical protein	set21TCH1125	Tuber-Atlantic	-3.59473581713379	-5.96194749426186
-pgaptmp_002698	pgaptmp_002698	hypothetical protein	set21TCH1130	Tuber-Atlantic	-2.76199356434624	-6.33482835924223
-pgaptmp_002698	pgaptmp_002698	hypothetical protein	set20TCH1058	LB	-2.67488705972605	-10.7574887141678
-pgaptmp_002698	pgaptmp_002698	hypothetical protein	set20TCH1057	LB	-2.43541424159866	-10.5002234955657
-pgaptmp_002824	pgaptmp_002824	dihydroorotase	set21TCH1127	Tuber-Atlantic	-3.00644933367617	-6.99819391225567
-pgaptmp_002824	pgaptmp_002824	dihydroorotase	set20TCH1074	M9+xylose	-3.83670715950219	-5.19558534811662
-pgaptmp_002824	pgaptmp_002824	dihydroorotase	set20TCH1082	M9+glycerol	-2.80199157210661	-6.29031924717449
-pgaptmp_002824	pgaptmp_002824	dihydroorotase	set21TCH1128	Tuber-Atlantic	-2.8051799096633	-5.81653582822001
-pgaptmp_002824	pgaptmp_002824	dihydroorotase	set20TCH1064	M9+polygalacturonate	-3.12378403159446	-6.17106324324786
-pgaptmp_002824	pgaptmp_002824	dihydroorotase	set21TCH1129	Tuber-Atlantic	-2.67520670293124	-6.22715142835516
-pgaptmp_002824	pgaptmp_002824	dihydroorotase	set21TCH1130	Tuber-Atlantic	-2.55840001773566	-6.50801702462182
-pgaptmp_002824	pgaptmp_002824	dihydroorotase	set21TCH1126	Tuber-Atlantic	-3.29615765038928	-6.17833420633428
-pgaptmp_002824	pgaptmp_002824	dihydroorotase	set20TCH1081	M9+glycerol	-2.89262782008191	-6.49379271255042
-pgaptmp_002824	pgaptmp_002824	dihydroorotase	set20TCH1076	M9+xylose	-2.82934299907227	-6.11345578341342
-pgaptmp_002824	pgaptmp_002824	dihydroorotase	set20TCH1063	M9+polygalacturonate	-3.33694060882464	-6.24907298026783
-pgaptmp_002824	pgaptmp_002824	dihydroorotase	set20TCH1062	M9+polygalacturonate	-3.22163637235367	-5.6746369013683
-pgaptmp_002824	pgaptmp_002824	dihydroorotase	set21TCH1125	Tuber-Atlantic	-3.10488658788019	-6.97945232462887
-pgaptmp_002824	pgaptmp_002824	dihydroorotase	set20TCH1080	M9+glycerol	-2.98465591236474	-5.89621440158756
-pgaptmp_002824	pgaptmp_002824	dihydroorotase	set20TCH1072	M9+galactose	-2.03186469239745	-5.15995221398161
-pgaptmp_002824	pgaptmp_002824	dihydroorotase	set20TCH1077	M9+mannose	-2.603110364209	-6.05081386692575
-pgaptmp_002824	pgaptmp_002824	dihydroorotase	set20TCH1075	M9+xylose	-2.55552538341657	-6.65611219887311
-pgaptmp_002824	pgaptmp_002824	dihydroorotase	set20TCH1073	M9+galactose	-3.07027557780322	-5.74969063113899
-pgaptmp_002867	pgaptmp_002867	AAA family ATPase	set20TCH1079	M9+mannose	2.07711678655278	10.7528632159167
-pgaptmp_002867	pgaptmp_002867	AAA family ATPase	set20TCH1078	M9+mannose	2.44491306461664	12.0486648487649
-pgaptmp_002971	pgaptmp_002971	biotin synthase BioB	set20TCH1062	M9+polygalacturonate	-2.47479453206155	-6.88193600892012
-pgaptmp_003028	pgaptmp_003028	glycosyltransferase family 4 protein	set21TCH1128	Tuber-Atlantic	-2.66546936402493	-7.81465065637429
-pgaptmp_003028	pgaptmp_003028	glycosyltransferase family 4 protein	set21TCH1125	Tuber-Atlantic	-2.1190485349358	-7.76673931350326
-pgaptmp_003034	pgaptmp_003034	oligosaccharide flippase family protein	set21TCH1128	Tuber-Atlantic	-2.27038700518658	-8.09424679536036
-pgaptmp_003085	pgaptmp_003085	quinolinate synthase NadA	set20TCH1064	M9+polygalacturonate	-3.07978754435554	-5.79457502190254
-pgaptmp_003085	pgaptmp_003085	quinolinate synthase NadA	set20TCH1062	M9+polygalacturonate	-3.01314533060817	-6.27666843111882
-pgaptmp_003235	pgaptmp_003235	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1126	Tuber-Atlantic	-3.03267018228915	-5.27129738138328
-pgaptmp_003235	pgaptmp_003235	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1127	Tuber-Atlantic	-3.37908923082559	-5.03766462711803
-pgaptmp_003235	pgaptmp_003235	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set20TCH1081	M9+glycerol	-2.79189312307014	-5.15961366770933
-pgaptmp_003245	pgaptmp_003245	phosphoribosylformylglycinamidine cyclo-ligase	set20TCH1076	M9+xylose	-2.97052397027265	-5.19189420679998
-pgaptmp_003245	pgaptmp_003245	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1129	Tuber-Atlantic	-3.27630435620916	-5.36693371261534
-pgaptmp_003245	pgaptmp_003245	phosphoribosylformylglycinamidine cyclo-ligase	set20TCH1073	M9+galactose	-2.81351117235265	-5.22289985517992
-pgaptmp_003245	pgaptmp_003245	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1127	Tuber-Atlantic	-3.11076373769427	-6.4320204856808
-pgaptmp_003245	pgaptmp_003245	phosphoribosylformylglycinamidine cyclo-ligase	set20TCH1062	M9+polygalacturonate	-2.70637032438844	-5.02400748012381
-pgaptmp_003245	pgaptmp_003245	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1125	Tuber-Atlantic	-3.64042315888325	-5.47545516493781
-pgaptmp_003245	pgaptmp_003245	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1128	Tuber-Atlantic	-2.73429414769127	-5.39327218932377
-pgaptmp_003245	pgaptmp_003245	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1126	Tuber-Atlantic	-3.78714438017651	-5.1247386402963
-pgaptmp_003245	pgaptmp_003245	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1130	Tuber-Atlantic	-3.13426099394592	-5.51394457066658
-pgaptmp_003337	pgaptmp_003337	tRNA uracil 4-sulfurtransferase ThiI	set20TCH1062	M9+polygalacturonate	-2.60945327534994	-5.65645378751001
-pgaptmp_003337	pgaptmp_003337	tRNA uracil 4-sulfurtransferase ThiI	set20TCH1064	M9+polygalacturonate	-2.82495208907828	-5.59569887097477
-pgaptmp_003337	pgaptmp_003337	tRNA uracil 4-sulfurtransferase ThiI	set20TCH1063	M9+polygalacturonate	-2.33218193804573	-5.78789572533609
-pgaptmp_003444	pgaptmp_003444	amino-acid N-acetyltransferase	set20TCH1080	M9+glycerol	-2.48240237160881	-6.28736609742479
-pgaptmp_003444	pgaptmp_003444	amino-acid N-acetyltransferase	set20TCH1073	M9+galactose	-2.21079236969698	-6.73902183959966
-pgaptmp_003444	pgaptmp_003444	amino-acid N-acetyltransferase	set20TCH1075	M9+xylose	-2.94163396050767	-7.22437114509571
-pgaptmp_003444	pgaptmp_003444	amino-acid N-acetyltransferase	set20TCH1082	M9+glycerol	-2.26046641087803	-6.76242037909087
-pgaptmp_003444	pgaptmp_003444	amino-acid N-acetyltransferase	set20TCH1076	M9+xylose	-2.79219807917107	-7.66325503548017
-pgaptmp_003444	pgaptmp_003444	amino-acid N-acetyltransferase	set20TCH1081	M9+glycerol	-2.38135399361501	-6.84036150596637
-pgaptmp_003444	pgaptmp_003444	amino-acid N-acetyltransferase	set20TCH1062	M9+polygalacturonate	-3.22004214266489	-5.33700069090382
-pgaptmp_003444	pgaptmp_003444	amino-acid N-acetyltransferase	set20TCH1072	M9+galactose	-2.3401420117297	-5.92705264705868
-pgaptmp_003444	pgaptmp_003444	amino-acid N-acetyltransferase	set20TCH1063	M9+polygalacturonate	-3.33900565277093	-5.53417461208203
-pgaptmp_003444	pgaptmp_003444	amino-acid N-acetyltransferase	set20TCH1074	M9+xylose	-2.73651812023779	-6.26851859415895
-pgaptmp_003444	pgaptmp_003444	amino-acid N-acetyltransferase	set20TCH1077	M9+mannose	-2.26242883055184	-7.37077662656553
-pgaptmp_003588	pgaptmp_003588	sulfate adenylyltransferase subunit CysN	set20TCH1063	M9+polygalacturonate	-2.16325276625779	-5.17590140481428
-pgaptmp_003597	pgaptmp_003597	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1082	M9+glycerol	-2.61634332249866	-7.86190765759879
-pgaptmp_003597	pgaptmp_003597	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1074	M9+xylose	-3.05789692790023	-8.42388363229132
-pgaptmp_003597	pgaptmp_003597	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1076	M9+xylose	-2.63103965048813	-8.48314807039082
-pgaptmp_003597	pgaptmp_003597	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1081	M9+glycerol	-2.72743614237234	-8.35231124247885
-pgaptmp_003597	pgaptmp_003597	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1075	M9+xylose	-2.54505881669676	-8.46126148179938
-pgaptmp_003597	pgaptmp_003597	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1062	M9+polygalacturonate	-3.54086208471516	-7.11879641661185
-pgaptmp_003597	pgaptmp_003597	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1072	M9+galactose	-2.39483002250983	-7.05422716587613
-pgaptmp_003597	pgaptmp_003597	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1080	M9+glycerol	-2.44197358857237	-7.19309356611696
-pgaptmp_003597	pgaptmp_003597	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1064	M9+polygalacturonate	-3.62700549718995	-6.47805410828197
-pgaptmp_003597	pgaptmp_003597	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1073	M9+galactose	-2.21304082193155	-7.86312635876433
-pgaptmp_003597	pgaptmp_003597	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1071	M9+galactose	-2.06903771708548	-7.07518611611013
-pgaptmp_003597	pgaptmp_003597	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1063	M9+polygalacturonate	-3.70062815071529	-6.1418819070441
-pgaptmp_003598	pgaptmp_003598	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set20TCH1062	M9+polygalacturonate	-3.16937321794251	-5.21494292523291
-pgaptmp_003598	pgaptmp_003598	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set20TCH1080	M9+glycerol	-2.07027315956199	-5.00450818583846
-pgaptmp_003598	pgaptmp_003598	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set20TCH1081	M9+glycerol	-2.13006648791718	-5.30495933207052
-pgaptmp_003598	pgaptmp_003598	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set20TCH1076	M9+xylose	-2.38715644873425	-5.94524534875338
-pgaptmp_003598	pgaptmp_003598	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set20TCH1064	M9+polygalacturonate	-3.18262842025714	-5.2367532703011
-pgaptmp_003598	pgaptmp_003598	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set20TCH1082	M9+glycerol	-2.440914756161	-5.51472082786561
-pgaptmp_003598	pgaptmp_003598	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set20TCH1074	M9+xylose	-2.67291768271637	-6.03888143936231
-pgaptmp_003639	pgaptmp_003639	gamma-glutamylcyclotransferase family protein	set21TCH1125	Tuber-Atlantic	-2.6603132586666	-5.93866421442386
-pgaptmp_003689	pgaptmp_003689	diaminopimelate decarboxylase	set20TCH1081	M9+glycerol	-2.88065873075217	-5.08121657294685
-pgaptmp_003689	pgaptmp_003689	diaminopimelate decarboxylase	set20TCH1078	M9+mannose	-2.25180927677625	-5.06682924966121
-pgaptmp_003689	pgaptmp_003689	diaminopimelate decarboxylase	set20TCH1077	M9+mannose	-2.16860525613963	-5.21787241238547
-pgaptmp_003690	pgaptmp_003690	LysR family transcriptional regulator	set20TCH1069	M9+cellobiose	-2.12988139346535	-8.6587737069426
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set20TCH1068	M9+cellobiose	-2.72185837429723	-6.46491582679639
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set20TCH1065	M9+fructose	-2.71802220430694	-7.08342007966745
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set20TCH1078	M9+mannose	-3.08814566202907	-5.11821905405822
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set20TCH1080	M9+glycerol	-3.02570333031578	-5.01472862098558
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set20TCH1067	M9+fructose	-2.41376418647799	-5.92753571072661
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set20TCH1079	M9+mannose	-3.24203502347161	-5.37327161574165
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set20TCH1081	M9+glycerol	-3.31248948561715	-5.03149325422812
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set21TCH1125	Tuber-Atlantic	-2.20367190063547	-8.92566292838991
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set20TCH1082	M9+glycerol	-3.20736307852617	-5.31580716014844
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set20TCH1074	M9+xylose	-3.56549860361001	-5.90937244787353
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set20TCH1062	M9+polygalacturonate	-3.31706124597205	-5.4976182896299
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set20TCH1072	M9+galactose	-2.91801548100863	-5.85461147529492
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set20TCH1070	M9+cellobiose	-2.52792305690391	-6.58800392165794
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set20TCH1066	M9+fructose	-2.95012029080631	-6.21540417959424
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set20TCH1071	M9+galactose	-3.04241199020272	-5.04242115584643
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set20TCH1069	M9+cellobiose	-2.63052447244252	-5.79057038641615
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set20TCH1063	M9+polygalacturonate	-2.99773066720806	-7.12016342140144
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set20TCH1077	M9+mannose	-3.33833354979965	-5.952860258491
-pgaptmp_003718	pgaptmp_003718	type I-F CRISPR-associated protein Csy1	set20TCH1059	M9+glucose	-2.57439381567613	-6.51984748580311
-pgaptmp_003764	pgaptmp_003764	IclR family transcriptional regulator	set21TCH1129	Tuber-Atlantic	2.46496828387474	9.07400509411753
-pgaptmp_003764	pgaptmp_003764	IclR family transcriptional regulator	set21TCH1130	Tuber-Atlantic	2.71231131568822	6.03349127932827
-pgaptmp_003764	pgaptmp_003764	IclR family transcriptional regulator	set21TCH1127	Tuber-Atlantic	2.62230701459488	9.02453454288403
-pgaptmp_003853	pgaptmp_003853	2-isopropylmalate synthase	set20TCH1079	M9+mannose	-2.0735998127432	-7.79264522723784
-pgaptmp_003853	pgaptmp_003853	2-isopropylmalate synthase	set21TCH1129	Tuber-Atlantic	-2.25524957940589	-9.95425596601132
-pgaptmp_003853	pgaptmp_003853	2-isopropylmalate synthase	set20TCH1072	M9+galactose	-3.01016895094251	-6.66838987969513
-pgaptmp_003853	pgaptmp_003853	2-isopropylmalate synthase	set20TCH1059	M9+glucose	-2.73472821840993	-7.76297186512718
-pgaptmp_003853	pgaptmp_003853	2-isopropylmalate synthase	set21TCH1126	Tuber-Atlantic	-2.20211947919706	-7.56186008011902
-pgaptmp_003853	pgaptmp_003853	2-isopropylmalate synthase	set20TCH1075	M9+xylose	-2.84519221411703	-7.68724154632385
-pgaptmp_003853	pgaptmp_003853	2-isopropylmalate synthase	set20TCH1064	M9+polygalacturonate	-3.54900302284299	-5.90313487965024
-pgaptmp_003853	pgaptmp_003853	2-isopropylmalate synthase	set20TCH1082	M9+glycerol	-2.85784237132417	-7.29877037567054
-pgaptmp_003853	pgaptmp_003853	2-isopropylmalate synthase	set20TCH1074	M9+xylose	-3.35523336331445	-6.76731217602483
-pgaptmp_003853	pgaptmp_003853	2-isopropylmalate synthase	set20TCH1063	M9+polygalacturonate	-3.64081650413072	-6.05585026487907
-pgaptmp_003853	pgaptmp_003853	2-isopropylmalate synthase	set20TCH1077	M9+mannose	-2.98531985697935	-8.27386977978363
-pgaptmp_003853	pgaptmp_003853	2-isopropylmalate synthase	set20TCH1076	M9+xylose	-3.05771799071205	-7.56843196668448
-pgaptmp_003853	pgaptmp_003853	2-isopropylmalate synthase	set20TCH1080	M9+glycerol	-2.91442110049732	-6.45628085614304
-pgaptmp_003853	pgaptmp_003853	2-isopropylmalate synthase	set20TCH1073	M9+galactose	-3.02786945371649	-7.96146465351863
-pgaptmp_003853	pgaptmp_003853	2-isopropylmalate synthase	set20TCH1081	M9+glycerol	-3.15914555292177	-8.06828193376283
-pgaptmp_003853	pgaptmp_003853	2-isopropylmalate synthase	set21TCH1130	Tuber-Atlantic	-2.4481035629947	-10.2071151318022
-pgaptmp_003853	pgaptmp_003853	2-isopropylmalate synthase	set20TCH1070	M9+cellobiose	-2.50227245063966	-7.72038945807765
-pgaptmp_003854	pgaptmp_003854	3-isopropylmalate dehydrogenase	set20TCH1070	M9+cellobiose	-2.50607465687478	-5.70518926972089
-pgaptmp_003854	pgaptmp_003854	3-isopropylmalate dehydrogenase	set21TCH1126	Tuber-Atlantic	-2.34613296412264	-6.82287533443002
-pgaptmp_003854	pgaptmp_003854	3-isopropylmalate dehydrogenase	set20TCH1059	M9+glucose	-2.3965905969966	-5.65495915096301
-pgaptmp_003854	pgaptmp_003854	3-isopropylmalate dehydrogenase	set21TCH1129	Tuber-Atlantic	-2.97412122908831	-5.62760038226243
-pgaptmp_003854	pgaptmp_003854	3-isopropylmalate dehydrogenase	set20TCH1075	M9+xylose	-3.02306519122773	-5.37063786875824
-pgaptmp_003854	pgaptmp_003854	3-isopropylmalate dehydrogenase	set20TCH1076	M9+xylose	-2.75932137317508	-6.03977762761361
-pgaptmp_003854	pgaptmp_003854	3-isopropylmalate dehydrogenase	set20TCH1073	M9+galactose	-2.7914895422576	-5.85074123392544
-pgaptmp_003854	pgaptmp_003854	3-isopropylmalate dehydrogenase	set20TCH1062	M9+polygalacturonate	-3.10978955451408	-5.13752537899336
-pgaptmp_003854	pgaptmp_003854	3-isopropylmalate dehydrogenase	set21TCH1130	Tuber-Atlantic	-2.24538456007434	-6.52988520493778
-pgaptmp_003855	pgaptmp_003855	3-isopropylmalate dehydratase large subunit	set21TCH1129	Tuber-Atlantic	-2.78211124325064	-6.2979728699409
-pgaptmp_003855	pgaptmp_003855	3-isopropylmalate dehydratase large subunit	set20TCH1068	M9+cellobiose	-2.01191932856875	-5.15965887382351
-pgaptmp_003855	pgaptmp_003855	3-isopropylmalate dehydratase large subunit	set20TCH1074	M9+xylose	-2.66319679379827	-5.55195698919988
-pgaptmp_003855	pgaptmp_003855	3-isopropylmalate dehydratase large subunit	set21TCH1127	Tuber-Atlantic	-2.28863082177241	-6.71095700600015
-pgaptmp_003855	pgaptmp_003855	3-isopropylmalate dehydratase large subunit	set20TCH1081	M9+glycerol	-2.85179757377104	-5.04683400522557
-pgaptmp_003855	pgaptmp_003855	3-isopropylmalate dehydratase large subunit	set20TCH1082	M9+glycerol	-2.47198895501734	-5.1533466801977
-pgaptmp_003855	pgaptmp_003855	3-isopropylmalate dehydratase large subunit	set20TCH1079	M9+mannose	-2.04286643353841	-5.09571640754323
-pgaptmp_003855	pgaptmp_003855	3-isopropylmalate dehydratase large subunit	set21TCH1126	Tuber-Atlantic	-2.06263965426339	-6.26433662310813
-pgaptmp_003855	pgaptmp_003855	3-isopropylmalate dehydratase large subunit	set20TCH1059	M9+glucose	-2.55831423501071	-5.08394100672704
-pgaptmp_003855	pgaptmp_003855	3-isopropylmalate dehydratase large subunit	set21TCH1130	Tuber-Atlantic	-2.65076917862124	-5.77198144491744
-pgaptmp_003856	pgaptmp_003856	3-isopropylmalate dehydratase small subunit	set20TCH1075	M9+xylose	-3.09582487950955	-5.12126489309709
-pgaptmp_003856	pgaptmp_003856	3-isopropylmalate dehydratase small subunit	set21TCH1126	Tuber-Atlantic	-2.84918233903799	-8.7228964796878
-pgaptmp_003856	pgaptmp_003856	3-isopropylmalate dehydratase small subunit	set21TCH1130	Tuber-Atlantic	-2.83339501095998	-8.34408293352365
-pgaptmp_003856	pgaptmp_003856	3-isopropylmalate dehydratase small subunit	set20TCH1082	M9+glycerol	-3.03771540471662	-5.02513735849943
-pgaptmp_003856	pgaptmp_003856	3-isopropylmalate dehydratase small subunit	set21TCH1129	Tuber-Atlantic	-2.69919619979362	-7.94888000360357
-pgaptmp_003856	pgaptmp_003856	3-isopropylmalate dehydratase small subunit	set20TCH1074	M9+xylose	-3.24445354673524	-5.36713370195921
-pgaptmp_003856	pgaptmp_003856	3-isopropylmalate dehydratase small subunit	set20TCH1063	M9+polygalacturonate	-3.05875123110896	-5.05993585111231
-pgaptmp_003856	pgaptmp_003856	3-isopropylmalate dehydratase small subunit	set20TCH1059	M9+glucose	-2.22880909828928	-5.61985219415328
-pgaptmp_003856	pgaptmp_003856	3-isopropylmalate dehydratase small subunit	set20TCH1081	M9+glycerol	-2.58287448771866	-6.11110026327188
-pgaptmp_003856	pgaptmp_003856	3-isopropylmalate dehydratase small subunit	set20TCH1080	M9+glycerol	-2.52844826248087	-5.05898711940617
-pgaptmp_003856	pgaptmp_003856	3-isopropylmalate dehydratase small subunit	set20TCH1077	M9+mannose	-2.24811678011239	-5.98777217595162
-pgaptmp_003856	pgaptmp_003856	3-isopropylmalate dehydratase small subunit	set20TCH1073	M9+galactose	-3.0421823292539	-5.03252676348946
-pgaptmp_003856	pgaptmp_003856	3-isopropylmalate dehydratase small subunit	set20TCH1072	M9+galactose	-2.29807330190551	-5.79449908830304
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set21TCH1127	Tuber-Atlantic	-2.34530597203361	-7.50842553862716
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set21TCH1129	Tuber-Atlantic	-2.16869526585345	-7.0509728736626
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set20TCH1081	M9+glycerol	-2.5659917130624	-7.36998259125651
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set20TCH1076	M9+xylose	-2.72365508552032	-7.65185753224943
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set20TCH1070	M9+cellobiose	-2.08232116804445	-6.67887222652313
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set20TCH1062	M9+polygalacturonate	-2.8528385964158	-6.77601802041815
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set21TCH1126	Tuber-Atlantic	-2.72507312038517	-7.0930933337035
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set20TCH1073	M9+galactose	-2.91724999326688	-6.92900697195981
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set20TCH1064	M9+polygalacturonate	-3.34344370374346	-6.34893097688422
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set20TCH1074	M9+xylose	-2.81068361211252	-7.32490437498346
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set21TCH1125	Tuber-Atlantic	-2.18147974762182	-7.91863244846354
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set20TCH1075	M9+xylose	-2.96585103008541	-7.28330795195797
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set20TCH1071	M9+galactose	-2.83486181826575	-5.38317483647834
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set20TCH1072	M9+galactose	-2.62452050465654	-6.44509480339317
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set20TCH1080	M9+glycerol	-2.59105720735946	-5.93493113048974
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set20TCH1059	M9+glucose	-2.5074714036398	-6.88118102510566
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set20TCH1063	M9+polygalacturonate	-3.64238866842054	-5.53259235810688
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set21TCH1130	Tuber-Atlantic	-2.2617057703665	-7.67262330336433
-pgaptmp_003899	pgaptmp_003899	carbamoyl-phosphate synthase large subunit	set20TCH1077	M9+mannose	-2.11007351852813	-6.65909321341426
-pgaptmp_003900	pgaptmp_003900	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1125	Tuber-Atlantic	-2.24272248670128	-5.84138690200051
-pgaptmp_003900	pgaptmp_003900	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set20TCH1075	M9+xylose	-2.83213217598168	-5.30569699327524
-pgaptmp_003934	pgaptmp_003934	phosphoglycerate dehydrogenase	set20TCH1078	M9+mannose	-2.48744495280007	-5.66018506413722
-pgaptmp_003934	pgaptmp_003934	phosphoglycerate dehydrogenase	set20TCH1072	M9+galactose	-2.90017767047893	-5.4822705967691
-pgaptmp_003934	pgaptmp_003934	phosphoglycerate dehydrogenase	set20TCH1064	M9+polygalacturonate	-3.20184685832362	-5.68666657610569
-pgaptmp_003934	pgaptmp_003934	phosphoglycerate dehydrogenase	set20TCH1059	M9+glucose	-2.72070883117617	-5.95273912869036
-pgaptmp_003934	pgaptmp_003934	phosphoglycerate dehydrogenase	set20TCH1082	M9+glycerol	-2.63689391548666	-5.5245758649458
-pgaptmp_003934	pgaptmp_003934	phosphoglycerate dehydrogenase	set20TCH1076	M9+xylose	-3.40023087542267	-5.14976941075245
-pgaptmp_003934	pgaptmp_003934	phosphoglycerate dehydrogenase	set20TCH1070	M9+cellobiose	-3.13237950487956	-5.17359689303041
-pgaptmp_003934	pgaptmp_003934	phosphoglycerate dehydrogenase	set20TCH1081	M9+glycerol	-2.77591253312077	-6.07352134281362
-pgaptmp_003934	pgaptmp_003934	phosphoglycerate dehydrogenase	set20TCH1079	M9+mannose	-2.93858275688998	-5.21909419286716
-pgaptmp_003934	pgaptmp_003934	phosphoglycerate dehydrogenase	set20TCH1075	M9+xylose	-3.77013810410841	-5.13039871380153
-pgaptmp_003934	pgaptmp_003934	phosphoglycerate dehydrogenase	set21TCH1129	Tuber-Atlantic	-2.22881265274885	-5.02642278883524
-pgaptmp_003934	pgaptmp_003934	phosphoglycerate dehydrogenase	set20TCH1077	M9+mannose	-3.12055129302013	-5.54228091543764
-pgaptmp_003934	pgaptmp_003934	phosphoglycerate dehydrogenase	set20TCH1068	M9+cellobiose	-2.14039948539538	-5.53079700561034
-pgaptmp_003934	pgaptmp_003934	phosphoglycerate dehydrogenase	set21TCH1127	Tuber-Atlantic	-2.24351754479882	-6.15833046046648
-pgaptmp_003964	pgaptmp_003964	deoxyribonuclease I	set21TCH1122	LB	2.06445883305531	5.18701250615675
-pgaptmp_003964	pgaptmp_003964	deoxyribonuclease I	set21TCH1127	Tuber-Atlantic	5.24680305072755	13.1485455778403
-pgaptmp_003964	pgaptmp_003964	deoxyribonuclease I	set21TCH1125	Tuber-Atlantic	5.40897301679869	14.6610433159518
-pgaptmp_003964	pgaptmp_003964	deoxyribonuclease I	set21TCH1126	Tuber-Atlantic	4.91611872700838	12.3350323057839
-pgaptmp_003964	pgaptmp_003964	deoxyribonuclease I	set20TCH1078	M9+mannose	2.46550779041805	11.1918656575338
-pgaptmp_003964	pgaptmp_003964	deoxyribonuclease I	set21TCH1128	Tuber-Atlantic	4.0380658463696	9.81201785857878
-pgaptmp_003964	pgaptmp_003964	deoxyribonuclease I	set21TCH1130	Tuber-Atlantic	5.62748841297218	10.4276751214476
-pgaptmp_003964	pgaptmp_003964	deoxyribonuclease I	set20TCH1079	M9+mannose	2.03759976886159	8.76425140906976
-pgaptmp_003964	pgaptmp_003964	deoxyribonuclease I	set21TCH1129	Tuber-Atlantic	5.52912990403024	10.5691434092529
-pgaptmp_003964	pgaptmp_003964	deoxyribonuclease I	set21TCH1124	LB	2.00226314664083	5.83072013029774
-pgaptmp_003969	pgaptmp_003969	class 1 fructose-bisphosphatase	set20TCH1062	M9+polygalacturonate	-2.45406548899624	-6.68505474237934
-pgaptmp_003969	pgaptmp_003969	class 1 fructose-bisphosphatase	set20TCH1082	M9+glycerol	-2.8429619302849	-5.68147097515326
-pgaptmp_003969	pgaptmp_003969	class 1 fructose-bisphosphatase	set20TCH1081	M9+glycerol	-2.99495419622807	-5.66702029988135
-pgaptmp_003976	pgaptmp_003976	RNA chaperone Hfq	set21TCH1125	Tuber-Atlantic	5.86851923417873	8.94632185517855
-pgaptmp_003976	pgaptmp_003976	RNA chaperone Hfq	set21TCH1126	Tuber-Atlantic	4.22940650104698	8.32262065501206
-pgaptmp_003976	pgaptmp_003976	RNA chaperone Hfq	set21TCH1129	Tuber-Atlantic	4.74680972725834	12.1649679439498
-pgaptmp_003976	pgaptmp_003976	RNA chaperone Hfq	set21TCH1127	Tuber-Atlantic	4.20621796532819	10.0876489009002
-pgaptmp_003976	pgaptmp_003976	RNA chaperone Hfq	set21TCH1130	Tuber-Atlantic	5.22370037774784	13.3930757855479
-pgaptmp_003976	pgaptmp_003976	RNA chaperone Hfq	set21TCH1128	Tuber-Atlantic	4.3343549267579	10.3517603744089
-pgaptmp_004018	pgaptmp_004018	homoserine O-succinyltransferase MetA	set20TCH1076	M9+xylose	-2.84565839160134	-5.65796178767783
-pgaptmp_004018	pgaptmp_004018	homoserine O-succinyltransferase MetA	set20TCH1075	M9+xylose	-2.1577217895064	-5.53847386763508
-pgaptmp_004018	pgaptmp_004018	homoserine O-succinyltransferase MetA	set20TCH1074	M9+xylose	-2.74775312183752	-5.73158012701759
-pgaptmp_004018	pgaptmp_004018	homoserine O-succinyltransferase MetA	set20TCH1073	M9+galactose	-2.24773435983028	-5.27169125969263
-pgaptmp_004094	pgaptmp_004094	bifunctional acetylornithine/succinyldiaminopimelate transaminase	set20TCH1063	M9+polygalacturonate	-2.56283979341996	-6.28469368808319
-pgaptmp_004094	pgaptmp_004094	bifunctional acetylornithine/succinyldiaminopimelate transaminase	set20TCH1064	M9+polygalacturonate	-2.48233896902163	-6.27722522826616
-pgaptmp_004094	pgaptmp_004094	bifunctional acetylornithine/succinyldiaminopimelate transaminase	set20TCH1062	M9+polygalacturonate	-2.39064207559767	-6.70382344629326
-pgaptmp_004186	pgaptmp_004186	rhomboid family intramembrane serine protease GlpG	set20TCH1078	M9+mannose	2.06073421359912	8.76201870391648
-pgaptmp_004280	pgaptmp_004280	ketol-acid reductoisomerase	set20TCH1076	M9+xylose	-3.16720696935382	-6.00824840830352
-pgaptmp_004280	pgaptmp_004280	ketol-acid reductoisomerase	set20TCH1080	M9+glycerol	-2.91452839782499	-5.19254751470036
-pgaptmp_004280	pgaptmp_004280	ketol-acid reductoisomerase	set20TCH1078	M9+mannose	-2.33433259965975	-5.90135533251768
-pgaptmp_004280	pgaptmp_004280	ketol-acid reductoisomerase	set20TCH1064	M9+polygalacturonate	-3.34774465444401	-5.08178376543307
-pgaptmp_004280	pgaptmp_004280	ketol-acid reductoisomerase	set20TCH1075	M9+xylose	-3.45722945072714	-5.24797865714167
-pgaptmp_004280	pgaptmp_004280	ketol-acid reductoisomerase	set20TCH1077	M9+mannose	-2.64874538231992	-5.8228370597911
-pgaptmp_004280	pgaptmp_004280	ketol-acid reductoisomerase	set20TCH1082	M9+glycerol	-2.50309765310177	-5.93601130247859
-pgaptmp_004280	pgaptmp_004280	ketol-acid reductoisomerase	set20TCH1070	M9+cellobiose	-2.3695746029101	-5.61936591147798
-pgaptmp_004280	pgaptmp_004280	ketol-acid reductoisomerase	set20TCH1065	M9+fructose	-2.04523718802483	-6.6427437147402
-pgaptmp_004280	pgaptmp_004280	ketol-acid reductoisomerase	set20TCH1081	M9+glycerol	-2.55250736590286	-6.05318476284122
-pgaptmp_004280	pgaptmp_004280	ketol-acid reductoisomerase	set20TCH1059	M9+glucose	-2.24561639161358	-6.43505905068785
-pgaptmp_004280	pgaptmp_004280	ketol-acid reductoisomerase	set20TCH1062	M9+polygalacturonate	-3.08087171096627	-6.17445124352951
-pgaptmp_004284	pgaptmp_004284	threonine ammonia-lyase, biosynthetic	set20TCH1082	M9+glycerol	-2.89060949858858	-7.63306663313141
-pgaptmp_004284	pgaptmp_004284	threonine ammonia-lyase, biosynthetic	set20TCH1081	M9+glycerol	-2.95790531070271	-8.02788250470318
-pgaptmp_004284	pgaptmp_004284	threonine ammonia-lyase, biosynthetic	set20TCH1076	M9+xylose	-3.17137763964407	-9.04740348628617
-pgaptmp_004284	pgaptmp_004284	threonine ammonia-lyase, biosynthetic	set20TCH1078	M9+mannose	-2.3239158422048	-8.71287340491508
-pgaptmp_004284	pgaptmp_004284	threonine ammonia-lyase, biosynthetic	set20TCH1080	M9+glycerol	-3.15651896556339	-7.01378987855917
-pgaptmp_004284	pgaptmp_004284	threonine ammonia-lyase, biosynthetic	set20TCH1073	M9+galactose	-3.13832238525615	-8.04743543401117
-pgaptmp_004284	pgaptmp_004284	threonine ammonia-lyase, biosynthetic	set20TCH1064	M9+polygalacturonate	-3.51860167338729	-6.3128450816726
-pgaptmp_004284	pgaptmp_004284	threonine ammonia-lyase, biosynthetic	set20TCH1074	M9+xylose	-3.66209826520681	-6.57029728513063
-pgaptmp_004284	pgaptmp_004284	threonine ammonia-lyase, biosynthetic	set20TCH1071	M9+galactose	-2.9205692248548	-7.25634508528873
-pgaptmp_004284	pgaptmp_004284	threonine ammonia-lyase, biosynthetic	set20TCH1072	M9+galactose	-2.92308372213843	-7.7188194518142
-pgaptmp_004284	pgaptmp_004284	threonine ammonia-lyase, biosynthetic	set20TCH1063	M9+polygalacturonate	-3.3026370358919	-7.33846445011264
-pgaptmp_004284	pgaptmp_004284	threonine ammonia-lyase, biosynthetic	set20TCH1075	M9+xylose	-3.5050872613819	-7.78830915497421
-pgaptmp_004284	pgaptmp_004284	threonine ammonia-lyase, biosynthetic	set20TCH1062	M9+polygalacturonate	-3.18358856382278	-7.64459712078406
-pgaptmp_004284	pgaptmp_004284	threonine ammonia-lyase, biosynthetic	set20TCH1077	M9+mannose	-2.65586957060085	-8.83267474733852
-pgaptmp_004285	pgaptmp_004285	dihydroxy-acid dehydratase	set20TCH1078	M9+mannose	-2.28623882069215	-7.4297400906861
-pgaptmp_004285	pgaptmp_004285	dihydroxy-acid dehydratase	set20TCH1082	M9+glycerol	-2.79209763327009	-6.90925392504928
-pgaptmp_004285	pgaptmp_004285	dihydroxy-acid dehydratase	set20TCH1080	M9+glycerol	-2.91466111562313	-5.87773328311121
-pgaptmp_004285	pgaptmp_004285	dihydroxy-acid dehydratase	set20TCH1074	M9+xylose	-3.40360455645025	-6.09368361217215
-pgaptmp_004285	pgaptmp_004285	dihydroxy-acid dehydratase	set20TCH1075	M9+xylose	-3.23834596474173	-7.17243957629764
-pgaptmp_004285	pgaptmp_004285	dihydroxy-acid dehydratase	set20TCH1073	M9+galactose	-3.13775288119628	-6.94964132639516
-pgaptmp_004285	pgaptmp_004285	dihydroxy-acid dehydratase	set20TCH1059	M9+glucose	-2.38366344580057	-7.48709239507527
-pgaptmp_004285	pgaptmp_004285	dihydroxy-acid dehydratase	set20TCH1077	M9+mannose	-3.10578662348431	-6.26315879717376
-pgaptmp_004285	pgaptmp_004285	dihydroxy-acid dehydratase	set20TCH1071	M9+galactose	-2.77340235383091	-6.86299106113441
-pgaptmp_004285	pgaptmp_004285	dihydroxy-acid dehydratase	set20TCH1072	M9+galactose	-3.03406583804179	-6.11852598019661
-pgaptmp_004285	pgaptmp_004285	dihydroxy-acid dehydratase	set20TCH1076	M9+xylose	-3.42626295319564	-5.69833899739086
-pgaptmp_004285	pgaptmp_004285	dihydroxy-acid dehydratase	set20TCH1081	M9+glycerol	-3.03240126656578	-6.71630366005878
-pgaptmp_004285	pgaptmp_004285	dihydroxy-acid dehydratase	set20TCH1070	M9+cellobiose	-2.76382044719383	-6.61169142422741
-pgaptmp_004285	pgaptmp_004285	dihydroxy-acid dehydratase	set20TCH1063	M9+polygalacturonate	-3.34550541563565	-6.38187198003626
-pgaptmp_004285	pgaptmp_004285	dihydroxy-acid dehydratase	set20TCH1064	M9+polygalacturonate	-3.127068241907	-6.92597648930508
-pgaptmp_004323	pgaptmp_004323	argininosuccinate lyase	set20TCH1076	M9+xylose	-2.99126607272125	-5.28499677673233
-pgaptmp_004323	pgaptmp_004323	argininosuccinate lyase	set20TCH1081	M9+glycerol	-2.66984522730466	-5.01712640840743
-pgaptmp_004324	pgaptmp_004324	acetylglutamate kinase	set20TCH1075	M9+xylose	-2.84164747253233	-6.91395828924587
-pgaptmp_004324	pgaptmp_004324	acetylglutamate kinase	set20TCH1064	M9+polygalacturonate	-3.95490220271759	-5.98591120473278
-pgaptmp_004324	pgaptmp_004324	acetylglutamate kinase	set20TCH1082	M9+glycerol	-2.69541537518889	-5.62561727569481
-pgaptmp_004324	pgaptmp_004324	acetylglutamate kinase	set20TCH1076	M9+xylose	-2.92456716798472	-6.88641937026861
-pgaptmp_004324	pgaptmp_004324	acetylglutamate kinase	set20TCH1071	M9+galactose	-2.4237863429583	-5.70724085405166
-pgaptmp_004324	pgaptmp_004324	acetylglutamate kinase	set20TCH1080	M9+glycerol	-3.52077122350406	-5.81055068565796
-pgaptmp_004324	pgaptmp_004324	acetylglutamate kinase	set20TCH1072	M9+galactose	-2.87796091770107	-5.55709734954723
-pgaptmp_004324	pgaptmp_004324	acetylglutamate kinase	set20TCH1081	M9+glycerol	-3.20407893430688	-5.68550163122751
-pgaptmp_004324	pgaptmp_004324	acetylglutamate kinase	set20TCH1063	M9+polygalacturonate	-4.07643909916752	-6.16986242095961
-pgaptmp_004324	pgaptmp_004324	acetylglutamate kinase	set20TCH1074	M9+xylose	-2.80751505577453	-5.97950075453516
-pgaptmp_004325	pgaptmp_004325	N-acetyl-gamma-glutamyl-phosphate reductase	set20TCH1076	M9+xylose	-2.43357993309257	-5.03053636646098
-pgaptmp_004325	pgaptmp_004325	N-acetyl-gamma-glutamyl-phosphate reductase	set20TCH1081	M9+glycerol	-2.5098662828788	-5.18823049092579
-pgaptmp_004326	pgaptmp_004326	acetylornithine deacetylase	set20TCH1074	M9+xylose	-2.99806728995578	-7.59749683758327
-pgaptmp_004326	pgaptmp_004326	acetylornithine deacetylase	set20TCH1064	M9+polygalacturonate	-3.56962663513151	-6.78077417257568
-pgaptmp_004326	pgaptmp_004326	acetylornithine deacetylase	set20TCH1081	M9+glycerol	-2.09920783880475	-6.20907537629412
-pgaptmp_004326	pgaptmp_004326	acetylornithine deacetylase	set20TCH1062	M9+polygalacturonate	-3.47728691790525	-6.20252700133845
-pgaptmp_004326	pgaptmp_004326	acetylornithine deacetylase	set20TCH1059	M9+glucose	-2.13363935073266	-6.62618335117465
-pgaptmp_004326	pgaptmp_004326	acetylornithine deacetylase	set20TCH1073	M9+galactose	-2.24226136900596	-6.93366448792691
-pgaptmp_004326	pgaptmp_004326	acetylornithine deacetylase	set20TCH1072	M9+galactose	-2.49894903969665	-6.69321031883858
-pgaptmp_004326	pgaptmp_004326	acetylornithine deacetylase	set20TCH1076	M9+xylose	-2.16461026140105	-7.05834676182815
-pgaptmp_004326	pgaptmp_004326	acetylornithine deacetylase	set20TCH1075	M9+xylose	-2.31297390076323	-7.42598518688171
-pgaptmp_004326	pgaptmp_004326	acetylornithine deacetylase	set20TCH1063	M9+polygalacturonate	-3.66089248461344	-5.56192667178224
-pgaptmp_004326	pgaptmp_004326	acetylornithine deacetylase	set20TCH1080	M9+glycerol	-2.82429883696049	-5.9528485097241
-pgaptmp_004326	pgaptmp_004326	acetylornithine deacetylase	set20TCH1082	M9+glycerol	-2.16171157250054	-6.71336382450297
-pgaptmp_004442	pgaptmp_004442	phosphoenolpyruvate carboxylase	set20TCH1071	M9+galactose	-2.98135958402229	-8.53045433655097
-pgaptmp_004442	pgaptmp_004442	phosphoenolpyruvate carboxylase	set20TCH1075	M9+xylose	-2.93534884924467	-10.1055006373114
-pgaptmp_004442	pgaptmp_004442	phosphoenolpyruvate carboxylase	set20TCH1074	M9+xylose	-3.37031452732911	-8.92232038817969
-pgaptmp_004442	pgaptmp_004442	phosphoenolpyruvate carboxylase	set20TCH1063	M9+polygalacturonate	-3.2309922319341	-8.55348888991714
-pgaptmp_004442	pgaptmp_004442	phosphoenolpyruvate carboxylase	set20TCH1073	M9+galactose	-3.18927352379006	-9.33709699385854
-pgaptmp_004442	pgaptmp_004442	phosphoenolpyruvate carboxylase	set20TCH1064	M9+polygalacturonate	-3.23266853416914	-8.30914099004182
-pgaptmp_004442	pgaptmp_004442	phosphoenolpyruvate carboxylase	set20TCH1062	M9+polygalacturonate	-3.21423349076282	-8.50912304310365
-pgaptmp_004442	pgaptmp_004442	phosphoenolpyruvate carboxylase	set20TCH1082	M9+glycerol	-2.07252967607766	-9.16424515452721
-pgaptmp_004442	pgaptmp_004442	phosphoenolpyruvate carboxylase	set20TCH1077	M9+mannose	-2.45818728336156	-10.0434155364017
-pgaptmp_004442	pgaptmp_004442	phosphoenolpyruvate carboxylase	set20TCH1072	M9+galactose	-2.7242821486994	-9.09664823863332
-pgaptmp_004442	pgaptmp_004442	phosphoenolpyruvate carboxylase	set20TCH1076	M9+xylose	-2.99950590473016	-9.85409581480626
-pgaptmp_004442	pgaptmp_004442	phosphoenolpyruvate carboxylase	set20TCH1081	M9+glycerol	-2.57061245002392	-9.90349698933406
-pgaptmp_004442	pgaptmp_004442	phosphoenolpyruvate carboxylase	set20TCH1080	M9+glycerol	-2.75163582076791	-7.87315419638531
-pgaptmp_004449	pgaptmp_004449	HTH-type transcriptional regulator MetR	set20TCH1074	M9+xylose	-2.90666776513794	-7.82151797378443
-pgaptmp_004449	pgaptmp_004449	HTH-type transcriptional regulator MetR	set20TCH1059	M9+glucose	-2.36424428211675	-7.25605256836902
-pgaptmp_004449	pgaptmp_004449	HTH-type transcriptional regulator MetR	set20TCH1073	M9+galactose	-3.04292066089815	-7.2578850415731
-pgaptmp_004449	pgaptmp_004449	HTH-type transcriptional regulator MetR	set20TCH1063	M9+polygalacturonate	-3.27821582717415	-6.92946239713299
-pgaptmp_004449	pgaptmp_004449	HTH-type transcriptional regulator MetR	set20TCH1082	M9+glycerol	-2.05405745849961	-6.63899380970564
-pgaptmp_004449	pgaptmp_004449	HTH-type transcriptional regulator MetR	set20TCH1081	M9+glycerol	-2.76942901418876	-7.45222383906319
-pgaptmp_004449	pgaptmp_004449	HTH-type transcriptional regulator MetR	set20TCH1076	M9+xylose	-3.03479558595041	-7.23850535130294
-pgaptmp_004449	pgaptmp_004449	HTH-type transcriptional regulator MetR	set20TCH1062	M9+polygalacturonate	-3.13750689113315	-7.2146858985092
-pgaptmp_004449	pgaptmp_004449	HTH-type transcriptional regulator MetR	set20TCH1080	M9+glycerol	-2.65254203983716	-6.54319630410739
-pgaptmp_004449	pgaptmp_004449	HTH-type transcriptional regulator MetR	set20TCH1075	M9+xylose	-2.62632350110978	-7.90864055837952
-pgaptmp_004449	pgaptmp_004449	HTH-type transcriptional regulator MetR	set20TCH1072	M9+galactose	-2.49799886499693	-6.89374242415604
-pgaptmp_004449	pgaptmp_004449	HTH-type transcriptional regulator MetR	set20TCH1064	M9+polygalacturonate	-3.6200283761451	-6.47042868902768
-pgaptmp_004487	pgaptmp_004487	orotate phosphoribosyltransferase	set20TCH1077	M9+mannose	-2.53797793085944	-5.54601041624969
-pgaptmp_004487	pgaptmp_004487	orotate phosphoribosyltransferase	set20TCH1062	M9+polygalacturonate	-3.71779604760763	-5.05672831015886
-pgaptmp_004487	pgaptmp_004487	orotate phosphoribosyltransferase	set20TCH1073	M9+galactose	-3.8105992216804	-5.18295374899334
-pgaptmp_004487	pgaptmp_004487	orotate phosphoribosyltransferase	set21TCH1126	Tuber-Atlantic	-3.11473373639837	-6.8030283763482
-pgaptmp_004487	pgaptmp_004487	orotate phosphoribosyltransferase	set21TCH1128	Tuber-Atlantic	-3.14278166181319	-5.57538243716585
-pgaptmp_004487	pgaptmp_004487	orotate phosphoribosyltransferase	set21TCH1130	Tuber-Atlantic	-2.74054331744138	-6.45035252182243
-pgaptmp_004487	pgaptmp_004487	orotate phosphoribosyltransferase	set20TCH1072	M9+galactose	-2.60941200672025	-5.20358929511529
-pgaptmp_004487	pgaptmp_004487	orotate phosphoribosyltransferase	set20TCH1081	M9+glycerol	-2.79448153898997	-5.57264785485617
-pgaptmp_004487	pgaptmp_004487	orotate phosphoribosyltransferase	set20TCH1082	M9+glycerol	-3.1011290437574	-5.1183390887136
-pgaptmp_004487	pgaptmp_004487	orotate phosphoribosyltransferase	set21TCH1127	Tuber-Atlantic	-2.41281682300865	-6.69317064934381
-pgaptmp_004487	pgaptmp_004487	orotate phosphoribosyltransferase	set21TCH1125	Tuber-Atlantic	-2.43106073862734	-6.5450364029873
-pgaptmp_004487	pgaptmp_004487	orotate phosphoribosyltransferase	set20TCH1063	M9+polygalacturonate	-3.20368735366655	-5.28760911878122
-pgaptmp_004487	pgaptmp_004487	orotate phosphoribosyltransferase	set20TCH1074	M9+xylose	-3.29178577150437	-5.43301344388689
-pgaptmp_004487	pgaptmp_004487	orotate phosphoribosyltransferase	set20TCH1076	M9+xylose	-3.40711514799726	-5.62336181296517
-pgaptmp_004521	pgaptmp_004521	argininosuccinate synthase	set20TCH1073	M9+galactose	-2.87037289252138	-9.55227897762023
-pgaptmp_004521	pgaptmp_004521	argininosuccinate synthase	set20TCH1072	M9+galactose	-2.45205117312828	-8.65051695800531
-pgaptmp_004521	pgaptmp_004521	argininosuccinate synthase	set20TCH1064	M9+polygalacturonate	-3.57244210973384	-7.22523841963388
-pgaptmp_004521	pgaptmp_004521	argininosuccinate synthase	set20TCH1071	M9+galactose	-2.81775280749412	-8.40765023460222
-pgaptmp_004521	pgaptmp_004521	argininosuccinate synthase	set20TCH1062	M9+polygalacturonate	-3.36786853482619	-7.15848821162492
-pgaptmp_004521	pgaptmp_004521	argininosuccinate synthase	set20TCH1082	M9+glycerol	-2.32413240764147	-8.81845854275802
-pgaptmp_004521	pgaptmp_004521	argininosuccinate synthase	set20TCH1076	M9+xylose	-2.98160131895543	-9.60001458058535
-pgaptmp_004521	pgaptmp_004521	argininosuccinate synthase	set20TCH1074	M9+xylose	-3.58711986050247	-8.30284075416294
-pgaptmp_004521	pgaptmp_004521	argininosuccinate synthase	set20TCH1077	M9+mannose	-2.30164580764863	-8.92033889429517
-pgaptmp_004521	pgaptmp_004521	argininosuccinate synthase	set20TCH1075	M9+xylose	-3.28270655628184	-8.67201816817558
-pgaptmp_004521	pgaptmp_004521	argininosuccinate synthase	set20TCH1079	M9+mannose	-2.03700623413543	-8.28086342364574
-pgaptmp_004521	pgaptmp_004521	argininosuccinate synthase	set20TCH1081	M9+glycerol	-2.75553227851923	-8.55683802508878
-pgaptmp_004521	pgaptmp_004521	argininosuccinate synthase	set20TCH1059	M9+glucose	-2.23913739802364	-9.02093847910194
-pgaptmp_004521	pgaptmp_004521	argininosuccinate synthase	set20TCH1080	M9+glycerol	-2.99257961042188	-7.43796518307964
-pgaptmp_004523	pgaptmp_004523	D-xylose utilization transcriptional activator XylR	set20TCH1074	M9+xylose	-2.98113971296526	-8.47381310177041
-pgaptmp_004523	pgaptmp_004523	D-xylose utilization transcriptional activator XylR	set20TCH1075	M9+xylose	-2.55531869980542	-8.95843583072757
-pgaptmp_004523	pgaptmp_004523	D-xylose utilization transcriptional activator XylR	set20TCH1076	M9+xylose	-2.87873887590957	-8.55107891267524
-pgaptmp_004527	pgaptmp_004527	xylose isomerase	set20TCH1075	M9+xylose	-3.00826785668465	-9.12875670752582
-pgaptmp_004527	pgaptmp_004527	xylose isomerase	set20TCH1074	M9+xylose	-2.83014184202215	-9.07572097829749
-pgaptmp_004527	pgaptmp_004527	xylose isomerase	set20TCH1076	M9+xylose	-3.22799123926053	-8.50435266105327
-pgaptmp_004528	pgaptmp_004528	xylulokinase	set20TCH1075	M9+xylose	-2.16309729288205	-9.07276862663713
-pgaptmp_004528	pgaptmp_004528	xylulokinase	set20TCH1076	M9+xylose	-2.1673820597485	-8.79102349349815
-pgaptmp_004528	pgaptmp_004528	xylulokinase	set20TCH1074	M9+xylose	-2.74960913544335	-8.99058720909759
+AC4LGQ_00400	AC4LGQ_00400	2-dehydro-3-deoxygluconokinase	set20TCH1063	M9+polygalacturonate	-2.53039986133549	-5.99093538617894
+AC4LGQ_00400	AC4LGQ_00400	2-dehydro-3-deoxygluconokinase	set20TCH1062	M9+polygalacturonate	-3.36224320073013	-5.98466000033965
+AC4LGQ_00400	AC4LGQ_00400	2-dehydro-3-deoxygluconokinase	set20TCH1064	M9+polygalacturonate	-2.71243550597771	-6.19445887850801
+AC4LGQ_00475	AC4LGQ_00475	aspartate 1-decarboxylase autocleavage activator PanM	set20TCH1063	M9+polygalacturonate	-2.20743631188602	-5.54649922720426
+AC4LGQ_00840	AC4LGQ_00840	glycerol kinase GlpK	set20TCH1082	M9+glycerol	-3.02436999516612	-5.00446276980121
+AC4LGQ_00840	AC4LGQ_00840	glycerol kinase GlpK	set20TCH1081	M9+glycerol	-3.15963392554736	-5.22828568325817
+AC4LGQ_00840	AC4LGQ_00840	glycerol kinase GlpK	set20TCH1080	M9+glycerol	-2.66958484266504	-5.34356715548003
+AC4LGQ_00915	AC4LGQ_00915	cystathionine gamma-synthase	set20TCH1059	M9+glucose	-2.33319418587014	-6.4181074935355
+AC4LGQ_00915	AC4LGQ_00915	cystathionine gamma-synthase	set20TCH1071	M9+galactose	-2.93788195737429	-5.5851271702573
+AC4LGQ_00915	AC4LGQ_00915	cystathionine gamma-synthase	set20TCH1082	M9+glycerol	-2.18821568732322	-6.68897759673266
+AC4LGQ_00915	AC4LGQ_00915	cystathionine gamma-synthase	set20TCH1073	M9+galactose	-2.93107112134809	-6.46200005845149
+AC4LGQ_00915	AC4LGQ_00915	cystathionine gamma-synthase	set20TCH1076	M9+xylose	-3.30272923018802	-5.47859072767793
+AC4LGQ_00915	AC4LGQ_00915	cystathionine gamma-synthase	set20TCH1062	M9+polygalacturonate	-3.15760585256264	-5.63621813350801
+AC4LGQ_00915	AC4LGQ_00915	cystathionine gamma-synthase	set20TCH1064	M9+polygalacturonate	-3.43225580443164	-5.69345032989806
+AC4LGQ_00915	AC4LGQ_00915	cystathionine gamma-synthase	set20TCH1077	M9+mannose	-2.17526943504422	-6.39681447448591
+AC4LGQ_00915	AC4LGQ_00915	cystathionine gamma-synthase	set20TCH1075	M9+xylose	-2.58569292342869	-6.56168760405582
+AC4LGQ_00915	AC4LGQ_00915	cystathionine gamma-synthase	set20TCH1063	M9+polygalacturonate	-3.35566536039577	-5.10077056857931
+AC4LGQ_00915	AC4LGQ_00915	cystathionine gamma-synthase	set20TCH1081	M9+glycerol	-2.6923067986786	-6.6241105260717
+AC4LGQ_00915	AC4LGQ_00915	cystathionine gamma-synthase	set20TCH1074	M9+xylose	-3.10832033088419	-6.24432835647603
+AC4LGQ_00915	AC4LGQ_00915	cystathionine gamma-synthase	set20TCH1070	M9+cellobiose	-2.29575876996666	-6.15863208700061
+AC4LGQ_00915	AC4LGQ_00915	cystathionine gamma-synthase	set20TCH1072	M9+galactose	-2.32420668057789	-6.07005476220684
+AC4LGQ_01080	AC4LGQ_01080	2-iminoacetate synthase ThiH	set20TCH1064	M9+polygalacturonate	-2.68213282867758	-6.56074252237568
+AC4LGQ_01080	AC4LGQ_01080	2-iminoacetate synthase ThiH	set20TCH1063	M9+polygalacturonate	-2.21990335041049	-6.47409475162123
+AC4LGQ_01080	AC4LGQ_01080	2-iminoacetate synthase ThiH	set20TCH1062	M9+polygalacturonate	-2.41560985303983	-6.09220598942777
+AC4LGQ_01095	AC4LGQ_01095	HesA/MoeB/ThiF family protein	set20TCH1064	M9+polygalacturonate	-3.01168972690937	-5.66497124972516
+AC4LGQ_01095	AC4LGQ_01095	HesA/MoeB/ThiF family protein	set20TCH1063	M9+polygalacturonate	-2.65539793341791	-5.99929934166254
+AC4LGQ_01105	AC4LGQ_01105	phosphomethylpyrimidine synthase ThiC	set20TCH1063	M9+polygalacturonate	-3.13668123969154	-7.21995286086677
+AC4LGQ_01105	AC4LGQ_01105	phosphomethylpyrimidine synthase ThiC	set20TCH1064	M9+polygalacturonate	-3.186737117037	-6.07171349307449
+AC4LGQ_01105	AC4LGQ_01105	phosphomethylpyrimidine synthase ThiC	set20TCH1062	M9+polygalacturonate	-2.72590214337371	-7.71489785586045
+AC4LGQ_01145	AC4LGQ_01145	phosphoribosylamine--glycine ligase	set20TCH1082	M9+glycerol	-2.4517234392064	-5.80136129412051
+AC4LGQ_01145	AC4LGQ_01145	phosphoribosylamine--glycine ligase	set20TCH1059	M9+glucose	-2.04687811335115	-5.58899713610637
+AC4LGQ_01145	AC4LGQ_01145	phosphoribosylamine--glycine ligase	set20TCH1071	M9+galactose	-2.7649637143188	-5.23777755080967
+AC4LGQ_01145	AC4LGQ_01145	phosphoribosylamine--glycine ligase	set20TCH1073	M9+galactose	-3.23679526813455	-5.35472010393381
+AC4LGQ_01145	AC4LGQ_01145	phosphoribosylamine--glycine ligase	set20TCH1072	M9+galactose	-2.93067653545326	-5.55169374794619
+AC4LGQ_01145	AC4LGQ_01145	phosphoribosylamine--glycine ligase	set20TCH1064	M9+polygalacturonate	-2.99786963976518	-5.67898024053616
+AC4LGQ_01145	AC4LGQ_01145	phosphoribosylamine--glycine ligase	set21TCH1125	Tuber-Atlantic	-3.33790305478426	-7.01099207126854
+AC4LGQ_01145	AC4LGQ_01145	phosphoribosylamine--glycine ligase	set20TCH1081	M9+glycerol	-2.66287381130123	-6.07805569138566
+AC4LGQ_01145	AC4LGQ_01145	phosphoribosylamine--glycine ligase	set21TCH1129	Tuber-Atlantic	-2.27563298453969	-6.53487254912881
+AC4LGQ_01145	AC4LGQ_01145	phosphoribosylamine--glycine ligase	set21TCH1130	Tuber-Atlantic	-2.45495826108504	-6.36812641847059
+AC4LGQ_01145	AC4LGQ_01145	phosphoribosylamine--glycine ligase	set20TCH1080	M9+glycerol	-2.61435891210508	-5.49166863014725
+AC4LGQ_01145	AC4LGQ_01145	phosphoribosylamine--glycine ligase	set20TCH1075	M9+xylose	-2.85290551410333	-6.25976322219077
+AC4LGQ_01145	AC4LGQ_01145	phosphoribosylamine--glycine ligase	set20TCH1074	M9+xylose	-2.48874830614632	-6.62950372103382
+AC4LGQ_01145	AC4LGQ_01145	phosphoribosylamine--glycine ligase	set20TCH1062	M9+polygalacturonate	-3.06891989121496	-5.81357347591783
+AC4LGQ_01145	AC4LGQ_01145	phosphoribosylamine--glycine ligase	set21TCH1126	Tuber-Atlantic	-2.96604651879931	-7.01768814090569
+AC4LGQ_01145	AC4LGQ_01145	phosphoribosylamine--glycine ligase	set20TCH1076	M9+xylose	-2.912978431383	-6.11894265850466
+AC4LGQ_01150	AC4LGQ_01150	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1125	Tuber-Atlantic	-3.26273099185655	-6.8689250562885
+AC4LGQ_01150	AC4LGQ_01150	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1126	Tuber-Atlantic	-2.86802086242554	-7.25570173261247
+AC4LGQ_01150	AC4LGQ_01150	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1081	M9+glycerol	-2.81346715323902	-5.33906942913139
+AC4LGQ_01150	AC4LGQ_01150	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1082	M9+glycerol	-2.87119794461417	-5.75649136507379
+AC4LGQ_01150	AC4LGQ_01150	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1077	M9+mannose	-2.37337163423868	-6.00378735736953
+AC4LGQ_01150	AC4LGQ_01150	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1076	M9+xylose	-2.57675353134298	-6.3209062180536
+AC4LGQ_01150	AC4LGQ_01150	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1129	Tuber-Atlantic	-2.74026471410719	-6.27119753139308
+AC4LGQ_01150	AC4LGQ_01150	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1075	M9+xylose	-2.91485197156373	-6.41084765337898
+AC4LGQ_01150	AC4LGQ_01150	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1072	M9+galactose	-2.76148706712625	-5.24042769152703
+AC4LGQ_01150	AC4LGQ_01150	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1073	M9+galactose	-2.83375737594798	-6.23249036351425
+AC4LGQ_01150	AC4LGQ_01150	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1127	Tuber-Atlantic	-2.38029602632223	-7.62150088693608
+AC4LGQ_01150	AC4LGQ_01150	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1130	Tuber-Atlantic	-2.90369434542766	-6.11305648393713
+AC4LGQ_01150	AC4LGQ_01150	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1062	M9+polygalacturonate	-3.14705627496198	-5.6085553407954
+AC4LGQ_01150	AC4LGQ_01150	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1063	M9+polygalacturonate	-3.21700308861951	-5.32913903871473
+AC4LGQ_01150	AC4LGQ_01150	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set21TCH1128	Tuber-Atlantic	-2.74507020901089	-6.51390556240156
+AC4LGQ_01150	AC4LGQ_01150	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	set20TCH1074	M9+xylose	-2.72863189013926	-6.00128017494142
+AC4LGQ_01330	AC4LGQ_01330	RNase E specificity factor CsrD	set20TCH1067	M9+fructose	2.01300803705359	13.9708616079666
+AC4LGQ_01500	AC4LGQ_01500	outer membrane-stress sensor serine endopeptidase DegS	set20TCH1074	M9+xylose	-2.75694264485205	-5.17454671782405
+AC4LGQ_01500	AC4LGQ_01500	outer membrane-stress sensor serine endopeptidase DegS	set20TCH1066	M9+fructose	-2.47003142207256	-5.35310666967095
+AC4LGQ_01500	AC4LGQ_01500	outer membrane-stress sensor serine endopeptidase DegS	set20TCH1076	M9+xylose	-2.60008852515881	-5.85598643879302
+AC4LGQ_01500	AC4LGQ_01500	outer membrane-stress sensor serine endopeptidase DegS	set20TCH1059	M9+glucose	-2.76038905088118	-5.18101532863814
+AC4LGQ_01500	AC4LGQ_01500	outer membrane-stress sensor serine endopeptidase DegS	set20TCH1075	M9+xylose	-2.66031671785214	-5.76549716676158
+AC4LGQ_01500	AC4LGQ_01500	outer membrane-stress sensor serine endopeptidase DegS	set20TCH1067	M9+fructose	-2.24997386878714	-5.06744917942799
+AC4LGQ_01500	AC4LGQ_01500	outer membrane-stress sensor serine endopeptidase DegS	set20TCH1073	M9+galactose	-2.31122425307308	-5.39102166801011
+AC4LGQ_01750	AC4LGQ_01750	hypothetical protein	set21TCH1125	Tuber-Atlantic	-3.80375459535156	-6.78116802346326
+AC4LGQ_01750	AC4LGQ_01750	hypothetical protein	set21TCH1126	Tuber-Atlantic	-2.53975012684176	-8.26658588772818
+AC4LGQ_01750	AC4LGQ_01750	hypothetical protein	set21TCH1128	Tuber-Atlantic	-2.96197472223529	-7.49780569346976
+AC4LGQ_01750	AC4LGQ_01750	hypothetical protein	set21TCH1127	Tuber-Atlantic	-3.04970464620992	-8.15835918651197
+AC4LGQ_01750	AC4LGQ_01750	hypothetical protein	set21TCH1129	Tuber-Atlantic	-2.16350343803799	-7.25971785776268
+AC4LGQ_01890	AC4LGQ_01890	cystathionine beta-lyase	set20TCH1080	M9+glycerol	-2.87475885514228	-7.14010835102058
+AC4LGQ_01890	AC4LGQ_01890	cystathionine beta-lyase	set20TCH1082	M9+glycerol	-2.40185467493252	-9.09846845144873
+AC4LGQ_01890	AC4LGQ_01890	cystathionine beta-lyase	set20TCH1074	M9+xylose	-2.64237802773431	-9.78643175016573
+AC4LGQ_01890	AC4LGQ_01890	cystathionine beta-lyase	set20TCH1064	M9+polygalacturonate	-3.42554271919959	-6.54887645842224
+AC4LGQ_01890	AC4LGQ_01890	cystathionine beta-lyase	set20TCH1075	M9+xylose	-2.61362167820961	-10.0075265897164
+AC4LGQ_01890	AC4LGQ_01890	cystathionine beta-lyase	set20TCH1072	M9+galactose	-2.19307165440968	-8.21597569757219
+AC4LGQ_01890	AC4LGQ_01890	cystathionine beta-lyase	set20TCH1062	M9+polygalacturonate	-3.46441771549528	-6.21453432275495
+AC4LGQ_01890	AC4LGQ_01890	cystathionine beta-lyase	set20TCH1073	M9+galactose	-2.28477320208275	-9.10340411355713
+AC4LGQ_01890	AC4LGQ_01890	cystathionine beta-lyase	set20TCH1076	M9+xylose	-2.51391854280072	-9.08871211883838
+AC4LGQ_01890	AC4LGQ_01890	cystathionine beta-lyase	set20TCH1081	M9+glycerol	-2.53725829391098	-9.50541330435798
+AC4LGQ_01890	AC4LGQ_01890	cystathionine beta-lyase	set20TCH1071	M9+galactose	-2.58904633017755	-7.87667534372584
+AC4LGQ_01890	AC4LGQ_01890	cystathionine beta-lyase	set20TCH1063	M9+polygalacturonate	-3.75399052105492	-5.13822721965863
+AC4LGQ_02070	AC4LGQ_02070	aspartate carbamoyltransferase	set21TCH1125	Tuber-Atlantic	-2.74481435540615	-7.65538110424802
+AC4LGQ_02070	AC4LGQ_02070	aspartate carbamoyltransferase	set20TCH1072	M9+galactose	-2.77333673710062	-5.25297991395379
+AC4LGQ_02070	AC4LGQ_02070	aspartate carbamoyltransferase	set20TCH1080	M9+glycerol	-2.54024832389963	-5.57280191197677
+AC4LGQ_02070	AC4LGQ_02070	aspartate carbamoyltransferase	set21TCH1126	Tuber-Atlantic	-2.74402090175886	-7.47820480900322
+AC4LGQ_02070	AC4LGQ_02070	aspartate carbamoyltransferase	set20TCH1074	M9+xylose	-3.31134177983715	-5.89151016872954
+AC4LGQ_02070	AC4LGQ_02070	aspartate carbamoyltransferase	set20TCH1075	M9+xylose	-3.05681293441574	-6.42008817099771
+AC4LGQ_02070	AC4LGQ_02070	aspartate carbamoyltransferase	set20TCH1064	M9+polygalacturonate	-3.34637268506016	-5.5354674546183
+AC4LGQ_02070	AC4LGQ_02070	aspartate carbamoyltransferase	set21TCH1127	Tuber-Atlantic	-2.15250779439185	-7.14407191267046
+AC4LGQ_02070	AC4LGQ_02070	aspartate carbamoyltransferase	set20TCH1073	M9+galactose	-3.03194359989002	-6.06596788564835
+AC4LGQ_02070	AC4LGQ_02070	aspartate carbamoyltransferase	set20TCH1081	M9+glycerol	-2.59480734562086	-6.34515386864364
+AC4LGQ_02070	AC4LGQ_02070	aspartate carbamoyltransferase	set20TCH1062	M9+polygalacturonate	-3.00571081478843	-6.01348431307031
+AC4LGQ_02070	AC4LGQ_02070	aspartate carbamoyltransferase	set20TCH1071	M9+galactose	-2.31975057710833	-5.48800793383907
+AC4LGQ_02070	AC4LGQ_02070	aspartate carbamoyltransferase	set21TCH1129	Tuber-Atlantic	-2.27901788651676	-6.7612078241504
+AC4LGQ_02090	AC4LGQ_02090	ornithine carbamoyltransferase	set20TCH1077	M9+mannose	-2.39229782503003	-6.87317238969008
+AC4LGQ_02090	AC4LGQ_02090	ornithine carbamoyltransferase	set20TCH1075	M9+xylose	-2.98793068426798	-6.84529810646285
+AC4LGQ_02090	AC4LGQ_02090	ornithine carbamoyltransferase	set20TCH1064	M9+polygalacturonate	-3.35179284915694	-6.36562302200903
+AC4LGQ_02090	AC4LGQ_02090	ornithine carbamoyltransferase	set20TCH1072	M9+galactose	-2.81167180323877	-6.44149202390906
+AC4LGQ_02090	AC4LGQ_02090	ornithine carbamoyltransferase	set20TCH1074	M9+xylose	-3.25946275564959	-6.19027251697932
+AC4LGQ_02090	AC4LGQ_02090	ornithine carbamoyltransferase	set20TCH1080	M9+glycerol	-2.96706522436041	-5.29143485413012
+AC4LGQ_02090	AC4LGQ_02090	ornithine carbamoyltransferase	set20TCH1063	M9+polygalacturonate	-3.4849162572388	-5.77639624314918
+AC4LGQ_02090	AC4LGQ_02090	ornithine carbamoyltransferase	set20TCH1082	M9+glycerol	-2.38830947715734	-6.55597039039655
+AC4LGQ_02090	AC4LGQ_02090	ornithine carbamoyltransferase	set20TCH1061	M9+glucose	-2.14102566817289	-5.25892296976733
+AC4LGQ_02090	AC4LGQ_02090	ornithine carbamoyltransferase	set20TCH1070	M9+cellobiose	-2.45204599929985	-6.73092876825741
+AC4LGQ_02090	AC4LGQ_02090	ornithine carbamoyltransferase	set20TCH1059	M9+glucose	-2.74808757713368	-6.96136966362918
+AC4LGQ_02090	AC4LGQ_02090	ornithine carbamoyltransferase	set20TCH1081	M9+glycerol	-3.14840139026996	-5.97934815019031
+AC4LGQ_02090	AC4LGQ_02090	ornithine carbamoyltransferase	set20TCH1076	M9+xylose	-3.06541337402542	-6.74908435902421
+AC4LGQ_02090	AC4LGQ_02090	ornithine carbamoyltransferase	set20TCH1073	M9+galactose	-2.77762136012295	-6.82256966332055
+AC4LGQ_02090	AC4LGQ_02090	ornithine carbamoyltransferase	set20TCH1062	M9+polygalacturonate	-3.69138410190728	-5.03537275254119
+AC4LGQ_02090	AC4LGQ_02090	ornithine carbamoyltransferase	set20TCH1071	M9+galactose	-2.76723477915036	-5.83103994159924
+AC4LGQ_03385	AC4LGQ_03385	GntR family transcriptional regulator	set21TCH1129	Tuber-Atlantic	2.20743265359157	8.73859041784546
+AC4LGQ_05255	AC4LGQ_05255	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1074	M9+xylose	-3.56652448547534	-5.41260617243976
+AC4LGQ_05255	AC4LGQ_05255	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1081	M9+glycerol	-2.49836585502491	-7.44797183396339
+AC4LGQ_05255	AC4LGQ_05255	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1073	M9+galactose	-3.06604891134782	-6.44875693353884
+AC4LGQ_05255	AC4LGQ_05255	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1076	M9+xylose	-3.36740064410993	-6.74591190705934
+AC4LGQ_05255	AC4LGQ_05255	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1064	M9+polygalacturonate	-2.95942461309779	-7.25089688203399
+AC4LGQ_05255	AC4LGQ_05255	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1082	M9+glycerol	-2.55342415683924	-6.63732099133799
+AC4LGQ_05255	AC4LGQ_05255	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1070	M9+cellobiose	-2.4686526092714	-6.91470341741928
+AC4LGQ_05255	AC4LGQ_05255	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1071	M9+galactose	-2.86516125112458	-5.73977600004741
+AC4LGQ_05255	AC4LGQ_05255	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1077	M9+mannose	-2.95731336478178	-6.49795297715613
+AC4LGQ_05255	AC4LGQ_05255	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1063	M9+polygalacturonate	-3.39545065317324	-6.04739363772849
+AC4LGQ_05255	AC4LGQ_05255	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1062	M9+polygalacturonate	-3.29008167679547	-6.59101886124357
+AC4LGQ_05255	AC4LGQ_05255	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1078	M9+mannose	-2.63497898864924	-6.84931303177818
+AC4LGQ_05255	AC4LGQ_05255	bifunctional chorismate mutase/prephenate dehydrogenase	set20TCH1075	M9+xylose	-3.07976662367042	-7.299352151991
+AC4LGQ_05260	AC4LGQ_05260	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1080	M9+glycerol	-2.54308766059349	-5.09002349307053
+AC4LGQ_05260	AC4LGQ_05260	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1081	M9+glycerol	-2.33783527350757	-6.53688349313487
+AC4LGQ_05260	AC4LGQ_05260	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1075	M9+xylose	-2.50806730192638	-6.13683411414437
+AC4LGQ_05260	AC4LGQ_05260	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1074	M9+xylose	-2.66369969159885	-6.0821033607368
+AC4LGQ_05260	AC4LGQ_05260	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1063	M9+polygalacturonate	-2.51720545804899	-6.70855659478362
+AC4LGQ_05260	AC4LGQ_05260	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1059	M9+glucose	-2.18056074403014	-6.09712399113666
+AC4LGQ_05260	AC4LGQ_05260	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1082	M9+glycerol	-2.38244699499972	-5.82946158694595
+AC4LGQ_05260	AC4LGQ_05260	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1077	M9+mannose	-2.54351857431432	-6.60165610948469
+AC4LGQ_05260	AC4LGQ_05260	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1076	M9+xylose	-3.04501079593696	-6.09462926824763
+AC4LGQ_05260	AC4LGQ_05260	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1072	M9+galactose	-2.04590707657353	-5.7206152841025
+AC4LGQ_05260	AC4LGQ_05260	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1062	M9+polygalacturonate	-2.56626334365057	-6.27923039429476
+AC4LGQ_05260	AC4LGQ_05260	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1073	M9+galactose	-2.55061374458118	-5.59832274914702
+AC4LGQ_05260	AC4LGQ_05260	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1071	M9+galactose	-2.0194485996336	-5.64663403182092
+AC4LGQ_05260	AC4LGQ_05260	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1070	M9+cellobiose	-2.15776209552788	-6.41990416742488
+AC4LGQ_05260	AC4LGQ_05260	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1064	M9+polygalacturonate	-2.63008589911281	-6.00535200588577
+AC4LGQ_05260	AC4LGQ_05260	bifunctional chorismate mutase/prephenate dehydratase	set20TCH1078	M9+mannose	-2.3475629593352	-5.74410600659905
+AC4LGQ_05420	AC4LGQ_05420	pantoate--beta-alanine ligase	set20TCH1063	M9+polygalacturonate	-2.10154018321971	-5.01320218687937
+AC4LGQ_05420	AC4LGQ_05420	pantoate--beta-alanine ligase	set20TCH1064	M9+polygalacturonate	-2.42471229013515	-5.41495135979352
+AC4LGQ_05425	AC4LGQ_05425	3-methyl-2-oxobutanoate hydroxymethyltransferase	set20TCH1064	M9+polygalacturonate	-2.5096647256407	-5.14875933428471
+AC4LGQ_05645	AC4LGQ_05645	L-aspartate oxidase	set20TCH1062	M9+polygalacturonate	-2.8058543952254	-8.79620671515524
+AC4LGQ_05645	AC4LGQ_05645	L-aspartate oxidase	set20TCH1063	M9+polygalacturonate	-2.72502090720077	-8.6922530000474
+AC4LGQ_05645	AC4LGQ_05645	L-aspartate oxidase	set20TCH1064	M9+polygalacturonate	-2.66849768959994	-9.05753366483361
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set20TCH1080	M9+glycerol	-3.14262017682816	-8.06617158723535
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set20TCH1075	M9+xylose	-3.20571985852173	-10.5070719621227
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set20TCH1062	M9+polygalacturonate	-3.6253506762497	-7.70878559300933
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set21TCH1125	Tuber-Atlantic	-2.78933962289625	-11.9107967219934
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set21TCH1128	Tuber-Atlantic	-2.34740662060993	-9.29907589782736
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set20TCH1077	M9+mannose	-2.16277352315795	-10.1891729987787
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set21TCH1126	Tuber-Atlantic	-3.06731297549495	-12.6245571773591
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set20TCH1063	M9+polygalacturonate	-3.46432461930181	-9.15733247708796
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set20TCH1082	M9+glycerol	-3.06544785598595	-10.5264553986384
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set20TCH1074	M9+xylose	-3.64146965357401	-9.34656986931341
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set20TCH1071	M9+galactose	-2.54796048307422	-9.35065682978957
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set20TCH1073	M9+galactose	-2.93923120813737	-10.09303947491
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set20TCH1081	M9+glycerol	-3.15391953575429	-10.3372911506361
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set21TCH1129	Tuber-Atlantic	-2.49421520742219	-10.2523658794083
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set21TCH1130	Tuber-Atlantic	-3.09517934557795	-13.0388986663396
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set20TCH1072	M9+galactose	-2.80653757807725	-8.72250396048925
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set20TCH1076	M9+xylose	-3.38662352359119	-10.722438099748
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set20TCH1064	M9+polygalacturonate	-3.90364932318259	-5.95780625304295
+AC4LGQ_05775	AC4LGQ_05775	phosphoribosylformylglycinamidine synthase	set21TCH1127	Tuber-Atlantic	-2.88865345303833	-13.4953653552234
+AC4LGQ_06160	AC4LGQ_06160	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase	set20TCH1064	M9+polygalacturonate	-2.91617632461594	-6.61688691660244
+AC4LGQ_06160	AC4LGQ_06160	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase	set20TCH1062	M9+polygalacturonate	-3.29764710862662	-6.2213620105966
+AC4LGQ_06160	AC4LGQ_06160	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase	set20TCH1063	M9+polygalacturonate	-3.42081417172633	-6.45372977527364
+AC4LGQ_06280	AC4LGQ_06280	galactose-1-phosphate uridylyltransferase	set20TCH1064	M9+polygalacturonate	-2.70427377702609	-5.84893617625434
+AC4LGQ_06280	AC4LGQ_06280	galactose-1-phosphate uridylyltransferase	set20TCH1062	M9+polygalacturonate	-2.79321651659599	-5.52253963291942
+AC4LGQ_06280	AC4LGQ_06280	galactose-1-phosphate uridylyltransferase	set20TCH1073	M9+galactose	-2.77799290084391	-5.75891242699306
+AC4LGQ_06285	AC4LGQ_06285	galactokinase	set20TCH1063	M9+polygalacturonate	-3.17960664528564	-6.93178100502512
+AC4LGQ_06285	AC4LGQ_06285	galactokinase	set20TCH1073	M9+galactose	-3.32109131987093	-6.26107135376915
+AC4LGQ_06285	AC4LGQ_06285	galactokinase	set20TCH1071	M9+galactose	-3.14609037358297	-5.18557765519344
+AC4LGQ_06285	AC4LGQ_06285	galactokinase	set20TCH1062	M9+polygalacturonate	-3.32583918651891	-6.61927851095331
+AC4LGQ_06285	AC4LGQ_06285	galactokinase	set20TCH1072	M9+galactose	-2.58620849886119	-5.40052385339542
+AC4LGQ_06355	AC4LGQ_06355	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1126	Tuber-Atlantic	-2.41665921804887	-5.34715255656574
+AC4LGQ_06355	AC4LGQ_06355	5-(carboxyamino)imidazole ribonucleotide synthase	set21TCH1125	Tuber-Atlantic	-2.56547623055172	-5.67642830339926
+AC4LGQ_06360	AC4LGQ_06360	5-(carboxyamino)imidazole ribonucleotide mutase	set20TCH1073	M9+galactose	-3.40721231074593	-5.11721400426836
+AC4LGQ_06360	AC4LGQ_06360	5-(carboxyamino)imidazole ribonucleotide mutase	set20TCH1077	M9+mannose	-3.09352568642928	-5.43142877296172
+AC4LGQ_06360	AC4LGQ_06360	5-(carboxyamino)imidazole ribonucleotide mutase	set21TCH1130	Tuber-Atlantic	-2.62569939882855	-6.26106727695505
+AC4LGQ_06360	AC4LGQ_06360	5-(carboxyamino)imidazole ribonucleotide mutase	set21TCH1126	Tuber-Atlantic	-3.43454825933904	-6.0288659284089
+AC4LGQ_06360	AC4LGQ_06360	5-(carboxyamino)imidazole ribonucleotide mutase	set20TCH1074	M9+xylose	-3.33245077426142	-5.44946586062313
+AC4LGQ_06360	AC4LGQ_06360	5-(carboxyamino)imidazole ribonucleotide mutase	set21TCH1125	Tuber-Atlantic	-3.41597543529769	-6.37223995571539
+AC4LGQ_06360	AC4LGQ_06360	5-(carboxyamino)imidazole ribonucleotide mutase	set21TCH1127	Tuber-Atlantic	-3.0851311607114	-5.75507535791004
+AC4LGQ_06360	AC4LGQ_06360	5-(carboxyamino)imidazole ribonucleotide mutase	set20TCH1076	M9+xylose	-3.34862808865307	-5.47592018162158
+AC4LGQ_06360	AC4LGQ_06360	5-(carboxyamino)imidazole ribonucleotide mutase	set20TCH1059	M9+glucose	-2.77474383997357	-5.72145821280039
+AC4LGQ_06985	AC4LGQ_06985	4-phosphoerythronate dehydrogenase PdxB	set20TCH1074	M9+xylose	-2.46950617550907	-5.73686998834236
+AC4LGQ_06985	AC4LGQ_06985	4-phosphoerythronate dehydrogenase PdxB	set20TCH1063	M9+polygalacturonate	-3.55728517729814	-5.83171453046881
+AC4LGQ_06985	AC4LGQ_06985	4-phosphoerythronate dehydrogenase PdxB	set20TCH1080	M9+glycerol	-2.8016309138466	-5.24459112381818
+AC4LGQ_06985	AC4LGQ_06985	4-phosphoerythronate dehydrogenase PdxB	set20TCH1081	M9+glycerol	-2.65945956526174	-5.96705662678508
+AC4LGQ_06985	AC4LGQ_06985	4-phosphoerythronate dehydrogenase PdxB	set20TCH1062	M9+polygalacturonate	-3.14612813367783	-5.8894823021591
+AC4LGQ_06985	AC4LGQ_06985	4-phosphoerythronate dehydrogenase PdxB	set20TCH1064	M9+polygalacturonate	-3.59296682699953	-5.89021003607591
+AC4LGQ_07025	AC4LGQ_07025	amidophosphoribosyltransferase	set21TCH1125	Tuber-Atlantic	-2.44662915793165	-7.0749560391482
+AC4LGQ_07025	AC4LGQ_07025	amidophosphoribosyltransferase	set20TCH1071	M9+galactose	-2.69218911021849	-6.1492729069094
+AC4LGQ_07025	AC4LGQ_07025	amidophosphoribosyltransferase	set20TCH1073	M9+galactose	-2.63833640327392	-7.38093684776604
+AC4LGQ_07025	AC4LGQ_07025	amidophosphoribosyltransferase	set20TCH1059	M9+glucose	-2.24731734457184	-7.27922139101804
+AC4LGQ_07025	AC4LGQ_07025	amidophosphoribosyltransferase	set20TCH1080	M9+glycerol	-3.23719732225635	-5.76268172217906
+AC4LGQ_07025	AC4LGQ_07025	amidophosphoribosyltransferase	set21TCH1126	Tuber-Atlantic	-2.53183280390054	-8.85350383855675
+AC4LGQ_07025	AC4LGQ_07025	amidophosphoribosyltransferase	set20TCH1075	M9+xylose	-2.71838766131057	-7.42999689689747
+AC4LGQ_07025	AC4LGQ_07025	amidophosphoribosyltransferase	set21TCH1128	Tuber-Atlantic	-2.53586831216279	-8.01949739237732
+AC4LGQ_07025	AC4LGQ_07025	amidophosphoribosyltransferase	set20TCH1072	M9+galactose	-2.41445606116672	-6.09383457833915
+AC4LGQ_07025	AC4LGQ_07025	amidophosphoribosyltransferase	set21TCH1129	Tuber-Atlantic	-2.99141142503071	-8.0187087570924
+AC4LGQ_07025	AC4LGQ_07025	amidophosphoribosyltransferase	set20TCH1063	M9+polygalacturonate	-3.49661860455362	-6.22448930850089
+AC4LGQ_07025	AC4LGQ_07025	amidophosphoribosyltransferase	set21TCH1127	Tuber-Atlantic	-2.53459482380963	-9.66515636888793
+AC4LGQ_07025	AC4LGQ_07025	amidophosphoribosyltransferase	set20TCH1082	M9+glycerol	-2.62237031077373	-6.99211184355791
+AC4LGQ_07025	AC4LGQ_07025	amidophosphoribosyltransferase	set21TCH1130	Tuber-Atlantic	-2.84117634772532	-8.34742908822628
+AC4LGQ_07025	AC4LGQ_07025	amidophosphoribosyltransferase	set20TCH1081	M9+glycerol	-2.50842349719452	-7.46758250246861
+AC4LGQ_07025	AC4LGQ_07025	amidophosphoribosyltransferase	set20TCH1076	M9+xylose	-2.97877954389871	-7.51812802801131
+AC4LGQ_07025	AC4LGQ_07025	amidophosphoribosyltransferase	set20TCH1074	M9+xylose	-3.34209442323965	-7.02449922355278
+AC4LGQ_07305	AC4LGQ_07305	MurR/RpiR family transcriptional regulator	set21TCH1126	Tuber-Atlantic	2.24516431970462	7.22806162568382
+AC4LGQ_07305	AC4LGQ_07305	MurR/RpiR family transcriptional regulator	set21TCH1127	Tuber-Atlantic	2.65860733650672	9.79636445394269
+AC4LGQ_07305	AC4LGQ_07305	MurR/RpiR family transcriptional regulator	set21TCH1129	Tuber-Atlantic	3.22816563341852	8.84704169022388
+AC4LGQ_07305	AC4LGQ_07305	MurR/RpiR family transcriptional regulator	set21TCH1125	Tuber-Atlantic	2.85503885993292	9.05743578399719
+AC4LGQ_07305	AC4LGQ_07305	MurR/RpiR family transcriptional regulator	set21TCH1130	Tuber-Atlantic	2.39252402826664	7.16710006053057
+AC4LGQ_07305	AC4LGQ_07305	MurR/RpiR family transcriptional regulator	set21TCH1128	Tuber-Atlantic	2.83016322475077	9.38059186172738
+AC4LGQ_07580	AC4LGQ_07580	contact-dependent growth inhibition system immunity protein	set21TCH1125	Tuber-Atlantic	-2.58995564229995	-5.7019326171914
+AC4LGQ_08600	AC4LGQ_08600	flagellar transcriptional regulator FlhD	set21TCH1130	Tuber-Atlantic	2.43311527281249	12.594020071222
+AC4LGQ_08600	AC4LGQ_08600	flagellar transcriptional regulator FlhD	set21TCH1127	Tuber-Atlantic	2.21976867247762	14.8129746031759
+AC4LGQ_08605	AC4LGQ_08605	flagellar transcriptional regulator FlhC	set21TCH1129	Tuber-Atlantic	2.02004884022924	15.0606786656085
+AC4LGQ_08605	AC4LGQ_08605	flagellar transcriptional regulator FlhC	set21TCH1130	Tuber-Atlantic	2.35398101212164	18.5698752112775
+AC4LGQ_08605	AC4LGQ_08605	flagellar transcriptional regulator FlhC	set21TCH1127	Tuber-Atlantic	2.35646706011348	19.3318236690794
+AC4LGQ_09255	AC4LGQ_09255	heme ABC transporter ATP-binding protein/permease CydC	set21TCH1128	Tuber-Atlantic	-2.04940147636077	-5.57614665033296
+AC4LGQ_09365	AC4LGQ_09365	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set20TCH1076	M9+xylose	-3.1582686500838	-5.10167668882749
+AC4LGQ_09365	AC4LGQ_09365	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	set20TCH1082	M9+glycerol	-2.82058559232616	-5.17981286985407
+AC4LGQ_09395	AC4LGQ_09395	histidinol dehydrogenase	set20TCH1080	M9+glycerol	-3.1657142142197	-5.1927922690311
+AC4LGQ_09395	AC4LGQ_09395	histidinol dehydrogenase	set20TCH1074	M9+xylose	-3.37861936789054	-6.3294823503161
+AC4LGQ_09395	AC4LGQ_09395	histidinol dehydrogenase	set20TCH1073	M9+galactose	-3.16967968399287	-5.58496011402761
+AC4LGQ_09395	AC4LGQ_09395	histidinol dehydrogenase	set20TCH1075	M9+xylose	-3.28542003277518	-6.15488335515251
+AC4LGQ_09395	AC4LGQ_09395	histidinol dehydrogenase	set20TCH1081	M9+glycerol	-3.46700924382713	-5.68701328665021
+AC4LGQ_09395	AC4LGQ_09395	histidinol dehydrogenase	set20TCH1070	M9+cellobiose	-2.2707567876435	-6.32648137214265
+AC4LGQ_09395	AC4LGQ_09395	histidinol dehydrogenase	set20TCH1076	M9+xylose	-3.28639728289347	-6.1567141288213
+AC4LGQ_09395	AC4LGQ_09395	histidinol dehydrogenase	set20TCH1082	M9+glycerol	-3.2239679874738	-6.37161881355782
+AC4LGQ_09400	AC4LGQ_09400	ATP phosphoribosyltransferase	set20TCH1081	M9+glycerol	-2.3013043518194	-5.05690396644383
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set21TCH1127	Tuber-Atlantic	-2.62253178501071	-18.2589133709725
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set20TCH1062	M9+polygalacturonate	-3.65491611765284	-14.8030754976327
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set21TCH1126	Tuber-Atlantic	-2.94083930540526	-18.9301728880659
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set21TCH1129	Tuber-Atlantic	-2.73120482458335	-17.2087374420125
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set20TCH1081	M9+glycerol	-2.86323465996087	-17.4077490666266
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set20TCH1063	M9+polygalacturonate	-3.6220950542653	-15.2178680287955
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set20TCH1072	M9+galactose	-2.74176477583334	-14.3547565026198
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set20TCH1080	M9+glycerol	-3.17088771373463	-15.3019998645771
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set20TCH1075	M9+xylose	-3.29746719831947	-16.7423240617174
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set20TCH1076	M9+xylose	-3.21120888112773	-16.5999851902815
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set20TCH1071	M9+galactose	-2.8867986824202	-14.0839892759621
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set21TCH1125	Tuber-Atlantic	-2.82279655144191	-18.9467422245816
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set20TCH1074	M9+xylose	-3.39180494237201	-16.6358514452812
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set20TCH1073	M9+galactose	-2.96519813646948	-16.1893384618326
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set20TCH1082	M9+glycerol	-2.82072728101255	-16.4655884327209
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set21TCH1130	Tuber-Atlantic	-2.84024626527986	-18.0287170333503
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set21TCH1128	Tuber-Atlantic	-2.6271282953842	-17.2640576804899
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set20TCH1077	M9+mannose	-2.5789913336066	-16.0067091156864
+AC4LGQ_09640	AC4LGQ_09640	quinone-dependent dihydroorotate dehydrogenase	set20TCH1064	M9+polygalacturonate	-3.79498751275111	-14.4242688522996
+AC4LGQ_09930	AC4LGQ_09930	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase	set21TCH1125	Tuber-Atlantic	-2.71153768829431	-5.52039412703616
+AC4LGQ_09930	AC4LGQ_09930	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase	set20TCH1067	M9+fructose	-2.35956264279163	-5.01779680710778
+AC4LGQ_10030	AC4LGQ_10030	carboxy terminal-processing peptidase	set21TCH1126	Tuber-Atlantic	-2.25609399253886	-6.39613085147223
+AC4LGQ_10030	AC4LGQ_10030	carboxy terminal-processing peptidase	set21TCH1124	LB	-2.57981569589668	-5.78673194527475
+AC4LGQ_10030	AC4LGQ_10030	carboxy terminal-processing peptidase	set21TCH1123	LB	-3.0953956828199	-5.44948312084936
+AC4LGQ_10030	AC4LGQ_10030	carboxy terminal-processing peptidase	set21TCH1129	Tuber-Atlantic	-2.4469335640457	-5.48866674683389
+AC4LGQ_10030	AC4LGQ_10030	carboxy terminal-processing peptidase	set21TCH1127	Tuber-Atlantic	-2.82498611855781	-6.56070240593189
+AC4LGQ_10030	AC4LGQ_10030	carboxy terminal-processing peptidase	set21TCH1128	Tuber-Atlantic	-2.14663854001438	-5.58487329091987
+AC4LGQ_10030	AC4LGQ_10030	carboxy terminal-processing peptidase	set21TCH1125	Tuber-Atlantic	-2.83253202910553	-6.7909949589321
+AC4LGQ_10030	AC4LGQ_10030	carboxy terminal-processing peptidase	set21TCH1122	LB	-2.9588330411583	-5.84143730706124
+AC4LGQ_10480	AC4LGQ_10480	oligogalacturonate lyase	set20TCH1062	M9+polygalacturonate	-2.65408143925046	-9.78002017761479
+AC4LGQ_10480	AC4LGQ_10480	oligogalacturonate lyase	set20TCH1064	M9+polygalacturonate	-2.51142563154897	-9.73192280511907
+AC4LGQ_10480	AC4LGQ_10480	oligogalacturonate lyase	set20TCH1063	M9+polygalacturonate	-2.52917831735394	-9.61459054993389
+AC4LGQ_10590	AC4LGQ_10590	ABC transporter substrate-binding protein	set20TCH1064	M9+polygalacturonate	-2.35019554873238	-7.43505851795801
+AC4LGQ_10590	AC4LGQ_10590	ABC transporter substrate-binding protein	set20TCH1063	M9+polygalacturonate	-2.80688487536538	-7.62538006114681
+AC4LGQ_10590	AC4LGQ_10590	ABC transporter substrate-binding protein	set20TCH1062	M9+polygalacturonate	-2.80837615260318	-7.25240804201446
+AC4LGQ_10595	AC4LGQ_10595	ABC transporter ATP-binding protein	set20TCH1064	M9+polygalacturonate	-2.31157342623843	-7.70991792730989
+AC4LGQ_10595	AC4LGQ_10595	ABC transporter ATP-binding protein	set20TCH1063	M9+polygalacturonate	-2.76510355860899	-7.83405320881947
+AC4LGQ_10595	AC4LGQ_10595	ABC transporter ATP-binding protein	set20TCH1062	M9+polygalacturonate	-3.13213791276582	-7.1118974100191
+AC4LGQ_10600	AC4LGQ_10600	carbohydrate ABC transporter permease	set20TCH1064	M9+polygalacturonate	-2.6773639031854	-7.2123617714336
+AC4LGQ_10600	AC4LGQ_10600	carbohydrate ABC transporter permease	set20TCH1063	M9+polygalacturonate	-3.08655883538621	-6.97860891767659
+AC4LGQ_10600	AC4LGQ_10600	carbohydrate ABC transporter permease	set20TCH1062	M9+polygalacturonate	-2.26437000535805	-6.74607018848221
+AC4LGQ_10605	AC4LGQ_10605	carbohydrate ABC transporter permease	set20TCH1063	M9+polygalacturonate	-2.78867845747092	-14.2721463729381
+AC4LGQ_10605	AC4LGQ_10605	carbohydrate ABC transporter permease	set20TCH1062	M9+polygalacturonate	-2.85318722917267	-15.0198707389352
+AC4LGQ_10605	AC4LGQ_10605	carbohydrate ABC transporter permease	set20TCH1064	M9+polygalacturonate	-3.00877039035841	-15.463738763999
+AC4LGQ_10610	AC4LGQ_10610	pectate disaccharide-lyase PelW	set20TCH1063	M9+polygalacturonate	-2.47985034558744	-13.9785626551427
+AC4LGQ_10610	AC4LGQ_10610	pectate disaccharide-lyase PelW	set20TCH1064	M9+polygalacturonate	-2.51626170598176	-14.1838082997182
+AC4LGQ_10610	AC4LGQ_10610	pectate disaccharide-lyase PelW	set20TCH1062	M9+polygalacturonate	-2.39123716299462	-13.8430330509337
+AC4LGQ_10615	AC4LGQ_10615	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD	set21TCH1129	Tuber-Atlantic	-2.02707848751076	-5.22187864240178
+AC4LGQ_10615	AC4LGQ_10615	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD	set20TCH1062	M9+polygalacturonate	-2.58094801893854	-5.28217225081808
+AC4LGQ_10615	AC4LGQ_10615	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD	set20TCH1064	M9+polygalacturonate	-3.36502017486253	-5.03374867273905
+AC4LGQ_10615	AC4LGQ_10615	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD	set21TCH1125	Tuber-Atlantic	-2.02444983829444	-5.87471346422899
+AC4LGQ_10615	AC4LGQ_10615	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD	set21TCH1128	Tuber-Atlantic	-2.00990467835895	-5.29860216670443
+AC4LGQ_10805	AC4LGQ_10805	disulfide bond formation protein DsbB	set21TCH1129	Tuber-Atlantic	3.28391033956486	7.43634372958423
+AC4LGQ_10805	AC4LGQ_10805	disulfide bond formation protein DsbB	set21TCH1130	Tuber-Atlantic	3.40511721639164	8.81992358966167
+AC4LGQ_10805	AC4LGQ_10805	disulfide bond formation protein DsbB	set21TCH1126	Tuber-Atlantic	3.83408647646336	5.99271142578037
+AC4LGQ_10805	AC4LGQ_10805	disulfide bond formation protein DsbB	set21TCH1125	Tuber-Atlantic	2.29903534456107	5.36061638728877
+AC4LGQ_10805	AC4LGQ_10805	disulfide bond formation protein DsbB	set21TCH1127	Tuber-Atlantic	2.98344287545023	7.54297830898627
+AC4LGQ_10985	AC4LGQ_10985	formyltetrahydrofolate deformylase	set20TCH1062	M9+polygalacturonate	-3.47425627094657	-5.23448825489237
+AC4LGQ_10985	AC4LGQ_10985	formyltetrahydrofolate deformylase	set20TCH1073	M9+galactose	-2.04315805943191	-6.03149725641465
+AC4LGQ_10985	AC4LGQ_10985	formyltetrahydrofolate deformylase	set20TCH1075	M9+xylose	-2.6309385684419	-6.86928143467985
+AC4LGQ_10985	AC4LGQ_10985	formyltetrahydrofolate deformylase	set20TCH1081	M9+glycerol	-2.49070208228168	-6.95291885660356
+AC4LGQ_10985	AC4LGQ_10985	formyltetrahydrofolate deformylase	set20TCH1080	M9+glycerol	-2.51664650078597	-5.86121139533865
+AC4LGQ_10985	AC4LGQ_10985	formyltetrahydrofolate deformylase	set20TCH1076	M9+xylose	-2.44895007327214	-6.97232031030974
+AC4LGQ_10985	AC4LGQ_10985	formyltetrahydrofolate deformylase	set20TCH1064	M9+polygalacturonate	-3.32506447692426	-5.86335037994006
+AC4LGQ_10985	AC4LGQ_10985	formyltetrahydrofolate deformylase	set20TCH1074	M9+xylose	-2.54986042143259	-6.9708479858044
+AC4LGQ_10985	AC4LGQ_10985	formyltetrahydrofolate deformylase	set20TCH1070	M9+cellobiose	-2.02302907290041	-6.07268046903194
+AC4LGQ_10985	AC4LGQ_10985	formyltetrahydrofolate deformylase	set20TCH1063	M9+polygalacturonate	-3.45507976982008	-5.20559597922578
+AC4LGQ_10985	AC4LGQ_10985	formyltetrahydrofolate deformylase	set20TCH1082	M9+glycerol	-3.26289652193831	-6.1181177860799
+AC4LGQ_11005	AC4LGQ_11005	UTP--glucose-1-phosphate uridylyltransferase GalU	set20TCH1062	M9+polygalacturonate	-3.38221273478958	-5.49698460504109
+AC4LGQ_11005	AC4LGQ_11005	UTP--glucose-1-phosphate uridylyltransferase GalU	set20TCH1073	M9+galactose	-3.49725298197281	-5.22528507485237
+AC4LGQ_11005	AC4LGQ_11005	UTP--glucose-1-phosphate uridylyltransferase GalU	set20TCH1071	M9+galactose	-2.69236844123791	-5.25052507955954
+AC4LGQ_11005	AC4LGQ_11005	UTP--glucose-1-phosphate uridylyltransferase GalU	set20TCH1064	M9+polygalacturonate	-2.80098272561923	-6.39590074933853
+AC4LGQ_11005	AC4LGQ_11005	UTP--glucose-1-phosphate uridylyltransferase GalU	set20TCH1063	M9+polygalacturonate	-2.90662617468976	-5.66836001839922
+AC4LGQ_11005	AC4LGQ_11005	UTP--glucose-1-phosphate uridylyltransferase GalU	set20TCH1072	M9+galactose	-2.33819595218964	-5.16259515510476
+AC4LGQ_11480	AC4LGQ_11480	tryptophan synthase subunit alpha	set20TCH1062	M9+polygalacturonate	-3.00407638637095	-5.94060977654649
+AC4LGQ_11480	AC4LGQ_11480	tryptophan synthase subunit alpha	set20TCH1081	M9+glycerol	-3.05340159196764	-6.3312230693095
+AC4LGQ_11480	AC4LGQ_11480	tryptophan synthase subunit alpha	set20TCH1070	M9+cellobiose	-2.15558673193863	-6.01279071535918
+AC4LGQ_11480	AC4LGQ_11480	tryptophan synthase subunit alpha	set20TCH1075	M9+xylose	-3.20697780008343	-5.65337869103946
+AC4LGQ_11480	AC4LGQ_11480	tryptophan synthase subunit alpha	set20TCH1059	M9+glucose	-2.4869116397118	-6.32616603258905
+AC4LGQ_11480	AC4LGQ_11480	tryptophan synthase subunit alpha	set20TCH1064	M9+polygalacturonate	-3.25336469985983	-6.09812288816057
+AC4LGQ_11480	AC4LGQ_11480	tryptophan synthase subunit alpha	set20TCH1080	M9+glycerol	-2.87206057723244	-5.3834045543555
+AC4LGQ_11480	AC4LGQ_11480	tryptophan synthase subunit alpha	set20TCH1082	M9+glycerol	-2.89350315609819	-5.99967393126415
+AC4LGQ_11480	AC4LGQ_11480	tryptophan synthase subunit alpha	set20TCH1063	M9+polygalacturonate	-2.75346987273607	-6.40932673806253
+AC4LGQ_11480	AC4LGQ_11480	tryptophan synthase subunit alpha	set20TCH1071	M9+galactose	-2.99114490845186	-5.27290051300417
+AC4LGQ_11480	AC4LGQ_11480	tryptophan synthase subunit alpha	set20TCH1072	M9+galactose	-2.72915828083675	-5.11554778303846
+AC4LGQ_11480	AC4LGQ_11480	tryptophan synthase subunit alpha	set20TCH1076	M9+xylose	-2.89933847471854	-6.2723147249542
+AC4LGQ_11480	AC4LGQ_11480	tryptophan synthase subunit alpha	set20TCH1074	M9+xylose	-3.15731342563143	-5.91808390457092
+AC4LGQ_11480	AC4LGQ_11480	tryptophan synthase subunit alpha	set20TCH1077	M9+mannose	-2.86556915647978	-6.1992595111916
+AC4LGQ_11480	AC4LGQ_11480	tryptophan synthase subunit alpha	set20TCH1073	M9+galactose	-2.89915675836494	-6.01139666606265
+AC4LGQ_11490	AC4LGQ_11490	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1074	M9+xylose	-2.98662765083212	-6.66984018057205
+AC4LGQ_11490	AC4LGQ_11490	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1064	M9+polygalacturonate	-3.70931876728041	-5.57094076067929
+AC4LGQ_11490	AC4LGQ_11490	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1059	M9+glucose	-2.32952956497058	-6.16692116263166
+AC4LGQ_11490	AC4LGQ_11490	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1076	M9+xylose	-3.08441984117941	-5.75516046109646
+AC4LGQ_11490	AC4LGQ_11490	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1081	M9+glycerol	-2.84453049387311	-6.57502568122214
+AC4LGQ_11490	AC4LGQ_11490	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1082	M9+glycerol	-2.72448511998372	-6.297545296345
+AC4LGQ_11490	AC4LGQ_11490	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1075	M9+xylose	-2.50953606274779	-6.49055369694336
+AC4LGQ_11490	AC4LGQ_11490	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1072	M9+galactose	-2.84303057135711	-5.59370384720687
+AC4LGQ_11490	AC4LGQ_11490	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1070	M9+cellobiose	-2.44256932391161	-6.16162529902899
+AC4LGQ_11490	AC4LGQ_11490	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1062	M9+polygalacturonate	-3.53973956965459	-5.78843957405635
+AC4LGQ_11490	AC4LGQ_11490	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1080	M9+glycerol	-3.06553842245987	-5.01299137159079
+AC4LGQ_11490	AC4LGQ_11490	bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF	set20TCH1073	M9+galactose	-3.41278424812428	-5.58083299938542
+AC4LGQ_11495	AC4LGQ_11495	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1076	M9+xylose	-2.87362984158947	-7.58882182313584
+AC4LGQ_11495	AC4LGQ_11495	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1082	M9+glycerol	-2.08671756263122	-6.56579694770441
+AC4LGQ_11495	AC4LGQ_11495	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1074	M9+xylose	-2.14250431655093	-6.54962068721078
+AC4LGQ_11495	AC4LGQ_11495	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1075	M9+xylose	-3.45636931018272	-6.88227907390972
+AC4LGQ_11495	AC4LGQ_11495	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1081	M9+glycerol	-3.09784957708441	-7.97102448898269
+AC4LGQ_11495	AC4LGQ_11495	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1062	M9+polygalacturonate	-2.89624809252566	-7.45228710989229
+AC4LGQ_11495	AC4LGQ_11495	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1064	M9+polygalacturonate	-2.80740958402547	-6.44787174161504
+AC4LGQ_11495	AC4LGQ_11495	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1071	M9+galactose	-2.17069072358783	-6.00886130138977
+AC4LGQ_11495	AC4LGQ_11495	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1063	M9+polygalacturonate	-3.34614952978596	-6.3109548397633
+AC4LGQ_11495	AC4LGQ_11495	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1072	M9+galactose	-2.52643092117039	-5.93740008259936
+AC4LGQ_11495	AC4LGQ_11495	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1080	M9+glycerol	-2.68721580246565	-6.72408327212019
+AC4LGQ_11495	AC4LGQ_11495	bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD	set20TCH1073	M9+galactose	-2.49488770200026	-6.90629669208887
+AC4LGQ_11500	AC4LGQ_11500	anthranilate synthase component 1	set20TCH1059	M9+glucose	-2.13615321391286	-5.30358801215783
+AC4LGQ_11500	AC4LGQ_11500	anthranilate synthase component 1	set20TCH1075	M9+xylose	-2.97664955046229	-5.18576402391522
+AC4LGQ_11500	AC4LGQ_11500	anthranilate synthase component 1	set20TCH1070	M9+cellobiose	-2.57732469313682	-5.47799877236476
+AC4LGQ_11500	AC4LGQ_11500	anthranilate synthase component 1	set20TCH1073	M9+galactose	-2.48407538974695	-5.27980117201822
+AC4LGQ_11500	AC4LGQ_11500	anthranilate synthase component 1	set20TCH1082	M9+glycerol	-2.65035530147877	-5.40687190768708
+AC4LGQ_11500	AC4LGQ_11500	anthranilate synthase component 1	set20TCH1062	M9+polygalacturonate	-2.87421135112351	-5.00730152109113
+AC4LGQ_11500	AC4LGQ_11500	anthranilate synthase component 1	set20TCH1081	M9+glycerol	-2.93759373132451	-5.43334660869791
+AC4LGQ_11500	AC4LGQ_11500	anthranilate synthase component 1	set20TCH1076	M9+xylose	-2.96596557929794	-5.16715096505244
+AC4LGQ_11500	AC4LGQ_11500	anthranilate synthase component 1	set20TCH1077	M9+mannose	-2.57677436103416	-5.25676270549476
+AC4LGQ_13165	AC4LGQ_13165	L-ribulose-5-phosphate 4-epimerase	set20TCH1063	M9+polygalacturonate	-2.36927993666375	-5.81082241941124
+AC4LGQ_13165	AC4LGQ_13165	L-ribulose-5-phosphate 4-epimerase	set20TCH1064	M9+polygalacturonate	-2.77324544960825	-5.71314727127121
+AC4LGQ_13165	AC4LGQ_13165	L-ribulose-5-phosphate 4-epimerase	set20TCH1062	M9+polygalacturonate	-2.74808718568531	-5.66131887400419
+AC4LGQ_13180	AC4LGQ_13180	orotidine-5'-phosphate decarboxylase	set21TCH1126	Tuber-Atlantic	-4.00046606415746	-5.3633099039787
+AC4LGQ_13285	AC4LGQ_13285	pyridoxamine 5'-phosphate oxidase	set20TCH1059	M9+glucose	-3.08620266048702	-5.78178465957838
+AC4LGQ_13285	AC4LGQ_13285	pyridoxamine 5'-phosphate oxidase	set20TCH1081	M9+glycerol	-3.93098758983898	-6.08479100208178
+AC4LGQ_13285	AC4LGQ_13285	pyridoxamine 5'-phosphate oxidase	set20TCH1074	M9+xylose	-2.94098379300648	-6.18535356336975
+AC4LGQ_13285	AC4LGQ_13285	pyridoxamine 5'-phosphate oxidase	set20TCH1076	M9+xylose	-2.2950592154572	-6.01313860643179
+AC4LGQ_13285	AC4LGQ_13285	pyridoxamine 5'-phosphate oxidase	set20TCH1080	M9+glycerol	-2.9843253629887	-5.28959985571141
+AC4LGQ_13285	AC4LGQ_13285	pyridoxamine 5'-phosphate oxidase	set20TCH1077	M9+mannose	-2.34794903409935	-5.40945294815703
+AC4LGQ_13285	AC4LGQ_13285	pyridoxamine 5'-phosphate oxidase	set20TCH1082	M9+glycerol	-3.32750417133411	-5.83512719645947
+AC4LGQ_13285	AC4LGQ_13285	pyridoxamine 5'-phosphate oxidase	set20TCH1073	M9+galactose	-2.99548322191234	-5.82561325569019
+AC4LGQ_13285	AC4LGQ_13285	pyridoxamine 5'-phosphate oxidase	set20TCH1075	M9+xylose	-3.26881578914611	-5.99031735462005
+AC4LGQ_13285	AC4LGQ_13285	pyridoxamine 5'-phosphate oxidase	set20TCH1064	M9+polygalacturonate	-4.75422656865915	-5.46806512327968
+AC4LGQ_13505	AC4LGQ_13505	Imm44 family immunity protein	set21TCH1123	LB	-2.03640263331234	-7.69587937018398
+AC4LGQ_13505	AC4LGQ_13505	Imm44 family immunity protein	set20TCH1056	LB	-2.7567154452026	-11.6334615345113
+AC4LGQ_13505	AC4LGQ_13505	Imm44 family immunity protein	set21TCH1127	Tuber-Atlantic	-3.05268941509755	-7.00155993422667
+AC4LGQ_13505	AC4LGQ_13505	Imm44 family immunity protein	set21TCH1126	Tuber-Atlantic	-3.19313792471712	-6.41310073060361
+AC4LGQ_13505	AC4LGQ_13505	Imm44 family immunity protein	set21TCH1129	Tuber-Atlantic	-2.97252145119214	-5.97001443088745
+AC4LGQ_13505	AC4LGQ_13505	Imm44 family immunity protein	set21TCH1128	Tuber-Atlantic	-2.84985195780429	-5.41655167081397
+AC4LGQ_13505	AC4LGQ_13505	Imm44 family immunity protein	set21TCH1125	Tuber-Atlantic	-3.59475863297292	-5.96198533482702
+AC4LGQ_13505	AC4LGQ_13505	Imm44 family immunity protein	set21TCH1130	Tuber-Atlantic	-2.7621125458324	-6.33510125172919
+AC4LGQ_13505	AC4LGQ_13505	Imm44 family immunity protein	set20TCH1058	LB	-2.67463464734759	-10.7564735971734
+AC4LGQ_13505	AC4LGQ_13505	Imm44 family immunity protein	set20TCH1057	LB	-2.43547332920789	-10.5004782502157
+AC4LGQ_14135	AC4LGQ_14135	dihydroorotase	set21TCH1127	Tuber-Atlantic	-3.00470688461298	-6.99413796616343
+AC4LGQ_14135	AC4LGQ_14135	dihydroorotase	set20TCH1074	M9+xylose	-3.83645794114062	-5.19524786203441
+AC4LGQ_14135	AC4LGQ_14135	dihydroorotase	set20TCH1082	M9+glycerol	-2.80199368834396	-6.29032399801266
+AC4LGQ_14135	AC4LGQ_14135	dihydroorotase	set21TCH1128	Tuber-Atlantic	-2.80516398255588	-5.81650280338955
+AC4LGQ_14135	AC4LGQ_14135	dihydroorotase	set20TCH1064	M9+polygalacturonate	-3.12376636253616	-6.17102833786545
+AC4LGQ_14135	AC4LGQ_14135	dihydroorotase	set21TCH1129	Tuber-Atlantic	-2.67258263339561	-6.22104331030244
+AC4LGQ_14135	AC4LGQ_14135	dihydroorotase	set21TCH1130	Tuber-Atlantic	-2.55819125301966	-6.507485972278
+AC4LGQ_14135	AC4LGQ_14135	dihydroorotase	set21TCH1126	Tuber-Atlantic	-3.29607678900865	-6.1781826393624
+AC4LGQ_14135	AC4LGQ_14135	dihydroorotase	set20TCH1081	M9+glycerol	-2.89248190101249	-6.49346513214653
+AC4LGQ_14135	AC4LGQ_14135	dihydroorotase	set20TCH1076	M9+xylose	-2.82929042533609	-6.1133421855882
+AC4LGQ_14135	AC4LGQ_14135	dihydroorotase	set20TCH1063	M9+polygalacturonate	-3.33655986603057	-6.24835996502848
+AC4LGQ_14135	AC4LGQ_14135	dihydroorotase	set20TCH1062	M9+polygalacturonate	-3.22207210963307	-5.67540441531438
+AC4LGQ_14135	AC4LGQ_14135	dihydroorotase	set21TCH1125	Tuber-Atlantic	-3.1048833615098	-6.97944507209397
+AC4LGQ_14135	AC4LGQ_14135	dihydroorotase	set20TCH1080	M9+glycerol	-2.98446076886704	-5.89582889386562
+AC4LGQ_14135	AC4LGQ_14135	dihydroorotase	set20TCH1072	M9+galactose	-2.03196760266765	-5.16021355622482
+AC4LGQ_14135	AC4LGQ_14135	dihydroorotase	set20TCH1077	M9+mannose	-2.60311979607873	-6.05083579088601
+AC4LGQ_14135	AC4LGQ_14135	dihydroorotase	set20TCH1075	M9+xylose	-2.55531891300243	-6.65557442677693
+AC4LGQ_14135	AC4LGQ_14135	dihydroorotase	set20TCH1073	M9+galactose	-3.07044280283345	-5.75000379266642
+AC4LGQ_14350	AC4LGQ_14350	AAA family ATPase	set20TCH1079	M9+mannose	2.07706786636899	10.7526099648486
+AC4LGQ_14350	AC4LGQ_14350	AAA family ATPase	set20TCH1078	M9+mannose	2.44488918823293	12.0483020739478
+AC4LGQ_14870	AC4LGQ_14870	biotin synthase BioB	set20TCH1062	M9+polygalacturonate	-2.47505069980511	-6.88264836301494
+AC4LGQ_15155	AC4LGQ_15155	glycosyltransferase family 4 protein	set21TCH1128	Tuber-Atlantic	-2.66547068112053	-7.8146545178488
+AC4LGQ_15155	AC4LGQ_15155	glycosyltransferase family 4 protein	set21TCH1125	Tuber-Atlantic	-2.11901974628532	-7.76653894067272
+AC4LGQ_15185	AC4LGQ_15185	oligosaccharide flippase family protein	set21TCH1128	Tuber-Atlantic	-2.27040034555048	-8.09429435562102
+AC4LGQ_15440	AC4LGQ_15440	quinolinate synthase NadA	set20TCH1064	M9+polygalacturonate	-3.07974732629572	-5.7944993522138
+AC4LGQ_15440	AC4LGQ_15440	quinolinate synthase NadA	set20TCH1062	M9+polygalacturonate	-3.01352450949872	-6.27745829682754
+AC4LGQ_16190	AC4LGQ_16190	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1126	Tuber-Atlantic	-3.03260701731157	-5.27118758989232
+AC4LGQ_16190	AC4LGQ_16190	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set21TCH1127	Tuber-Atlantic	-3.37735074406129	-5.035072830134
+AC4LGQ_16190	AC4LGQ_16190	phosphoribosylaminoimidazolesuccinocarboxamide synthase	set20TCH1081	M9+glycerol	-2.79175817460846	-5.15936427351814
+AC4LGQ_16240	AC4LGQ_16240	phosphoribosylformylglycinamidine cyclo-ligase	set20TCH1076	M9+xylose	-2.97045652976836	-5.1917763340048
+AC4LGQ_16240	AC4LGQ_16240	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1129	Tuber-Atlantic	-3.27367633753962	-5.36262873955379
+AC4LGQ_16240	AC4LGQ_16240	phosphoribosylformylglycinamidine cyclo-ligase	set20TCH1073	M9+galactose	-2.8137146875384	-5.22327765337196
+AC4LGQ_16240	AC4LGQ_16240	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1127	Tuber-Atlantic	-3.10902512196687	-6.42842560901439
+AC4LGQ_16240	AC4LGQ_16240	phosphoribosylformylglycinamidine cyclo-ligase	set20TCH1062	M9+polygalacturonate	-2.70663799969392	-5.02450438282957
+AC4LGQ_16240	AC4LGQ_16240	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1125	Tuber-Atlantic	-3.64043679103955	-5.47547566866975
+AC4LGQ_16240	AC4LGQ_16240	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1128	Tuber-Atlantic	-2.73428369063165	-5.39325156324415
+AC4LGQ_16240	AC4LGQ_16240	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1126	Tuber-Atlantic	-3.78704670984573	-5.12460647345292
+AC4LGQ_16240	AC4LGQ_16240	phosphoribosylformylglycinamidine cyclo-ligase	set21TCH1130	Tuber-Atlantic	-3.13428636352405	-5.51398920206386
+AC4LGQ_16700	AC4LGQ_16700	tRNA uracil 4-sulfurtransferase ThiI	set20TCH1062	M9+polygalacturonate	-2.60970583110267	-5.65700124699418
+AC4LGQ_16700	AC4LGQ_16700	tRNA uracil 4-sulfurtransferase ThiI	set20TCH1064	M9+polygalacturonate	-2.82492870235598	-5.59565254627563
+AC4LGQ_16700	AC4LGQ_16700	tRNA uracil 4-sulfurtransferase ThiI	set20TCH1063	M9+polygalacturonate	-2.33184043491587	-5.78704819947489
+AC4LGQ_17235	AC4LGQ_17235	amino-acid N-acetyltransferase	set20TCH1080	M9+glycerol	-2.48221758017924	-6.28689806235413
+AC4LGQ_17235	AC4LGQ_17235	amino-acid N-acetyltransferase	set20TCH1073	M9+galactose	-2.21091656282594	-6.73940040984437
+AC4LGQ_17235	AC4LGQ_17235	amino-acid N-acetyltransferase	set20TCH1075	M9+xylose	-2.9414132489808	-7.22382909873389
+AC4LGQ_17235	AC4LGQ_17235	amino-acid N-acetyltransferase	set20TCH1082	M9+glycerol	-2.26047330280047	-6.76244099699369
+AC4LGQ_17235	AC4LGQ_17235	amino-acid N-acetyltransferase	set20TCH1076	M9+xylose	-2.79214538368015	-7.6631104114332
+AC4LGQ_17235	AC4LGQ_17235	amino-acid N-acetyltransferase	set20TCH1081	M9+glycerol	-2.38119551204399	-6.83990627283398
+AC4LGQ_17235	AC4LGQ_17235	amino-acid N-acetyltransferase	set20TCH1062	M9+polygalacturonate	-3.22052543337763	-5.33780171236676
+AC4LGQ_17235	AC4LGQ_17235	amino-acid N-acetyltransferase	set20TCH1072	M9+galactose	-2.34022598272956	-5.9272653266886
+AC4LGQ_17235	AC4LGQ_17235	amino-acid N-acetyltransferase	set20TCH1063	M9+polygalacturonate	-3.33859169396473	-5.53348850353536
+AC4LGQ_17235	AC4LGQ_17235	amino-acid N-acetyltransferase	set20TCH1074	M9+xylose	-2.73628937580213	-6.2679946112415
+AC4LGQ_17235	AC4LGQ_17235	amino-acid N-acetyltransferase	set20TCH1077	M9+mannose	-2.26243624237198	-7.3708007735663
+AC4LGQ_17955	AC4LGQ_17955	sulfate adenylyltransferase subunit CysN	set20TCH1063	M9+polygalacturonate	-2.16289824500794	-5.17505316041875
+AC4LGQ_18000	AC4LGQ_18000	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1082	M9+glycerol	-2.6163429598741	-7.86190656794025
+AC4LGQ_18000	AC4LGQ_18000	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1074	M9+xylose	-3.05768498507907	-8.42329977295785
+AC4LGQ_18000	AC4LGQ_18000	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1076	M9+xylose	-2.63098960761478	-8.48298671930499
+AC4LGQ_18000	AC4LGQ_18000	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1081	M9+glycerol	-2.72728525173066	-8.35184916544492
+AC4LGQ_18000	AC4LGQ_18000	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1075	M9+xylose	-2.54485495349846	-8.46058372149931
+AC4LGQ_18000	AC4LGQ_18000	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1062	M9+polygalacturonate	-3.54138034499299	-7.11983836326789
+AC4LGQ_18000	AC4LGQ_18000	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1072	M9+galactose	-2.39491620936231	-7.05448103843925
+AC4LGQ_18000	AC4LGQ_18000	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1080	M9+glycerol	-2.44179359898308	-7.19256338759138
+AC4LGQ_18000	AC4LGQ_18000	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1064	M9+polygalacturonate	-3.62694118752055	-6.47793924727103
+AC4LGQ_18000	AC4LGQ_18000	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1073	M9+galactose	-2.21316097444249	-7.86355327107725
+AC4LGQ_18000	AC4LGQ_18000	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1071	M9+galactose	-2.06912999169956	-7.07550165413199
+AC4LGQ_18000	AC4LGQ_18000	assimilatory sulfite reductase (NADPH) hemoprotein subunit	set20TCH1063	M9+polygalacturonate	-3.70020608459093	-6.14118140967251
+AC4LGQ_18005	AC4LGQ_18005	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set20TCH1062	M9+polygalacturonate	-3.16993322800663	-5.21586437572836
+AC4LGQ_18005	AC4LGQ_18005	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set20TCH1080	M9+glycerol	-2.07009786951125	-5.00408445407641
+AC4LGQ_18005	AC4LGQ_18005	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set20TCH1081	M9+glycerol	-2.12991021517431	-5.30457013269559
+AC4LGQ_18005	AC4LGQ_18005	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set20TCH1076	M9+xylose	-2.38709625830818	-5.94509544368503
+AC4LGQ_18005	AC4LGQ_18005	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set20TCH1064	M9+polygalacturonate	-3.18256223477652	-5.23664436753698
+AC4LGQ_18005	AC4LGQ_18005	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set20TCH1082	M9+glycerol	-2.44089736758235	-5.51468154211972
+AC4LGQ_18005	AC4LGQ_18005	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	set20TCH1074	M9+xylose	-2.67268007733684	-6.03834462121576
+AC4LGQ_18210	AC4LGQ_18210	gamma-glutamylcyclotransferase family protein	set21TCH1125	Tuber-Atlantic	-2.66028304721529	-5.93845637495051
+AC4LGQ_18460	AC4LGQ_18460	diaminopimelate decarboxylase	set20TCH1081	M9+glycerol	-2.88050108508113	-5.08093850050883
+AC4LGQ_18460	AC4LGQ_18460	diaminopimelate decarboxylase	set20TCH1078	M9+mannose	-2.25179757792076	-5.06680292589401
+AC4LGQ_18460	AC4LGQ_18460	diaminopimelate decarboxylase	set20TCH1077	M9+mannose	-2.16861229950742	-5.21788935940446
+AC4LGQ_18465	AC4LGQ_18465	LysR family transcriptional regulator	set20TCH1069	M9+cellobiose	-2.13977299108497	-8.69898679376104
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set20TCH1068	M9+cellobiose	-2.72172426134738	-6.46459728379643
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set20TCH1065	M9+fructose	-2.71793113227332	-7.08318273742991
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set20TCH1078	M9+mannose	-3.08808098265455	-5.11811185600369
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set20TCH1080	M9+glycerol	-3.02549205125392	-5.01437845210158
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set20TCH1067	M9+fructose	-2.41392377510114	-5.92792761614473
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set20TCH1079	M9+mannose	-3.2420293536116	-5.37326221865073
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set20TCH1081	M9+glycerol	-3.31230040935247	-5.03120605755792
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set21TCH1125	Tuber-Atlantic	-2.20365821006978	-8.92560747668012
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set20TCH1082	M9+glycerol	-3.20734358756594	-5.31577485629528
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set20TCH1074	M9+xylose	-3.56525920224117	-5.90897566974787
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set20TCH1062	M9+polygalacturonate	-3.31754808173021	-5.49842515961801
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set20TCH1072	M9+galactose	-2.91808301613561	-5.85474697557995
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set20TCH1070	M9+cellobiose	-2.52829854432531	-6.58898247699725
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set20TCH1066	M9+fructose	-2.95011548198404	-6.21539404821957
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set20TCH1071	M9+galactose	-3.0426048205535	-5.04274074827619
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set20TCH1069	M9+cellobiose	-2.64053979496431	-5.81261710394818
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set20TCH1063	M9+polygalacturonate	-2.9973528162227	-7.119265955597
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set20TCH1077	M9+mannose	-3.33836378842703	-5.95291417950295
+AC4LGQ_18605	AC4LGQ_18605	type I-F CRISPR-associated protein Csy1	set20TCH1059	M9+glucose	-2.57420051438918	-6.51935793564102
+AC4LGQ_18835	AC4LGQ_18835	IclR family transcriptional regulator	set21TCH1129	Tuber-Atlantic	2.46761890147473	9.08823962306784
+AC4LGQ_18835	AC4LGQ_18835	IclR family transcriptional regulator	set21TCH1130	Tuber-Atlantic	2.71284104184013	6.03456476115344
+AC4LGQ_18835	AC4LGQ_18835	IclR family transcriptional regulator	set21TCH1127	Tuber-Atlantic	2.62398411641126	9.03142187062245
+AC4LGQ_19280	AC4LGQ_19280	2-isopropylmalate synthase	set20TCH1079	M9+mannose	-2.07360801477344	-7.79267605069347
+AC4LGQ_19280	AC4LGQ_19280	2-isopropylmalate synthase	set21TCH1129	Tuber-Atlantic	-2.2526124404677	-9.94261612080376
+AC4LGQ_19280	AC4LGQ_19280	2-isopropylmalate synthase	set20TCH1072	M9+galactose	-3.01024729692893	-6.6685634385855
+AC4LGQ_19280	AC4LGQ_19280	2-isopropylmalate synthase	set20TCH1059	M9+glucose	-2.73455295969792	-7.76247436470237
+AC4LGQ_19280	AC4LGQ_19280	2-isopropylmalate synthase	set21TCH1126	Tuber-Atlantic	-2.20207965340911	-7.56138481315027
+AC4LGQ_19280	AC4LGQ_19280	2-isopropylmalate synthase	set20TCH1075	M9+xylose	-2.84497130965929	-7.68664469880089
+AC4LGQ_19280	AC4LGQ_19280	2-isopropylmalate synthase	set20TCH1064	M9+polygalacturonate	-3.54895497289613	-5.90305495711554
+AC4LGQ_19280	AC4LGQ_19280	2-isopropylmalate synthase	set20TCH1082	M9+glycerol	-2.85784568053155	-7.29877882720203
+AC4LGQ_19280	AC4LGQ_19280	2-isopropylmalate synthase	set20TCH1074	M9+xylose	-3.35498430890495	-6.76680984764543
+AC4LGQ_19280	AC4LGQ_19280	2-isopropylmalate synthase	set20TCH1063	M9+polygalacturonate	-3.64038916770926	-6.05513946679898
+AC4LGQ_19280	AC4LGQ_19280	2-isopropylmalate synthase	set20TCH1077	M9+mannose	-2.98533935849778	-8.27392382860647
+AC4LGQ_19280	AC4LGQ_19280	2-isopropylmalate synthase	set20TCH1076	M9+xylose	-3.0576491143953	-7.56826148473715
+AC4LGQ_19280	AC4LGQ_19280	2-isopropylmalate synthase	set20TCH1080	M9+glycerol	-2.91422038387688	-6.4558362111074
+AC4LGQ_19280	AC4LGQ_19280	2-isopropylmalate synthase	set20TCH1073	M9+galactose	-3.02804400622156	-7.96192362099414
+AC4LGQ_19280	AC4LGQ_19280	2-isopropylmalate synthase	set20TCH1081	M9+glycerol	-3.15899080578139	-8.06788671817808
+AC4LGQ_19280	AC4LGQ_19280	2-isopropylmalate synthase	set21TCH1130	Tuber-Atlantic	-2.44787042479201	-10.2061430861288
+AC4LGQ_19280	AC4LGQ_19280	2-isopropylmalate synthase	set20TCH1070	M9+cellobiose	-2.50256504948375	-7.7212922282899
+AC4LGQ_19285	AC4LGQ_19285	3-isopropylmalate dehydrogenase	set20TCH1070	M9+cellobiose	-2.50644919244905	-5.70604191644217
+AC4LGQ_19285	AC4LGQ_19285	3-isopropylmalate dehydrogenase	set21TCH1126	Tuber-Atlantic	-2.34607215157806	-6.8226984832384
+AC4LGQ_19285	AC4LGQ_19285	3-isopropylmalate dehydrogenase	set20TCH1059	M9+glucose	-2.39640272710183	-5.65451585598305
+AC4LGQ_19285	AC4LGQ_19285	3-isopropylmalate dehydrogenase	set21TCH1129	Tuber-Atlantic	-2.97149679092513	-5.62263444843772
+AC4LGQ_19285	AC4LGQ_19285	3-isopropylmalate dehydrogenase	set20TCH1075	M9+xylose	-3.02282932645156	-5.37021884230044
+AC4LGQ_19285	AC4LGQ_19285	3-isopropylmalate dehydrogenase	set20TCH1076	M9+xylose	-2.75925002251465	-6.03962145076274
+AC4LGQ_19285	AC4LGQ_19285	3-isopropylmalate dehydrogenase	set20TCH1073	M9+galactose	-2.79167873618815	-5.85113776943593
+AC4LGQ_19285	AC4LGQ_19285	3-isopropylmalate dehydrogenase	set20TCH1062	M9+polygalacturonate	-3.11029833044582	-5.13836590186981
+AC4LGQ_19285	AC4LGQ_19285	3-isopropylmalate dehydrogenase	set21TCH1130	Tuber-Atlantic	-2.24538649345236	-6.5298908274653
+AC4LGQ_19290	AC4LGQ_19290	3-isopropylmalate dehydratase large subunit	set21TCH1129	Tuber-Atlantic	-2.77949812210152	-6.29205744648579
+AC4LGQ_19290	AC4LGQ_19290	3-isopropylmalate dehydratase large subunit	set20TCH1068	M9+cellobiose	-2.01178864534676	-5.15932373074077
+AC4LGQ_19290	AC4LGQ_19290	3-isopropylmalate dehydratase large subunit	set20TCH1074	M9+xylose	-2.66295868110315	-5.55146059650184
+AC4LGQ_19290	AC4LGQ_19290	3-isopropylmalate dehydratase large subunit	set21TCH1127	Tuber-Atlantic	-2.28689502046356	-6.7058671121458
+AC4LGQ_19290	AC4LGQ_19290	3-isopropylmalate dehydratase large subunit	set20TCH1081	M9+glycerol	-2.85162997208657	-5.04653740006386
+AC4LGQ_19290	AC4LGQ_19290	3-isopropylmalate dehydratase large subunit	set20TCH1082	M9+glycerol	-2.47198621927457	-5.15334097700436
+AC4LGQ_19290	AC4LGQ_19290	3-isopropylmalate dehydratase large subunit	set20TCH1079	M9+mannose	-2.04286489366347	-5.09571256648644
+AC4LGQ_19290	AC4LGQ_19290	3-isopropylmalate dehydratase large subunit	set21TCH1126	Tuber-Atlantic	-2.06257537206403	-6.26414139495238
+AC4LGQ_19290	AC4LGQ_19290	3-isopropylmalate dehydratase large subunit	set20TCH1059	M9+glucose	-2.55809721199142	-5.08350973358159
+AC4LGQ_19290	AC4LGQ_19290	3-isopropylmalate dehydratase large subunit	set21TCH1130	Tuber-Atlantic	-2.65082188875689	-5.77209621987688
+AC4LGQ_19295	AC4LGQ_19295	3-isopropylmalate dehydratase small subunit	set20TCH1075	M9+xylose	-3.09558659534373	-5.12087071177854
+AC4LGQ_19295	AC4LGQ_19295	3-isopropylmalate dehydratase small subunit	set21TCH1126	Tuber-Atlantic	-2.84911954101642	-8.72270422079521
+AC4LGQ_19295	AC4LGQ_19295	3-isopropylmalate dehydratase small subunit	set21TCH1130	Tuber-Atlantic	-2.83334726533085	-8.34394232711768
+AC4LGQ_19295	AC4LGQ_19295	3-isopropylmalate dehydratase small subunit	set20TCH1082	M9+glycerol	-3.03769523863633	-5.02510399878335
+AC4LGQ_19295	AC4LGQ_19295	3-isopropylmalate dehydratase small subunit	set21TCH1129	Tuber-Atlantic	-2.69656407694271	-7.94112864833037
+AC4LGQ_19295	AC4LGQ_19295	3-isopropylmalate dehydratase small subunit	set20TCH1074	M9+xylose	-3.24419463174196	-5.36670539211709
+AC4LGQ_19295	AC4LGQ_19295	3-isopropylmalate dehydratase small subunit	set20TCH1063	M9+polygalacturonate	-3.0583186943867	-5.05922032771647
+AC4LGQ_19295	AC4LGQ_19295	3-isopropylmalate dehydratase small subunit	set20TCH1059	M9+glucose	-2.22860401476062	-5.61933508431223
+AC4LGQ_19295	AC4LGQ_19295	3-isopropylmalate dehydratase small subunit	set20TCH1081	M9+glycerol	-2.58271201588671	-6.11071585370814
+AC4LGQ_19295	AC4LGQ_19295	3-isopropylmalate dehydratase small subunit	set20TCH1080	M9+glycerol	-2.528231985383	-5.05855438638623
+AC4LGQ_19295	AC4LGQ_19295	3-isopropylmalate dehydratase small subunit	set20TCH1077	M9+mannose	-2.24813246694368	-5.98781395722063
+AC4LGQ_19295	AC4LGQ_19295	3-isopropylmalate dehydratase small subunit	set20TCH1073	M9+galactose	-3.04241611187986	-5.03291349814064
+AC4LGQ_19295	AC4LGQ_19295	3-isopropylmalate dehydratase small subunit	set20TCH1072	M9+galactose	-2.29815676273987	-5.79470953142868
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set21TCH1127	Tuber-Atlantic	-2.34358170204832	-7.50290534085875
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set21TCH1129	Tuber-Atlantic	-2.16607098244393	-7.04244066933463
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set20TCH1081	M9+glycerol	-2.56584755512666	-7.36956854413726
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set20TCH1076	M9+xylose	-2.72360137473679	-7.65170663676133
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set20TCH1070	M9+cellobiose	-2.08247304247115	-6.67935935113481
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set20TCH1062	M9+polygalacturonate	-2.85326611113864	-6.77703344676215
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set21TCH1126	Tuber-Atlantic	-2.72499077772237	-7.09287900397111
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set20TCH1073	M9+galactose	-2.91742220512956	-6.92941600690709
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set20TCH1064	M9+polygalacturonate	-3.34340721022142	-6.3488616786178
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set20TCH1074	M9+xylose	-2.8104534332062	-7.32430450722506
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set21TCH1125	Tuber-Atlantic	-2.18146344755305	-7.91841338816202
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set20TCH1075	M9+xylose	-2.96562560332955	-7.28275436633723
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set20TCH1071	M9+galactose	-2.83503673831926	-5.38350699560667
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set20TCH1072	M9+galactose	-2.6246121676458	-6.44531990228445
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set20TCH1080	M9+glycerol	-2.59086551185505	-5.93449204345859
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set20TCH1059	M9+glucose	-2.50732129649457	-6.880769090422
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set20TCH1063	M9+polygalacturonate	-3.64199411831493	-5.5319930577307
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set21TCH1130	Tuber-Atlantic	-2.26159120803645	-7.67223466147519
+AC4LGQ_19510	AC4LGQ_19510	carbamoyl-phosphate synthase large subunit	set20TCH1077	M9+mannose	-2.11008924226378	-6.65914283529729
+AC4LGQ_19515	AC4LGQ_19515	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set21TCH1125	Tuber-Atlantic	-2.24271308232484	-5.84136240739556
+AC4LGQ_19515	AC4LGQ_19515	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	set20TCH1075	M9+xylose	-2.83190497135131	-5.30527134967907
+AC4LGQ_19685	AC4LGQ_19685	phosphoglycerate dehydrogenase	set20TCH1078	M9+mannose	-2.48740927839831	-5.66010388697759
+AC4LGQ_19685	AC4LGQ_19685	phosphoglycerate dehydrogenase	set20TCH1072	M9+galactose	-2.90026248686838	-5.48243092708359
+AC4LGQ_19685	AC4LGQ_19685	phosphoglycerate dehydrogenase	set20TCH1064	M9+polygalacturonate	-3.20182960980499	-5.68663594173162
+AC4LGQ_19685	AC4LGQ_19685	phosphoglycerate dehydrogenase	set20TCH1059	M9+glucose	-2.72054528918928	-5.95238130914957
+AC4LGQ_19685	AC4LGQ_19685	phosphoglycerate dehydrogenase	set20TCH1082	M9+glycerol	-2.63688580039644	-5.52455886296049
+AC4LGQ_19685	AC4LGQ_19685	phosphoglycerate dehydrogenase	set20TCH1076	M9+xylose	-3.40015941447404	-5.14966118062901
+AC4LGQ_19685	AC4LGQ_19685	phosphoglycerate dehydrogenase	set20TCH1070	M9+cellobiose	-3.13272717687921	-5.17417112574211
+AC4LGQ_19685	AC4LGQ_19685	phosphoglycerate dehydrogenase	set20TCH1081	M9+glycerol	-2.77576795488543	-6.07320501476382
+AC4LGQ_19685	AC4LGQ_19685	phosphoglycerate dehydrogenase	set20TCH1079	M9+mannose	-2.93857193766007	-5.21907497728445
+AC4LGQ_19685	AC4LGQ_19685	phosphoglycerate dehydrogenase	set20TCH1075	M9+xylose	-3.76990179442578	-5.13007714391249
+AC4LGQ_19685	AC4LGQ_19685	phosphoglycerate dehydrogenase	set21TCH1129	Tuber-Atlantic	-2.22619392848553	-5.02051703659601
+AC4LGQ_19685	AC4LGQ_19685	phosphoglycerate dehydrogenase	set20TCH1077	M9+mannose	-3.12056443451307	-5.5423042554948
+AC4LGQ_19685	AC4LGQ_19685	phosphoglycerate dehydrogenase	set20TCH1068	M9+cellobiose	-2.14027605390624	-5.53047805836934
+AC4LGQ_19685	AC4LGQ_19685	phosphoglycerate dehydrogenase	set21TCH1127	Tuber-Atlantic	-2.24178291751095	-6.15356900536257
+AC4LGQ_19835	AC4LGQ_19835	deoxyribonuclease I	set21TCH1122	LB	2.06447129350169	5.18557951394779
+AC4LGQ_19835	AC4LGQ_19835	deoxyribonuclease I	set21TCH1127	Tuber-Atlantic	5.24846464619864	13.1574346450943
+AC4LGQ_19835	AC4LGQ_19835	deoxyribonuclease I	set21TCH1125	Tuber-Atlantic	5.4090251764188	14.6608069929548
+AC4LGQ_19835	AC4LGQ_19835	deoxyribonuclease I	set21TCH1126	Tuber-Atlantic	4.91610331278463	12.3304751101262
+AC4LGQ_19835	AC4LGQ_19835	deoxyribonuclease I	set20TCH1078	M9+mannose	2.46547458071081	11.1910241949553
+AC4LGQ_19835	AC4LGQ_19835	deoxyribonuclease I	set21TCH1128	Tuber-Atlantic	4.03803746285877	9.80724765229196
+AC4LGQ_19835	AC4LGQ_19835	deoxyribonuclease I	set21TCH1130	Tuber-Atlantic	5.62805886897556	10.4296847270757
+AC4LGQ_19835	AC4LGQ_19835	deoxyribonuclease I	set20TCH1079	M9+mannose	2.03755223675132	8.76205269060381
+AC4LGQ_19835	AC4LGQ_19835	deoxyribonuclease I	set21TCH1129	Tuber-Atlantic	5.53178401322086	10.5814851200564
+AC4LGQ_19835	AC4LGQ_19835	deoxyribonuclease I	set21TCH1124	LB	2.00233199803483	5.83092063002209
+AC4LGQ_19860	AC4LGQ_19860	class 1 fructose-bisphosphatase	set20TCH1062	M9+polygalacturonate	-2.45442139300688	-6.68602425105986
+AC4LGQ_19860	AC4LGQ_19860	class 1 fructose-bisphosphatase	set20TCH1082	M9+glycerol	-2.84295252428111	-5.68145217787815
+AC4LGQ_19860	AC4LGQ_19860	class 1 fructose-bisphosphatase	set20TCH1081	M9+glycerol	-2.99478073968848	-5.66669208727221
+AC4LGQ_19895	AC4LGQ_19895	RNA chaperone Hfq	set21TCH1125	Tuber-Atlantic	5.86857076318969	8.94633188773665
+AC4LGQ_19895	AC4LGQ_19895	RNA chaperone Hfq	set21TCH1126	Tuber-Atlantic	4.22938747174426	8.32111092161251
+AC4LGQ_19895	AC4LGQ_19895	RNA chaperone Hfq	set21TCH1129	Tuber-Atlantic	4.74946225258604	12.1837546553715
+AC4LGQ_19895	AC4LGQ_19895	RNA chaperone Hfq	set21TCH1127	Tuber-Atlantic	4.20787712538419	10.0943365965607
+AC4LGQ_19895	AC4LGQ_19895	RNA chaperone Hfq	set21TCH1130	Tuber-Atlantic	5.22428634104597	13.3953766517415
+AC4LGQ_19895	AC4LGQ_19895	RNA chaperone Hfq	set21TCH1128	Tuber-Atlantic	4.33432492070378	10.3480599810683
+AC4LGQ_20105	AC4LGQ_20105	homoserine O-succinyltransferase MetA	set20TCH1076	M9+xylose	-2.84558665321478	-5.65781915177638
+AC4LGQ_20105	AC4LGQ_20105	homoserine O-succinyltransferase MetA	set20TCH1075	M9+xylose	-2.15751650477538	-5.53794693959287
+AC4LGQ_20105	AC4LGQ_20105	homoserine O-succinyltransferase MetA	set20TCH1074	M9+xylose	-2.74750432033343	-5.73106114816715
+AC4LGQ_20105	AC4LGQ_20105	homoserine O-succinyltransferase MetA	set20TCH1073	M9+galactose	-2.24792333368538	-5.27213446678954
+AC4LGQ_20485	AC4LGQ_20485	bifunctional acetylornithine/succinyldiaminopimelate transaminase	set20TCH1063	M9+polygalacturonate	-2.56247692105038	-6.28380383859025
+AC4LGQ_20485	AC4LGQ_20485	bifunctional acetylornithine/succinyldiaminopimelate transaminase	set20TCH1064	M9+polygalacturonate	-2.48229500834594	-6.27711406252049
+AC4LGQ_20485	AC4LGQ_20485	bifunctional acetylornithine/succinyldiaminopimelate transaminase	set20TCH1062	M9+polygalacturonate	-2.39103294250636	-6.70491951281598
+AC4LGQ_20945	AC4LGQ_20945	rhomboid family intramembrane serine protease GlpG	set20TCH1078	M9+mannose	2.06071419995261	8.76186472993651
+AC4LGQ_21415	AC4LGQ_21415	ketol-acid reductoisomerase	set20TCH1076	M9+xylose	-3.16713292981672	-6.00810795397412
+AC4LGQ_21415	AC4LGQ_21415	ketol-acid reductoisomerase	set20TCH1080	M9+glycerol	-2.91431748718827	-5.19217175459339
+AC4LGQ_21415	AC4LGQ_21415	ketol-acid reductoisomerase	set20TCH1078	M9+mannose	-2.33429556258336	-5.90126170020996
+AC4LGQ_21415	AC4LGQ_21415	ketol-acid reductoisomerase	set20TCH1064	M9+polygalacturonate	-3.34767289569802	-5.08167483764197
+AC4LGQ_21415	AC4LGQ_21415	ketol-acid reductoisomerase	set20TCH1075	M9+xylose	-3.45699887783816	-5.24762865387533
+AC4LGQ_21415	AC4LGQ_21415	ketol-acid reductoisomerase	set20TCH1077	M9+mannose	-2.64876448222555	-5.82287904783535
+AC4LGQ_21415	AC4LGQ_21415	ketol-acid reductoisomerase	set20TCH1082	M9+glycerol	-2.50308446906467	-5.93598003698118
+AC4LGQ_21415	AC4LGQ_21415	ketol-acid reductoisomerase	set20TCH1070	M9+cellobiose	-2.36990283364288	-5.62014429954333
+AC4LGQ_21415	AC4LGQ_21415	ketol-acid reductoisomerase	set20TCH1065	M9+fructose	-2.04516775173219	-6.64251819199925
+AC4LGQ_21415	AC4LGQ_21415	ketol-acid reductoisomerase	set20TCH1081	M9+glycerol	-2.55234614063901	-6.05280242258884
+AC4LGQ_21415	AC4LGQ_21415	ketol-acid reductoisomerase	set20TCH1059	M9+glucose	-2.24541365200027	-6.43447807818142
+AC4LGQ_21415	AC4LGQ_21415	ketol-acid reductoisomerase	set20TCH1062	M9+polygalacturonate	-3.08136648929711	-6.17544284102745
+AC4LGQ_21435	AC4LGQ_21435	threonine ammonia-lyase, biosynthetic	set20TCH1082	M9+glycerol	-2.89059261051481	-7.63302203776407
+AC4LGQ_21435	AC4LGQ_21435	threonine ammonia-lyase, biosynthetic	set20TCH1081	M9+glycerol	-2.95773528544531	-8.02742104882617
+AC4LGQ_21435	AC4LGQ_21435	threonine ammonia-lyase, biosynthetic	set20TCH1076	M9+xylose	-3.17131370798154	-9.04722110007669
+AC4LGQ_21435	AC4LGQ_21435	threonine ammonia-lyase, biosynthetic	set20TCH1078	M9+mannose	-2.32388395457007	-8.71275385113453
+AC4LGQ_21435	AC4LGQ_21435	threonine ammonia-lyase, biosynthetic	set20TCH1080	M9+glycerol	-3.15630916636368	-7.01332370442258
+AC4LGQ_21435	AC4LGQ_21435	threonine ammonia-lyase, biosynthetic	set20TCH1073	M9+galactose	-3.13854681106595	-8.04801091734027
+AC4LGQ_21435	AC4LGQ_21435	threonine ammonia-lyase, biosynthetic	set20TCH1064	M9+polygalacturonate	-3.51853785027676	-6.31273057442036
+AC4LGQ_21435	AC4LGQ_21435	threonine ammonia-lyase, biosynthetic	set20TCH1074	M9+xylose	-3.6618342679795	-6.56982363856512
+AC4LGQ_21435	AC4LGQ_21435	threonine ammonia-lyase, biosynthetic	set20TCH1071	M9+galactose	-2.9207576100746	-7.25681314067746
+AC4LGQ_21435	AC4LGQ_21435	threonine ammonia-lyase, biosynthetic	set20TCH1072	M9+galactose	-2.92316763410628	-7.71904103333264
+AC4LGQ_21435	AC4LGQ_21435	threonine ammonia-lyase, biosynthetic	set20TCH1063	M9+polygalacturonate	-3.30224911670008	-7.33760249308627
+AC4LGQ_21435	AC4LGQ_21435	threonine ammonia-lyase, biosynthetic	set20TCH1075	M9+xylose	-3.50486876628085	-7.78782365853178
+AC4LGQ_21435	AC4LGQ_21435	threonine ammonia-lyase, biosynthetic	set20TCH1062	M9+polygalacturonate	-3.18412559770854	-7.6458866742595
+AC4LGQ_21435	AC4LGQ_21435	threonine ammonia-lyase, biosynthetic	set20TCH1077	M9+mannose	-2.65587977852519	-8.83270869602207
+AC4LGQ_21440	AC4LGQ_21440	dihydroxy-acid dehydratase	set20TCH1078	M9+mannose	-2.28619807193119	-7.42960766676772
+AC4LGQ_21440	AC4LGQ_21440	dihydroxy-acid dehydratase	set20TCH1082	M9+glycerol	-2.79207839080091	-6.90920630812352
+AC4LGQ_21440	AC4LGQ_21440	dihydroxy-acid dehydratase	set20TCH1080	M9+glycerol	-2.91444224202595	-5.87729190053674
+AC4LGQ_21440	AC4LGQ_21440	dihydroxy-acid dehydratase	set20TCH1074	M9+xylose	-3.40335053076405	-6.09322881428496
+AC4LGQ_21440	AC4LGQ_21440	dihydroxy-acid dehydratase	set20TCH1075	M9+xylose	-3.23812022419164	-7.17193959560592
+AC4LGQ_21440	AC4LGQ_21440	dihydroxy-acid dehydratase	set20TCH1073	M9+galactose	-3.13799503514402	-6.95017766024499
+AC4LGQ_21440	AC4LGQ_21440	dihydroxy-acid dehydratase	set20TCH1059	M9+glucose	-2.38344028133814	-7.48639143498276
+AC4LGQ_21440	AC4LGQ_21440	dihydroxy-acid dehydratase	set20TCH1077	M9+mannose	-3.10581141103204	-6.2632087839779
+AC4LGQ_21440	AC4LGQ_21440	dihydroxy-acid dehydratase	set20TCH1071	M9+galactose	-2.77356630487191	-6.8633967702185
+AC4LGQ_21440	AC4LGQ_21440	dihydroxy-acid dehydratase	set20TCH1072	M9+galactose	-3.03413721503436	-6.11866991971761
+AC4LGQ_21440	AC4LGQ_21440	dihydroxy-acid dehydratase	set20TCH1076	M9+xylose	-3.42618468095285	-5.69820882005783
+AC4LGQ_21440	AC4LGQ_21440	dihydroxy-acid dehydratase	set20TCH1081	M9+glycerol	-3.03222385419792	-6.71591071887758
+AC4LGQ_21440	AC4LGQ_21440	dihydroxy-acid dehydratase	set20TCH1070	M9+cellobiose	-2.76425902344911	-6.61274059906394
+AC4LGQ_21440	AC4LGQ_21440	dihydroxy-acid dehydratase	set20TCH1063	M9+polygalacturonate	-3.34507011931764	-6.38104161062125
+AC4LGQ_21440	AC4LGQ_21440	dihydroxy-acid dehydratase	set20TCH1064	M9+polygalacturonate	-3.12700837592358	-6.92584389533478
+AC4LGQ_21630	AC4LGQ_21630	argininosuccinate lyase	set20TCH1076	M9+xylose	-2.99119083291502	-5.28486384234143
+AC4LGQ_21630	AC4LGQ_21630	argininosuccinate lyase	set20TCH1081	M9+glycerol	-2.66966961228129	-5.01679639573012
+AC4LGQ_21635	AC4LGQ_21635	acetylglutamate kinase	set20TCH1075	M9+xylose	-2.84147525081237	-6.91353925986245
+AC4LGQ_21635	AC4LGQ_21635	acetylglutamate kinase	set20TCH1064	M9+polygalacturonate	-3.9548779645532	-5.98587451924921
+AC4LGQ_21635	AC4LGQ_21635	acetylglutamate kinase	set20TCH1082	M9+glycerol	-2.69544560752984	-5.62680864770346
+AC4LGQ_21635	AC4LGQ_21635	acetylglutamate kinase	set20TCH1076	M9+xylose	-2.92454406370307	-6.88636496708224
+AC4LGQ_21635	AC4LGQ_21635	acetylglutamate kinase	set20TCH1071	M9+galactose	-2.42379767646012	-5.70726754081997
+AC4LGQ_21635	AC4LGQ_21635	acetylglutamate kinase	set20TCH1080	M9+glycerol	-3.52063204483275	-5.81032099032342
+AC4LGQ_21635	AC4LGQ_21635	acetylglutamate kinase	set20TCH1072	M9+galactose	-2.87806952825063	-5.55680738175797
+AC4LGQ_21635	AC4LGQ_21635	acetylglutamate kinase	set20TCH1081	M9+glycerol	-3.20396003487339	-5.68529064924581
+AC4LGQ_21635	AC4LGQ_21635	acetylglutamate kinase	set20TCH1063	M9+polygalacturonate	-4.07608255697552	-6.16932277932181
+AC4LGQ_21635	AC4LGQ_21635	acetylglutamate kinase	set20TCH1074	M9+xylose	-2.8073308262458	-5.9800424964652
+AC4LGQ_21640	AC4LGQ_21640	N-acetyl-gamma-glutamyl-phosphate reductase	set20TCH1076	M9+xylose	-2.43353882197631	-5.03045138426557
+AC4LGQ_21640	AC4LGQ_21640	N-acetyl-gamma-glutamyl-phosphate reductase	set20TCH1081	M9+glycerol	-2.50970260239879	-5.18789214140377
+AC4LGQ_21645	AC4LGQ_21645	acetylornithine deacetylase	set20TCH1074	M9+xylose	-2.99783728701145	-7.59691397987088
+AC4LGQ_21645	AC4LGQ_21645	acetylornithine deacetylase	set20TCH1064	M9+polygalacturonate	-3.56956920356321	-6.78066507699377
+AC4LGQ_21645	AC4LGQ_21645	acetylornithine deacetylase	set20TCH1081	M9+glycerol	-2.09906156929321	-6.20827689411031
+AC4LGQ_21645	AC4LGQ_21645	acetylornithine deacetylase	set20TCH1062	M9+polygalacturonate	-3.4777861275895	-6.20341745461968
+AC4LGQ_21645	AC4LGQ_21645	acetylornithine deacetylase	set20TCH1059	M9+glucose	-2.13352090205538	-6.6258154995726
+AC4LGQ_21645	AC4LGQ_21645	acetylornithine deacetylase	set20TCH1073	M9+galactose	-2.24237592768208	-6.93380660496923
+AC4LGQ_21645	AC4LGQ_21645	acetylornithine deacetylase	set20TCH1072	M9+galactose	-2.49904207685514	-6.69345951050248
+AC4LGQ_21645	AC4LGQ_21645	acetylornithine deacetylase	set20TCH1076	M9+xylose	-2.16457332228263	-7.05822631099617
+AC4LGQ_21645	AC4LGQ_21645	acetylornithine deacetylase	set20TCH1075	M9+xylose	-2.31277305130828	-7.42534034386088
+AC4LGQ_21645	AC4LGQ_21645	acetylornithine deacetylase	set20TCH1063	M9+polygalacturonate	-3.66047508425209	-5.56129252308425
+AC4LGQ_21645	AC4LGQ_21645	acetylornithine deacetylase	set20TCH1080	M9+glycerol	-2.82410525735641	-5.95244049693076
+AC4LGQ_21645	AC4LGQ_21645	acetylornithine deacetylase	set20TCH1082	M9+glycerol	-2.16172529011376	-6.71340642562032
+AC4LGQ_22225	AC4LGQ_22225	phosphoenolpyruvate carboxylase	set20TCH1071	M9+galactose	-2.98150621111726	-8.53087387525569
+AC4LGQ_22225	AC4LGQ_22225	phosphoenolpyruvate carboxylase	set20TCH1075	M9+xylose	-2.93512276222883	-10.1047222894557
+AC4LGQ_22225	AC4LGQ_22225	phosphoenolpyruvate carboxylase	set20TCH1074	M9+xylose	-3.3700631986879	-8.92165503939952
+AC4LGQ_22225	AC4LGQ_22225	phosphoenolpyruvate carboxylase	set20TCH1063	M9+polygalacturonate	-3.23057936228856	-8.5523958894787
+AC4LGQ_22225	AC4LGQ_22225	phosphoenolpyruvate carboxylase	set20TCH1073	M9+galactose	-3.18945375216299	-9.33762464060523
+AC4LGQ_22225	AC4LGQ_22225	phosphoenolpyruvate carboxylase	set20TCH1064	M9+polygalacturonate	-3.2326306387888	-8.30904358504814
+AC4LGQ_22225	AC4LGQ_22225	phosphoenolpyruvate carboxylase	set20TCH1062	M9+polygalacturonate	-3.21472003477868	-8.51041108359878
+AC4LGQ_22225	AC4LGQ_22225	phosphoenolpyruvate carboxylase	set20TCH1082	M9+glycerol	-2.07253496134762	-9.16426852476414
+AC4LGQ_22225	AC4LGQ_22225	phosphoenolpyruvate carboxylase	set20TCH1077	M9+mannose	-2.45820093184831	-10.0434713000227
+AC4LGQ_22225	AC4LGQ_22225	phosphoenolpyruvate carboxylase	set20TCH1072	M9+galactose	-2.7243634609049	-9.09691974815051
+AC4LGQ_22225	AC4LGQ_22225	phosphoenolpyruvate carboxylase	set20TCH1076	M9+xylose	-2.99945353021011	-9.85392375195485
+AC4LGQ_22225	AC4LGQ_22225	phosphoenolpyruvate carboxylase	set20TCH1081	M9+glycerol	-2.5704645147288	-9.90292705637906
+AC4LGQ_22225	AC4LGQ_22225	phosphoenolpyruvate carboxylase	set20TCH1080	M9+glycerol	-2.75142715903789	-7.87255716026486
+AC4LGQ_22260	AC4LGQ_22260	HTH-type transcriptional regulator MetR	set20TCH1074	M9+xylose	-2.90643256746535	-7.82088508314396
+AC4LGQ_22260	AC4LGQ_22260	HTH-type transcriptional regulator MetR	set20TCH1059	M9+glucose	-2.36407774433629	-7.25554145075789
+AC4LGQ_22260	AC4LGQ_22260	HTH-type transcriptional regulator MetR	set20TCH1073	M9+galactose	-3.04310487976398	-7.2583244350045
+AC4LGQ_22260	AC4LGQ_22260	HTH-type transcriptional regulator MetR	set20TCH1063	M9+polygalacturonate	-3.2778149201983	-6.92861496366296
+AC4LGQ_22260	AC4LGQ_22260	HTH-type transcriptional regulator MetR	set20TCH1082	M9+glycerol	-2.05405891751533	-6.63899852544339
+AC4LGQ_22260	AC4LGQ_22260	HTH-type transcriptional regulator MetR	set20TCH1081	M9+glycerol	-2.76926732557757	-7.45178875308821
+AC4LGQ_22260	AC4LGQ_22260	HTH-type transcriptional regulator MetR	set20TCH1076	M9+xylose	-3.03474319277455	-7.23838038463778
+AC4LGQ_22260	AC4LGQ_22260	HTH-type transcriptional regulator MetR	set20TCH1062	M9+polygalacturonate	-3.13798312713223	-7.21578100148943
+AC4LGQ_22260	AC4LGQ_22260	HTH-type transcriptional regulator MetR	set20TCH1080	M9+glycerol	-2.65234735912678	-6.5427160726594
+AC4LGQ_22260	AC4LGQ_22260	HTH-type transcriptional regulator MetR	set20TCH1075	M9+xylose	-2.62610611927071	-7.90798595706005
+AC4LGQ_22260	AC4LGQ_22260	HTH-type transcriptional regulator MetR	set20TCH1072	M9+galactose	-2.49808804059127	-6.89398852257765
+AC4LGQ_22260	AC4LGQ_22260	HTH-type transcriptional regulator MetR	set20TCH1064	M9+polygalacturonate	-3.61996044525183	-6.47030726953727
+AC4LGQ_22450	AC4LGQ_22450	orotate phosphoribosyltransferase	set20TCH1077	M9+mannose	-2.5379843382113	-5.5460244176481
+AC4LGQ_22450	AC4LGQ_22450	orotate phosphoribosyltransferase	set20TCH1062	M9+polygalacturonate	-3.71828318313867	-5.0573908833606
+AC4LGQ_22450	AC4LGQ_22450	orotate phosphoribosyltransferase	set20TCH1073	M9+galactose	-3.81082813740187	-5.18326510674255
+AC4LGQ_22450	AC4LGQ_22450	orotate phosphoribosyltransferase	set21TCH1126	Tuber-Atlantic	-3.11468040485285	-6.80291189254952
+AC4LGQ_22450	AC4LGQ_22450	orotate phosphoribosyltransferase	set21TCH1128	Tuber-Atlantic	-3.14277212644057	-5.57536552114851
+AC4LGQ_22450	AC4LGQ_22450	orotate phosphoribosyltransferase	set21TCH1130	Tuber-Atlantic	-2.74035649091397	-6.44991279260722
+AC4LGQ_22450	AC4LGQ_22450	orotate phosphoribosyltransferase	set20TCH1072	M9+galactose	-2.60951538532143	-5.20379544875491
+AC4LGQ_22450	AC4LGQ_22450	orotate phosphoribosyltransferase	set20TCH1081	M9+glycerol	-2.79435563257646	-5.57239677711765
+AC4LGQ_22450	AC4LGQ_22450	orotate phosphoribosyltransferase	set20TCH1082	M9+glycerol	-3.10113262735429	-5.11834500335429
+AC4LGQ_22450	AC4LGQ_22450	orotate phosphoribosyltransferase	set21TCH1127	Tuber-Atlantic	-2.41110991462023	-6.68843567360197
+AC4LGQ_22450	AC4LGQ_22450	orotate phosphoribosyltransferase	set21TCH1125	Tuber-Atlantic	-2.43103718798707	-6.54483022299071
+AC4LGQ_22450	AC4LGQ_22450	orotate phosphoribosyltransferase	set20TCH1063	M9+polygalacturonate	-3.20331239885414	-5.28699026485874
+AC4LGQ_22450	AC4LGQ_22450	orotate phosphoribosyltransferase	set20TCH1074	M9+xylose	-3.29155706150044	-5.4326359635123
+AC4LGQ_22450	AC4LGQ_22450	orotate phosphoribosyltransferase	set20TCH1076	M9+xylose	-3.40706055044668	-5.62327170101778
+AC4LGQ_22620	AC4LGQ_22620	argininosuccinate synthase	set20TCH1073	M9+galactose	-2.87059326342355	-9.55301234726068
+AC4LGQ_22620	AC4LGQ_22620	argininosuccinate synthase	set20TCH1072	M9+galactose	-2.45213420837228	-8.650809895524
+AC4LGQ_22620	AC4LGQ_22620	argininosuccinate synthase	set20TCH1064	M9+polygalacturonate	-3.57237706323054	-7.22510686354976
+AC4LGQ_22620	AC4LGQ_22620	argininosuccinate synthase	set20TCH1071	M9+galactose	-2.81790937293865	-8.40811739676525
+AC4LGQ_22620	AC4LGQ_22620	argininosuccinate synthase	set20TCH1062	M9+polygalacturonate	-3.36841843344993	-7.15965703480639
+AC4LGQ_22620	AC4LGQ_22620	argininosuccinate synthase	set20TCH1082	M9+glycerol	-2.32413384136041	-8.81846398271963
+AC4LGQ_22620	AC4LGQ_22620	argininosuccinate synthase	set20TCH1076	M9+xylose	-2.9815418705877	-9.59982317162888
+AC4LGQ_22620	AC4LGQ_22620	argininosuccinate synthase	set20TCH1074	M9+xylose	-3.58687455633871	-8.30227296677716
+AC4LGQ_22620	AC4LGQ_22620	argininosuccinate synthase	set20TCH1077	M9+mannose	-2.30165364068242	-8.92036925227456
+AC4LGQ_22620	AC4LGQ_22620	argininosuccinate synthase	set20TCH1075	M9+xylose	-3.28247949661693	-8.67141833827741
+AC4LGQ_22620	AC4LGQ_22620	argininosuccinate synthase	set20TCH1079	M9+mannose	-2.03700961058701	-8.28087714963928
+AC4LGQ_22620	AC4LGQ_22620	argininosuccinate synthase	set20TCH1081	M9+glycerol	-2.75536507566554	-8.55631880499197
+AC4LGQ_22620	AC4LGQ_22620	argininosuccinate synthase	set20TCH1059	M9+glucose	-2.23900082066168	-9.02038824222013
+AC4LGQ_22620	AC4LGQ_22620	argininosuccinate synthase	set20TCH1080	M9+glycerol	-2.99242511618705	-7.43758119237956
+AC4LGQ_22630	AC4LGQ_22630	D-xylose utilization transcriptional activator XylR	set20TCH1074	M9+xylose	-2.98091923267561	-8.47318639220729
+AC4LGQ_22630	AC4LGQ_22630	D-xylose utilization transcriptional activator XylR	set20TCH1075	M9+xylose	-2.55511751343184	-8.95773051157586
+AC4LGQ_22630	AC4LGQ_22630	D-xylose utilization transcriptional activator XylR	set20TCH1076	M9+xylose	-2.87868207278956	-8.55091018324802
+AC4LGQ_22650	AC4LGQ_22650	xylose isomerase	set20TCH1075	M9+xylose	-3.008065610118	-9.12814297903161
+AC4LGQ_22650	AC4LGQ_22650	xylose isomerase	set20TCH1074	M9+xylose	-2.82994046451154	-9.07507519932256
+AC4LGQ_22650	AC4LGQ_22650	xylose isomerase	set20TCH1076	M9+xylose	-3.22793748382487	-8.50421103886524
+AC4LGQ_22655	AC4LGQ_22655	xylulokinase	set20TCH1075	M9+xylose	-2.1629199840829	-9.07202493299216
+AC4LGQ_22655	AC4LGQ_22655	xylulokinase	set20TCH1076	M9+xylose	-2.16733931757794	-8.79085012885124
+AC4LGQ_22655	AC4LGQ_22655	xylulokinase	set20TCH1074	M9+xylose	-2.74939340421366	-8.98988181777154

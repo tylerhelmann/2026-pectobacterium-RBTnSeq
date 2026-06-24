@@ -1,8 +1,8 @@
 Unknown media	M9+cellobiose	M9+fructose	M9+galactose	M9+glucose	M9+glycerol	M9+mannose	M9+polygalacturonate	M9+xylose	Tuber-Atlantic
-Check gene locations: success 4432 wrap 0 overlap-adjacent 0 failure 0
-Processing 37 experiments, 4432 genes, 2 sets for Par6119
+Check gene locations: success 4456 wrap 0 overlap-adjacent 0 failure 0
+Processing 37 experiments, 4456 genes, 2 sets for Par6119
 Processed all the poolcount files; writing html/Par6119/all.poolcount
-Wrote data for 359168 barcodes (289535 in genes) to html/Par6119/all.poolcount
+Wrote data for 359168 barcodes (291718 in genes) to html/Par6119/all.poolcount
 Wrote 37 experiments to html/Par6119/exps
 Running R: Rscript /local/workdir/tch54/2026-pectobacterium-RBTnSeq/fitness/feba/bin/RunFEBA.R Par6119 html/Par6119 /local/workdir/tch54/2026-pectobacterium-RBTnSeq/fitness/feba/bin/.. > html/Par6119/log
 Aggregating all over genes
@@ -34,7 +34,7 @@ Wrote  html/Par6119/specific_phenotypes
 Wrote  html/Par6119/strong.tab 
 Wrote  html/Par6119/high_fitness.tab 
 Wrote  html/Par6119/polar_effects.tab 
-Wrote  html/Par6119/fit2026May05.image 
+Wrote  html/Par6119/fit2026Jun24.image 
 Created link for  html/Par6119/fit.image 
 Wrote  html/Par6119/poolcount.image 
 Wrote  html/Par6119/index.html 

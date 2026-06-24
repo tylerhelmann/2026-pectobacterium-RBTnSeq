@@ -1,14 +1,14 @@
-Unknown media	M9+cellobiose	M9+fructose	M9+galactose	M9+glucose	M9+glucose+arginine	M9+glycerol	M9+mannose	M9+polygalacturonate	M9+starch	M9+sucrose	M9+xylose	Tuber-Atlantic
+Unknown media	M9+cellobiose	M9+fructose	M9+galactose	M9+glucose	M9+glycerol	M9+mannose	M9+polygalacturonate	M9+starch	M9+sucrose	M9+xylose	Tuber-Atlantic
 Check gene locations: success 4382 wrap 0 overlap-adjacent 0 failure 0
-Processing 79 experiments, 4382 genes, 5 sets for PcWPP14
+Processing 73 experiments, 4382 genes, 5 sets for PcWPP14
 Warning! No field for set PcWPP14_set18 index TCH898 in results/PcWPP14/PcWPP14_set18.poolcount
 Processed all the poolcount files; writing html/PcWPP14/all.poolcount
 Wrote data for 286088 barcodes (221052 in genes) to html/PcWPP14/all.poolcount
-Wrote 78 experiments to html/PcWPP14/exps
+Wrote 72 experiments to html/PcWPP14/exps
 Running R: Rscript /local/workdir/tch54/2026-pectobacterium-RBTnSeq/fitness/feba/bin/RunFEBA.R PcWPP14 html/PcWPP14 /local/workdir/tch54/2026-pectobacterium-RBTnSeq/fitness/feba/bin/.. > html/PcWPP14/log
 Aggregating all over genes
 Aggregating Time0 totals
-Computing cofitness with  67  experiments
+Computing cofitness with  61  experiments
 Wrote  html/PcWPP14/fit_quality.tab 
 Wrote  html/PcWPP14/fit_genes.tab 
 Wrote  html/PcWPP14/fit_logratios_unnormalized.tab 
@@ -16,7 +16,7 @@ Wrote  html/PcWPP14/fit_logratios_unnormalized_naive.tab
 Wrote  html/PcWPP14/fit_logratios.tab 
 Wrote  html/PcWPP14/fit_logratios_half1.tab 
 Wrote  html/PcWPP14/fit_logratios_half2.tab 
-Wrote fitness for  67  successful experiments to  html/PcWPP14/fit_logratios_good.tab 
+Wrote fitness for  61  successful experiments to  html/PcWPP14/fit_logratios_good.tab 
 Wrote  html/PcWPP14/gene_counts.tab 
 Wrote  html/PcWPP14/fit_t.tab 
 Wrote  html/PcWPP14/fit_standard_error_obs.tab 
@@ -35,7 +35,7 @@ Wrote  html/PcWPP14/specific_phenotypes
 Wrote  html/PcWPP14/strong.tab 
 Wrote  html/PcWPP14/high_fitness.tab 
 Wrote  html/PcWPP14/polar_effects.tab 
-Wrote  html/PcWPP14/fit2026May05.image 
+Wrote  html/PcWPP14/fit2026Jun24.image 
 Created link for  html/PcWPP14/fit.image 
 Wrote  html/PcWPP14/poolcount.image 
 Wrote  html/PcWPP14/index.html 
