@@ -21,7 +21,7 @@ bacteria \
 --parallel 4 
 ~~~
 
--> 132 genomes downloaded into refseq/bacteria/
+-> 152 genomes downloaded into refseq/bacteria/
 
 ~~~bash
 # Unzip all
@@ -77,7 +77,7 @@ for strain in $(ls ../additional_genomes/*protein.faa); do
 done
 ~~~
 
--> 136 total genomes in fasta/
+-> 156 total genomes in fasta/
 
 #### Run OrthoFinder
 
