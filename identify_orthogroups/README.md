@@ -12,7 +12,7 @@ Citation: Emms, D.M., Kelly, S. OrthoFinder: phylogenetic orthology inference fo
 pip install ncbi-genome-download
 
 # Only "complete"/"chromosome" genomes
-# Download date: 3/17/2026
+# Download date: 6/23/2026
 ncbi-genome-download \
 --genera Pectobacterium \
 bacteria \
