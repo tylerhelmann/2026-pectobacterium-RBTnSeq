@@ -1,35 +1,35 @@
 SetName	Date_pool_expt_started	Person	Mutant.Library	Description	Index	Media	Growth.Method	Group
-PcWPP14_set11	7/19/2021	Tyler	PcWPP14	Time0	TCH489	LB	125ml flask	Time0
-PcWPP14_set11	7/19/2021	Tyler	PcWPP14	Time0	TCH490	LB	125ml flask	Time0
-PcWPP14_set11	7/19/2021	Tyler	PcWPP14	LB	TCH491	LB	24 well plate	control
-PcWPP14_set11	7/19/2021	Tyler	PcWPP14	LB	TCH492	LB	24 well plate	control
-PcWPP14_set11	7/19/2021	Tyler	PcWPP14	LB	TCH493	LB	24 well plate	control
-PcWPP14_set11	7/19/2021	Tyler	PcWPP14	LB	TCH494	LB	24 well plate	control
-PcWPP14_set11	7/19/2021	Tyler	PcWPP14	LB	TCH495	LB	24 well plate	control
-PcWPP14_set11	7/19/2021	Tyler	PcWPP14	LB	TCH496	LB	24 well plate	control
-PcWPP14_set11	7/19/2021	Tyler	PcWPP14	M9+glycerol	TCH503	M9+glycerol	24 well plate	carbon source
-PcWPP14_set11	7/19/2021	Tyler	PcWPP14	M9+glycerol	TCH504	M9+glycerol	24 well plate	carbon source
-PcWPP14_set11	7/19/2021	Tyler	PcWPP14	M9+glycerol	TCH505	M9+glycerol	24 well plate	carbon source
-PcWPP14_set11	7/19/2021	Tyler	PcWPP14	M9+glycerol	TCH506	M9+glycerol	24 well plate	carbon source
-PcWPP14_set11	7/19/2021	Tyler	PcWPP14	M9+glycerol	TCH507	M9+glycerol	24 well plate	carbon source
-PcWPP14_set11	7/19/2021	Tyler	PcWPP14	M9+glycerol	TCH508	M9+glycerol	24 well plate	carbon source
-PcWPP14_set14	10/28/2021	Tyler	PcWPP14	Time0	TCH659	LB	125ml flask	Time0
-PcWPP14_set14	10/28/2021	Tyler	PcWPP14	Time0	TCH660	LB	125ml flask	Time0
-PcWPP14_set14	10/28/2021	Tyler	PcWPP14	Tuber-Atlantic	TCH661	Tuber-Atlantic	Potato_tuber	plant
-PcWPP14_set14	10/28/2021	Tyler	PcWPP14	Tuber-Atlantic	TCH662	Tuber-Atlantic	Potato_tuber	plant
-PcWPP14_set14	10/28/2021	Tyler	PcWPP14	Tuber-Atlantic	TCH663	Tuber-Atlantic	Potato_tuber	plant
-PcWPP14_set14	10/28/2021	Tyler	PcWPP14	Tuber-Atlantic	TCH664	Tuber-Atlantic	Potato_tuber	plant
-PcWPP14_set15	1/24/2022	Tyler	PcWPP14	Time0	TCH702	LB	125ml flask	Time0
-PcWPP14_set15	1/24/2022	Tyler	PcWPP14	Time0	TCH703	LB	125ml flask	Time0
-PcWPP14_set15	1/24/2022	Tyler	PcWPP14	M9+sucrose	TCH707	M9+sucrose	24 well plate	carbon source
-PcWPP14_set15	1/24/2022	Tyler	PcWPP14	M9+sucrose	TCH708	M9+sucrose	24 well plate	carbon source
-PcWPP14_set15	1/24/2022	Tyler	PcWPP14	M9+sucrose	TCH709	M9+sucrose	24 well plate	carbon source
-PcWPP14_set15	1/24/2022	Tyler	PcWPP14	M9+starch	TCH710	M9+starch	24 well plate	carbon source
-PcWPP14_set15	1/24/2022	Tyler	PcWPP14	M9+starch	TCH711	M9+starch	24 well plate	carbon source
-PcWPP14_set15	1/24/2022	Tyler	PcWPP14	M9+starch	TCH712	M9+starch	24 well plate	carbon source
-PcWPP14_set15	1/24/2022	Tyler	PcWPP14	M9+polygalacturonate	TCH713	M9+polygalacturonate	24 well plate	carbon source
-PcWPP14_set15	1/24/2022	Tyler	PcWPP14	M9+polygalacturonate	TCH714	M9+polygalacturonate	24 well plate	carbon source
-PcWPP14_set15	1/24/2022	Tyler	PcWPP14	M9+polygalacturonate	TCH715	M9+polygalacturonate	24 well plate	carbon source
+PccWPP14_set11	7/19/2021	Tyler	PccWPP14	Time0	TCH489	LB	125ml flask	Time0
+PccWPP14_set11	7/19/2021	Tyler	PccWPP14	Time0	TCH490	LB	125ml flask	Time0
+PccWPP14_set11	7/19/2021	Tyler	PccWPP14	LB	TCH491	LB	24 well plate	control
+PccWPP14_set11	7/19/2021	Tyler	PccWPP14	LB	TCH492	LB	24 well plate	control
+PccWPP14_set11	7/19/2021	Tyler	PccWPP14	LB	TCH493	LB	24 well plate	control
+PccWPP14_set11	7/19/2021	Tyler	PccWPP14	LB	TCH494	LB	24 well plate	control
+PccWPP14_set11	7/19/2021	Tyler	PccWPP14	LB	TCH495	LB	24 well plate	control
+PccWPP14_set11	7/19/2021	Tyler	PccWPP14	LB	TCH496	LB	24 well plate	control
+PccWPP14_set11	7/19/2021	Tyler	PccWPP14	M9+glycerol	TCH503	M9+glycerol	24 well plate	carbon source
+PccWPP14_set11	7/19/2021	Tyler	PccWPP14	M9+glycerol	TCH504	M9+glycerol	24 well plate	carbon source
+PccWPP14_set11	7/19/2021	Tyler	PccWPP14	M9+glycerol	TCH505	M9+glycerol	24 well plate	carbon source
+PccWPP14_set11	7/19/2021	Tyler	PccWPP14	M9+glycerol	TCH506	M9+glycerol	24 well plate	carbon source
+PccWPP14_set11	7/19/2021	Tyler	PccWPP14	M9+glycerol	TCH507	M9+glycerol	24 well plate	carbon source
+PccWPP14_set11	7/19/2021	Tyler	PccWPP14	M9+glycerol	TCH508	M9+glycerol	24 well plate	carbon source
+PccWPP14_set14	10/28/2021	Tyler	PccWPP14	Time0	TCH659	LB	125ml flask	Time0
+PccWPP14_set14	10/28/2021	Tyler	PccWPP14	Time0	TCH660	LB	125ml flask	Time0
+PccWPP14_set14	10/28/2021	Tyler	PccWPP14	Tuber-Atlantic	TCH661	Tuber-Atlantic	Potato_tuber	plant
+PccWPP14_set14	10/28/2021	Tyler	PccWPP14	Tuber-Atlantic	TCH662	Tuber-Atlantic	Potato_tuber	plant
+PccWPP14_set14	10/28/2021	Tyler	PccWPP14	Tuber-Atlantic	TCH663	Tuber-Atlantic	Potato_tuber	plant
+PccWPP14_set14	10/28/2021	Tyler	PccWPP14	Tuber-Atlantic	TCH664	Tuber-Atlantic	Potato_tuber	plant
+PccWPP14_set15	1/24/2022	Tyler	PccWPP14	Time0	TCH702	LB	125ml flask	Time0
+PccWPP14_set15	1/24/2022	Tyler	PccWPP14	Time0	TCH703	LB	125ml flask	Time0
+PccWPP14_set15	1/24/2022	Tyler	PccWPP14	M9+sucrose	TCH707	M9+sucrose	24 well plate	carbon source
+PccWPP14_set15	1/24/2022	Tyler	PccWPP14	M9+sucrose	TCH708	M9+sucrose	24 well plate	carbon source
+PccWPP14_set15	1/24/2022	Tyler	PccWPP14	M9+sucrose	TCH709	M9+sucrose	24 well plate	carbon source
+PccWPP14_set15	1/24/2022	Tyler	PccWPP14	M9+starch	TCH710	M9+starch	24 well plate	carbon source
+PccWPP14_set15	1/24/2022	Tyler	PccWPP14	M9+starch	TCH711	M9+starch	24 well plate	carbon source
+PccWPP14_set15	1/24/2022	Tyler	PccWPP14	M9+starch	TCH712	M9+starch	24 well plate	carbon source
+PccWPP14_set15	1/24/2022	Tyler	PccWPP14	M9+polygalacturonate	TCH713	M9+polygalacturonate	24 well plate	carbon source
+PccWPP14_set15	1/24/2022	Tyler	PccWPP14	M9+polygalacturonate	TCH714	M9+polygalacturonate	24 well plate	carbon source
+PccWPP14_set15	1/24/2022	Tyler	PccWPP14	M9+polygalacturonate	TCH715	M9+polygalacturonate	24 well plate	carbon source
 Pbr1692_set17	11/21/2024	Tyler	Pbr1692	Time0	TCH781	LB	125ml flask	Time0
 Pbr1692_set17	11/21/2024	Tyler	Pbr1692	Time0	TCH782	LB	125ml flask	Time0
 Pbr1692_set17	11/21/2024	Tyler	Pbr1692	LB	TCH783	LB	24 well plate	control
@@ -59,35 +59,35 @@ Pbr1692_set17	11/21/2024	Tyler	Pbr1692	M9+mannose	TCH806	M9+mannose	24 well plat
 Pbr1692_set17	11/21/2024	Tyler	Pbr1692	M9+glycerol	TCH807	M9+glycerol	24 well plate	carbon source
 Pbr1692_set17	11/21/2024	Tyler	Pbr1692	M9+glycerol	TCH808	M9+glycerol	24 well plate	carbon source
 Pbr1692_set17	11/21/2024	Tyler	Pbr1692	M9+glycerol	TCH809	M9+glycerol	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	Time0	TCH810	LB	125ml flask	Time0
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	Time0	TCH811	LB	125ml flask	Time0
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	LB	TCH812	LB	24 well plate	control
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	LB	TCH813	LB	24 well plate	control
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	LB	TCH814	LB	24 well plate	control
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+glucose	TCH815	M9+glucose	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+glucose	TCH816	M9+glucose	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+glucose	TCH817	M9+glucose	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+polygalacturonate	TCH818	M9+polygalacturonate	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+polygalacturonate	TCH819	M9+polygalacturonate	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+polygalacturonate	TCH820	M9+polygalacturonate	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+fructose	TCH821	M9+fructose	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+fructose	TCH822	M9+fructose	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+fructose	TCH823	M9+fructose	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+cellobiose	TCH824	M9+cellobiose	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+cellobiose	TCH825	M9+cellobiose	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+cellobiose	TCH826	M9+cellobiose	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+galactose	TCH827	M9+galactose	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+galactose	TCH828	M9+galactose	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+galactose	TCH829	M9+galactose	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+xylose	TCH830	M9+xylose	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+xylose	TCH831	M9+xylose	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+xylose	TCH832	M9+xylose	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+mannose	TCH833	M9+mannose	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+mannose	TCH834	M9+mannose	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+mannose	TCH835	M9+mannose	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+glycerol	TCH836	M9+glycerol	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+glycerol	TCH837	M9+glycerol	24 well plate	carbon source
-Pve1715C_set17	11/21/2024	Tyler	Pve1715C	M9+glycerol	TCH838	M9+glycerol	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	Time0	TCH810	LB	125ml flask	Time0
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	Time0	TCH811	LB	125ml flask	Time0
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	LB	TCH812	LB	24 well plate	control
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	LB	TCH813	LB	24 well plate	control
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	LB	TCH814	LB	24 well plate	control
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+glucose	TCH815	M9+glucose	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+glucose	TCH816	M9+glucose	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+glucose	TCH817	M9+glucose	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+polygalacturonate	TCH818	M9+polygalacturonate	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+polygalacturonate	TCH819	M9+polygalacturonate	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+polygalacturonate	TCH820	M9+polygalacturonate	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+fructose	TCH821	M9+fructose	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+fructose	TCH822	M9+fructose	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+fructose	TCH823	M9+fructose	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+cellobiose	TCH824	M9+cellobiose	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+cellobiose	TCH825	M9+cellobiose	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+cellobiose	TCH826	M9+cellobiose	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+galactose	TCH827	M9+galactose	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+galactose	TCH828	M9+galactose	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+galactose	TCH829	M9+galactose	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+xylose	TCH830	M9+xylose	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+xylose	TCH831	M9+xylose	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+xylose	TCH832	M9+xylose	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+mannose	TCH833	M9+mannose	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+mannose	TCH834	M9+mannose	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+mannose	TCH835	M9+mannose	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+glycerol	TCH836	M9+glycerol	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+glycerol	TCH837	M9+glycerol	24 well plate	carbon source
+PveNY1715C_set17	11/21/2024	Tyler	PveNY1715C	M9+glycerol	TCH838	M9+glycerol	24 well plate	carbon source
 Pbr123_set18	11/21/2024	Tyler	Pbr123	Time0	TCH839	LB	125ml flask	Time0
 Pbr123_set18	11/21/2024	Tyler	Pbr123	Time0	TCH840	LB	125ml flask	Time0
 Pbr123_set18	11/21/2024	Tyler	Pbr123	LB	TCH841	LB	24 well plate	control
@@ -120,48 +120,48 @@ Pbr123_set18	11/21/2024	Tyler	Pbr123	M9+glycerol	TCH867	M9+glycerol	24 well plat
 Pbr123_set18	11/21/2024	Tyler	Pbr123	M9+myo-inositol	TCH868	M9+myo-inositol	24 well plate	carbon source
 Pbr123_set18	11/21/2024	Tyler	Pbr123	M9+myo-inositol	TCH869	M9+myo-inositol	24 well plate	carbon source
 Pbr123_set18	11/21/2024	Tyler	Pbr123	M9+myo-inositol	TCH870	M9+myo-inositol	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	Time0	TCH871	LB	125ml flask	Time0
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	Time0	TCH872	LB	125ml flask	Time0
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	LB	TCH873	LB	24 well plate	control
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	LB	TCH874	LB	24 well plate	control
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	LB	TCH875	LB	24 well plate	control
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+glucose	TCH876	M9+glucose	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+glucose	TCH877	M9+glucose	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+glucose	TCH878	M9+glucose	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+polygalacturonate	TCH879	M9+polygalacturonate	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+polygalacturonate	TCH880	M9+polygalacturonate	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+polygalacturonate	TCH881	M9+polygalacturonate	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+fructose	TCH882	M9+fructose	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+fructose	TCH883	M9+fructose	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+fructose	TCH884	M9+fructose	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+cellobiose	TCH885	M9+cellobiose	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+cellobiose	TCH886	M9+cellobiose	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+cellobiose	TCH887	M9+cellobiose	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+galactose	TCH888	M9+galactose	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+galactose	TCH889	M9+galactose	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+galactose	TCH890	M9+galactose	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+xylose	TCH891	M9+xylose	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+xylose	TCH892	M9+xylose	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+xylose	TCH893	M9+xylose	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+mannose	TCH894	M9+mannose	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+mannose	TCH895	M9+mannose	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+mannose	TCH896	M9+mannose	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+glycerol	TCH897	M9+glycerol	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+glycerol	TCH898	M9+glycerol	24 well plate	carbon source
-PcWPP14_set18	11/21/2024	Tyler	PcWPP14	M9+glycerol	TCH899	M9+glycerol	24 well plate	carbon source
-PcWPP14_set19	4/2/2025	Tyler	PcWPP14	Time0	TCH950	LB	125ml flask	Time0
-PcWPP14_set19	4/2/2025	Tyler	PcWPP14	Time0	TCH951	LB	125ml flask	Time0
-PcWPP14_set19	4/2/2025	Tyler	PcWPP14	LB	TCH952	LB	24 well plate	Control
-PcWPP14_set19	4/2/2025	Tyler	PcWPP14	LB	TCH953	LB	24 well plate	Control
-PcWPP14_set19	4/2/2025	Tyler	PcWPP14	LB at 36C	TCH954	LB	24 well plate	Stress
-PcWPP14_set19	4/2/2025	Tyler	PcWPP14	LB at 36C	TCH955	LB	24 well plate	Stress
-PcWPP14_set19	4/2/2025	Tyler	PcWPP14	LB at 36C	TCH956	LB	24 well plate	Stress
-PcWPP14_set19	4/2/2025	Tyler	PcWPP14	Tuber-Atlantic	TCH957	Tuber-Atlantic	Potato_tuber	plant
-PcWPP14_set19	4/2/2025	Tyler	PcWPP14	Tuber-Atlantic	TCH958	Tuber-Atlantic	Potato_tuber	plant
-PcWPP14_set19	4/2/2025	Tyler	PcWPP14	Tuber-Atlantic	TCH959	Tuber-Atlantic	Potato_tuber	plant
-PcWPP14_set19	4/2/2025	Tyler	PcWPP14	Tuber-Atlantic	TCH960	Tuber-Atlantic	Potato_tuber	plant
-PcWPP14_set19	4/2/2025	Tyler	PcWPP14	Tuber-Atlantic	TCH961	Tuber-Atlantic	Potato_tuber	plant
-PcWPP14_set19	4/2/2025	Tyler	PcWPP14	Tuber-Atlantic	TCH962	Tuber-Atlantic	Potato_tuber	plant
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	Time0	TCH871	LB	125ml flask	Time0
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	Time0	TCH872	LB	125ml flask	Time0
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	LB	TCH873	LB	24 well plate	control
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	LB	TCH874	LB	24 well plate	control
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	LB	TCH875	LB	24 well plate	control
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+glucose	TCH876	M9+glucose	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+glucose	TCH877	M9+glucose	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+glucose	TCH878	M9+glucose	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+polygalacturonate	TCH879	M9+polygalacturonate	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+polygalacturonate	TCH880	M9+polygalacturonate	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+polygalacturonate	TCH881	M9+polygalacturonate	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+fructose	TCH882	M9+fructose	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+fructose	TCH883	M9+fructose	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+fructose	TCH884	M9+fructose	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+cellobiose	TCH885	M9+cellobiose	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+cellobiose	TCH886	M9+cellobiose	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+cellobiose	TCH887	M9+cellobiose	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+galactose	TCH888	M9+galactose	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+galactose	TCH889	M9+galactose	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+galactose	TCH890	M9+galactose	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+xylose	TCH891	M9+xylose	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+xylose	TCH892	M9+xylose	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+xylose	TCH893	M9+xylose	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+mannose	TCH894	M9+mannose	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+mannose	TCH895	M9+mannose	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+mannose	TCH896	M9+mannose	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+glycerol	TCH897	M9+glycerol	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+glycerol	TCH898	M9+glycerol	24 well plate	carbon source
+PccWPP14_set18	11/21/2024	Tyler	PccWPP14	M9+glycerol	TCH899	M9+glycerol	24 well plate	carbon source
+PccWPP14_set19	4/2/2025	Tyler	PccWPP14	Time0	TCH950	LB	125ml flask	Time0
+PccWPP14_set19	4/2/2025	Tyler	PccWPP14	Time0	TCH951	LB	125ml flask	Time0
+PccWPP14_set19	4/2/2025	Tyler	PccWPP14	LB	TCH952	LB	24 well plate	Control
+PccWPP14_set19	4/2/2025	Tyler	PccWPP14	LB	TCH953	LB	24 well plate	Control
+PccWPP14_set19	4/2/2025	Tyler	PccWPP14	LB at 36C	TCH954	LB	24 well plate	Stress
+PccWPP14_set19	4/2/2025	Tyler	PccWPP14	LB at 36C	TCH955	LB	24 well plate	Stress
+PccWPP14_set19	4/2/2025	Tyler	PccWPP14	LB at 36C	TCH956	LB	24 well plate	Stress
+PccWPP14_set19	4/2/2025	Tyler	PccWPP14	Tuber-Atlantic	TCH957	Tuber-Atlantic	Potato_tuber	plant
+PccWPP14_set19	4/2/2025	Tyler	PccWPP14	Tuber-Atlantic	TCH958	Tuber-Atlantic	Potato_tuber	plant
+PccWPP14_set19	4/2/2025	Tyler	PccWPP14	Tuber-Atlantic	TCH959	Tuber-Atlantic	Potato_tuber	plant
+PccWPP14_set19	4/2/2025	Tyler	PccWPP14	Tuber-Atlantic	TCH960	Tuber-Atlantic	Potato_tuber	plant
+PccWPP14_set19	4/2/2025	Tyler	PccWPP14	Tuber-Atlantic	TCH961	Tuber-Atlantic	Potato_tuber	plant
+PccWPP14_set19	4/2/2025	Tyler	PccWPP14	Tuber-Atlantic	TCH962	Tuber-Atlantic	Potato_tuber	plant
 Pbr123_set19	4/2/2025	Tyler	Pbr123	Time0	TCH976	LB	125ml flask	Time0
 Pbr123_set19	4/2/2025	Tyler	Pbr123	Time0	TCH977	LB	125ml flask	Time0
 Pbr123_set19	4/2/2025	Tyler	Pbr123	LB	TCH978	LB	24 well plate	Control
@@ -188,19 +188,19 @@ Pbr1692_set19	4/2/2025	Tyler	Pbr1692	Tuber-Atlantic	TCH998	Tuber-Atlantic	Potato
 Pbr1692_set19	4/2/2025	Tyler	Pbr1692	Tuber-Atlantic	TCH999	Tuber-Atlantic	Potato_tuber	plant
 Pbr1692_set19	4/2/2025	Tyler	Pbr1692	Tuber-Atlantic	TCH1000	Tuber-Atlantic	Potato_tuber	plant
 Pbr1692_set19	4/2/2025	Tyler	Pbr1692	Tuber-Atlantic	TCH1001	Tuber-Atlantic	Potato_tuber	plant
-Pve1715C_set19	4/2/2025	Tyler	Pve1715C	Time0	TCH1002	LB	125ml flask	Time0
-Pve1715C_set19	4/2/2025	Tyler	Pve1715C	Time0	TCH1003	LB	125ml flask	Time0
-Pve1715C_set19	4/2/2025	Tyler	Pve1715C	LB	TCH1004	LB	24 well plate	Control
-Pve1715C_set19	4/2/2025	Tyler	Pve1715C	LB	TCH1005	LB	24 well plate	Control
-Pve1715C_set19	4/2/2025	Tyler	Pve1715C	LB at 36C	TCH1006	LB	24 well plate	Stress
-Pve1715C_set19	4/2/2025	Tyler	Pve1715C	LB at 36C	TCH1007	LB	24 well plate	Stress
-Pve1715C_set19	4/2/2025	Tyler	Pve1715C	LB at 36C	TCH1008	LB	24 well plate	Stress
-Pve1715C_set19	4/2/2025	Tyler	Pve1715C	Tuber-Atlantic	TCH1009	Tuber-Atlantic	Potato_tuber	plant
-Pve1715C_set19	4/2/2025	Tyler	Pve1715C	Tuber-Atlantic	TCH1010	Tuber-Atlantic	Potato_tuber	plant
-Pve1715C_set19	4/2/2025	Tyler	Pve1715C	Tuber-Atlantic	TCH1011	Tuber-Atlantic	Potato_tuber	plant
-Pve1715C_set19	4/2/2025	Tyler	Pve1715C	Tuber-Atlantic	TCH1012	Tuber-Atlantic	Potato_tuber	plant
-Pve1715C_set19	4/2/2025	Tyler	Pve1715C	Tuber-Atlantic	TCH1013	Tuber-Atlantic	Potato_tuber	plant
-Pve1715C_set19	4/2/2025	Tyler	Pve1715C	Tuber-Atlantic	TCH1014	Tuber-Atlantic	Potato_tuber	plant
+PveNY1715C_set19	4/2/2025	Tyler	PveNY1715C	Time0	TCH1002	LB	125ml flask	Time0
+PveNY1715C_set19	4/2/2025	Tyler	PveNY1715C	Time0	TCH1003	LB	125ml flask	Time0
+PveNY1715C_set19	4/2/2025	Tyler	PveNY1715C	LB	TCH1004	LB	24 well plate	Control
+PveNY1715C_set19	4/2/2025	Tyler	PveNY1715C	LB	TCH1005	LB	24 well plate	Control
+PveNY1715C_set19	4/2/2025	Tyler	PveNY1715C	LB at 36C	TCH1006	LB	24 well plate	Stress
+PveNY1715C_set19	4/2/2025	Tyler	PveNY1715C	LB at 36C	TCH1007	LB	24 well plate	Stress
+PveNY1715C_set19	4/2/2025	Tyler	PveNY1715C	LB at 36C	TCH1008	LB	24 well plate	Stress
+PveNY1715C_set19	4/2/2025	Tyler	PveNY1715C	Tuber-Atlantic	TCH1009	Tuber-Atlantic	Potato_tuber	plant
+PveNY1715C_set19	4/2/2025	Tyler	PveNY1715C	Tuber-Atlantic	TCH1010	Tuber-Atlantic	Potato_tuber	plant
+PveNY1715C_set19	4/2/2025	Tyler	PveNY1715C	Tuber-Atlantic	TCH1011	Tuber-Atlantic	Potato_tuber	plant
+PveNY1715C_set19	4/2/2025	Tyler	PveNY1715C	Tuber-Atlantic	TCH1012	Tuber-Atlantic	Potato_tuber	plant
+PveNY1715C_set19	4/2/2025	Tyler	PveNY1715C	Tuber-Atlantic	TCH1013	Tuber-Atlantic	Potato_tuber	plant
+PveNY1715C_set19	4/2/2025	Tyler	PveNY1715C	Tuber-Atlantic	TCH1014	Tuber-Atlantic	Potato_tuber	plant
 Par6119_set20	8/18/2025	Tyler	Par6119	Time0	TCH1025	LB	125ml flask	Time0
 Par6119_set20	8/18/2025	Tyler	Par6119	Time0	TCH1026	LB	125ml flask	Time0
 Par6119_set20	8/18/2025	Tyler	Par6119	LB	TCH1027	LB	24 well plate	control
@@ -230,83 +230,83 @@ Par6119_set20	8/18/2025	Tyler	Par6119	M9+mannose	TCH1050	M9+mannose	24 well plat
 Par6119_set20	8/18/2025	Tyler	Par6119	M9+glycerol	TCH1051	M9+glycerol	24 well plate	carbon source
 Par6119_set20	8/18/2025	Tyler	Par6119	M9+glycerol	TCH1052	M9+glycerol	24 well plate	carbon source
 Par6119_set20	8/18/2025	Tyler	Par6119	M9+glycerol	TCH1053	M9+glycerol	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	Time0	TCH1054	LB	125ml flask	Time0
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	Time0	TCH1055	LB	125ml flask	Time0
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	LB	TCH1056	LB	24 well plate	control
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	LB	TCH1057	LB	24 well plate	control
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	LB	TCH1058	LB	24 well plate	control
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+glucose	TCH1059	M9+glucose	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+glucose	TCH1060	M9+glucose	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+glucose	TCH1061	M9+glucose	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+polygalacturonate	TCH1062	M9+polygalacturonate	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+polygalacturonate	TCH1063	M9+polygalacturonate	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+polygalacturonate	TCH1064	M9+polygalacturonate	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+fructose	TCH1065	M9+fructose	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+fructose	TCH1066	M9+fructose	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+fructose	TCH1067	M9+fructose	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+cellobiose	TCH1068	M9+cellobiose	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+cellobiose	TCH1069	M9+cellobiose	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+cellobiose	TCH1070	M9+cellobiose	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+galactose	TCH1071	M9+galactose	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+galactose	TCH1072	M9+galactose	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+galactose	TCH1073	M9+galactose	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+xylose	TCH1074	M9+xylose	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+xylose	TCH1075	M9+xylose	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+xylose	TCH1076	M9+xylose	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+mannose	TCH1077	M9+mannose	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+mannose	TCH1078	M9+mannose	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+mannose	TCH1079	M9+mannose	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+glycerol	TCH1080	M9+glycerol	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+glycerol	TCH1081	M9+glycerol	24 well plate	carbon source
-Ppa1722A_set20	8/18/2025	Tyler	Ppa1722A	M9+glycerol	TCH1082	M9+glycerol	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	Time0	TCH1083	LB	125ml flask	Time0
-Pat1043_set21	9/3/2025	Tyler	Pat1043	Time0	TCH1084	LB	125ml flask	Time0
-Pat1043_set21	9/3/2025	Tyler	Pat1043	LB	TCH1085	LB	24 well plate	control
-Pat1043_set21	9/3/2025	Tyler	Pat1043	LB	TCH1086	LB	24 well plate	control
-Pat1043_set21	9/3/2025	Tyler	Pat1043	LB	TCH1087	LB	24 well plate	control
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+glucose	TCH1088	M9+glucose	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+glucose	TCH1089	M9+glucose	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+glucose	TCH1090	M9+glucose	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+polygalacturonate	TCH1091	M9+polygalacturonate	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+polygalacturonate	TCH1092	M9+polygalacturonate	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+polygalacturonate	TCH1093	M9+polygalacturonate	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+fructose	TCH1094	M9+fructose	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+fructose	TCH1095	M9+fructose	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+fructose	TCH1096	M9+fructose	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+cellobiose	TCH1097	M9+cellobiose	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+cellobiose	TCH1098	M9+cellobiose	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+cellobiose	TCH1099	M9+cellobiose	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+galactose	TCH1100	M9+galactose	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+galactose	TCH1101	M9+galactose	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+galactose	TCH1102	M9+galactose	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+xylose	TCH1103	M9+xylose	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+xylose	TCH1104	M9+xylose	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+xylose	TCH1105	M9+xylose	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+mannose	TCH1106	M9+mannose	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+mannose	TCH1107	M9+mannose	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+mannose	TCH1108	M9+mannose	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+glycerol	TCH1109	M9+glycerol	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+glycerol	TCH1110	M9+glycerol	24 well plate	carbon source
-Pat1043_set21	9/3/2025	Tyler	Pat1043	M9+glycerol	TCH1111	M9+glycerol	24 well plate	carbon source
-Pat1043_set21	4/14/2026	Tyler	Pat1043	Time0	TCH1112	LB	125ml flask	Time0
-Pat1043_set21	4/14/2026	Tyler	Pat1043	Time0	TCH1113	LB	125ml flask	Time0
-Pat1043_set21	4/14/2026	Tyler	Pat1043	Tuber-Atlantic	TCH1114	Tuber-Atlantic	Potato_tuber	plant
-Pat1043_set21	4/14/2026	Tyler	Pat1043	Tuber-Atlantic	TCH1115	Tuber-Atlantic	Potato_tuber	plant
-Pat1043_set21	4/14/2026	Tyler	Pat1043	Tuber-Atlantic	TCH1116	Tuber-Atlantic	Potato_tuber	plant
-Pat1043_set21	4/14/2026	Tyler	Pat1043	Tuber-Atlantic	TCH1117	Tuber-Atlantic	Potato_tuber	plant
-Pat1043_set21	4/14/2026	Tyler	Pat1043	Tuber-Atlantic	TCH1118	Tuber-Atlantic	Potato_tuber	plant
-Pat1043_set21	4/14/2026	Tyler	Pat1043	Tuber-Atlantic	TCH1119	Tuber-Atlantic	Potato_tuber	plant
-Ppa1722A_set21	4/14/2026	Tyler	Ppa1722A	Time0	TCH1120	LB	125ml flask	Time0
-Ppa1722A_set21	4/14/2026	Tyler	Ppa1722A	Time0	TCH1121	LB	125ml flask	Time0
-Ppa1722A_set21	4/14/2026	Tyler	Ppa1722A	LB	TCH1122	LB	24 well plate	control
-Ppa1722A_set21	4/14/2026	Tyler	Ppa1722A	LB	TCH1123	LB	24 well plate	control
-Ppa1722A_set21	4/14/2026	Tyler	Ppa1722A	LB	TCH1124	LB	24 well plate	control
-Ppa1722A_set21	4/14/2026	Tyler	Ppa1722A	Tuber-Atlantic	TCH1125	Tuber-Atlantic	Potato_tuber	plant
-Ppa1722A_set21	4/14/2026	Tyler	Ppa1722A	Tuber-Atlantic	TCH1126	Tuber-Atlantic	Potato_tuber	plant
-Ppa1722A_set21	4/14/2026	Tyler	Ppa1722A	Tuber-Atlantic	TCH1127	Tuber-Atlantic	Potato_tuber	plant
-Ppa1722A_set21	4/14/2026	Tyler	Ppa1722A	Tuber-Atlantic	TCH1128	Tuber-Atlantic	Potato_tuber	plant
-Ppa1722A_set21	4/14/2026	Tyler	Ppa1722A	Tuber-Atlantic	TCH1129	Tuber-Atlantic	Potato_tuber	plant
-Ppa1722A_set21	4/14/2026	Tyler	Ppa1722A	Tuber-Atlantic	TCH1130	Tuber-Atlantic	Potato_tuber	plant
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	Time0	TCH1054	LB	125ml flask	Time0
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	Time0	TCH1055	LB	125ml flask	Time0
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	LB	TCH1056	LB	24 well plate	control
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	LB	TCH1057	LB	24 well plate	control
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	LB	TCH1058	LB	24 well plate	control
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+glucose	TCH1059	M9+glucose	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+glucose	TCH1060	M9+glucose	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+glucose	TCH1061	M9+glucose	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+polygalacturonate	TCH1062	M9+polygalacturonate	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+polygalacturonate	TCH1063	M9+polygalacturonate	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+polygalacturonate	TCH1064	M9+polygalacturonate	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+fructose	TCH1065	M9+fructose	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+fructose	TCH1066	M9+fructose	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+fructose	TCH1067	M9+fructose	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+cellobiose	TCH1068	M9+cellobiose	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+cellobiose	TCH1069	M9+cellobiose	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+cellobiose	TCH1070	M9+cellobiose	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+galactose	TCH1071	M9+galactose	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+galactose	TCH1072	M9+galactose	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+galactose	TCH1073	M9+galactose	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+xylose	TCH1074	M9+xylose	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+xylose	TCH1075	M9+xylose	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+xylose	TCH1076	M9+xylose	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+mannose	TCH1077	M9+mannose	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+mannose	TCH1078	M9+mannose	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+mannose	TCH1079	M9+mannose	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+glycerol	TCH1080	M9+glycerol	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+glycerol	TCH1081	M9+glycerol	24 well plate	carbon source
+PpaNY1722A_set20	8/18/2025	Tyler	PpaNY1722A	M9+glycerol	TCH1082	M9+glycerol	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	Time0	TCH1083	LB	125ml flask	Time0
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	Time0	TCH1084	LB	125ml flask	Time0
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	LB	TCH1085	LB	24 well plate	control
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	LB	TCH1086	LB	24 well plate	control
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	LB	TCH1087	LB	24 well plate	control
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+glucose	TCH1088	M9+glucose	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+glucose	TCH1089	M9+glucose	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+glucose	TCH1090	M9+glucose	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+polygalacturonate	TCH1091	M9+polygalacturonate	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+polygalacturonate	TCH1092	M9+polygalacturonate	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+polygalacturonate	TCH1093	M9+polygalacturonate	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+fructose	TCH1094	M9+fructose	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+fructose	TCH1095	M9+fructose	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+fructose	TCH1096	M9+fructose	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+cellobiose	TCH1097	M9+cellobiose	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+cellobiose	TCH1098	M9+cellobiose	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+cellobiose	TCH1099	M9+cellobiose	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+galactose	TCH1100	M9+galactose	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+galactose	TCH1101	M9+galactose	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+galactose	TCH1102	M9+galactose	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+xylose	TCH1103	M9+xylose	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+xylose	TCH1104	M9+xylose	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+xylose	TCH1105	M9+xylose	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+mannose	TCH1106	M9+mannose	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+mannose	TCH1107	M9+mannose	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+mannose	TCH1108	M9+mannose	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+glycerol	TCH1109	M9+glycerol	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+glycerol	TCH1110	M9+glycerol	24 well plate	carbon source
+PatSCRI1043_set21	9/3/2025	Tyler	PatSCRI1043	M9+glycerol	TCH1111	M9+glycerol	24 well plate	carbon source
+PatSCRI1043_set21	4/14/2026	Tyler	PatSCRI1043	Time0	TCH1112	LB	125ml flask	Time0
+PatSCRI1043_set21	4/14/2026	Tyler	PatSCRI1043	Time0	TCH1113	LB	125ml flask	Time0
+PatSCRI1043_set21	4/14/2026	Tyler	PatSCRI1043	Tuber-Atlantic	TCH1114	Tuber-Atlantic	Potato_tuber	plant
+PatSCRI1043_set21	4/14/2026	Tyler	PatSCRI1043	Tuber-Atlantic	TCH1115	Tuber-Atlantic	Potato_tuber	plant
+PatSCRI1043_set21	4/14/2026	Tyler	PatSCRI1043	Tuber-Atlantic	TCH1116	Tuber-Atlantic	Potato_tuber	plant
+PatSCRI1043_set21	4/14/2026	Tyler	PatSCRI1043	Tuber-Atlantic	TCH1117	Tuber-Atlantic	Potato_tuber	plant
+PatSCRI1043_set21	4/14/2026	Tyler	PatSCRI1043	Tuber-Atlantic	TCH1118	Tuber-Atlantic	Potato_tuber	plant
+PatSCRI1043_set21	4/14/2026	Tyler	PatSCRI1043	Tuber-Atlantic	TCH1119	Tuber-Atlantic	Potato_tuber	plant
+PpaNY1722A_set21	4/14/2026	Tyler	PpaNY1722A	Time0	TCH1120	LB	125ml flask	Time0
+PpaNY1722A_set21	4/14/2026	Tyler	PpaNY1722A	Time0	TCH1121	LB	125ml flask	Time0
+PpaNY1722A_set21	4/14/2026	Tyler	PpaNY1722A	LB	TCH1122	LB	24 well plate	control
+PpaNY1722A_set21	4/14/2026	Tyler	PpaNY1722A	LB	TCH1123	LB	24 well plate	control
+PpaNY1722A_set21	4/14/2026	Tyler	PpaNY1722A	LB	TCH1124	LB	24 well plate	control
+PpaNY1722A_set21	4/14/2026	Tyler	PpaNY1722A	Tuber-Atlantic	TCH1125	Tuber-Atlantic	Potato_tuber	plant
+PpaNY1722A_set21	4/14/2026	Tyler	PpaNY1722A	Tuber-Atlantic	TCH1126	Tuber-Atlantic	Potato_tuber	plant
+PpaNY1722A_set21	4/14/2026	Tyler	PpaNY1722A	Tuber-Atlantic	TCH1127	Tuber-Atlantic	Potato_tuber	plant
+PpaNY1722A_set21	4/14/2026	Tyler	PpaNY1722A	Tuber-Atlantic	TCH1128	Tuber-Atlantic	Potato_tuber	plant
+PpaNY1722A_set21	4/14/2026	Tyler	PpaNY1722A	Tuber-Atlantic	TCH1129	Tuber-Atlantic	Potato_tuber	plant
+PpaNY1722A_set21	4/14/2026	Tyler	PpaNY1722A	Tuber-Atlantic	TCH1130	Tuber-Atlantic	Potato_tuber	plant
 Par6119_set21	4/14/2026	Tyler	Par6119	Time0	TCH1131	LB	125ml flask	Time0
 Par6119_set21	4/14/2026	Tyler	Par6119	Time0	TCH1132	LB	125ml flask	Time0
 Par6119_set21	4/14/2026	Tyler	Par6119	Tuber-Atlantic	TCH1133	Tuber-Atlantic	Potato_tuber	plant
@@ -315,11 +315,11 @@ Par6119_set21	4/14/2026	Tyler	Par6119	Tuber-Atlantic	TCH1135	Tuber-Atlantic	Pota
 Par6119_set21	4/14/2026	Tyler	Par6119	Tuber-Atlantic	TCH1136	Tuber-Atlantic	Potato_tuber	plant
 Par6119_set21	4/14/2026	Tyler	Par6119	Tuber-Atlantic	TCH1137	Tuber-Atlantic	Potato_tuber	plant
 Par6119_set21	4/14/2026	Tyler	Par6119	Tuber-Atlantic	TCH1138	Tuber-Atlantic	Potato_tuber	plant
-Pve1715C_set21	4/14/2026	Tyler	Pve1715C	Time0	TCH1139	LB	125ml flask	Time0
-Pve1715C_set21	4/14/2026	Tyler	Pve1715C	Time0	TCH1140	LB	125ml flask	Time0
-Pve1715C_set21	4/14/2026	Tyler	Pve1715C	Tuber-Atlantic	TCH1141	Tuber-Atlantic	Potato_tuber	plant
-Pve1715C_set21	4/14/2026	Tyler	Pve1715C	Tuber-Atlantic	TCH1142	Tuber-Atlantic	Potato_tuber	plant
-Pve1715C_set21	4/14/2026	Tyler	Pve1715C	Tuber-Atlantic	TCH1143	Tuber-Atlantic	Potato_tuber	plant
-Pve1715C_set21	4/14/2026	Tyler	Pve1715C	Tuber-Atlantic	TCH1144	Tuber-Atlantic	Potato_tuber	plant
-Pve1715C_set21	4/14/2026	Tyler	Pve1715C	Tuber-Atlantic	TCH1145	Tuber-Atlantic	Potato_tuber	plant
-Pve1715C_set21	4/14/2026	Tyler	Pve1715C	Tuber-Atlantic	TCH1146	Tuber-Atlantic	Potato_tuber	plant
+PveNY1715C_set21	4/14/2026	Tyler	PveNY1715C	Time0	TCH1139	LB	125ml flask	Time0
+PveNY1715C_set21	4/14/2026	Tyler	PveNY1715C	Time0	TCH1140	LB	125ml flask	Time0
+PveNY1715C_set21	4/14/2026	Tyler	PveNY1715C	Tuber-Atlantic	TCH1141	Tuber-Atlantic	Potato_tuber	plant
+PveNY1715C_set21	4/14/2026	Tyler	PveNY1715C	Tuber-Atlantic	TCH1142	Tuber-Atlantic	Potato_tuber	plant
+PveNY1715C_set21	4/14/2026	Tyler	PveNY1715C	Tuber-Atlantic	TCH1143	Tuber-Atlantic	Potato_tuber	plant
+PveNY1715C_set21	4/14/2026	Tyler	PveNY1715C	Tuber-Atlantic	TCH1144	Tuber-Atlantic	Potato_tuber	plant
+PveNY1715C_set21	4/14/2026	Tyler	PveNY1715C	Tuber-Atlantic	TCH1145	Tuber-Atlantic	Potato_tuber	plant
+PveNY1715C_set21	4/14/2026	Tyler	PveNY1715C	Tuber-Atlantic	TCH1146	Tuber-Atlantic	Potato_tuber	plant

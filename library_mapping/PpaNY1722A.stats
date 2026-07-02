@@ -1,0 +1,34 @@
+Reading mapping files:
+PpaNY1722A_data/1_Ppa1722A-1_10483883_HYCJNAFX7_R1-mapped.txt
+PpaNY1722A_data/2_Ppa1722A-2_10483883_HYCJNAFX7_R1-mapped.txt
+PpaNY1722A_data/4_Ppa1722Aa_10487625_HCG7YAFXC_R1-mapped.txt
+PpaNY1722A_data/5_Ppa1722Ab_10487625_HCG7YAFXC_R1-mapped.txt
+PpaNY1722A_data/1_Ppa1722A-1_10483883_HYCJNAFX7_R1-mapped.txt has 5,427,328 mappings, 908,642 barcodes, 630,730 non-unique barcodes
+PpaNY1722A_data/2_Ppa1722A-2_10483883_HYCJNAFX7_R1-mapped.txt has 12,337,800 mappings, 1,202,094 barcodes, 848,282 non-unique barcodes
+  Shared with first file: 55.3 % of non-singleton barcodes
+PpaNY1722A_data/4_Ppa1722Aa_10487625_HCG7YAFXC_R1-mapped.txt has 9,447,899 mappings, 1,120,686 barcodes, 834,788 non-unique barcodes
+  Shared with first file: 56.1 % of non-singleton barcodes
+PpaNY1722A_data/5_Ppa1722Ab_10487625_HCG7YAFXC_R1-mapped.txt has 6,439,316 mappings, 896,487 barcodes, 659,753 non-unique barcodes
+  Shared with first file: 59.7 % of non-singleton barcodes
+Read 33430514 mapped reads for 2165432 distinct barcodes
+(Skipped 221829 reads with qBeg > 3)
+719378 barcodes seen 10 or more times, map 588211 (minFrac 0.75 minRatio 8)
+FewGood	10656	0.0148
+LoRatio	30687	0.0427
+NoCons	89784	0.1248
+PastEnd	40	0.0001
+Usable	588211	0.8177
+Masked 1683 off-by-1 barcodes (24330 reads) leaving 586547 barcodes
+Reads for those barcodes: 24102797 of 33430514 (72.1%)
+Chao2 estimate of #barcodes present (may be inflated for sequencing error): 3309097
+586547 insertions in genome are at 263805 different locations
+Found 356222 insertions (170043 distinct locations) in central 10-90% of genes
+Found central insertions for 4130 of 4498 protein-coding genes
+Hit rate in (crude) likely essentials: 0.31 other 0.91
+Wrote proteins of 300nt or more with no good insertions to PpaNY1722A_data/PpaNY1722A.pool.unhit
+Wrote 27 genes with surprising insertions in central 10-90% to PpaNY1722A_data/PpaNY1722A.pool.surprise
+Wrote read and strain counts for hit genes to PpaNY1722A_data/PpaNY1722A.pool.hit
+Strains per hit protein: median 39 mean 83.4
+Gene and transposon on same strand: 51.1%
+Reads per hit protein: median 1579 mean 3403.0 bias (ratio) 2.16
+Reads per million for hit proteins: median 47.23 mean 101.79
