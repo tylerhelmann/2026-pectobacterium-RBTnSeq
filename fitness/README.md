@@ -59,6 +59,18 @@ Processed (per-strain) results: [html/](html)
 - Fitness values for passQC samples: html/{Strain}/fit\_logratios_good.tab
 - Summary of experimental QC metrics: html/{Strain}/fit_quality.tab
 
+PassQC summary:
+
+|strain|time0	|pass|fail
+|---|---|---|---
+|Par6119	|4|	33|	0
+|PatSCRI1043|	4|	33|	0
+|Pbr123	|4|	40	|1
+|Pbr1692	|4	|35	|2
+|PccWPP14	|10	|61	|1
+|PpaNY1722A|	4	|31|	5
+|PveNY1715C|	4	|38|	5
+
 #### Save strainusage files for future use
 
 See: <https://bitbucket.org/berkeleylab/feba/src/master/bin/SaveStrainUsage.pl>
@@ -81,3 +93,4 @@ Wrote strain usage to html/PccWPP14/strainusage.*
 Wrote strain usage to html/PpaNY1722A/strainusage.*
 Wrote strain usage to html/PveNY1715C/strainusage.*
 ~~~
+
