@@ -1,0 +1,41 @@
+Unknown media	M9+cellobiose	M9+fructose	M9+galactose	M9+glucose	M9+glycerol	M9+mannose	M9+polygalacturonate	M9+xylose	Tuber-Atlantic
+Check gene locations: success 4718 wrap 0 overlap-adjacent 0 failure 0
+Processing 40 experiments, 4718 genes, 2 sets for PpaNY1722A
+Processed all the poolcount files; writing html/PpaNY1722A/all.poolcount
+Wrote data for 586587 barcodes (454981 in genes) to html/PpaNY1722A/all.poolcount
+Wrote 40 experiments to html/PpaNY1722A/exps
+Running R: Rscript /local/workdir/tch54/2026-pectobacterium-RBTnSeq/fitness/feba/bin/RunFEBA.R PpaNY1722A html/PpaNY1722A /local/workdir/tch54/2026-pectobacterium-RBTnSeq/fitness/feba/bin/.. > html/PpaNY1722A/log
+Aggregating all over genes
+Aggregating Time0 totals
+Computing cofitness with  31  experiments
+Wrote  html/PpaNY1722A/fit_quality.tab 
+Wrote  html/PpaNY1722A/fit_genes.tab 
+Wrote  html/PpaNY1722A/fit_logratios_unnormalized.tab 
+Wrote  html/PpaNY1722A/fit_logratios_unnormalized_naive.tab 
+Wrote  html/PpaNY1722A/fit_logratios.tab 
+Wrote  html/PpaNY1722A/fit_logratios_half1.tab 
+Wrote  html/PpaNY1722A/fit_logratios_half2.tab 
+Wrote fitness for  31  successful experiments to  html/PpaNY1722A/fit_logratios_good.tab 
+Wrote  html/PpaNY1722A/gene_counts.tab 
+Wrote  html/PpaNY1722A/fit_t.tab 
+Wrote  html/PpaNY1722A/fit_standard_error_obs.tab 
+Wrote  html/PpaNY1722A/fit_standard_error_naive.tab 
+Wrote  html/PpaNY1722A/strain_fit.tab 
+Wrote  html/PpaNY1722A/fit_quality.pdf 
+Wrote  html/PpaNY1722A/cofitness.pdf 
+Wrote  html/PpaNY1722A/fit_quality_cor12.pdf 
+Wrote  html/PpaNY1722A/fit_cluster_logratios.pdf 
+Wrote  html/PpaNY1722A/fit_cluster_logcounts.pdf 
+Wrote  html/PpaNY1722A/fit_chr_bias.pdf 
+Wrote  html/PpaNY1722A/replicate_noise.pdf 
+Wrote  html/PpaNY1722A/expsUsed 
+Wrote  html/PpaNY1722A/cofit 
+Wrote  html/PpaNY1722A/specific_phenotypes 
+Wrote  html/PpaNY1722A/strong.tab 
+Wrote  html/PpaNY1722A/high_fitness.tab 
+Wrote  html/PpaNY1722A/polar_effects.tab 
+Wrote  html/PpaNY1722A/fit2026Jul02.image 
+Created link for  html/PpaNY1722A/fit.image 
+Wrote  html/PpaNY1722A/poolcount.image 
+Wrote  html/PpaNY1722A/index.html 
+Success for PpaNY1722A, please visit html/PpaNY1722A/index.html

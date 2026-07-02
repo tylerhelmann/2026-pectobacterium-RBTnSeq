@@ -1,0 +1,41 @@
+Unknown media	M9+cellobiose	M9+fructose	M9+galactose	M9+glucose	M9+glycerol	M9+mannose	M9+polygalacturonate	M9+xylose	Tuber-Atlantic
+Check gene locations: success 4562 wrap 0 overlap-adjacent 0 failure 0
+Processing 37 experiments, 4562 genes, 1 sets for PatSCRI1043
+Processed all the poolcount files; writing html/PatSCRI1043/all.poolcount
+Wrote data for 241080 barcodes (187010 in genes) to html/PatSCRI1043/all.poolcount
+Wrote 37 experiments to html/PatSCRI1043/exps
+Running R: Rscript /local/workdir/tch54/2026-pectobacterium-RBTnSeq/fitness/feba/bin/RunFEBA.R PatSCRI1043 html/PatSCRI1043 /local/workdir/tch54/2026-pectobacterium-RBTnSeq/fitness/feba/bin/.. > html/PatSCRI1043/log
+Aggregating all over genes
+Aggregating Time0 totals
+Computing cofitness with  33  experiments
+Wrote  html/PatSCRI1043/fit_quality.tab 
+Wrote  html/PatSCRI1043/fit_genes.tab 
+Wrote  html/PatSCRI1043/fit_logratios_unnormalized.tab 
+Wrote  html/PatSCRI1043/fit_logratios_unnormalized_naive.tab 
+Wrote  html/PatSCRI1043/fit_logratios.tab 
+Wrote  html/PatSCRI1043/fit_logratios_half1.tab 
+Wrote  html/PatSCRI1043/fit_logratios_half2.tab 
+Wrote fitness for  33  successful experiments to  html/PatSCRI1043/fit_logratios_good.tab 
+Wrote  html/PatSCRI1043/gene_counts.tab 
+Wrote  html/PatSCRI1043/fit_t.tab 
+Wrote  html/PatSCRI1043/fit_standard_error_obs.tab 
+Wrote  html/PatSCRI1043/fit_standard_error_naive.tab 
+Wrote  html/PatSCRI1043/strain_fit.tab 
+Wrote  html/PatSCRI1043/fit_quality.pdf 
+Wrote  html/PatSCRI1043/cofitness.pdf 
+Wrote  html/PatSCRI1043/fit_quality_cor12.pdf 
+Wrote  html/PatSCRI1043/fit_cluster_logratios.pdf 
+Wrote  html/PatSCRI1043/fit_cluster_logcounts.pdf 
+Wrote  html/PatSCRI1043/fit_chr_bias.pdf 
+Wrote  html/PatSCRI1043/replicate_noise.pdf 
+Wrote  html/PatSCRI1043/expsUsed 
+Wrote  html/PatSCRI1043/cofit 
+Wrote  html/PatSCRI1043/specific_phenotypes 
+Wrote  html/PatSCRI1043/strong.tab 
+Wrote  html/PatSCRI1043/high_fitness.tab 
+Wrote  html/PatSCRI1043/polar_effects.tab 
+Wrote  html/PatSCRI1043/fit2026Jul02.image 
+Created link for  html/PatSCRI1043/fit.image 
+Wrote  html/PatSCRI1043/poolcount.image 
+Wrote  html/PatSCRI1043/index.html 
+Success for PatSCRI1043, please visit html/PatSCRI1043/index.html

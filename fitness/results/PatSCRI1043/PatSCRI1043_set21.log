@@ -1,0 +1,6 @@
+Pool inputs/PatSCRI1043.pool entries 241.1K saw 8129.9K lines ignored 10532.6K lines from 37 files
+  Indexes 37 Success 37 LowCount 0 LowFraction 0 Total Reads (millions): 164.578 
+  Median Fraction (LowCount Excluded) 0.747 Median for Success 0.747
+  Success TCH1083:TCH1119
+  Wrote 37 successful samples to results/PatSCRI1043/PatSCRI1043_set21.poolcount
+  Wrote results/PatSCRI1043/PatSCRI1043_set21.colsum

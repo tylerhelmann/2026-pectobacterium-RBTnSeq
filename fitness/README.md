@@ -16,12 +16,12 @@ source $HOME/miniconda3/bin/activate
 Strains/libraries:
 
 - Par6119
-- Pat1043
+- PatSCRI1043
 - Pbr123
 - Pbr1692
-- PcWPP14
-- Ppa1722A
-- Pve1715C
+- PccWPP14
+- PpaNY1722A
+- PveNY1715C
 
 Required:
 
@@ -74,10 +74,10 @@ done
 
 ~~~
 Wrote strain usage to html/Par6119/strainusage.*
-Wrote strain usage to html/Pat1043/strainusage.*
+Wrote strain usage to html/PatSCRI1043/strainusage.*
 Wrote strain usage to html/Pbr123/strainusage.*
 Wrote strain usage to html/Pbr1692/strainusage.*
-Wrote strain usage to html/PcWPP14/strainusage.*
-Wrote strain usage to html/Ppa1722A/strainusage.*
-Wrote strain usage to html/Pve1715C/strainusage.*
+Wrote strain usage to html/PccWPP14/strainusage.*
+Wrote strain usage to html/PpaNY1722A/strainusage.*
+Wrote strain usage to html/PveNY1715C/strainusage.*
 ~~~

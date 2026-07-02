@@ -1,0 +1,47 @@
+Read 4382 genes, 72 exps, and data for 286088 barcodes
+Central Reads per t0set, in millions:
+ 1/24/2022 PccWPP14_set15 10/28/2021 PccWPP14_set14 11/21/2024 PccWPP14_set18 
+                      3.8                       2.0                       3.3 
+  4/2/2025 PccWPP14_set19  7/19/2021 PccWPP14_set11 
+                      2.4                       7.3 
+Time0 reads per gene: mean 965.8 median 639.2 ratio 1.51
+Genes with enough Time0 reads:  3732 
+Using  146520  of  168416  genic strains
+Using  3732  of  3923  genes with data
+For cor12, using  3200 genes
+status
+high_mad12         OK      Time0 
+         1         61         10 
+high_mad12 : set19TCH961 
+Presence of used genic strains in individual Time0 samples:
+   0%   25%   50%   75%  100% 
+0.899 0.939 0.956 0.981 0.999 
+Presence of used genic strains in successful experimental samples:
+   0%   25%   50%   75%  100% 
+0.759 0.897 0.923 0.940 0.976 
+Presence of non-genic strains with enough t0 reads in individual Time0 samples:
+   0%   25%   50%   75%  100% 
+0.903 0.942 0.959 0.983 0.999 
+Presence of non-genic strains with enough t0 reads in successful experimental samples:
+   0%   25%   50%   75%  100% 
+0.771 0.912 0.938 0.958 0.981 
+Replicate count comparison for 1/24/2022 PccWPP14_set15 
+ set15TCH702 vs. set15TCH703 
+Median sum for used strains (vertical line): 17 
+Average noise over sum = 8 : 12 is 0.5310704 
+Replicate count comparison for 10/28/2021 PccWPP14_set14 
+ set14TCH659 vs. set14TCH660 
+Median sum for used strains (vertical line): 9 
+Average noise over sum = 8 : 12 is 0.5496922 
+Replicate count comparison for 11/21/2024 PccWPP14_set18 
+ set18TCH871 vs. set18TCH872 
+Median sum for used strains (vertical line): 14 
+Average noise over sum = 8 : 12 is 0.6281557 
+Replicate count comparison for 4/2/2025 PccWPP14_set19 
+ set19TCH950 vs. set19TCH951 
+Median sum for used strains (vertical line): 10 
+Average noise over sum = 8 : 12 is 0.5257759 
+Replicate count comparison for 7/19/2021 PccWPP14_set11 
+ set11TCH489 vs. set11TCH490 
+Median sum for used strains (vertical line): 33 
+Average noise over sum = 8 : 12 is 0.6411098 

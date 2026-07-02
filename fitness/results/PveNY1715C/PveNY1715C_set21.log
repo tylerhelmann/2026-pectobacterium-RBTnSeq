@@ -1,0 +1,7 @@
+Pool inputs/PveNY1715C.pool entries 512.0K saw 2844.5K lines ignored 3610.2K lines from 8 files
+  Indexes 8 Success 7 LowCount 1 LowFraction 0 Total Reads (millions): 45.899 
+  Median Fraction (LowCount Excluded) 0.663 Median for Success 0.663
+  Success TCH1139:TCH1141 TCH1143:TCH1146
+  LowCount (median 410) TCH1142
+  Wrote 7 successful samples to results/PveNY1715C/PveNY1715C_set21.poolcount
+  Wrote results/PveNY1715C/PveNY1715C_set21.colsum
