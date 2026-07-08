@@ -20,12 +20,6 @@ Strains included in this project:
 - *P. parmentieri* NY1722A 
 - *P. versatile* NY1715C 
 
-
-
-### Identify orthologs using OrthoFinder
-
-For *Pectobacterium* genomes, [identify_orthogroups](identify_orthogroups) using [OrthoFinder](https://github.com/OrthoFinder/OrthoFinder)
-
 ### Download FEBA repository
 
 Citation: [https://doi.org/10.1128/mbio.00306-15](https://doi.org/10.1128/mbio.00306-15)
@@ -54,6 +48,17 @@ Per-strain [library_mapping](library_mapping)
 
 Per-strain experimental [fitness](fitness) calculations
 
+### Identify orthologs using OrthoFinder
+
+For *Pectobacterium* genomes, [identify_orthogroups](identify_orthogroups) using [OrthoFinder](https://github.com/OrthoFinder/OrthoFinder)
+
+For the 7 Tn-lib strains here, use the "aaseq" protein fasta from FEBA SetupOrg.pl as input for OrthoFinder. This labels peptide sequence using the gene locusId, for easy joining of fitness - orthogroup.
+
 ### Combined fitness analysis
 
-Join orthogroup matrix with BarSeq fitness tables (requires NCBI Feature Tables to link proteinID:gene for NCBI downloaded genomes)
+Join orthogroup matrix with BarSeq fitness tables
+
+- [src/merge_fitness.R](src/merge_fitness.R)
+- Saves: [fitness/orthogroups\_long_locus.csv](fitness/orthogroups_long_locus.csv); [fitness/merged_fitness.csv](fitness/merged_fitness.csv)
+
+Calculate co-fitness networks at various correlation cutoffs
