@@ -1,6 +1,6 @@
 
 # Create shell script to rename pep.fa files from accession to name.
-# 3/17/2026
+# 6/7/2026
 
 library("dplyr")
 source("src/NCBI_name_fix.R")
@@ -18,10 +18,10 @@ write.table(ncbi_pecto, "identify_orthogroups/ncbi_pecto.tab",
 
 # Function to print a single command
 print_rename_command <- function(row, strainlist){
-  return(paste("mv identify_orthogroups/fasta/", 
+  return(paste("mv ncbi_dataset/data/", 
                strainlist[row, "assembly_accession"],
-               "*protein.faa ",
-               "identify_orthogroups/fasta/",
+               "/protein.faa ",
+               "fasta/",
                strainlist[row, "final_name"],
                ".protein.faa",
                sep = ""))

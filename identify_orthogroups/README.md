@@ -4,36 +4,25 @@ Citation: Emms, D.M., Kelly, S. OrthoFinder: phylogenetic orthology inference fo
 
 [https://github.com/OrthoFinder/OrthoFinder](https://github.com/OrthoFinder/OrthoFinder)
 
-#### Download protein FASTAs using [ncbi-genome-download](https://github.com/kblin/ncbi-genome-download/)
+#### Download protein FASTAs using ncbi datasets
 
-[https://doi.org/10.5281/zenodo.8192432](https://doi.org/10.5281/zenodo.8192432)
+<https://www.ncbi.nlm.nih.gov/datasets/docs/v2/command-line-tools/download-and-install/>
 
 ~~~bash
-pip install ncbi-genome-download
+# Download
+curl -o datasets 'https://ftp.ncbi.nlm.nih.gov/pub/datasets/command-line/v2/linux-amd64/datasets'
+chmod +x datasets dataformat
 
 # Only "complete"/"chromosome" genomes
-# Download date: 6/23/2026
-ncbi-genome-download \
---genera Pectobacterium \
-bacteria \
---assembly-levels complete,chromosome \
---formats protein-fasta \
---parallel 4 
+# Download date: 7/7/2026
+./datasets download genome taxon Pectobacterium \
+--assembly-level complete,chromosome \
+--include protein 
 ~~~
 
--> 152 genomes downloaded into refseq/bacteria/
+Unzip -> 311 genomes downloaded into ncbi_dataset/data/ (mix of RefSeq and Genbank)
 
-~~~bash
-# Unzip all
-gunzip refseq/bacteria/GCF*/*protein.faa.gz
-
-# Copy all into a single folder
-mkdir fasta
-mv refseq/bacteria/*/*faa fasta/
-rm -r refseq
-~~~
-
-Download NCBI RefSeq metadata
+Download NCBI RefSeq metadata: 152 genomes
 
 ~~~bash
 # Download NCBI RefSeq genome metadata
@@ -55,9 +44,11 @@ cat ncbi_header.txt ncbi_pecto_temp.txt \
 rm ncbi_metadata.txt ncbi_header.txt ncbi_pecto_temp.txt
 ~~~
 
-Rename from GCF* to strain name using metadata
+Rename from GCF*protein.faa to strain name using metadata
 
 ~~~bash
+mkdir fasta
+
 # Write strainlist.txt and write/run rename strain shell script (Run from base directory)
 Rscript ./src/save_rename_script.R
 ./src/rename_fasta.sh
@@ -70,14 +61,13 @@ Rscript ./src/save_rename_script.R
 - *P. parmentieri* NY1722A 
 - *P. versatile* NY1715C 
 
-~~~bash
-for strain in $(ls ../additional_genomes/*protein.faa); do
-	echo "Copying: ${strain}"
-	cp $strain fasta/
-done
-~~~
+For 7 strains, use amino acid fastas generated from RB-TnSeq FEBA pipeline SetupOrg.pl ("aaseq" file)
 
 -> 156 total genomes in fasta/
+
+~~~
+cp ${lib}_data/aaseq fasta/${strain}.protein.faa
+~~~
 
 #### Run OrthoFinder
 
@@ -96,37 +86,5 @@ Results:
 - [results/Comparative\_Genomics\_Statistics/Statistics_Overall.tsv](results/Comparative_Genomics_Statistics/Statistics_Overall.tsv)
 
 --
-
-#### Optional: re-calculate to include *Dickeya dadantii* 3937, *D. dianthicola* ME23, and *D. dianthicola* 67-19 to orthogroup tables to allow for comparison to previous BarSeq work
-
-- Dda3937 = GCF_000147055.1
-- DdiaME23 = GCF_003403135.1
-- Ddia67-19 = GCF_014893095.1
-
-~~~bash
-mkdir dickeya_fasta
-
-wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/147/055/GCF_000147055.1_ASM14705v1/GCF_000147055.1_ASM14705v1_protein.faa.gz \
--O dickeya_fasta/Dickeya_dadantii_3937.protein.faa.gz
-wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/403/135/GCF_003403135.1_ASM340313v1/GCF_003403135.1_ASM340313v1_protein.faa.gz \
--O dickeya_fasta/Dickeya_dianthicola_ME23.protein.faa.gz
-wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/893/095/GCF_014893095.1_ASM1489309v1/GCF_014893095.1_ASM1489309v1_protein.faa.gz \
--O dickeya_fasta/Dickeya_dianthicola_67_19.protein.faa.gz
-
-gunzip dickeya_fasta/*protein.faa.gz
-
-mkdir fasta_both
-cp fasta/* fasta_both
-cp dickeya_fasta/* fasta_both
-
-# orthofinder --assign dickeya_fasta --core results/Results_Mar18
-orthofinder -f fasta_both -o results_both
-~~~
-
-Results: 
-
-- [results+Dickeya/Orthogroups/Orthogroups.tsv](results+Dickeya/Orthogroups/Orthogroups.tsv)
-- [results+Dickeya/Comparative\_Genomics\_Statistics/Statistics_Overall.tsv](results+Dickeya/Comparative_Genomics_Statistics/Statistics_Overall.tsv)
-
 
 

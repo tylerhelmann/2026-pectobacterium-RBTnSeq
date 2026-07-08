@@ -1,4 +1,4 @@
-2026-06-25 09:45:53 : Started OrthoFinder version 3.1.3
+2026-07-07 14:50:35 : Started OrthoFinder version 3.1.3
 Command Line: /programs/miniconda3.1/envs/orthofinder/bin/orthofinder -f fasta -o results
 
 Search program: diamond
@@ -8,7 +8,7 @@ Scoring matrix: BLOSUM62
 Gap extend: 1
 Gap open: 11
 
-WorkingDirectory_Base: /local/workdir/tch54/2026-pectobacterium-OrthoFinder/results/Results_Jun25/WorkingDirectory/
+WorkingDirectory_Base: /local/workdir/tch54/2026-pectobacterium-OrthoFinder/results/Results_Jul07/WorkingDirectory/
 
 Species used: 
 0: Pectobacterium_actinidiae_BP7042.protein.faa
@@ -16,7 +16,7 @@ Species used:
 2: Pectobacterium_aquaticum_A101_S19_F16.protein.faa
 3: Pectobacterium_aquaticum_A212_S19_A16.protein.faa
 4: Pectobacterium_araliae_MAFF_302110.protein.faa
-5: Pectobacterium_aroidearum_61-19.protein.faa
+5: Pectobacterium_aroidearum_6119.protein.faa
 6: Pectobacterium_aroidearum_AK042.protein.faa
 7: Pectobacterium_aroidearum_AK049.protein.faa
 8: Pectobacterium_aroidearum_B2_6.protein.faa
@@ -168,6 +168,6 @@ Species used:
 154: Pectobacterium_wasabiae_CFBP_3304.protein.faa
 155: Pectobacterium_zantedeschiae_CFBP_1357.protein.faa
 
-FN_Orthogroups: /local/workdir/tch54/2026-pectobacterium-OrthoFinder/results/Results_Jun25/WorkingDirectory/clusters_OrthoFinder_I1.2.txt_id_pairs.txt
-WorkingDirectory_Trees: /local/workdir/tch54/2026-pectobacterium-OrthoFinder/results/Results_Jun25/WorkingDirectory/
-2026-06-25 14:06:47 : OrthoFinder run completed
+FN_Orthogroups: /local/workdir/tch54/2026-pectobacterium-OrthoFinder/results/Results_Jul07/WorkingDirectory/clusters_OrthoFinder_I1.2.txt_id_pairs.txt
+WorkingDirectory_Trees: /local/workdir/tch54/2026-pectobacterium-OrthoFinder/results/Results_Jul07/WorkingDirectory/
+2026-07-07 19:10:53 : OrthoFinder run completed
