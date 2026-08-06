@@ -1,22 +1,22 @@
-Number of species	156
-Number of genes	658914
-Number of genes in orthogroups	655589
-Number of unassigned genes	3325
+Number of species	155
+Number of genes	655344
+Number of genes in orthogroups	651999
+Number of unassigned genes	3345
 Percentage of genes in orthogroups	99.5
 Percentage of unassigned genes	0.5
-Number of orthogroups	9587
+Number of orthogroups	9539
 Number of species-specific orthogroups	26
 Number of genes in species-specific orthogroups	65
 Percentage of genes in species-specific orthogroups	0.0
 Mean orthogroup size	68.4
-Median orthogroup size	28.0
+Median orthogroup size	29.0
 G50 (assigned genes)	154
 G50 (all genes)	154
-O50 (assigned genes)	2036
-O50 (all genes)	2046
-Number of orthogroups with all species present	1129
-Number of single-copy orthogroups	1052
-Date	2026-07-07
+O50 (assigned genes)	2037
+O50 (all genes)	2048
+Number of orthogroups with all species present	1202
+Number of single-copy orthogroups	1114
+Date	2026-08-05
 Orthogroups file	Orthogroups.tsv
 Unassigned genes file	Orthogroups_UnassignedGenes.tsv
 Per-species statistics	Statistics_PerSpecies.tsv
@@ -24,10 +24,10 @@ Overall statistics	Statistics_Overall.tsv
 Orthogroups shared between species	Orthogroups_SpeciesOverlaps.tsv
 
 Average number of genes per-species in orthogroup	Number of orthogroups	Percentage of orthogroups	Number of genes	Percentage of genes
-<1	8206	85.6	429138	65.5
-'1	1367	14.3	220525	33.6
-'2	12	0.1	4844	0.7
-'3	2	0.0	1082	0.2
+<1	8095	84.9	417236	64.0
+'1	1430	15.0	228840	35.1
+'2	11	0.1	4351	0.7
+'3	3	0.0	1572	0.2
 '4	0	0.0	0	0.0
 '5	0	0.0	0	0.0
 '6	0	0.0	0	0.0
@@ -47,158 +47,157 @@ Average number of genes per-species in orthogroup	Number of orthogroups	Percenta
 
 Number of species in orthogroup	Number of orthogroups
 1	26
-2	948
-3	823
-4	568
-5	352
-6	286
-7	214
-8	139
-9	146
-10	129
-11	115
+2	907
+3	813
+4	565
+5	360
+6	281
+7	215
+8	150
+9	144
+10	128
+11	106
 12	98
-13	72
-14	64
-15	90
-16	51
-17	41
-18	60
-19	79
-20	117
-21	91
+13	73
+14	74
+15	79
+16	50
+17	39
+18	61
+19	78
+20	125
+21	88
 22	59
-23	63
-24	56
-25	46
+23	65
+24	54
+25	44
 26	42
-27	51
-28	48
-29	46
-30	35
-31	33
-32	39
-33	19
-34	32
-35	27
-36	23
-37	36
-38	26
-39	13
+27	57
+28	57
+29	39
+30	42
+31	24
+32	41
+33	20
+34	31
+35	28
+36	27
+37	30
+38	25
+39	15
 40	21
 41	21
-42	25
-43	23
-44	14
-45	16
-46	17
-47	24
-48	29
-49	15
-50	19
+42	24
+43	25
+44	15
+45	18
+46	18
+47	17
+48	36
+49	12
+50	18
 51	15
 52	17
-53	12
-54	14
-55	26
-56	14
-57	13
-58	13
+53	13
+54	16
+55	22
+56	17
+57	9
+58	14
 59	14
-60	13
+60	12
 61	9
-62	10
-63	12
-64	16
-65	23
-66	11
+62	13
+63	10
+64	20
+65	19
+66	8
 67	7
-68	7
-69	13
-70	10
-71	9
-72	14
-73	8
-74	8
-75	12
-76	16
+68	9
+69	14
+70	8
+71	11
+72	17
+73	5
+74	9
+75	13
+76	14
 77	11
-78	10
-79	21
-80	9
-81	9
-82	9
+78	12
+79	18
+80	8
+81	7
+82	13
 83	7
-84	21
-85	25
-86	12
-87	10
-88	16
-89	16
-90	18
-91	9
-92	15
+84	23
+85	21
+86	13
+87	11
+88	17
+89	15
+90	14
+91	15
+92	11
 93	8
 94	12
-95	5
-96	13
-97	13
-98	3
-99	8
+95	8
+96	14
+97	9
+98	4
+99	7
 100	6
-101	7
+101	10
 102	12
-103	12
-104	5
+103	9
+104	7
 105	14
 106	9
 107	8
 108	8
-109	7
-110	8
+109	6
+110	9
 111	9
-112	9
-113	6
-114	9
-115	16
-116	13
-117	11
-118	11
-119	16
-120	10
-121	17
-122	19
-123	13
-124	20
-125	31
-126	14
-127	17
-128	16
-129	35
-130	22
-131	19
-132	14
-133	12
-134	9
-135	11
-136	12
+112	8
+113	7
+114	10
+115	14
+116	14
+117	15
+118	14
+119	11
+120	14
+121	19
+122	11
+123	18
+124	30
+125	17
+126	20
+127	13
+128	35
+129	16
+130	26
+131	10
+132	20
+133	6
+134	11
+135	12
+136	9
 137	5
 138	16
-139	21
-140	30
-141	15
-142	15
-143	25
-144	26
-145	30
-146	37
-147	40
-148	52
-149	59
-150	86
-151	116
-152	162
-153	228
-154	301
-155	664
-156	1129
+139	28
+140	26
+141	14
+142	18
+143	33
+144	28
+145	36
+146	42
+147	45
+148	57
+149	78
+150	103
+151	184
+152	215
+153	265
+154	659
+155	1202

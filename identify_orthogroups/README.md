@@ -69,11 +69,32 @@ For 7 strains, use amino acid fastas generated from RB-TnSeq FEBA pipeline Setup
 cp ${lib}_data/aaseq fasta/${strain}.protein.faa
 ~~~
 
+#### CheckM filter
+
+~~~bash
+export PATH=/programs/hmmer/bin:$PATH
+export PATH=/programs/prodigal-2.6.3:$PATH
+export PATH=/programs/pplacer-Linux-v1.1.alpha19:$PATH
+export PATH=/programs/checkm-1.2.4/bin:$PATH
+export PYTHONPATH=/programs/checkm-1.2.4/lib/python3.9/site-packages
+
+checkm lineage_wf --genes -t 16 -x faa fasta/ checkm_test/ --tmpdir .
+
+# Marker: Enterobacteriaceae
+~~~
+
+Remove outlier: Pectobacterium\_sp_A5354, completeness = 90.43
+
+All others, completeness >94% and contamination ≤1%
+
 #### Run OrthoFinder
 
 OrthoFinder:v3.1.3
 
 ~~~bash
+rm fasta/Pectobacterium_sp_A5354.protein.faa
+# N = 155 total genomes
+
 # software pre-installed in BioHPC Cloud
 source /programs/miniconda3.1/bin/activate orthofinder
 
@@ -83,8 +104,40 @@ orthofinder -f fasta -o results
 Results: 
 
 - [results/Orthogroups/Orthogroups.tsv](results/Orthogroups/Orthogroups.tsv)
+- [results/Orthogroups/Orthogroups_UnassignedGenes.tsv](results/Orthogroups/Orthogroups_UnassignedGenes.tsv)
 - [results/Comparative\_Genomics\_Statistics/Statistics_Overall.tsv](results/Comparative_Genomics_Statistics/Statistics_Overall.tsv)
 
---
+#### Combine orthogroups with unassigned (unique) proteins, and subset to Tn-lib strains
 
+~~~r
+library(dplyr)
+library(tidyr)
+
+og <- read.delim("results/Orthogroups/Orthogroups.tsv")
+unassigned <- read.delim("results/Orthogroups/Orthogroups_UnassignedGenes.tsv")
+
+og_all <- rbind(og, unassigned)
+
+og_subset <- og_all %>% 
+  rename("Par6119" = "Pectobacterium_aroidearum_6119.protein",
+         "PatSCRI1043" = "Pectobacterium_atrosepticum_SCRI1043.protein",
+         "Pbr123" = "Pectobacterium_brasiliense_123.1.protein",
+         "Pbr1692" = "Pectobacterium_brasiliense_1692.protein",
+         "PccWPP14" = "Pectobacterium_carotovorum_WPP14.protein",
+         "PpaNY1722A" = "Pectobacterium_parmentieri_NY1722A.protein",
+         "PveNY1715C" = "Pectobacterium_versatile_NY1715C.protein") %>%
+  select("Orthogroup", "Par6119", "PatSCRI1043", "Pbr123", "Pbr1692",
+         "PccWPP14", "PpaNY1722A", "PveNY1715C") %>%
+  separate_rows("Par6119", sep = ", ") %>%
+  separate_rows("PatSCRI1043", sep = ", ") %>%
+  separate_rows("Pbr123", sep = ", ") %>%
+  separate_rows("Pbr1692", sep = ", ") %>%
+  separate_rows("PccWPP14", sep = ", ") %>%
+  separate_rows("PpaNY1722A", sep = ", ") %>%
+  separate_rows("PveNY1715C", sep = ", ") %>%
+  filter(if_any(-Orthogroup, ~ !is.na(.)))
+  
+# Save
+write.csv(og_subset, "results/Orthogroups/Orthogroups_subset.csv", row.names=F, quote=F)
+~~~
 

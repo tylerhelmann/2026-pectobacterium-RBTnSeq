@@ -1,4 +1,4 @@
-2026-07-07 14:50:35 : Started OrthoFinder version 3.1.3
+2026-08-05 13:43:05 : Started OrthoFinder version 3.1.3
 Command Line: /programs/miniconda3.1/envs/orthofinder/bin/orthofinder -f fasta -o results
 
 Search program: diamond
@@ -8,7 +8,7 @@ Scoring matrix: BLOSUM62
 Gap extend: 1
 Gap open: 11
 
-WorkingDirectory_Base: /local/workdir/tch54/2026-pectobacterium-OrthoFinder/results/Results_Jul07/WorkingDirectory/
+WorkingDirectory_Base: /local/workdir/tch54/2026-pectobacterium-OrthoFinder/results/Results_Aug05/WorkingDirectory/
 
 Species used: 
 0: Pectobacterium_actinidiae_BP7042.protein.faa
@@ -148,26 +148,25 @@ Species used:
 134: Pectobacterium_sinaloense_LFLA_215.protein.faa
 135: Pectobacterium_sp_21LCBS03.protein.faa
 136: Pectobacterium_sp_A5351.protein.faa
-137: Pectobacterium_sp_A5354.protein.faa
-138: Pectobacterium_sp_F1_1.protein.faa
-139: Pectobacterium_sp_PL152.protein.faa
-140: Pectobacterium_sp_PL64.protein.faa
-141: Pectobacterium_versatile_14A.protein.faa
-142: Pectobacterium_versatile_3_2.protein.faa
-143: Pectobacterium_versatile_A73_S18_O15.protein.faa
-144: Pectobacterium_versatile_BP9149.protein.faa
-145: Pectobacterium_versatile_DSM_30169.protein.faa
-146: Pectobacterium_versatile_ECC15.protein.faa
-147: Pectobacterium_versatile_F131.protein.faa
-148: Pectobacterium_versatile_M10.protein.faa
-149: Pectobacterium_versatile_M22b.protein.faa
-150: Pectobacterium_versatile_NY1715C.protein.faa
-151: Pectobacterium_versatile_SCC1.protein.faa
-152: Pectobacterium_versatile_SR1.protein.faa
-153: Pectobacterium_versatile_SR12.protein.faa
-154: Pectobacterium_wasabiae_CFBP_3304.protein.faa
-155: Pectobacterium_zantedeschiae_CFBP_1357.protein.faa
+137: Pectobacterium_sp_F1_1.protein.faa
+138: Pectobacterium_sp_PL152.protein.faa
+139: Pectobacterium_sp_PL64.protein.faa
+140: Pectobacterium_versatile_14A.protein.faa
+141: Pectobacterium_versatile_3_2.protein.faa
+142: Pectobacterium_versatile_A73_S18_O15.protein.faa
+143: Pectobacterium_versatile_BP9149.protein.faa
+144: Pectobacterium_versatile_DSM_30169.protein.faa
+145: Pectobacterium_versatile_ECC15.protein.faa
+146: Pectobacterium_versatile_F131.protein.faa
+147: Pectobacterium_versatile_M10.protein.faa
+148: Pectobacterium_versatile_M22b.protein.faa
+149: Pectobacterium_versatile_NY1715C.protein.faa
+150: Pectobacterium_versatile_SCC1.protein.faa
+151: Pectobacterium_versatile_SR1.protein.faa
+152: Pectobacterium_versatile_SR12.protein.faa
+153: Pectobacterium_wasabiae_CFBP_3304.protein.faa
+154: Pectobacterium_zantedeschiae_CFBP_1357.protein.faa
 
-FN_Orthogroups: /local/workdir/tch54/2026-pectobacterium-OrthoFinder/results/Results_Jul07/WorkingDirectory/clusters_OrthoFinder_I1.2.txt_id_pairs.txt
-WorkingDirectory_Trees: /local/workdir/tch54/2026-pectobacterium-OrthoFinder/results/Results_Jul07/WorkingDirectory/
-2026-07-07 19:10:53 : OrthoFinder run completed
+FN_Orthogroups: /local/workdir/tch54/2026-pectobacterium-OrthoFinder/results/Results_Aug05/WorkingDirectory/clusters_OrthoFinder_I1.2.txt_id_pairs.txt
+WorkingDirectory_Trees: /local/workdir/tch54/2026-pectobacterium-OrthoFinder/results/Results_Aug05/WorkingDirectory/
+2026-08-05 18:21:10 : OrthoFinder run completed
