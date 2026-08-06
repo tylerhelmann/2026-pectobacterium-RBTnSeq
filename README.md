@@ -56,9 +56,18 @@ For the 7 Tn-lib strains here, use the "aaseq" protein fasta from FEBA SetupOrg.
 
 ### Combined fitness analysis
 
-Join orthogroup matrix with BarSeq fitness tables
+Join orthogroup matrix with BarSeq fitness tables and calculate mean fitness per condition
 
 - [src/merge_fitness.R](src/merge_fitness.R)
-- Saves: [fitness/orthogroups\_long_locus.csv](fitness/orthogroups_long_locus.csv); [fitness/merged_fitness.csv](fitness/merged_fitness.csv)
+	- [fitness/orthogroups\_long_locus.csv](fitness/orthogroups_long_locus.csv)
+	- [fitness/merged_fitness.csv](fitness/merged_fitness.csv)
+- [src/mean_fitness.R](src/mean_fitness.R)
+	- [analysis/mean\_fit_Par6119.csv](analysis/mean_fit_Par6119.csv)
+	- [analysis/mean\_fit_PatSCRI1043.csv](analysis/mean_fit_PatSCRI1043.csv)
+	- [analysis/mean\_fit_Pbr123.csv](analysis/mean_fit_Pbr123.csv)
+	- [analysis/mean\_fit_Pbr1692.csv](analysis/mean_fit_Pbr1692.csv)
+	- [analysis/mean\_fit_PccWPP14.csv](analysis/mean_fit_PccWPP14.csv)
+	- [analysis/mean\_fit_PpaNY1722A.csv](analysis/mean_fit_PpaNY1722A.csv)
+	- [analysis/mean\_fit_PveNY1715C.csv](analysis/mean_fit_PveNY1715C.csv)
 
 Calculate co-fitness networks at various correlation cutoffs
