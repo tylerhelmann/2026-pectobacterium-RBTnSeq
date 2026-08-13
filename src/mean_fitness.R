@@ -6,6 +6,8 @@ strain_names <- c("Par6119", "PatSCRI1043", "Pbr123", "Pbr1692", "PccWPP14", "Pp
 
 # Load orthogroup matrix
 orthogroups_long_locus <- read.csv("fitness/orthogroups_long_locus.csv")
+# Need COG codes
+COG_codes <- read.delim("analysis/COG_codes.txt", header = T)
 
 for (strain_name in strain_names) {
   
@@ -34,6 +36,18 @@ for (strain_name in strain_names) {
   mean_mat <- left_join(mean_mat, orthogroups_long_locus) %>%
     mutate(Orthogroup = coalesce(Orthogroup, locusId)) %>% 
     mutate(strain = coalesce(strain, strain_name))
+  
+  # Add COG Descriptions
+  eggNOG <- read.delim(paste0("analysis/", strain_name, "-eggnog-mapper.tsv"), skip = 4) %>%
+    select(query, COG = COG_category, Description) %>%
+    rename("locusId" = "query") %>%
+    left_join(COG_codes, by = c("COG" = "Code")) %>%
+    mutate(COG_Description = case_when(
+      nchar(COG) > 1 ~ "Multiple",
+      is.na(COG_Description) ~ "None",
+      TRUE ~ COG_Description
+    ))
+  mean_mat <- left_join(mean_mat, eggNOG, by = "locusId")
   
   write.csv(mean_mat, paste0("analysis/mean_fit_", strain_name, ".csv"), row.names = F)
 }
