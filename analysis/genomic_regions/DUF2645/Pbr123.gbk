@@ -1,0 +1,191 @@
+LOCUS       123-1_chromosome        3828 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Region between ubiI and AC4LGO_18835 (4202036-4205863).
+ACCESSION   123-1_chromosome_sub
+VERSION     123-1_chromosome_sub
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     gene            1..1212
+                     /gene="ubiI"
+                     /locus_tag="AC4LGO_18805"
+                     /gene_synonym="visC"
+     CDS             1..1212
+                     /gene="ubiI"
+                     /locus_tag="AC4LGO_18805"
+                     /gene_synonym="visC"
+                     /EC_number="1.14.13.240"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_012104673.1"
+                     /GO_function="GO:0016709 - oxidoreductase activity, acting
+                     on paired donors, with incorporation or reduction of
+                     molecular oxygen, NAD(P)H as one donor, and incorporation
+                     of one atom of oxygen [Evidence IEA]"
+                     /GO_function="GO:0071949 - FAD binding [Evidence IEA]"
+                     /GO_process="GO:0006744 - ubiquinone biosynthetic process
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="FAD-dependent 2-octaprenylphenol hydroxylase"
+                     /protein_id="PRJNA1471679:AC4LGO_18805"
+                     /translation="MQSFDVVIAGGGMVGLALACGLQGSGLRIAVLEKQAAEPQPLGKD
+                     HALRVSAINAASECLLRHIGVWENLVAQRVSPYNDMQVWDKDSFGKISFSGEEFGFSHL
+                     GHIIENPVIQQALWQRASQLSDITLLSPASLKQVAWGENEAFITLQDDSMLTARLVVAA
+                     DGAHSWLRQHADIPLTFWDYGHHALVANIRTEHPHQSVARQTFHGDGILAFLPLDEPHL
+                     CSIVWSLSPEQAQAMQSLPAEEFNRQVAMAFDMRLGLCELESERQTFPLTGRYARSFAA
+                     HRLVLVGDAAHTIHPLAGQGVNLGFMDVAELIAEVKRLQAQGKDIGQHLYLRRYERRRK
+                     HSAAVMLASMQGFRELFDGDNPAKKLLRDVGLVLADKLPGIKPTLVRQAMGLHDLPDWL
+                     SVGK"
+     gene            1554..2033
+                     /locus_tag="AC4LGO_18810"
+     CDS             1554..2033
+                     /locus_tag="AC4LGO_18810"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010285305.1"
+                     /GO_process="GO:0033103 - protein secretion by the type VI
+                     secretion system [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Hcp family type VI secretion system effector"
+                     /protein_id="PRJNA1471679:AC4LGO_18810"
+                     /translation="MANSIFMKITGKIQGLISEGCLSIDSVGNKHISGHEDEIFVYATN
+                     YDLSRDRHVNHHPFSVTKVVDKSTPLVLTSIANNELLEIELRYYRTSASGTQENYMTIT
+                     LRDASIVNISNQNPNSLTHNDMQPFETLSLRYESITCQHNIAGTSGYSILTENMY"
+     gene            2040..2399
+                     /locus_tag="AC4LGO_18815"
+     CDS             2040..2399
+                     /locus_tag="AC4LGO_18815"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="PRJNA1471679:AC4LGO_18815"
+                     /translation="MNKFNEIINECDLSFSDWGKNYPRWSSLDAAWWKTFGGDDYLNKY
+                     KDGYIVFHREKIKEIARQYKIPSILLASVAHAEAGGMVDYFKYPTLFGRQVVHSYSGWP
+                     GKERKKSYRPQRKHQ"
+     gene            2411..2803
+                     /locus_tag="AC4LGO_18820"
+     CDS             2411..2803
+                     /locus_tag="AC4LGO_18820"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="PRJNA1471679:AC4LGO_18820"
+                     /translation="MQIRVVAEIFGKNPSALRNAEATYISICLNKDNFNLTMVARHLYE
+                     LINYDYPGTDTLNLTDEQFILAGSRYNRGIERSRSDFIRSINDVEKISYEERNWSSYGR
+                     SMLNHREKITKLLYEVTTPPLNSDSN"
+     gene            2840..3118
+                     /locus_tag="AC4LGO_18825"
+     CDS             2840..3118
+                     /locus_tag="AC4LGO_18825"
+                     /inference="COORDINATES: protein motif:HMM:NF022296.8"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF2645 family protein"
+                     /protein_id="PRJNA1471679:AC4LGO_18825"
+                     /translation="MTYNILFYFYSILCALIILITSIRDYEGMVDGVEIRNLCEIPEGD
+                     SDGFFSFIIIPLSIPFFIVKKSLARAITYIALLFYYFWSFYIRFNFC"
+     gene            3205..3513
+                     /locus_tag="AC4LGO_18830"
+     CDS             3205..3513
+                     /locus_tag="AC4LGO_18830"
+                     /inference="COORDINATES: protein motif:HMM:NF022296.8"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF2645 family protein"
+                     /protein_id="PRJNA1471679:AC4LGO_18830"
+                     /translation="MLRKTGYIYNVYFYTYSALCFFLINAFSTIEYEWMIDGDSVADFC
+                     EVPRADADGFLSIIIVPLSIPFLLVRRTPLRIFTYLTILMYHSYRFYTRISVCSIAN"
+     gene            3526..3828
+                     /locus_tag="AC4LGO_18835"
+     CDS             3526..3828
+                     /locus_tag="AC4LGO_18835"
+                     /inference="COORDINATES: protein motif:HMM:NF022296.8"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF2645 family protein"
+                     /protein_id="PRJNA1471679:AC4LGO_18835"
+                     /translation="MLKKNYTYNVYFYAYSILCFFLINTFSSIESGWLFGDSSLKNFCE
+                     NPRSYADSFSNFIIIPLSIPFLLVKRTPPRIITYLVILMYYSGSFYTRVTICPYW"
+ORIGIN
+        1 atgcaatcat tcgacgtggt tattgccggt ggcggtatgg tcggtctggc gctagcctgc
+       61 ggcttacagg gcagcggcct gcgtatcgcc gtgctggaga aacaggcggc cgaacctcag
+      121 ccgctcggga aagaccatgc cctgcgcgtc tccgccatca atgccgccag cgaatgcctc
+      181 ttgcgccata tcggcgtctg ggaaaatctc gtggcgcaac gcgtcagccc ttacaacgat
+      241 atgcaggtat gggacaaaga cagcttcggc aaaatcagct ttagcggtga agaattcggc
+      301 ttttcccacc ttgggcatat cattgaaaac ccagtgattc agcaggcgct gtggcaacgc
+      361 gcttctcagt taagcgacat caccctgctc tcccccgcct cgttaaaaca ggtcgcctgg
+      421 ggcgagaacg aagcctttat tacattgcag gacgacagca tgctgaccgc ccggctagtg
+      481 gtcgccgcgg acggtgcgca ttcgtggctg cgtcagcacg cggatattcc gctgaccttt
+      541 tgggactacg gccatcacgc actggtcgcc aatattcgaa ctgagcaccc tcatcaatcc
+      601 gttgcgcgtc agacgtttca cggcgacggt attctggcgt tcttgccgct ggacgagccg
+      661 cacctttgtt caattgtctg gtcgctttca ccggaacagg ctcaggcgat gcagagcttg
+      721 ccagcagaag aattcaatcg tcaggtcgcg atggcgtttg atatgcgcct ggggctatgt
+      781 gaactggaaa gcgaacgcca gactttccca ctgaccggac gctacgctcg cagcttcgcg
+      841 gcacaccggc tggtgctggt cggcgacgca gcgcacacca ttcatccact ggcggggcaa
+      901 ggcgtcaatc tgggtttcat ggatgtcgcc gaactgattg cggaagtgaa gcgcttacag
+      961 gcgcaaggca aagacatcgg ccaacacctt tatctgcgac gctatgaacg ccgccgcaaa
+     1021 cacagtgccg cagtgatgct cgccagcatg caggggttcc gcgaactgtt tgatggcgat
+     1081 aatccggcga aaaagctgct gcgtgacgtc ggtctggttc tggcggataa actgcccggt
+     1141 attaaaccca ccctggtacg tcaggcaatg ggattacacg atctgccaga ctggcttagc
+     1201 gtcgggaaat aataaaacca gaatagataa tatcgccgct taagcggcga gttatcaata
+     1261 acgctttcac cttaattaaa tcactcattt atttttccat ctcctttgtt atttaagcga
+     1321 tcattatttt ttgtttatat aataaagcca tcatcaaaac ataattagca gagtaataaa
+     1381 aaccgccccg tacaactgat tatcattaaa aacaatcaat tatagaattt tggaaaggat
+     1441 atctttctga taggaatcct atttcttatt aaatagtcga gttcttcttt tgttcaatca
+     1501 atatttacgt tataacgtct ctaacaagga ttgtttaaca aggagttaca cgaatggcta
+     1561 attctatttt catgaagatc accggaaaaa ttcagggact gatatctgaa ggatgtttaa
+     1621 gtatcgactc tgtaggaaat aaacatatct ctggtcacga agatgagatt tttgtttatg
+     1681 caacgaatta cgacttatca agagatcgac acgtcaatca tcatcccttt tctgtgacca
+     1741 aagtcgttga taagtctaca ccgttagtcc taactagcat cgctaataat gaactgctgg
+     1801 aaattgagtt gagatattac cgcacctccg ccagcgggac gcaagagaac tacatgacaa
+     1861 tcacattaag ggatgcctct attgtcaata tctctaatca gaatcccaac tcattgacgc
+     1921 ataatgatat gcagccattt gaaaccctga gcctgcgtta tgaaagcatt acctgccaac
+     1981 acaatattgc agggacatcg ggatacagca tattaactga aaatatgtac tgataagcca
+     2041 tgaataaatt caatgaaatt atcaacgaat gcgatctgag cttttctgac tggggaaaga
+     2101 actacccgcg ctggtcttcg cttgatgctg cttggtggaa aacatttggt ggtgatgatt
+     2161 atttaaacaa atacaaagat ggctatatcg ttttccatcg agaaaaaata aaagagatag
+     2221 cccgacaata taaaatacct tctattcttc tcgcatcggt tgcccatgca gaagccggag
+     2281 gaatggttga ctattttaaa tatccaacat tatttggcag gcaggtggtg cattcttaca
+     2341 gtggctggcc aggaaaggaa aggaaaaaat cataccgtcc ccagagaaaa catcaatagg
+     2401 tattatcgcc atgcaaatta gagtggttgc cgaaattttc ggcaagaatc ccagtgcact
+     2461 aaggaatgct gaagcaacat acatctccat ctgcttaaat aaggataatt ttaacctgac
+     2521 aatggtcgca cgccatcttt acgagttaat caactatgac tatcccggta ctgacacgtt
+     2581 gaacctaacc gacgaacagt tcatccttgc aggttcacgc tataacagag gtattgaacg
+     2641 cagccgcagt gattttattc gatcgataaa tgatgtagaa aaaatctctt atgaagaaag
+     2701 gaactggtcg tcatacggta gatcgatgct aaaccatcga gaaaaaataa caaaactgct
+     2761 ttatgaagtt acgactccgc ccctgaatag tgacagtaat taaaattccg agaactctta
+     2821 catgccaaac tatagcaaca tgacttacaa tatcctattt tatttttatt ctattctctg
+     2881 cgccttgatt atattgatca cgtcaataag agattacgaa gggatggttg atggggtaga
+     2941 aataagaaat ctctgtgaga tacctgaagg cgattccgat ggtttttttt cgtttattat
+     3001 tatcccgcta tctatccctt tcttcattgt aaagaaaagt ttagctaggg caattactta
+     3061 tattgcttta ttgttttatt atttttggag tttttatatt agatttaatt tttgctaaaa
+     3121 aaaccatacc cccttcgcat agtagtctgg ggctataaaa aaacatcgtt aatatgcggc
+     3181 taaaaacggc tgggtgattg ataaatgtta aggaaaaccg gctatatcta caacgtctat
+     3241 ttttatacct attctgcctt atgctttttt ctaattaacg ctttttctac catcgaatat
+     3301 gaatggatga tagatggcga ctcagttgca gatttctgtg aagtgccgag agccgatgct
+     3361 gatggtttct taagtattat tatcgttcct ttatctatcc cttttcttct ggttagaaga
+     3421 actccgctta gaatcttcac ctaccttact atcctgatgt atcactcata ccgtttctat
+     3481 acacgcatta gtgtttgttc aatagccaac taaaaaaacc taaaaatgct gaaaaaaaac
+     3541 tatacctaca acgtttattt ctacgcttac tcgatcttgt gctttttctt aattaatact
+     3601 ttttcatcaa tcgagtctgg gtggctattt ggtgacagct cgcttaaaaa tttttgtgaa
+     3661 aacccgagaa gttatgctga tagtttttca aatttcatta tcatcccttt gtctatccct
+     3721 tttcttttgg ttaaacgaac accaccaaga ataattactt accttgttat tctcatgtat
+     3781 tactcaggca gtttctatac acgtgtgact atctgcccgt actggtaa
+//

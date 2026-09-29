@@ -1,0 +1,224 @@
+LOCUS       NZ_CP051652             5231 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Region between HER17_RS18015 and alsS (4062579-4067809).
+ACCESSION   NZ_CP051652.1_sub
+VERSION     NZ_CP051652.1_sub
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     gene            complement(1..1464)
+                     /locus_tag="HER17_RS18015"
+                     /old_locus_tag="HER17_18065"
+                     /db_xref="GeneID:61349509"
+     CDS             complement(1..1464)
+                     /locus_tag="HER17_RS18015"
+                     /old_locus_tag="HER17_18065"
+                     /EC_number="3.-.-.-"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_009114412.1"
+                     /GO_function="GO:0016787 - hydrolase activity [Evidence
+                     IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="alpha/beta hydrolase"
+                     /protein_id="WP_029369021.1"
+                     /db_xref="GeneID:61349509"
+                     /translation="MLMKSARRIVRRGLIVIGVIAMTLLAIRVYDTQSGPPLAPWHTYV
+                     PDELSAAELDKSDWTAYVKQEALIFQQVNQHVTQELDEDEQRPVNRYFSGSPVYPGKFQ
+                     HDWNRSYELSPEGELKGAVVMLHGLTDSPYSLRHVAERYRQRGFFVVGIRLPAHGTVPG
+                     ALTDVEWEDWLAATRLAVREATSHLTVRQGQRLPLHIVGFSNGGALALKYALDSLDNPA
+                     LVRPDQLILISPMIGITSYARFAGLAGLPAIFPAFAKSAWLGILPEFNPFKYNSFPVNG
+                     ARQSWLLTHELQSQLSRKAQANTLVNLPPVLTFQSVMDFTVSTRAVITAFYNLLPANGS
+                     QLVLFDVNRTVNFGPLLRESTNGAVSQLLPAAPRHYDTTVISNAAPNSSHAVAFDVAAG
+                     TMQEQTRELGMDYPSDVYSLSHVALPFPDSDSLYGRFSQNPTEFGLPLGKITPRGERAA
+                     LVVDLDTLLRLSSNPFYPYLIQRIEEKIP"
+     gene            1787..2266
+                     /locus_tag="HER17_RS18020"
+                     /old_locus_tag="HER17_18070"
+                     /db_xref="GeneID:61349510"
+     CDS             1787..2266
+                     /locus_tag="HER17_RS18020"
+                     /old_locus_tag="HER17_18070"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_002354621.1"
+                     /GO_process="GO:0033103 - protein secretion by the type VI
+                     secretion system [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Hcp family type VI secretion system effector"
+                     /protein_id="WP_010308238.1"
+                     /db_xref="GeneID:61349510"
+                     /translation="MANSIYVTIEGQEQGTISSGCSTFPSIGNKYQIGHEDQIMVYSFE
+                     HALTREQNINHGPISFIKPIDKSSPLLGVAISNNECLNLKFVFYRTSSSGAAELFYSIK
+                     LKDAYLIRVNVIYPHAIDHASNQPEEMITLKYQSITWEHHIAGTSGYSLWGENIY"
+     gene            complement(2332..2658)
+                     /locus_tag="HER17_RS18025"
+                     /old_locus_tag="HER17_18075"
+                     /db_xref="GeneID:61349511"
+     CDS             complement(2332..2658)
+                     /locus_tag="HER17_RS18025"
+                     /old_locus_tag="HER17_18075"
+                     /inference="COORDINATES: protein motif:HMM:NF022296.6"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF2645 family protein"
+                     /protein_id="WP_052235300.1"
+                     /db_xref="GeneID:61349511"
+                     /translation="MKKTTPLSIMVITYTWLLIFLSLIFSSLKEEFFIDGDEIKNICDV
+                     VRVFVVDDHRGPMALSILVASIPAIAYGIKTKFKSSALIGSLLFFFLIWGWGFIYKYRD
+                     CLWF"
+     gene            complement(2661..3368)
+                     /locus_tag="HER17_RS18030"
+                     /old_locus_tag="HER17_18080"
+                     /db_xref="GeneID:61349512"
+     CDS             complement(2661..3368)
+                     /locus_tag="HER17_RS18030"
+                     /old_locus_tag="HER17_18080"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010308231.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_010308231.1"
+                     /db_xref="GeneID:61349512"
+                     /translation="MKNQFCNVNSTSSFPKWNGVDFALWQYLPDDEILLTGDPRLWAYK
+                     AAYLNYNRDKIKKYALRERIPVLLLAGVAVAEVGGVPERTKSYGVLQVYQLLDLFKRSG
+                     NKKSNSTSVGSLAIQLRAAAETLGIDPDKLTSTQQLQLANCLLDDDFNISIVARHLKDL
+                     IVYDNRGITDTLNITDEQLILAASRYNRGIERKKEDFINSINAEIGDPLREYSSYGRVI
+                     IKRRSIINKILGM"
+     gene            complement(3552..5231)
+                     /gene="alsS"
+                     /locus_tag="HER17_RS18035"
+                     /old_locus_tag="HER17_18085"
+                     /db_xref="GeneID:61349513"
+     CDS             complement(3552..5231)
+                     /gene="alsS"
+                     /locus_tag="HER17_RS18035"
+                     /old_locus_tag="HER17_18085"
+                     /EC_number="2.2.1.6"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014914159.1"
+                     /GO_function="GO:0000287 - magnesium ion binding [Evidence
+                     IEA]"
+                     /GO_function="GO:0003984 - acetolactate synthase activity
+                     [Evidence IEA]"
+                     /GO_function="GO:0030976 - thiamine pyrophosphate binding
+                     [Evidence IEA]"
+                     /GO_process="GO:0034077 - butanediol metabolic process
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="acetolactate synthase AlsS"
+                     /protein_id="WP_010308226.1"
+                     /db_xref="GeneID:61349513"
+                     /translation="MEKSTEQQSWSSGAELIVKHLEAQGVKHIFGIPGAKIDRVFDELE
+                     DSTIQTIPVRHEANGAFMAAAIGRLTGKAGVTLVTSGPGCSNLVTGLATATAEGDAVVA
+                     LGGAVKRADKLKLTHQSLDTVSLFQPVSKFSAEITASSAISEVLANAFRAAESGRPGAA
+                     FVSLPQDIVNEPVISPVLACPNLPLLNGAPHSDIAEAAKRLRQAKNPVLLLGLMASQQE
+                     NAQALRRFLHHSKLPVTSTYQAAGVIDQQQFDHFAGRVGLFNNQAGDKLLQQADVIVTV
+                     GYSPIEYDPVLWNSGKATLIHIDVLRAEIDSAYRPDIELLGNIAMTVDTLNACVSGPFI
+                     LSADTQSVLRDRQRQRHDLSTRAINMAGFAIHPLRLVRAMQDIVNEDVTLCVDMGSFHI
+                     WLARYLYSFRARQILMTNGQQTMGVALPWAIAASLVQPGKKVVSVSGDGGFMQSSMELE
+                     TAVRLKSNLLHIIWVDNGYNMVEIQQRHKYHRPAGVSFGPIDFKAYAEAFGAKGFAVES
+                     ADELVSKLRQAMDVDGPAVIAIPVDYSDNHWLMENLNISVLI"
+ORIGIN
+        1 tcacgggatc ttctcttcaa tacgttggat caagtaggga taaaacggat tcgacgacag
+       61 tcgcagcagc gtatccagat cgaccaccag cgcggcacgt tcccctcttg gggtaatttt
+      121 ccccagcggc aagccaaact cggtggggtt ctgtgagaaa cggccataca gcgaatctga
+      181 atctgggaac ggcagcgcga catgcgatag tgaatacacg tccgatggat aatccattcc
+      241 cagctcacgc gtctgttctt gcatcgtccc cgctgcgacg tcaaacgcca cggcatgcga
+      301 actgtttggc gcagcgttgg atatcaccgt tgtatcgtaa tggcgtgggg cggcaggtag
+      361 cagttgactg acggcaccat tcgtcgattc acgcagaagc gggccaaaat taacggtacg
+      421 gtttacatca aagagcacca actgactgcc attagcaggc aacaaattat agaacgccgt
+      481 aataacggca cgcgtactga cggtgaaatc catcaccgac tggaacgtca gcaccggcgg
+      541 cagattgacc aacgtattcg cctgcgcttt acggcttagc tgactctgaa gttcatgcgt
+      601 caacagccag gattgacgcg caccatttac cggaaatgaa ttgtatttga agggattaaa
+      661 ttccggcaaa atgcccagcc aggcagattt ggcaaaggcg gggaagatag cgggtaaccc
+      721 agccagcccc gcaaagcgcg catagctggt aataccgatc attggggaaa tgaggatgag
+      781 ctggtcagga cgcaccagcg caggattatc caaggaatcc agtgcgtact tgagcgccag
+      841 cgcaccaccg ttggaaaacc cgacgatatg cagcggcagc ctttggccct gtcgcaccgt
+      901 caggtgtgac gtcgcctcac gaacagcaag cctcgtcgcc gctagccaat cttcccattc
+      961 gacatcggtg agcgcacccg gcaccgtccc gtgagcgggt aaacgaatcc cgaccacgaa
+     1021 aaaaccacgc tgacgataac gctccgcaac atgtcgcaag ctgtagggtg agtcggtcag
+     1081 gccgtgcaac atcacgactg cgcctttcag ttctccttcc ggcgacagtt cataggaacg
+     1141 attccagtca tgctgaaatt tcccaggata aaccgggcta cccgaaaaat agcggttaac
+     1201 cggacgctgt tcatcctcat ccagttcctg cgtgacgtgc tgattaacct gctgaaagat
+     1261 gagcgcttcc tgctttacat acgcagtcca gtcgctttta tcgagctccg ctgccgacag
+     1321 ttcatccggc acataggtat gccagggtgc aagcggcggc ccgctttgcg tatcataaac
+     1381 acgaatagcc agcagcgtca tcgcgatcac cccaatcaca atgagcccac gtctgacaat
+     1441 gcgccgggct gatttcatta gcatgctcgt ttcccttccc attaccgtat agcgacgcag
+     1501 atgattctaa agaaaatcat gcagacacac accgtattat tcagggaaac gcgacacact
+     1561 cccgcccgat accgtacggg cgaataatca actgggatcg caatcaccac cagactacta
+     1621 ttaactcaat gcctaactta tcattttcat gataataatt atccaataaa tttattttat
+     1681 ctaatttgat gattttctac aaaaatgcca aaaccacttt taactcattt aatttttaaa
+     1741 tattatctaa cttcaaatca atgaatatta aataaaagga ttttatatgg caaattcaat
+     1801 ttatgtaaca atagaaggtc aagaacaagg aacgatatct tcaggctgtt caacctttcc
+     1861 ctctataggc aataaatatc aaatagggca tgaagaccag ataatggtat attcctttga
+     1921 gcatgcctta accagagagc aaaacattaa tcacggacca atatcattta ttaaaccaat
+     1981 agataagtca tcaccactcc ttggggttgc aatatcgaat aatgaatgcc ttaatctaaa
+     2041 atttgttttc tacagaacat catcctccgg tgctgccgag ctattttatt cgattaaatt
+     2101 aaaggatgct tatctgataa gagtgaacgt tatatatcca catgctattg accatgcaag
+     2161 taatcagcct gaagaaatga tcacattgaa gtatcaaagt atcacatggg aacaccatat
+     2221 agcaggaaca tcaggttata gcctgtgggg tgaaaacatt tattaaaatc caatcatgta
+     2281 actcacctat tcaagggtga gttacaaatt tcactgtatc tttatcaaat actaaaacca
+     2341 aagacaatct ctatatttgt aaataaatcc ccagccccaa attaagaaaa aaaagagcaa
+     2401 actaccaatt aatgcactac tcttaaattt cgttttgata ccatatgcaa tagccggaat
+     2461 actggcgact aatatggata aagccatggg acctcgatga tcatcaacaa caaagaccct
+     2521 gactacatca caaatatttt ttatctcatc accatcgata aaaaattctt cttttaaaga
+     2581 gctaaatatt aaggataaaa aaattagcaa ccacgtatat gtgatcacca tgattgagag
+     2641 tggcgttgtt tttttcatat tcacataccc aatattttat ttataatact tcttcttttt
+     2701 attatcacac ggccataaga agaatactct ctaagtggat cacctatttc cgcattaata
+     2761 gagttgataa agtcttcttt tttcctttct attcctctat tgtatcttga tgcagccaaa
+     2821 attaattgct catctgttat atttaacgta tccgttatac ctcggttatc ataaacaata
+     2881 agatctttaa gatgtctggc tactatgctg atgttgaaat catcgtctaa caaacagtta
+     2941 gctaactgta attgctgcgt tgaagtcagc ttatctgggt caatccctag cgtttcagca
+     3001 gcggctctaa gttgaatagc taaactcccg accgatgtcg aatttgattt cttattaccg
+     3061 cttcttttga ataaatccaa caattgatac acctgaagaa caccgtaaga ttttgtacgt
+     3121 tcaggcacgc caccaacctc agcaacagcg acccccgcca aaagtaaaac gggtattctt
+     3181 tcccttagag catatttttt aattttatcg cgattatagt tcaagtaggc tgctttatat
+     3241 gcccataacc taggatcacc ggttaaaaga atttcatcat caggtagata ttgccacaaa
+     3301 gcaaaatcga cgccattcca tttaggaaaa gaagacgttg aattgacatt acagaattga
+     3361 tttttcatta ggccatcctt gcctcattat aattacataa aagtaaatga tattacccta
+     3421 tatgcattct atcttaacgc aaggaaaaaa attaaaaaag agagtcattg ataaatgaca
+     3481 tcagatgatt tagaggaatt ttctatgcga tacccgcccg ataccgtacg ggcggataag
+     3541 cacctgatat atcagatcag cacgctaata ttcagattct ccatcaacca atggttatcg
+     3601 gaataatcaa ctggaatcgc aatgactgcc gggccgtcga cgtccatagc ctgacggagt
+     3661 ttgctaacca gttcatcagc agattcaacg gcaaaccctt tcgcgccgaa tgcttccgca
+     3721 tacgctttga agtcaatcgg cccaaacgac acgcccgccg gacgatggta tttgtgccgc
+     3781 tgctgaattt ctaccatgtt gtagccgtta tccacccaga tgatatgcag aagattgctt
+     3841 ttcaggcgca ccgccgtttc cagctccata ctggactgca taaacccgcc gtcgccggaa
+     3901 acagacacca cttttttgcc gggctgcacc agcgatgcgg caattgccca cggtagcgcc
+     3961 acgcccatcg tctgctggcc attggtcatc aggatctgtc gcgcccggaa gctatacagg
+     4021 taacgcgcca gccagatatg gaaactcccc atatccacac acagcgtgac atcctcattc
+     4081 acgatatcct gcatcgcccg caccagacgc aaagggtgga tcgcaaatcc tgccatgttg
+     4141 atggcgcgcg tactgagatc gtggcgctgg cgctgacgat cccgcaacac ggactgtgta
+     4201 tcagcagaca agataaacgg tccgctgacg cacgcattca gcgtgtccac cgtcattgca
+     4261 atattcccga gcagctcgat atcaggacga taagcgctgt cgatttccgc tcgcagcaca
+     4321 tcaatgtgga tcagcgtcgc cttgccgctg ttccataaca ccggatcgta ctcaatcggg
+     4381 ctgtagccca cggtaacgat cacatccgcc tgttgcagca gcttatcgcc agcctgattg
+     4441 ttgaataatc cgacacgtcc ggcaaagtga tcgaactgct gctgatcgat cacgccagca
+     4501 gcctgatacg tgctggtcac gggcagtttg ctatggtgaa ggaaacgacg cagtgcctgc
+     4561 gcattctcct gctggctggc cattaatccg agcagcagca ccggattttt agcctgccgc
+     4621 agccgtttgg ccgcttcggc aatgtcgcta tgcggcgcgc cgtttagcaa cggcaagttc
+     4681 ggacacgcca gcaccgggct aatgactggt tcattgacga tatcctgcgg caggctgaca
+     4741 aacgccgcac ccggacgccc actctctgcc gcccggaaag cattcgccaa cacttccgat
+     4801 atggcggaag aagccgtaat ttccgcactg aatttactga ccggctgaaa caggctgacg
+     4861 gtgtccagac tctggtgcgt cagcttaagc ttatctgccc gcttaaccgc cccgcctagc
+     4921 gccactaccg catctccctc tgcggttgcc gttgccaatc cggtgacgag gttggaacag
+     4981 ccagggccgg atgtcaccag cgtcaccccc gctttccccg tgaggcgccc tatcgccgcc
+     5041 gccataaacg cgccgttcgc ctcatgccga acagggatcg tttggatcgt cgagtcttcc
+     5101 agctcatcaa acacacgatc aatttttgcg ccgggaatac caaaaatatg cttcacgccc
+     5161 tgcgcttcca ggtgttttac aatcagctcg gctccgctgc tccagctttg ctgttcggtg
+     5221 gacttttcca t
+//

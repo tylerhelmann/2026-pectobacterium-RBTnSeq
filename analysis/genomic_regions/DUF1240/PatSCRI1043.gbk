@@ -1,0 +1,120 @@
+LOCUS       NC_004547               2247 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Region between ECA_RS18150 and ECA_RS22425 (4121651-4123897).
+ACCESSION   NC_004547.2_sub
+VERSION     NC_004547.2_sub
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     gene            1..480
+                     /locus_tag="ECA_RS18150"
+                     /old_locus_tag="ECA3672"
+     CDS             1..480
+                     /locus_tag="ECA_RS18150"
+                     /old_locus_tag="ECA3672"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010295094.1"
+                     /GO_process="GO:0033103 - protein secretion by the type VI
+                     secretion system [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Hcp family type VI secretion system effector"
+                     /protein_id="WP_011095172.1"
+                     /translation="MANLIYASINGQKQGLISSGCSTLDSIGNRYQAGHEDQIQVLGLN
+                     HSISRDQNVSHHPINFIKPIDKSSPLLGMAISYNEKVDVTFYFYRVNSAGQLELYYEVA
+                     LTDASIVDVTCVYPHVIDNNDIMPYEKVQLKYKTIAWNHKIAGTSGYSIWEEMSL"
+     gene            complement(529..935)
+                     /locus_tag="ECA_RS23165"
+                     /old_locus_tag="ECA3673"
+                     /pseudo=""
+     CDS             complement(529..935)
+                     /locus_tag="ECA_RS23165"
+                     /old_locus_tag="ECA3673"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010279254.1"
+                     /note="frameshifted; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF1240 domain-containing protein"
+     gene            complement(987..1394)
+                     /locus_tag="ECA_RS18155"
+                     /old_locus_tag="ECA3674"
+     CDS             complement(987..1394)
+                     /locus_tag="ECA_RS18155"
+                     /old_locus_tag="ECA3674"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_011095174.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF1240 domain-containing protein"
+                     /protein_id="WP_011095174.1"
+                     /translation="MVKVNRPLTGAFAVFIFLLTCFTGWFSFNSYLDILQLNDTIVFSW
+                     RVGLMVFGSPLLFYFSYLFFYSAINNEVAKINNKFGGGLFIVMIAGTIISLFSSFYISY
+                     NFRAYGYELCPKVSWMDPNKYVKNIALCDEW"
+     gene            complement(1387..2247)
+                     /locus_tag="ECA_RS22425"
+                     /old_locus_tag="ECA3675"
+     CDS             complement(1387..2247)
+                     /locus_tag="ECA_RS22425"
+                     /old_locus_tag="ECA3675"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_015841646.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_011095175.1"
+                     /translation="MKYDPVLKTLVDDDYRLEDHLDFKKQHADINYQKLHAQLNEINND
+                     NIHAILTAQEATYFLQTLCTPNPNQSWKTAMFGCTDPVSSFAGNIAEAVSVSRIVMEIK
+                     GFGVTATEYVGKNGSKYIKLSGYPGVRKYLDATRYLVSNQKILDIGIGTKGIESGIAAG
+                     ARFCILFSGAYRAIELMLKDEYALTDFFVNLTMDAAKLAISIGVAWGAKAAATSVMVAT
+                     GGSVIIIAGGIFLLGVAVSFSLLWLDNKYKISETIIKNLKSHKKQYTPYHPDQFFHAWG
+                     RYSRG"
+ORIGIN
+        1 atggctaatt tgatttacgc cagcattaat ggtcagaaac agggtttaat ctcatccggt
+       61 tgctcaacgc tcgactcaat tggcaatcgt tatcaagccg gtcatgaaga ccaaatacaa
+      121 gtattaggct taaaccacag cattagtcgc gatcaaaatg tttctcatca ccccattaat
+      181 tttattaagc caatcgataa atcatccccg ttattaggaa tggcgatctc ttataatgaa
+      241 aaggtagatg tgacattcta tttttatcgc gtaaattccg ctgggcagtt agagctttat
+      301 tatgaagttg ccttaacgga tgcgagcatt gtagatgtca cctgtgtcta cccacacgtc
+      361 atcgataaca acgacatcat gccgtatgaa aaagtccagc tgaaatataa aaccatagca
+      421 tggaaccata agatcgcagg aacgtcgggt tacagcattt gggaggaaat gagtctctaa
+      481 tatttatgac cgctgataac aagcgcatct tatcagttgt gcttgttatt accattcatc
+      541 acaaaaagca atatctttca catacttatt gggacccatc caggatattt tttgacatac
+      601 taaataacct ctatcatcca gactatacga tatatacatt gataaaaaaa aactaaccac
+      661 tgcgccaaat atagctataa cagccaatac attagctagt ttattattca tcctcgctat
+      721 ttcatttttc attgcggaat gaaatgccaa gtatgaaaaa tagaacaata gtggcactgc
+      781 aaatactaaa acaccaactt tccaagaaaa aatgattaca ttacttaatt taacgaaagc
+      841 taaataccac ttaaagaaaa ccagcacccc cagcaggaca tgaggaaaac caacgtcgca
+      901 aatgcaccaa ctaatggcct atttatctta accacgattg attcttcctt ggtaggaaaa
+      961 taaaaaccac tagatattct tgttatttac cattcatcac agagagcaat gtttttcaca
+     1021 tacttattgg gatccatcca agatacttta ggacataact cataaccata agctctaaaa
+     1081 ttataagata tgtagaaaga tgagaacaaa ctaattatag taccagctat cattactata
+     1141 aatagccccc ctccaaattt attatttatt ttcgccactt cattatttat tgcagaataa
+     1201 aaaaacaaat atgaaaaata gaatagcaaa ggagaaccaa ataccattaa cccgactctc
+     1261 catgaaaaaa ctatcgtatc atttaactgt aaaatatcca aatatgaatt aaaagaaaac
+     1321 caaccagtaa agcatgtcaa tagaaaaata aaaactgcaa atgcaccagt taatggtcta
+     1381 tttaccttaa ccacggctgt acctccccca ggcatgaaag aattgatcgg gatggtatgg
+     1441 tgtatattgt tttttatgtg attttaaatt ttttattatc gtctcactta ttttatattt
+     1501 attatctagc cagagtaatg aaaaactgac agcaacccca agtaaaaata taccaccagc
+     1561 aataataatc acactgcctc ctgtggctac cattaccgag gtagctgccg ctttcgcacc
+     1621 ccaggcaact ccaatagata tcgctaattt tgcagcatcc atcgttaaat taacaaaaaa
+     1681 atcggttagt gcgtattcat ctttcaacat caactcaatg gctcgataag cacctgaaaa
+     1741 caaaatacag aatcttgccc ctgccgcaat accactttca attccttttg tacctatccc
+     1801 tatatctagt attttttggt tactaactaa atatctggtg gcatctaaat actttcttac
+     1861 ccccggatat ccagataatt ttatgtattt actgccattt ttcccgacat attccgttgc
+     1921 cgttacccca aaccctttaa tttccatcac gattctgcta acagacaccg cttctgcaat
+     1981 attcccagca aacgatgaga caggatcggt acagccaaac atggctgttt tccacgattg
+     2041 attaggatta ggtgtgcata acgtttgtaa gaaatacgtc gcttcctgcg cagtcaatat
+     2101 ggcatgaatg ttatcgttat ttatttcatt gagttgagca tgtaatttct gatagttaat
+     2161 atctgcatgc tgttttttaa aatcaagatg atcttctaac cgatagtcat catcaacaag
+     2221 cgtttttaaa accggatcgt atttcac
+//

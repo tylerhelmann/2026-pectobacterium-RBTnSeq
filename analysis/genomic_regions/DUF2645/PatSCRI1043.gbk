@@ -1,0 +1,174 @@
+LOCUS       NC_004547               3685 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Region between ECA_RS22540 and ubiI (519103-522787).
+ACCESSION   NC_004547.2_sub
+VERSION     NC_004547.2_sub
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     gene            complement(1..296)
+                     /locus_tag="ECA_RS22540"
+                     /old_locus_tag="ECA0453"
+                     /pseudo=""
+     CDS             complement(1..296)
+                     /locus_tag="ECA_RS22540"
+                     /old_locus_tag="ECA0453"
+                     /inference="COORDINATES: protein motif:HMM:NF022296.5"
+                     /note="frameshifted; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF2645 family protein"
+     gene            complement(383..679)
+                     /locus_tag="ECA_RS02305"
+                     /old_locus_tag="ECA0454"
+     CDS             complement(383..679)
+                     /locus_tag="ECA_RS02305"
+                     /old_locus_tag="ECA0454"
+                     /inference="COORDINATES: protein motif:HMM:NF022296.5"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="YjeO family protein"
+                     /protein_id="WP_011092076.1"
+                     /translation="MPNYSNITYNILFYFYSTLCALIILITSIRDYEGMVDGVEIINLC
+                     EIPEGDSDGFFSFIIIPLSIPFFIVKKSLARAITYIILLFYYFWSFYIRFNFC"
+     gene            complement(698..1453)
+                     /locus_tag="ECA_RS02310"
+                     /old_locus_tag="ECA0455"
+     CDS             complement(698..1453)
+                     /locus_tag="ECA_RS02310"
+                     /old_locus_tag="ECA0455"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_011092077.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_011092077.1"
+                     /translation="MNKFNDIIDECDLSFSDWGKNYPRWSSLDAAWWKTFGGDNYLNKY
+                     KDGYIVFHREKIKEIARQYKIPSILLASVAHAEAGGMVDYFKYPTLFGRQVVHSYSGWP
+                     GKEKILPSPEKTSIGIIAMQIRVVAEIFGKNPSALRNAEATYISICLNKDNFNLTMVAR
+                     HLYELINYDYPGTDTLNLTDEQFILAGARYNRGVQRSRSDLIRSINAEKDLIEVRDWTS
+                     YGRSMLNHREKITKLLYEVTTPPKNSDSN"
+     gene            complement(1460..1939)
+                     /locus_tag="ECA_RS02315"
+                     /old_locus_tag="ECA0456"
+     CDS             complement(1460..1939)
+                     /locus_tag="ECA_RS02315"
+                     /old_locus_tag="ECA0456"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010285305.1"
+                     /GO_process="GO:0033103 - protein secretion by the type VI
+                     secretion system [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Hcp family type VI secretion system effector"
+                     /protein_id="WP_011092078.1"
+                     /translation="MANSIFMKITGKIQGLISEGCLSIDSVGNKHISGHEDEIFVYATN
+                     YDLSRDRHVNHHPFSVTKAVDKSTPLVLTSIANNELLEVELRYYRTSASGTQENYMTIT
+                     LRDASIVNLSNQNPNSLTHNDMQPFETLSLRYESITCQHNIAGTSGYSILTENMY"
+     gene            complement(2474..3685)
+                     /gene="ubiI"
+                     /locus_tag="ECA_RS02320"
+                     /old_locus_tag="ECA0457"
+                     /gene_synonym="visC"
+     CDS             complement(2474..3685)
+                     /gene="ubiI"
+                     /locus_tag="ECA_RS02320"
+                     /old_locus_tag="ECA0457"
+                     /gene_synonym="visC"
+                     /EC_number="1.14.13.240"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_012822305.1"
+                     /GO_function="GO:0016709 - oxidoreductase activity, acting
+                     on paired donors, with incorporation or reduction of
+                     molecular oxygen, NAD(P)H as one donor, and incorporation
+                     of one atom of oxygen [Evidence IEA]"
+                     /GO_function="GO:0071949 - FAD binding [Evidence IEA]"
+                     /GO_process="GO:0006744 - ubiquinone biosynthetic process
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="FAD-dependent 2-octaprenylphenol hydroxylase"
+                     /protein_id="WP_011092079.1"
+                     /translation="MQSFDVVIAGGGMVGLALACGLQGSGLRIAVLEKQAAEPQTLGKG
+                     HALRVSAINAASECLLRHIGVWENLVAQRVSPYNDMQVWDKDSFGKISFSGEEFGFSHL
+                     GHIIENPVIQQVLWQRASQLSDITLLSPTSLKQVAWGENEAFITLQDDSMLTARLVVGA
+                     DGAHSWLRQHADIPLTFWDYGHHALVANIRTEHPHQSVARQAFHGDGILAFLPLDDPHL
+                     CSIVWSLSPEQALVMQSLPVEEFNRQVAMAFDMRLGLCELESERQTFPLMGRYARSFAA
+                     HRLVLVGDAAHTIHPLAGQGVNLGFMDVAELIAELKRLQTQGKDIGQHLYLRRYERRRK
+                     HSAAVMLASMQGFRELFDGDNPAKKLLRDVGLVLADKLPGIKPTLVRQAMGLHDLPDWL
+                     SAGK"
+ORIGIN
+        1 ttaacataga gtgaaacgga gatgaaaatt ccatgaataa taaagtaaaa caataagata
+       61 agtaattatt ctggctgtgc tctttttgac aaaaaagaag ggatggataa aggaatgatg
+      121 atgaagttta aaaaagcatc agcatcggct ctcggtactt cacagaaatc tgcaactgag
+      181 tcgccatcta tcatccattc atattcgatg gtagaaaaag cattgattaa aaaaaagcat
+      241 aaagcggcat aggtataaaa atagacgttg tagatatagc cggtttttct taacaattat
+      301 caatcaccca gccgtgttta gccgcatatt aatgatgttt ttttataacc ccaggctact
+      361 atgcgaaggg ggtatggttt ttttagcaaa aattaaatct aatataaaaa ctccaaaaat
+      421 agtaaaacaa taaaataata taagtaattg ccctggctaa acttttcttt acaatgaaga
+      481 aagggataga tagcgggata ataataaacg aaaagaaacc atcggagtcg ccttcaggta
+      541 tctcacagag atttattatt tctaccccat caaccatccc ttcgtaatct cttattgacg
+      601 tgatcaatat aatcaaagcg cagagagtgg aataaaaata aaatagaata ttgtaagtta
+      661 tgttgctata gtttggcatg taagagttct cgtaatttta attactgtca ctattcttgg
+      721 gcggagtcgt aacctcataa agcagttttg ttattttttc tcgatggttt agcatcgatc
+      781 taccgtatga cgtccagtcc cttacttcta tcaaatcttt ttctgcattt atcgatcgaa
+      841 tcaaatcact acgactacgt tgaacacctc tattgtagcg cgcacccgct aagatgaatt
+      901 gttcgtcggt tagattcaac gtgtcagtac cgggatagtc atagttgatt aactcgtaaa
+      961 gatggcgcgc gaccattgtc aggttaaaat tatccttatt taagcagatg gagatgtatg
+     1021 ttgcttcagc attccttagt gcactgggat tcttgccgaa aatttcggca accaccctaa
+     1081 tttgcatggc gataatacct attgatgttt tctctgggga cggaaggatt ttttcctttc
+     1141 ctggccagcc actgtaagaa tgcaccacct gcctgccaaa taatgttgga tatttgaaat
+     1201 agtcaaccat tcctccggct tctgcatggg caaccgatgc gagaagaata gaaggtattt
+     1261 tatattgtcg ggcgatctct tttatttttt ctcgatggaa aacgatatag ccatctttgt
+     1321 atttatttaa ataattatca ccaccaaatg ttttccacca agcagcatca agcgaagacc
+     1381 agcgcggata gttctttccc caatcggaaa aactaaggtc gcattcgtcg ataatatcat
+     1441 tgaatttatt catggtttat cagtacatgt tttcagttaa tatgctgtac cctgatgtac
+     1501 cggcaatatt gtgttggcag gtgatgcttt cataacgcag gcttagggtt tcaaacggtt
+     1561 gcatatcgtt atgcgtcaat gaattaggat tttgattaga aagattgaca atagaggcat
+     1621 ccctcaatgt tattgtcatg tagttctctt gggtcccgct ggcggaagtg cggtaatacc
+     1681 tcaactcaac ttctaatagt tcattattgg cgatgctggt taggactagc ggtgtggatt
+     1741 tatcaacggc ttttgtcacg gaaaaggggt gatgattgac gtgtcgatct cttgatagat
+     1801 cgtaatttgt cgcataaaca aaaatttcat cttcgtgacc agaaatatgt ttatttccta
+     1861 ccgagtcgat acttaaacat ccttcagaaa ttaatccctg aattttaccc gttatcttca
+     1921 taaaaataga attagccatt cgtgtaactc cctgttaaaa aatccttgtt ggagtcgtta
+     1981 taacgtaaat ttctattaaa taaaagagag gactggtttt taatcaacat tcggatttgg
+     2041 tttaggaggt aataatttca aaaaatagtt aattatttgt ttttaatggt aaatttatgg
+     2101 cggagagaaa gtcttgcttg ttatcatgct aattatattc atatgactaa ttacatcata
+     2161 taaatgagct aatattagct gattaaataa cacgatggct aatagttgat tgctaattta
+     2221 attaaaaata aacgttattt aggtaactcg ccacctaagc cgcgaggttt attatccatt
+     2281 atatacccgt cattcttcaa gctgcatgta cgttggcttc tcttactcac ctcagtcact
+     2341 tacctgtgta agctcctgag gattcgtgca gttgccgcgt tacgaggccc atacatgtgc
+     2401 ctcgcaacgc tttgcgttgt tcaaaacgtt aacgttttgt cctgaaactc gaattatttg
+     2461 gggtatagtt ctattacttc ccagcactaa gccagtctgg cagatcgtgt aatcccattg
+     2521 cctgacggac cagtgtgggt ttaataccgg gtagtttgtc cgccagtacc agaccgacat
+     2581 cacgcagcag cttttttgct ggattgtcgc cgtcaaacag ttcacggaat ccctgcatgc
+     2641 tggcaagcat cacggcggcg ctgtgcttgc ggcggcgttc atagcgtcgc agataaaggt
+     2701 gctggccgat atctttaccc tgcgtctgca agcgcttcag ctcggcaatc agttcggcga
+     2761 catccatgaa gcctagattg acgccttgtc ctgccagcgg gtggatggtg tgtgctgcgt
+     2821 cgccgaccag caccagccgg tgcgcggcga agctgcgtgc ataacgtccc atcagcggga
+     2881 aagtctgacg ctcgctttcc agttcacaca gccccaaccg catatcaaac gccatcgcaa
+     2941 cctgacggtt gaattcctcc actggcaagc tttgcatcac cagtgcctgc tccggcgaaa
+     3001 gtgaccagac aatcgaacag aggtgcggat cgtccagcgg cagaaacgct agaataccgt
+     3061 cgccatggaa tgcctgacgt gctacggact gatgtgggtg ttcggtacga atattggcga
+     3121 ctagcgcgtg gtggccgtaa tcccaaaagg tcagcggaat atccgcatgc tgacgcagcc
+     3181 atgaatgtgc accgtcagcg ccgaccacca gtcgggcagt cagcatgctg tcgtcctgca
+     3241 gcgtaataaa ggcttcgttc tcaccccagg cgacctgttt taatgacgta ggggagagca
+     3301 gggtgatgtc gcttaattgg gaggcgcgtt gccacagtac ttgttgaatc actgggtttt
+     3361 caatgatatg cccaagatgg gaaaagccga attcttcacc gctaaagctg attttgccga
+     3421 agctgtcttt gtcccagact tgcatatcgt tgtaaggact gacgcgctgc gccacgagat
+     3481 tctcccagac gccaatatga cgaagaaggc attcgctcgc ggcattgata gcagagacgc
+     3541 gcagcgcatg acctttcccg agagtctgag gctcggctgc ctgtttttcc agcacggcga
+     3601 tgcgcaggcc gctaccctgt aggccgcagg cgagcgccag accgaccata ccgccaccgg
+     3661 caataaccac gtcgaatgat tgcat
+//

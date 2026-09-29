@@ -1,0 +1,183 @@
+LOCUS       NZ_CP051652             3144 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Region between HER17_RS03590 and HER17_RS03615 (820938-824081).
+ACCESSION   NZ_CP051652.1_sub
+VERSION     NZ_CP051652.1_sub
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     gene            1..861
+                     /locus_tag="HER17_RS03590"
+                     /old_locus_tag="HER17_03600"
+                     /db_xref="GeneID:61346624"
+     CDS             1..861
+                     /locus_tag="HER17_RS03590"
+                     /old_locus_tag="HER17_03600"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_015841646.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_010295103.1"
+                     /db_xref="GeneID:61346624"
+                     /translation="MKYDPVLKTLVDDDYRLEDHLDFKKQHADINYHKLHAQLNEINND
+                     NIHAILTAQEATYFLKTLCTPNPNDSWKTAIFGCTDPASSFAGNIAEAVSVSRIVMEMK
+                     GFGVTATEYVGKNGSKYIKLSGYPGVRKYLDATRYLVSNQKILDIGIGTKGIESGIATG
+                     ARFCIVFSGAYRAIELMVKDEYALTDFFVNLTMDVAKLAVSVGIAWGAKMAATSVMVAT
+                     GGSVIIIAGGIFLLGVIVSFSLLWLDNEYKISEAIIKNLKSHKKQYTPYHPDQFFHAWG
+                     RYSRG"
+     gene            854..1258
+                     /locus_tag="HER17_RS03595"
+                     /old_locus_tag="HER17_03605"
+                     /db_xref="GeneID:61346625"
+     CDS             854..1258
+                     /locus_tag="HER17_RS03595"
+                     /old_locus_tag="HER17_03605"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_015841645.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF1240 domain-containing protein"
+                     /protein_id="WP_180890100.1"
+                     /db_xref="GeneID:61346625"
+                     /translation="MVKVNRPLAGAFAVFIFLLTCFTSWFSFNSYLDILQLNDVIVFSW
+                     KVGLMVFGSPLLFYFSYLFFYSAINNKVAKINNKFGGGLFIIMIVGAVVSSFSSFYMSY
+                     NFRDYGYEICPKISWMDPNKYVKDTALCKE"
+     gene            1306..1710
+                     /locus_tag="HER17_RS03600"
+                     /old_locus_tag="HER17_03610"
+                     /db_xref="GeneID:61346626"
+     CDS             1306..1710
+                     /locus_tag="HER17_RS03600"
+                     /old_locus_tag="HER17_03610"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010295101.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF1240 domain-containing protein"
+                     /protein_id="WP_010295101.1"
+                     /db_xref="GeneID:61346626"
+                     /translation="MVKVNRSLIGAFSVFLLCLSVWGTWFSLSAYLSLFKLDDVIVFSW
+                     RVGLAIFGMPLSFYFSYVCFFSAIKNEHVKINNKLGEWLVKILIFGAIFSFFSSAYISY
+                     SLSNKSYNVCPKISWMDPNKYVKDTALCKE"
+     gene            1758..2159
+                     /locus_tag="HER17_RS03605"
+                     /old_locus_tag="HER17_03615"
+                     /db_xref="GeneID:61346627"
+     CDS             1758..2159
+                     /locus_tag="HER17_RS03605"
+                     /old_locus_tag="HER17_03615"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010295099.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF1240 domain-containing protein"
+                     /protein_id="WP_010295099.1"
+                     /db_xref="GeneID:61346627"
+                     /translation="MTKINRPFFFIYSIFIFFLSCWGGWFSLNGYIDFFNLNNVVSFSW
+                     KLGVIIFLVPIVFQFSYFGFFSAIKNRPIKMNNKISNVLVMFAIYGAAVSFFSSMYISY
+                     SLNKQGYKICSKNSWMAPNKYVRDVSLCD"
+     gene            2205..2612
+                     /locus_tag="HER17_RS03610"
+                     /old_locus_tag="HER17_03620"
+                     /db_xref="GeneID:61346628"
+     CDS             2205..2612
+                     /locus_tag="HER17_RS03610"
+                     /old_locus_tag="HER17_03620"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010295096.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF1240 domain-containing protein"
+                     /protein_id="WP_010295096.1"
+                     /db_xref="GeneID:61346628"
+                     /translation="MFKINRPFFFAFSSFTFLLTCFTGWFSFNSYLDILQLNDVIVFSW
+                     KVGLMIFGSPLLFYFSYLGFYMAIKNKPIGMHGIFTNVCGYLFFIGVVISFVASIYISF
+                     NFRSYGYEVCPKNSWMAPNKYVKNIALCDEW"
+     gene            complement(2665..3144)
+                     /locus_tag="HER17_RS03615"
+                     /old_locus_tag="HER17_03625"
+                     /db_xref="GeneID:61346629"
+     CDS             complement(2665..3144)
+                     /locus_tag="HER17_RS03615"
+                     /old_locus_tag="HER17_03625"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010295094.1"
+                     /GO_process="GO:0033103 - protein secretion by the type VI
+                     secretion system [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Hcp family type VI secretion system effector"
+                     /protein_id="WP_010295094.1"
+                     /db_xref="GeneID:61346629"
+                     /translation="MANLIYASINGQKQGLISSGCSTLDSIGNRYQTGHEDQIQVLGLN
+                     HSISRDQNVAHHPIHFIKPIDKSSPLLGMAISYNEKVDVTFYFYRVNSAGQLELYYEVT
+                     LTDASIVDVTCVYPHVIDNNDIMPYEKVQLKYKTIAWNHKIAGTSGYSIWEEMSL"
+ORIGIN
+        1 gtgaaatacg atcccgtttt aaaaacgctt gtggatgatg actatcggtt agaagatcat
+       61 cttgatttta aaaagcagca tgcagatatt aactatcata aattacatgc tcaactaaat
+      121 gaaataaata acgataacat tcatgccata ttgactgcgc aggaagcaac gtatttttta
+      181 aagacgttat gtacaccaaa ccctaatgac tcttggaaaa cagcaatatt tggctgtact
+      241 gatcctgctt catcgtttgc tggaaatatt gcagaagcgg tatctgtgag cagaatcgtg
+      301 atggagatga aagggttcgg cgtaacggca acggaatatg tcgggaagaa tggcagtaag
+      361 tacataaaac tatctggata cccaggagta agaaaatatt tagatgccac ccgatattta
+      421 gtcagtaacc aaaaaatact cgacataggg ataggtacaa aaggcattga aagtggtatt
+      481 gcgactggag caaggttctg tattgtattt tcaggcgctt atcgagccat tgagttgatg
+      541 gtgaaagacg aatacgcact aaccgatttc tttgttaatt taacgatgga tgtggcaaaa
+      601 ctggctgtat cggttgggat tgcatggggg gcgaaaatgg cagctacctc ggtaatggtg
+      661 gccacaggag gtagtgttat tattattgct ggtggtatat ttttacttgg ggttattgtc
+      721 agtttttcat tactttggct agataatgaa tataaaataa gtgaggcgat aataaaaaat
+      781 ttaaaatcac ataaaaaaca gtatacgcca tatcatcccg atcaattctt tcatgcctgg
+      841 gggaggtaca gtcgtggtta aggtaaatag accattagct ggcgcatttg cagtttttat
+      901 ttttctattg acatgcttta ctagttggtt ttcttttaat tcatatttgg atattttaca
+      961 gttaaatgat gtgatagtgt tttcatggaa agttgggttg atggtatttg gttctccttt
+     1021 actattctat ttttcatatt tattttttta ttccgcaata aataataaag tggcgaaaat
+     1081 taataataaa tttggagggg ggttatttat aataatgatc gttggtgctg tagttagctc
+     1141 attctcatct ttctacatgt cttataattt tagagactat ggttatgaaa tatgccctaa
+     1201 aatatcttgg atggacccca ataaatatgt taaagacacc gctctttgta aagagtaaaa
+     1261 atagcataag agtatgcttt ttcatgtatg ggaggagagc cagtcgtggt taaagtaaac
+     1321 agatcattga ttggtgcgtt ttctgttttt cttttatgcc tttccgtctg gggaacttgg
+     1381 ttttctttaa gcgcatattt atcattgttt aaattagatg atgtgattgt tttttcatgg
+     1441 agagttggcc ttgctatctt tggaatgcct ttatcattct atttttcata tgtttgtttt
+     1501 ttttctgcta taaaaaatga gcatgtgaag atcaataata aattaggcga gtggttggtc
+     1561 aaaatcctta tctttggtgc tatatttagc tttttttcat cagcgtatat atcatacagt
+     1621 cttagcaata agagttacaa tgtttgccct aagatatcct ggatggatcc caataagtat
+     1681 gtgaaagaca ccgctctttg taaagagtaa aaatggtatg agagaatgct ttttcatgca
+     1741 taaggggata gccagtcgtg actaagataa acagaccatt ctttttcata tactcgattt
+     1801 ttattttctt tctttcatgc tggggaggat ggttttcttt aaacggatat attgactttt
+     1861 ttaatctaaa caatgtagtt tcattttcat ggaaactcgg tgtcataatt tttctagttc
+     1921 caatagtgtt tcagttttct tattttggtt ttttttctgc tataaaaaac agaccaatta
+     1981 aaatgaataa taaaatttca aatgtattgg tcatgtttgc tatttatggt gctgcggtga
+     2041 gctttttttc atctatgtat atctcttata gccttaataa gcagggctat aaaatctgct
+     2101 ccaagaactc atggatggct cccaataaat atgtgagaga tgtttctctc tgtgattaat
+     2161 ggtaaaaata atctgatggg ttttatgatt gttgaggatt gttcgtgttt aaaataaata
+     2221 gaccgttttt tttcgcattc tcatctttta cctttctatt gacatgcttt actggttggt
+     2281 tttcttttaa ttcatatttg gatattttac agttaaacga tgtgatcgtg ttttcatgga
+     2341 aggttgggtt aatgatattt ggttctcctt tgctatttta tttctcgtat ttagggtttt
+     2401 atatggcaat aaaaaacaaa cctataggaa tgcatgggat atttacaaat gtgtgcggct
+     2461 atttgttttt tattggtgtt gttattagtt ttgttgcatc tatttacata tcttttaact
+     2521 ttagaagtta tggctatgaa gtctgtccta aaaactcctg gatggctcct aataaatatg
+     2581 tgaaaaatat cgctctttgt gatgaatggt gaataacaag cacatctgat gataaggtgt
+     2641 gcttgttatc aaaggtcata aattttagag actcatttcc tcccaaatac tataacccga
+     2701 cgtgcctgcg atcttatggt tccatgctat ggttttatat tttagctgga ctttttcata
+     2761 cggcatgatg tcgttgttat cgatgacgtg cggatagaca caggtgacgt cgacaatgct
+     2821 cgcatccgtt aaggtgactt cataataaag ctctaactgc ccagcggaat tgacgcgata
+     2881 aaaataaaat gtcacatcga ccttttcatt ataagagatt gccattccta ataacgggga
+     2941 cgacttatcg attggcttaa taaaatgaat ggggtgatga gcgacattct gatcgcggct
+     3001 gatgctatga tttaaaccta atacctgtat ttgatcttca tgacctgttt ggtagcgatt
+     3061 accaattgaa tcgagcgttg agcaacccga tgatattaaa ccctgttttt gaccattaat
+     3121 gctggcgtaa atcaaattag ccat
+//
