@@ -74,3 +74,18 @@ Join orthogroup matrix with BarSeq fitness tables and calculate mean fitness per
 	- [analysis/mean\_fit_PveNY1715C.csv](analysis/mean_fit_PveNY1715C.csv)
 
 Calculate co-fitness networks at various correlation cutoffs
+
+### Synteny analysis using clinker
+
+<https://github.com/gamcil/clinker>
+
+<https://doi.org/10.1093/bioinformatics/btab007>
+
+~~~bash
+pip install clinker
+clinker analysis/genomic_regions/ankyrin/*gbk -p
+~~~
+
+Genome files:
+
+[analysis/genomic_regions](analysis/genomic_regions)
