@@ -14,13 +14,15 @@ System used: Linux CentOS 7.6 (64 core server, 256 Gb RAM)
 
 Strains included in this project:
 
-- *P. aroidearum* 61-19 (GCF_062014848.1)
+- *P. aroidearum* 61-19 (GCA_062014848.1)
 - *P. atrosepticum* SCRI1043 (GCF_000011605.1)
-- *P. brasiliense* 123-1 (GCF_062014850.1)
+- *P. brasiliense* 123-1 (GCA_062014850.1)
 - *P. brasiliense* 1692 (GCF_009873295.1)
 - *P. carotovorum* WPP14 (GCF_013488025.1)
-- *P. parmentieri* NY1722A (GCF_062014846.1)
-- *P. versatile* NY1715C (GCF_062014847.1)
+- *P. parmentieri* NY1722A (GCA_062014846.1)
+- *P. versatile* NY1715C (GCA_062014847.1)
+
+(Used RefSeq annotations for strains previously available; GenBank for new WGS)
 
 ### Download FEBA repository
 
